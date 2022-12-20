@@ -5,6 +5,8 @@
 
 An automated unofficial iCal calendar generator for Pokémon GO events powered by Leek Duck.
 
+# How To Calendar
+
 To get started, subscribe to this URL in your *favourite* calendar client:
 
 ```text
