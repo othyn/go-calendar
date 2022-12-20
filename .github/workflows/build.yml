@@ -14,7 +14,7 @@ concurrency:
 jobs:
   build:
     name: Build iCal
-    timeout-minutes: 5
+    timeout-minutes: 2
     runs-on: ubuntu-latest
 
     steps:
