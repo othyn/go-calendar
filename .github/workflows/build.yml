@@ -41,5 +41,5 @@ jobs:
       - name: Commit any changes back to the repo
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "[GitHub Action: iCal Update]"
-          commit_author: github-actions-bot@users.noreply.github.com
+          commit_message: "[GitHub Actions Bot: Publish iCal Update]"
+          commit_author: ${GITHUB_ACTOR} <${GITHUB_ACTOR}@users.noreply.github.com>
