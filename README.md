@@ -7,7 +7,7 @@ An automated unofficial iCal calendar generator for Pokémon GO events powered b
 
 # How To Calendar
 
-To get started, [click here](https://raw.githubusercontent.com/othyn/go-cal/main/dist/gocal.ics) to automatically open your calendar app, if your browser supports it (only tested on iOS). I can't set the content type for the URL in markdown to let the browser do its thing, so its a bit hit or miss.
+To get started, [click here](https://raw.githubusercontent.com/othyn/go-cal/main/dist/gocal.ics) to automatically open your calendar app and add the subscription, if your browser supports it (only tested on iOS). I can't set the content type for the URL in markdown to let the browser do its thing, so its a bit hit or miss.
 
 To subscribe to this URL manually in your *favourite* calendar client, use this URL:
 
