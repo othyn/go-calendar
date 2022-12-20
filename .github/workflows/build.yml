@@ -1,0 +1,42 @@
+name: Build iCal
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    name: Build iCal
+    timeout-minutes: 5
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: 8.1
+          coverage: none
+          tools: composer:v2
+
+      - name: Install PHP dependencies
+        run: make install
+
+      - name: Run iCal build
+        run: make build
+        continue-on-error: false
+
+      - name: Don't Commit composer.json change
+        run: git checkout -- composer.json
+
+      - name: Commit any changes back to the repo
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "[GitHub Action: iCal Update]"
+          commit_author: github-actions-bot@users.noreply.github.com
