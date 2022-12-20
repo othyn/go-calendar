@@ -5,17 +5,43 @@
 
 An automated unofficial iCal calendar generator for Pokémon GO events powered by Leek Duck.
 
+To get started, subscribe to this URL in your *favourite* calendar client:
+
+```text
+https://raw.githubusercontent.com/othyn/go-cal/main/dist/gocal.ics
+```
+
+Not sure how to do that? Here are some guides on how to subscribe to a calendar in some of the most popular calendar
+clients:
+
+- [Apple Calendar](https://support.apple.com/en-gb/HT202361)
+    - See: "Set up a new iCloud calendar subscription on your Mac"
+    - iOS, macOS and web
+- [Google Calendar](https://support.google.com/calendar/answer/37100)
+    - See: "Use a link to add a public calendar"
+    - All platforms
+- [Microsoft Outlook (web)](https://support.microsoft.com/en-us/office/import-or-subscribe-to-a-calendar-in-outlook-com-cff1429c-5af6-41ec-a5b4-74f2c278e98c)
+    - See: "Subscribe to a calendar"
+    - All platforms
+- [Mozilla Lightning](https://support.mozilla.org/en-US/kb/adding-a-holiday-calendar#w_subscribe-to-it-on-the-internet)
+    - See: "Subscribe to it on the internet"
+    - All platforms
+
+Don't see your calendar client? Submit a PR! All contributions are welcome.
+
+Here is a [direct download of the iCal file](https://raw.githubusercontent.com/othyn/go-cal/main/dist/gocal.ics) if you
+wish to download it instead of subscribing. You may have to right-click or long press on the link and 'Save as', as I
+can't set the content type for the URL in markdown to let the browser do its thing automatically.
+
+# Sources & Credit
+
 All events are sourced from [Leek Duck](https://leekduck.com/events/)
 via [bigfoott/ScrapedDuck](https://github.com/bigfoott/ScrapedDuck), using
 the [events JSON resource](https://github.com/bigfoott/ScrapedDuck/blob/master/docs/EVENTS.md).
 
-This project just aims to take all that brilliant hard work and dedication from the Leek Duck team that is presented so
-nicely on the Leek Duck website and create a highly convenient and easily consumable auto updating iCal calendar for use
-in any modern calendar client.
-
-# How To Calendar
-
-TBC - I'm hoping I can just generate a static link to the raw version of the dist ics.
+This project just aims to take all that brilliant hard work and dedication from the Leek Duck team, that is presented
+oh-so nicely on the Leek Duck website, and create a highly convenient and easily consumable auto-updating iCal calendar
+for use in any modern calendar client.
 
 # Development
 
