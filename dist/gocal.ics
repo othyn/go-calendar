@@ -1,0 +1,489 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:spatie/icalendar-generator
+NAME:Pokémon GO - Unofficial Event Calendar
+X-WR-CALNAME:Pokémon GO - Unofficial Event Calendar
+DESCRIPTION:Lists all events sourced from Leek Duck.
+X-WR-CALDESC:Lists all events sourced from Leek Duck.
+REFRESH-INTERVAL;VALUE=DURATION:PT1440M
+X-PUBLISHED-TTL:PT1440M
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+DTSTART:20220306T100000Z
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:Z
+BEGIN:STANDARD
+DTSTART:20220306T210000Z
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:63a10275b1c66
+DTSTAMP:20221220T003149Z
+SUMMARY:[Pokémon Spotlight Hour] Bergmite Spotlight Hour
+URL:https://leekduck.com/events/pokemonspotlighthour2022-12-20/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20221220T180000Z
+DTEND:20221220T190000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63a10275b1fc5
+DTSTAMP:20221220T003149Z
+SUMMARY:[Raid Hour] Cobalion Raid Hour
+URL:https://leekduck.com/events/raidhour20221221/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20221221T180000Z
+DTEND:20221221T190000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63a10275b203b
+DTSTAMP:20221220T003149Z
+SUMMARY:[GO Battle League] Ultra League and Ultra Premier Classic | Mythica
+ l Wishes
+URL:https://leekduck.com/events/season-13-ultra-league_ultra-premier-classi
+ c/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-ult
+ ra-league-machamp-swampert.jpg
+DTSTART;TZID=Z;VALUE=DATE:20221215
+DTEND;TZID=Z;VALUE=DATE:20221222
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63a10275b208a
+DTSTAMP:20221220T003149Z
+SUMMARY:[Raid Battles] Cobalion in 5-star Raid Battles
+URL:https://leekduck.com/events/cobalion-in-5-star-raid-battles-december-20
+ 22/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cobalion-raids-nov20
+ 19.jpg
+DTSTART;VALUE=DATE:20221215
+DTEND;VALUE=DATE:20221223
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63a10275b20bc
+DTSTAMP:20221220T003149Z
+SUMMARY:[Event] Winter Holiday - Part 1
+URL:https://leekduck.com/events/winter-holiday-2022-part-1/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/winter-holiday-2022.
+ jpg
+DTSTART;VALUE=DATE:20221215
+DTEND;VALUE=DATE:20221223
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63a10275b20ec
+DTSTAMP:20221220T003149Z
+SUMMARY:[Raid Day] Hisuian Avalugg Raid Day
+URL:https://leekduck.com/events/hisuian-avalugg-raid-day/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART:20221224T140000Z
+DTEND:20221224T170000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63a10275b211a
+DTSTAMP:20221220T003149Z
+SUMMARY:[Event] Winter Wonderland
+URL:https://leekduck.com/events/winter-wonderland-2022/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART:20221224T100000Z
+DTEND:20221225T200000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63a10275b2148
+DTSTAMP:20221220T003149Z
+SUMMARY:[Pokémon Spotlight Hour] Cubchoo Spotlight Hour
+URL:https://leekduck.com/events/pokemonspotlighthour2022-12-27/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20221227T180000Z
+DTEND:20221227T190000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63a10275b2176
+DTSTAMP:20221220T003149Z
+SUMMARY:[Raid Hour] Kyurem Raid Hour
+URL:https://leekduck.com/events/raidhour20221228/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20221228T180000Z
+DTEND:20221228T190000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63a10275b21b3
+DTSTAMP:20221220T003149Z
+SUMMARY:[GO Battle League] Ultra League and Holiday Cup: Great League Editi
+ on | Mythical Wishes
+URL:https://leekduck.com/events/season-13-ultra-league_holiday-cup-great-le
+ auge-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-ult
+ ra-league-machamp-swampert.jpg
+DTSTART;TZID=Z;VALUE=DATE:20221222
+DTEND;TZID=Z;VALUE=DATE:20221229
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63a10275b21f8
+DTSTAMP:20221220T003149Z
+SUMMARY:[Update] Vivillon Debuts and Vivillon Medal
+URL:https://leekduck.com/events/vivillon-launch-postcard-feature/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/vivillon-debut.jpg
+DTSTART;VALUE=DATE:20221214
+DTEND;VALUE=DATE:20221230
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63a10275b2227
+DTSTAMP:20221220T003149Z
+SUMMARY:[Event] Winter Holiday - Part 2
+URL:https://leekduck.com/events/winter-holiday-2022-part-2/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART;VALUE=DATE:20221223
+DTEND;VALUE=DATE:20221231
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63a10275b2258
+DTSTAMP:20221220T003149Z
+SUMMARY:[Raid Battles] Kyurem in 5-star Raid Battles
+URL:https://leekduck.com/events/kyurem-in-5-star-raid-battles-december-2022
+ /
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/kyurem.jpg
+DTSTART;VALUE=DATE:20221223
+DTEND;VALUE=DATE:20230101
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63a10275b2287
+DTSTAMP:20221220T003149Z
+SUMMARY:[Raid Battles] Mega Glalie in Mega Raids
+URL:https://leekduck.com/events/mega-glalie-in-mega-raids-december-2022/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20221215
+DTEND;VALUE=DATE:20230101
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63a10275b22c4
+DTSTAMP:20221220T003149Z
+SUMMARY:[GO Battle League] Master League and Holiday Cup: Ultra League Edit
+ ion | Mythical Wishes
+URL:https://leekduck.com/events/season-13-master-league_holiday-cup-ultra-l
+ eauge-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattleleague-maste
+ r-key.jpg
+DTSTART;TZID=Z;VALUE=DATE:20221229
+DTEND;TZID=Z;VALUE=DATE:20230105
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63a10275b2309
+DTSTAMP:20221220T003149Z
+SUMMARY:[Community Day] Chespin Community Day
+URL:https://leekduck.com/events/january-communityday2023/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-2023-01-chespin.j
+ pg
+DTSTART:20230107T140000Z
+DTEND:20230107T170000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63a10275b2345
+DTSTAMP:20221220T003149Z
+SUMMARY:[GO Battle League] Master League and Master Premier Classic | Mythi
+ cal Wishes
+URL:https://leekduck.com/events/season-13-master-league_master-premier-clas
+ sic/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattleleague-maste
+ r-key.jpg
+DTSTART;TZID=Z;VALUE=DATE:20230105
+DTEND;TZID=Z;VALUE=DATE:20230112
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63a10275b238a
+DTSTAMP:20221220T003149Z
+SUMMARY:[Event] GO Battle Day: Steven Stone
+URL:https://leekduck.com/events/go-battle-day-steven-stone/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattlenightflyingc
+ up.jpg
+DTSTART:20230114T000000Z
+DTEND:20230115T235959Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63a10275b23c7
+DTSTAMP:20221220T003149Z
+SUMMARY:[GO Battle League] Great League\, Ultra League\, and Master League 
+ | Mythical Wishes
+URL:https://leekduck.com/events/season-13-great-league_ultra-league_master-
+ league/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-sea
+ son-13-mythical-wishes.jpg
+DTSTART;TZID=Z;VALUE=DATE:20230112
+DTEND;TZID=Z;VALUE=DATE:20230119
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63a10275b240b
+DTSTAMP:20221220T003149Z
+SUMMARY:[Community Day] January Community Day Classic
+URL:https://leekduck.com/events/january-communitydayclassic2023/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default-3.jpg
+DTSTART:20230121T140000Z
+DTEND:20230121T170000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63a10275b2449
+DTSTAMP:20221220T003149Z
+SUMMARY:[GO Battle League] Great League and Weather Cup: Great League Editi
+ on | Mythical Wishes
+URL:https://leekduck.com/events/season-13-great-league_weather-cup-great-le
+ ague-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattle-greatleague
+ -key.jpg
+DTSTART;TZID=Z;VALUE=DATE:20230119
+DTEND;TZID=Z;VALUE=DATE:20230126
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63a10275b249b
+DTSTAMP:20221220T003149Z
+SUMMARY:[GO Battle League] Great League and Electric Cup: Great League Edit
+ ion | Mythical Wishes
+URL:https://leekduck.com/events/season-13-great-league_electric-cup-great-l
+ eague-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattle-greatleague
+ -key.jpg
+DTSTART;TZID=Z;VALUE=DATE:20230126
+DTEND;TZID=Z;VALUE=DATE:20230202
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63a10275b24df
+DTSTAMP:20221220T003149Z
+SUMMARY:[Community Day] February Community Day
+URL:https://leekduck.com/events/february-communityday2023/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default-3.jpg
+DTSTART:20230205T140000Z
+DTEND:20230205T170000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63a10275b251b
+DTSTAMP:20221220T003149Z
+SUMMARY:[GO Battle League] Ultra League and Ultra Premier | Mythical Wishes
+URL:https://leekduck.com/events/season-13-ultra-league_ultra-premier/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-ult
+ ra-league-machamp-swampert.jpg
+DTSTART;TZID=Z;VALUE=DATE:20230202
+DTEND;TZID=Z;VALUE=DATE:20230209
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63a10275b255f
+DTSTAMP:20221220T003149Z
+SUMMARY:[Event] GO Battle Day: Vulpix
+URL:https://leekduck.com/events/go-battle-day-vulpix/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattlenightflyingc
+ up.jpg
+DTSTART:20230212T000000Z
+DTEND:20230212T235959Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63a10275b25a1
+DTSTAMP:20221220T003149Z
+SUMMARY:[GO Battle League] Ultra League and Love Cup: Great League Edition 
+ | Mythical Wishes
+URL:https://leekduck.com/events/season-13-ultra-league_love-cup-great-leagu
+ e-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-ult
+ ra-league-machamp-swampert.jpg
+DTSTART;TZID=Z;VALUE=DATE:20230209
+DTEND;TZID=Z;VALUE=DATE:20230216
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63a10275b25f4
+DTSTAMP:20221220T003149Z
+SUMMARY:[Pokémon GO Tour] Pokémon GO Tour: Hoenn - Las Vegas
+URL:https://leekduck.com/events/pokemon-go-tour-hoenn-live-event-las-vegas/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemon-go-tour-2023
+ -hoenn-las-vegas.jpg
+DTSTART;TZID=Z:20230218T180000
+DTEND;TZID=Z:20230220T020000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63a10275b2645
+DTSTAMP:20221220T003149Z
+SUMMARY:[GO Battle League] Master League and Master Premier | Mythical Wish
+ es
+URL:https://leekduck.com/events/season-13-master-league_master-premier/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattleleague-maste
+ r-key.jpg
+DTSTART;TZID=Z;VALUE=DATE:20230216
+DTEND;TZID=Z;VALUE=DATE:20230223
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63a10275b2689
+DTSTAMP:20221220T003149Z
+SUMMARY:[Pokémon GO Tour] Pokémon GO Tour: Hoenn - Global
+URL:https://leekduck.com/events/pokemon-go-tour-hoenn-global/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemon-go-tour-hoen
+ n-global.jpg
+DTSTART:20230225T100000Z
+DTEND:20230226T180000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63a10275b26b9
+DTSTAMP:20221220T003149Z
+SUMMARY:[Season] Season 9: Mythical Wishes
+URL:https://leekduck.com/events/season-9-mythical-wishes/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/season9-mythical-wis
+ hes.jpg
+DTSTART;VALUE=DATE:20221201
+DTEND;VALUE=DATE:20230301
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63a10275b26f6
+DTSTAMP:20221220T003149Z
+SUMMARY:[Research Breakthrough] Mythical Wishes Research Breakthrough - Sea
+ son 9
+URL:https://leekduck.com/events/season-9-mythical-wishes-research-breakthro
+ ugh/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/researchWinter.jpg
+DTSTART;TZID=Z;VALUE=DATE:20221201
+DTEND;TZID=Z;VALUE=DATE:20230301
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63a10275b274b
+DTSTAMP:20221220T003149Z
+SUMMARY:[GO Battle League] Master League: Mega Edition and Hoenn Cup: Great
+  League Edition | Mythical Wishes
+URL:https://leekduck.com/events/season-13-master-league-mega-edition_hoenn-
+ cup-great-league-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattleleague-maste
+ r-key.jpg
+DTSTART;TZID=Z;VALUE=DATE:20230223
+DTEND;TZID=Z;VALUE=DATE:20230301
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

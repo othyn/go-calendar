@@ -1,6 +1,25 @@
 {
-    "require": {
-        "spatie/icalendar-generator": "^2.5",
-        "symfony/console": "^6.2"
+  "name": "othyn/go-cal",
+  "type": "project",
+  "description": "A highly convenient auto updated community calendar for Pokemon GO in iCal format, powered by LeekDuck.",
+  "keywords": [
+    "calendar",
+    "tool",
+    "pokemon"
+  ],
+  "license": "MIT",
+  "require": {
+    "php": "^8.1",
+    "spatie/icalendar-generator": "^2.5",
+    "symfony/console": "^6.2",
+    "friendsofphp/php-cs-fixer": "^3.13"
+  },
+  "autoload": {
+    "psr-4": {
+      "Console\\": "src"
     }
+  },
+  "scripts": {
+    "php-cs-fixer": "./vendor/bin/php-cs-fixer fix --allow-risky yes --config ./.php-cs-fixer.dist.php"
+  }
 }

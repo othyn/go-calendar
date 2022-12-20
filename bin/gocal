@@ -1,0 +1,17 @@
+#!/usr/bin/env php
+<?php
+
+require __DIR__.'/../vendor/autoload.php';
+
+use Console\Commands\BuildCalendar;
+use Symfony\Component\Console\Application;
+
+$application = new Application();
+
+$application->add(command: new BuildCalendar());
+
+try {
+    $application->run();
+} catch (Exception $e) {
+    echo $e->getCode() . ' - ' . $e->getMessage();
+}
