@@ -49,7 +49,7 @@ for use in any modern calendar client.
 
 # Development
 
-Project is just a simple PHP CLI script using a few Symfony libraries for the same of convenience, not the best and far
+Project is just a simple PHP CLI script using a few Symfony libraries for the sake of convenience, not the best and far
 from optimal, but fast and easy to maintain. The idea is to just have it get executed every 24 hours by a GitHub Action
 workflow, in which it updates the output fragment of `./dist/gocal.ics` and commits it back to the `main` repo branch.
 This keeps the URL consistent so in theory calendar clients should be able to subscribe to it.
