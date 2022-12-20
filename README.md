@@ -1,5 +1,8 @@
 # GO Cal
 
+[![Build iCal](https://github.com/othyn/go-cal/actions/workflows/build.yml/badge.svg)](https://github.com/othyn/go-cal/actions/workflows/build.yml)
+[![Lint](https://github.com/othyn/go-cal/actions/workflows/lint.yml/badge.svg)](https://github.com/othyn/go-cal/actions/workflows/lint.yml)
+
 An automated unofficial iCal calendar generator for Pokémon GO events powered by Leek Duck.
 
 All events are sourced from [Leek Duck](https://leekduck.com/events/)
