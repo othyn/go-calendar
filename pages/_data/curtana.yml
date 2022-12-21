@@ -1,0 +1,18 @@
+# Theme facts
+meta:
+  name:         Curtana
+  url:          https://sparanoid.com/lab/amsf/theme-curtana.html
+  author:       Tunghsiao Liu
+  author_url:   https://sparanoid.com/
+  github:       https://github.com/amsf/amsf-curtana
+
+# Hide footer from your homepage, example: sparanoid.com
+# Default:      false
+clean_homepage: false
+
+# Style post link color (if defined) for article list
+# Default:      false
+colorful_list:  false
+
+# Enable dark mode automatically via `prefers-color-scheme: dark`
+auto_dark_mode: true
