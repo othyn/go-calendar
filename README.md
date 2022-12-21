@@ -1,4 +1,4 @@
-# GO Cal
+# GO Calendar
 
 [![Generate iCal](https://github.com/othyn/go-cal/actions/workflows/generate.yml/badge.svg)](https://github.com/othyn/go-cal/actions/workflows/generate.yml)
 [![Lint](https://github.com/othyn/go-cal/actions/workflows/lint.yml/badge.svg)](https://github.com/othyn/go-cal/actions/workflows/lint.yml)
