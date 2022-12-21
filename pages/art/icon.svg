@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 400 380" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Card">
+        <rect x="0" y="0" width="400" height="380" style="fill:white;"/>
+        <path d="M400,0L0,0L0,380L400,380L400,0ZM358.333,41.667L358.333,338.333C358.333,338.333 41.667,338.333 41.667,338.333C41.667,338.333 41.667,41.667 41.667,41.667C41.667,41.667 358.333,41.667 358.333,41.667L358.333,41.667Z"/>
+    </g>
+    <g id="Heading" transform="matrix(1.47601,0,0,1.19469,-56.0886,-54.9558)">
+        <rect x="38" y="46" width="271" height="113" style="fill:rgb(255,0,0);"/>
+        <path d="M309,46L38,46L38,159L309,159L309,46ZM280.771,80.877L280.771,124.123C280.771,124.123 130.216,124.123 66.229,124.123C66.229,124.123 66.229,80.877 66.229,80.877C66.229,80.877 280.771,80.877 280.771,80.877L280.771,80.877Z"/>
+    </g>
+    <g id="Button" transform="matrix(0.833333,0,0,0.833333,44.1667,50)">
+        <circle cx="187" cy="228" r="60" style="fill:white;stroke:black;stroke-width:41.67px;"/>
+    </g>
+</svg>

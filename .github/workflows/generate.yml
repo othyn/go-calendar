@@ -1,4 +1,4 @@
-name: Build iCal
+name: Generate iCal file
 
 on:
   schedule:
@@ -13,9 +13,9 @@ concurrency:
 
 jobs:
   build:
-    name: Build iCal
-    timeout-minutes: 2
+    name: Generate iCal file
     runs-on: ubuntu-latest
+    timeout-minutes: 2
 
     steps:
       - name: Checkout code
@@ -29,10 +29,10 @@ jobs:
           tools: composer:v2
 
       - name: Install PHP dependencies
-        run: make install
+        run: composer install
 
       - name: Run iCal build
-        run: make build
+        run: bin/gocal gen
         continue-on-error: false
 
       - name: Don't Commit composer.json change

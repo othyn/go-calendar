@@ -3,12 +3,12 @@
 
 require __DIR__.'/../vendor/autoload.php';
 
-use Console\Commands\BuildCalendar;
+use Console\Commands\GenerateCalendar;
 use Symfony\Component\Console\Application;
 
 $application = new Application();
 
-$application->add(command: new BuildCalendar());
+$application->add(command: new GenerateCalendar());
 
 try {
     $application->run();

@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  gocal:
+    image: gocal
+    restart: "no"
+    build:
+      context: .
+      dockerfile: ./docker/gocal/dockerfile.yml
+    volumes:
+      - .:/gocal

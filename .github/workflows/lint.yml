@@ -2,9 +2,11 @@ name: Lint
 
 on:
   pull_request:
-    branches: [ main ]
+    branches:
+      - main
   push:
-    branches: [ main ]
+    branches:
+      - main
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
@@ -13,8 +15,8 @@ concurrency:
 jobs:
   lint:
     name: Lint
-    timeout-minutes: 2
     runs-on: ubuntu-latest
+    timeout-minutes: 2
 
     steps:
       - name: Checkout code
@@ -28,10 +30,10 @@ jobs:
           tools: composer:v2
 
       - name: Install PHP dependencies
-        run: make install
+        run: composer install
 
       - name: Run PHP-CS-Fixer
-        run: make lint
+        run: composer php-cs-fixer
         continue-on-error: true
 
       - name: Don't Commit composer.json change

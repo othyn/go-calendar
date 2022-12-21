@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>GO Calendar</title>
+
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <meta name="description"
+          content="An automated Pokémon GO events calendar for use with any calendar client, such as on your phone or computer (unofficial, powered by Leek Duck).">
+
+    <link rel="icon" type="image/svg" href="art/icon.svg">
+    <link rel="icon" type="image/svg" sizes="32x32" href="art/icon.svg">
+    <link rel="icon" type="image/svg" sizes="16x16" href="art/icon.svg">
+    <link rel="apple-touch-icon" sizes="180x180" href="art/icon.svg">
+
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="antialiased bg-body text-body font-body bg-white">
+<section id="nav" class="relative overflow-hidden bg-gray-50">
+    <div class="container mx-auto">
+        <div class="relative px-4 mx-auto max-w-5xl text-center">
+            <p class="pt-14 pb-8 max-w-max inline-flex items-center font-bold text-2xl md:text-3xl text-gray-900 uppercase tracking-widest">
+                <img class="h-10" src="art/icon.svg" alt="logo">
+                <span class="ml-5">GO Calendar</span>
+            </p>
+        </div>
+    </div>
+</section>
+<section id="header" class="relative pt-12 lg:pt-16 pb-16 lg:pb-24 overflow-hidden bg-gray-50">
+    <div class="container mx-auto">
+        <div class="relative px-4 mx-auto max-w-5xl">
+            <div class="mb-8 md:mb-12 mx-auto text-left">
+                <h1 class="mb-6 text-3xl md:text-5xl lg:text-7xl text-gray-900 font-bold tracking-tight leading-snug md:leading-snug lg:leading-snug">
+                    Pokémon GO events, in your calendar. Easy.
+                </h1>
+                <p class="mb-8 text-lg md:text-xl text-gray-500 font-medium leading-loose md:leading-loose">
+                    Whether it's on your phone (iOS or Android), on your computer (Linux, macOS or Windows) or anything
+                    else, its quick and easy to set up.
+                    <a href="#legal" class="text-red-600 hover:text-red-400">
+                        Unofficial, of course.
+                    </a>
+                    Powered by the brilliant
+                    <a href="https://leekduck.com/events/" target="_blank" rel="noopener noreferrer"
+                       class="text-red-600 hover:text-red-400">
+                        Leek Duck.
+                    </a>
+                </p>
+                <a class="block mb-8 sm:inline-flex items-center justify-center uppercase tracking-wide w-100 md:text-lg lg:text-xl space-x-4 px-6 py-4 lg:px-10 lg:py-6 leading-7 text-red-50 bg-red-600 hover:bg-red-500 font-medium focus:ring-2 focus:ring-green-500 focus:ring-opacity-50 border border-transparent rounded-lg shadow-lg"
+                   href="https://raw.githubusercontent.com/othyn/go-cal/main/dist/gocal.ics">
+                    <img class="h-8 inline-flex" src="art/icon.svg" alt="logo">
+                    <span>Get the Calendar</span>
+                </a>
+                <p class="text-gray-400">
+                    Sometimes this doesn't work, have a cheeky swipe down for more detailed instructions.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+<section id="how-to" class="py-16 sm:py-24 max-w-5xl mx-auto">
+    <div class="container px-4 mx-auto">
+        <div class="flex flex-wrap -mx-8">
+            <div class="w-full lg:w-1/2 px-8">
+                <div class="pb-16 lg:pb-0">
+                    <span class="inline-block mb-4 text-sm sm:text-base text-red-500 uppercase font-semibold tracking-[.2rem]">
+                        Button didn't work, now what?
+                    </span>
+                    <h2 class="mb-6 text-3xl md:text-5xl lg:text-7xl text-gray-900 font-bold tracking-tight leading-snug md:leading-snug lg:leading-snug">
+                        Here's what.
+                    </h2>
+                    <p class="mb-4 text-lg md:text-xl text-gray-500 font-medium leading-loose md:leading-loose">
+                        First thing you'll need is the URL for the calendar file, which is:
+                    </p>
+                    <code class="mb-4 block text-sm text-gray-700 bg-gray-200 font-medium rounded-md p-4">
+                        <a href="https://raw.githubusercontent.com/othyn/go-cal/main/dist/gocal.ics"
+                           class="hover:text-red-600">
+                            https://raw.githubusercontent.com/othyn/go-cal/main/dist/gocal.ics</a>
+                    </code>
+                    <p class="mb-2 text-lg md:text-xl text-gray-500 font-medium leading-loose md:leading-loose">
+                        The idea is to have your calendar provider or client subscribe to the above URL, so it will
+                        automatically update when the calendar file updates, which does so every night automatically.
+                    </p>
+                    <p class="mb-3 text-lg md:text-xl text-gray-500 font-medium leading-loose md:leading-loose">
+                        There are quite a few calendar providers and clients around, so here are the most popular
+                        ones and how to get set up on them.
+                    </p>
+                    <p class="text-md text-gray-400 font-medium leading-loose md:leading-loose">
+                        Is your provider or client not on the list?
+                        <a href="https://github.com/othyn/go-cal/pulls" target="_blank" rel="noopener noreferrer"
+                           class="text-red-400 hover:text-red-500">
+                            Feel free to submit a PR!
+                        </a>
+                    </p>
+                </div>
+            </div>
+            <div class="w-full lg:w-1/2 px-8 mb-16">
+                <ul class="space-y-12">
+                    <li class="flex -mx-4">
+                        <div class="px-4">
+                            <span class="flex w-16 h-16 mx-auto items-center justify-center text-2xl font-bold font-heading rounded-full bg-red-50 text-red-600">
+                                🍎
+                            </span>
+                        </div>
+                        <div class="px-4">
+                            <h3 class="my-4 text-xl font-bold text-gray-900">
+                                Apple Calendar
+                            </h3>
+                            <p class="text-base text-gray-500 font-medium leading-loose md:leading-loose">
+                                For iPhone (iOS), iPad (iPadOS), Mac (macOS) and web (iCloud). Information can be found
+                                in the
+                                <a href="https://support.apple.com/en-gb/HT202361" target="_blank"
+                                   rel="noopener noreferrer" class="text-red-600 hover:text-red-400">
+                                    "Use iCloud calendar subscriptions" support article
+                                </a>
+                                , under the heading "Set up a new iCloud calendar subscription on your Mac".
+                            </p>
+                        </div>
+                    </li>
+                    <li class="flex -mx-4">
+                        <div class="px-4">
+                            <span class="flex w-16 h-16 mx-auto items-center justify-center text-2xl font-bold font-heading rounded-full bg-red-50 text-red-600">
+                                🔍
+                            </span>
+                        </div>
+                        <div class="px-4">
+                            <h3 class="my-4 text-xl font-bold text-gray-900">
+                                Google Calendar
+                            </h3>
+                            <p class="text-base text-gray-500 font-medium leading-loose md:leading-loose">
+                                For all Android phones & tablets and all computer operating systems via the web.
+                                Information can be found in the
+                                <a href="https://support.google.com/calendar/answer/37100" target="_blank"
+                                   rel="noopener noreferrer" class="text-red-600 hover:text-red-400">
+                                    "Subscribe to someone’s Google Calendar" support article
+                                </a>
+                                , under the heading "Use a link to add a public calendar".
+                            </p>
+                        </div>
+                    </li>
+                    <li class="flex -mx-4">
+                        <div class="px-4">
+                            <span class="flex w-16 h-16 mx-auto items-center justify-center text-2xl font-bold font-heading rounded-full bg-red-50 text-red-600">
+                                🪟
+                            </span>
+                        </div>
+                        <div class="px-4">
+                            <h3 class="my-4 text-xl font-bold text-gray-900">
+                                Microsoft Office 365 & Outlook
+                            </h3>
+                            <p class="text-base text-gray-500 font-medium leading-loose md:leading-loose">
+                                For all computer operating systems via Outlook on the web, Windows & macOS for the
+                                desktop Outlook client, all of which are also part of Office 365. Information can be
+                                found in the
+                                <a href="https://support.microsoft.com/en-us/office/import-or-subscribe-to-a-calendar-in-outlook-com-cff1429c-5af6-41ec-a5b4-74f2c278e98c"
+                                   target="_blank" rel="noopener noreferrer" class="text-red-600 hover:text-red-400">
+                                    "Import or subscribe to a calendar in Outlook.com" support article
+                                </a>
+                                , under the heading "Subscribe to a calendar".
+                            </p>
+                        </div>
+                    </li>
+                    <li class="flex -mx-4">
+                        <div class="px-4">
+                            <span class="flex w-16 h-16 mx-auto items-center justify-center text-2xl font-bold font-heading rounded-full bg-red-50 text-red-600">
+                                🦊
+                            </span>
+                        </div>
+                        <div class="px-4">
+                            <h3 class="my-4 text-xl font-bold text-gray-900">
+                                Mozilla Lightning
+                            </h3>
+                            <p class="text-base text-gray-500 font-medium leading-loose md:leading-loose">
+                                For all computer operating systems via the desktop client. Information can be
+                                found in the
+                                <a href="https://support.mozilla.org/en-US/kb/adding-a-holiday-calendar#w_subscribe-to-it-on-the-internet"
+                                   target="_blank" rel="noopener noreferrer" class="text-red-600 hover:text-red-400">
+                                    "Adding a holiday calendar" support article
+                                </a>
+                                , under the heading "Subscribe to it on the internet". Can you believe this is the only
+                                website done correctly, where you can link directly to a section sub heading.
+                            </p>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+<section id="credit" class="relative py-16 sm:py-24 bg-gray-50 overflow-hidden">
+    <div class="container mx-auto">
+        <div class="relative px-4 max-w-5xl mx-auto">
+            <div class="mb-18 md:mb-16">
+                <span class="inline-block mb-4 text-sm sm:text-base text-red-500 uppercase font-semibold tracking-[.2rem]">
+                    Who should I thank?
+                </span>
+                <h2 class="mb-6 text-3xl md:text-5xl lg:text-7xl text-gray-900 font-bold tracking-tight leading-snug md:leading-snug lg:leading-snug">
+                    These wonderful people!
+                </h2>
+                <p class="mb-4 text-lg md:text-xl text-gray-500 font-medium leading-loose md:leading-loose">
+                    All events are sourced from
+                    <a href="https://leekduck.com/events/" target="_blank" rel="noopener noreferrer"
+                       class="text-red-600 hover:text-red-400">
+                        Leek Duck
+                    </a>
+                    via
+                    <a href="https://github.com/bigfoott/ScrapedDuck" target="_blank" rel="noopener noreferrer"
+                       class="text-red-600 hover:text-red-400">
+                        bigfoott/ScrapedDuck,
+                    </a>
+                    using the
+                    <a href="https://github.com/bigfoott/ScrapedDuck/wiki/Events" target="_blank"
+                       rel="noopener noreferrer" class="text-red-600 hover:text-red-400">
+                        events JSON resource.
+                    </a>
+                </p>
+
+                <p class="mb-4 text-lg md:text-xl text-gray-500 font-medium leading-loose md:leading-loose">
+                    This project just aims to take all that brilliant hard work and dedication from the Leek Duck team
+                    and bigfoott, that is presented oh-so nicely on the Leek Duck website and curated into a nice
+                    'API'-esq resource in GitHub, and create a highly convenient and easily consumable nightly
+                    auto-updating iCal calendar for use in any modern calendar client.
+                </p>
+
+                <p class="text-lg md:text-xl text-gray-500 font-medium leading-loose md:leading-loose">
+                    Ta-da! 'cause managing a calendar manually sucks.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+<section id="legal" class="relative py-16 sm:py-24 overflow-hidden">
+    <div class="container mx-auto">
+        <div class="relative px-4 max-w-5xl mx-auto">
+            <div class="mb-18 md:mb-16">
+                <span class="inline-block mb-4 text-sm sm:text-base text-red-500 uppercase font-semibold tracking-[.2rem]">
+                    What about the boring stuff?
+                </span>
+                <h2 class="mb-6 text-3xl md:text-5xl lg:text-7xl text-gray-900 font-bold tracking-tight leading-snug md:leading-snug lg:leading-snug">
+                    Ah, Legal.
+                </h2>
+                <p class="mb-4 text-lg md:text-xl text-gray-500 font-medium leading-loose md:leading-loose">
+                    All rights reserved by their respective owners.
+                </p>
+                <p class="mb-4 text-lg md:text-xl text-gray-500 font-medium leading-loose md:leading-loose">
+                    This project is not officially affiliated with Pokémon GO and is intended to fall under Fair Use
+                    doctrine, similar to any other informational site such as a wiki.
+                </p>
+                <p class="mb-4 text-lg md:text-xl text-gray-500 font-medium leading-loose md:leading-loose">
+                    Pokémon and its trademarks are ©1995-2022 Nintendo, Creatures, and GAMEFREAK.
+                </p>
+                <p class="text-lg md:text-xl text-gray-500 font-medium leading-loose md:leading-loose">
+                    All images and names owned and trademarked by Nintendo, Niantic, The Pokémon Company, and GAMEFREAK
+                    are property of their respective owners.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+<section id="theme" class="relative py-16 sm:py-24 bg-gray-50 overflow-hidden">
+    <div class="container mx-auto">
+        <div class="relative px-4 max-w-5xl mx-auto">
+            <div class="mb-18 md:mb-16">
+                <span class="inline-block mb-4 text-sm sm:text-base text-red-500 uppercase font-semibold tracking-[.2rem]">
+                    That design tho 👀 details?
+                </span>
+                <h2 class="mb-6 text-3xl md:text-5xl lg:text-7xl text-gray-900 font-bold tracking-tight leading-snug md:leading-snug lg:leading-snug">
+                    Tailwind rules.
+                </h2>
+                <p class="text-lg md:text-xl text-gray-500 font-medium leading-loose md:leading-loose">
+                    The design template for the site is a modified version of the magnificent
+                    <a href="https://tailwindsites.com/templates/forge" target="_blank" rel="noopener noreferrer"
+                       class="text-red-600 hover:text-red-400">
+                        Forge
+                    </a>
+                    Tailwind template. The rest is just changing some words and seeing if it looks good.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+</body>
+
+</html>

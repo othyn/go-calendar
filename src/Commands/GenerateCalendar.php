@@ -11,14 +11,14 @@ use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 
-class BuildCalendar extends Command
+class GenerateCalendar extends Command
 {
     protected function configure()
     {
         $this
-            ->setName(name: 'build')
-            ->setDescription(description: 'Grabs the latest data from Leek Duck (ScrapedDuck) and builds the iCal calendar.')
-            ->setHelp(help: 'Grabs the latest data from Leek Duck (ScrapedDuck) and builds the iCal calendar.');
+            ->setName(name: 'gen')
+            ->setDescription(description: 'Grabs the latest data from Leek Duck (ScrapedDuck) and generates the iCal calendar.')
+            ->setHelp(help: 'Grabs the latest data from Leek Duck (ScrapedDuck) and generates the iCal calendar.');
     }
 
     /**
@@ -133,15 +133,17 @@ class BuildCalendar extends Command
             ]
         );
 
+        $calendarFile = __DIR__ . '/../../dist/gocal.ics';
+
         file_put_contents(
-            filename: __DIR__ . '/../../dist/gocal.ics',
+            filename: $calendarFile,
             data: $calendar->get()
         );
 
         $output->writeln(
             messages: [
-                '├─[EXPORT] Generated!',
-                '└<[ Calendar build complete! ]>',
+                "├─[EXPORT] Generated to '{$calendarFile}'!",
+                '└<[ Calendar generate complete! ]>',
             ]
         );
 
