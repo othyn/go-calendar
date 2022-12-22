@@ -24,8 +24,8 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:63a398b23683e
-DTSTAMP:20221221T233722Z
+UID:63a39f0898b14
+DTSTAMP:20221222T000424Z
 SUMMARY:[Raid Hour] Cobalion Raid Hour
 URL:https://leekduck.com/events/raidhour20221221/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
@@ -37,8 +37,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63a398b2369e6
-DTSTAMP:20221221T233722Z
+UID:63a39f0898cd0
+DTSTAMP:20221222T000424Z
 SUMMARY:[GO Battle League] Ultra League and Ultra Premier Classic | Mythica
  l Wishes
 DESCRIPTION:Starts at 21:00\, ends at 21:00.
@@ -54,8 +54,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63a398b236a2f
-DTSTAMP:20221221T233722Z
+UID:63a39f0898d19
+DTSTAMP:20221222T000424Z
 SUMMARY:[Raid Battles] Cobalion in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.
 URL:https://leekduck.com/events/cobalion-in-5-star-raid-battles-december-20
@@ -70,8 +70,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63a398b236a4d
-DTSTAMP:20221221T233722Z
+UID:63a39f0898d39
+DTSTAMP:20221222T000424Z
 SUMMARY:[Event] Winter Holiday - Part 1
 DESCRIPTION:Starts at 10:00\, ends at 10:00.
 URL:https://leekduck.com/events/winter-holiday-2022-part-1/
@@ -85,8 +85,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63a398b236b65
-DTSTAMP:20221221T233722Z
+UID:63a39f0898d55
+DTSTAMP:20221222T000424Z
 SUMMARY:[Raid Day] Hisuian Avalugg Raid Day
 URL:https://leekduck.com/events/hisuian-avalugg-raid-day/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/hisuian-avalugg-raid
@@ -99,8 +99,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63a398b236b8d
-DTSTAMP:20221221T233722Z
+UID:63a39f0898d6d
+DTSTAMP:20221222T000424Z
 SUMMARY:[Event] Winter Wonderland
 URL:https://leekduck.com/events/winter-wonderland-2022/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/winter-holiday-part-
@@ -113,8 +113,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63a398b236c01
-DTSTAMP:20221221T233722Z
+UID:63a39f0898d85
+DTSTAMP:20221222T000424Z
 SUMMARY:[Pokémon Spotlight Hour] Cubchoo Spotlight Hour
 URL:https://leekduck.com/events/pokemonspotlighthour2022-12-27/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
@@ -127,8 +127,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63a398b236c23
-DTSTAMP:20221221T233722Z
+UID:63a39f0898d9c
+DTSTAMP:20221222T000424Z
 SUMMARY:[Raid Hour] Kyurem Raid Hour
 URL:https://leekduck.com/events/raidhour20221228/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
@@ -140,8 +140,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63a398b236ca5
-DTSTAMP:20221221T233722Z
+UID:63a39f0898dc6
+DTSTAMP:20221222T000424Z
 SUMMARY:[GO Battle League] Ultra League and Holiday Cup: Great League Editi
  on | Mythical Wishes
 DESCRIPTION:Starts at 21:00\, ends at 21:00.
@@ -157,8 +157,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63a398b236ce6
-DTSTAMP:20221221T233722Z
+UID:63a39f0898dfd
+DTSTAMP:20221222T000424Z
 SUMMARY:[Update] Vivillon Debuts and Vivillon Medal
 DESCRIPTION:Starts at 10:00\, ends at 20:00.
 URL:https://leekduck.com/events/vivillon-launch-postcard-feature/
@@ -171,8 +171,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63a398b236d5c
-DTSTAMP:20221221T233722Z
+UID:63a39f0898e16
+DTSTAMP:20221222T000424Z
 SUMMARY:[Event] Winter Holiday - Part 2
 DESCRIPTION:Starts at 10:00\, ends at 20:00.
 URL:https://leekduck.com/events/winter-holiday-2022-part-2/
@@ -186,8 +186,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63a398b236d83
-DTSTAMP:20221221T233722Z
+UID:63a39f0898e2d
+DTSTAMP:20221222T000424Z
 SUMMARY:[Raid Battles] Kyurem in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.
 URL:https://leekduck.com/events/kyurem-in-5-star-raid-battles-december-2022
@@ -201,8 +201,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63a398b236dad
-DTSTAMP:20221221T233722Z
+UID:63a39f0898f31
+DTSTAMP:20221222T000424Z
 SUMMARY:[Raid Battles] Mega Glalie in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.
 URL:https://leekduck.com/events/mega-glalie-in-mega-raids-december-2022/
@@ -215,8 +215,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63a398b236ee0
-DTSTAMP:20221221T233722Z
+UID:63a39f0898f5d
+DTSTAMP:20221222T000424Z
 SUMMARY:[GO Battle League] Master League and Holiday Cup: Ultra League Edit
  ion | Mythical Wishes
 DESCRIPTION:Starts at 21:00\, ends at 21:00.
@@ -232,8 +232,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63a398b236f27
-DTSTAMP:20221221T233722Z
+UID:63a39f0898f93
+DTSTAMP:20221222T000424Z
 SUMMARY:[Community Day] Chespin Community Day
 URL:https://leekduck.com/events/january-communityday2023/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-2023-01-chespin.j
@@ -246,8 +246,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63a398b236f60
-DTSTAMP:20221221T233722Z
+UID:63a39f0898fbd
+DTSTAMP:20221222T000424Z
 SUMMARY:[GO Battle League] Master League and Master Premier Classic | Mythi
  cal Wishes
 DESCRIPTION:Starts at 21:00\, ends at 21:00.
@@ -263,8 +263,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63a398b236f9e
-DTSTAMP:20221221T233722Z
+UID:63a39f0898ff2
+DTSTAMP:20221222T000424Z
 SUMMARY:[Event] GO Battle Day: Steven Stone
 URL:https://leekduck.com/events/go-battle-day-steven-stone/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattlenightflyingc
@@ -277,8 +277,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63a398b236fd5
-DTSTAMP:20221221T233722Z
+UID:63a39f089901d
+DTSTAMP:20221222T000424Z
 SUMMARY:[GO Battle League] Great League\, Ultra League\, and Master League 
  | Mythical Wishes
 DESCRIPTION:Starts at 21:00\, ends at 21:00.
@@ -294,8 +294,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63a398b237013
-DTSTAMP:20221221T233722Z
+UID:63a39f0899053
+DTSTAMP:20221222T000424Z
 SUMMARY:[Community Day] January Community Day Classic
 URL:https://leekduck.com/events/january-communitydayclassic2023/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default-3.jpg
@@ -307,8 +307,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63a398b23704e
-DTSTAMP:20221221T233722Z
+UID:63a39f089907c
+DTSTAMP:20221222T000424Z
 SUMMARY:[GO Battle League] Great League and Weather Cup: Great League Editi
  on | Mythical Wishes
 DESCRIPTION:Starts at 21:00\, ends at 21:00.
@@ -324,8 +324,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63a398b23709e
-DTSTAMP:20221221T233722Z
+UID:63a39f08990c5
+DTSTAMP:20221222T000424Z
 SUMMARY:[GO Battle League] Great League and Electric Cup: Great League Edit
  ion | Mythical Wishes
 DESCRIPTION:Starts at 21:00\, ends at 21:00.
@@ -341,8 +341,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63a398b2370da
-DTSTAMP:20221221T233722Z
+UID:63a39f08990fc
+DTSTAMP:20221222T000424Z
 SUMMARY:[Community Day] February Community Day
 URL:https://leekduck.com/events/february-communityday2023/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default-3.jpg
@@ -354,8 +354,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63a398b237113
-DTSTAMP:20221221T233722Z
+UID:63a39f0899126
+DTSTAMP:20221222T000424Z
 SUMMARY:[GO Battle League] Ultra League and Ultra Premier | Mythical Wishes
 DESCRIPTION:Starts at 21:00\, ends at 21:00.
 URL:https://leekduck.com/events/season-13-ultra-league_ultra-premier/
@@ -369,8 +369,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63a398b23714f
-DTSTAMP:20221221T233722Z
+UID:63a39f089915c
+DTSTAMP:20221222T000424Z
 SUMMARY:[Event] GO Battle Day: Vulpix
 URL:https://leekduck.com/events/go-battle-day-vulpix/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattlenightflyingc
@@ -383,8 +383,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63a398b237183
-DTSTAMP:20221221T233722Z
+UID:63a39f0899186
+DTSTAMP:20221222T000424Z
 SUMMARY:[GO Battle League] Ultra League and Love Cup: Great League Edition 
  | Mythical Wishes
 DESCRIPTION:Starts at 21:00\, ends at 21:00.
@@ -400,8 +400,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63a398b2371d0
-DTSTAMP:20221221T233722Z
+UID:63a39f08991cf
+DTSTAMP:20221222T000424Z
 SUMMARY:[Pokémon GO Tour] Pokémon GO Tour: Hoenn - Las Vegas
 URL:https://leekduck.com/events/pokemon-go-tour-hoenn-live-event-las-vegas/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemon-go-tour-2023
@@ -414,8 +414,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63a398b23721c
-DTSTAMP:20221221T233722Z
+UID:63a39f0899217
+DTSTAMP:20221222T000424Z
 SUMMARY:[GO Battle League] Master League and Master Premier | Mythical Wish
  es
 DESCRIPTION:Starts at 21:00\, ends at 21:00.
@@ -430,8 +430,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63a398b237258
-DTSTAMP:20221221T233722Z
+UID:63a39f089924d
+DTSTAMP:20221222T000424Z
 SUMMARY:[Pokémon GO Tour] Pokémon GO Tour: Hoenn - Global
 URL:https://leekduck.com/events/pokemon-go-tour-hoenn-global/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemon-go-tour-hoen
@@ -444,8 +444,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63a398b237281
-DTSTAMP:20221221T233722Z
+UID:63a39f0899264
+DTSTAMP:20221222T000424Z
 SUMMARY:[Season] Season 9: Mythical Wishes
 DESCRIPTION:Starts at 10:00\, ends at 10:00.
 URL:https://leekduck.com/events/season-9-mythical-wishes/
@@ -459,8 +459,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63a398b2372b8
-DTSTAMP:20221221T233722Z
+UID:63a39f089928e
+DTSTAMP:20221222T000424Z
 SUMMARY:[Research Breakthrough] Mythical Wishes Research Breakthrough - Sea
  son 9
 DESCRIPTION:Starts at 21:00\, ends at 21:00.
@@ -475,8 +475,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63a398b237306
-DTSTAMP:20221221T233722Z
+UID:63a39f08992d6
+DTSTAMP:20221222T000424Z
 SUMMARY:[GO Battle League] Master League: Mega Edition and Hoenn Cup: Great
   League Edition | Mythical Wishes
 DESCRIPTION:Starts at 21:00\, ends at 21:00.
