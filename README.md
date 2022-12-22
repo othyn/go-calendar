@@ -7,7 +7,7 @@
 An automated unofficial iCal calendar generator for Pokémon GO events powered by Leek Duck, so you can easily have a
 Pokémon GO calendar on your phone (iOS & Android) or computer (Linux, macOS & Windows) that is always up-to-date.
 
-Take a look at [the website](https://othyn.github.io/go-calendar/) to get setup with the calendar.
+Take a look at [the website](https://gocalendar.info/) to get setup with the calendar.
 
 # Sources & Credit
 
