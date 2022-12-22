@@ -63,7 +63,7 @@ class GenerateCalendar extends Command
                 name: 'Pokémon GO - Unofficial Event Calendar'
             )
             ->description(
-                description: 'Lists all events sourced from Leek Duck.'
+                description: 'Lists all events, in your local time, sourced from Leek Duck.'
             )
             ->refreshInterval(
                 minutes: 1440 // 1 day
