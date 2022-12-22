@@ -67,7 +67,8 @@ class GenerateCalendar extends Command
             )
             ->refreshInterval(
                 minutes: 1440 // 1 day
-            );
+            )
+            ->withoutTimezone();
 
         $output->writeln(
             messages: [
