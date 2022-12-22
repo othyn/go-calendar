@@ -1,5 +1,5 @@
 {
-  "name": "othyn/go-cal",
+  "name": "othyn/go-calendar",
   "type": "project",
   "description": "A highly convenient auto updated community calendar for Pokemon GO in iCal format, powered by LeekDuck.",
   "keywords": [
