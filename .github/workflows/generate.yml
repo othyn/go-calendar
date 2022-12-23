@@ -66,4 +66,4 @@ jobs:
           tag_name: ${{ steps.version.outputs.v-version }}
           files: dist/gocal.ics
           fail_on_unmatched_files: true
-          body: "Automated calendar release at ${{ steps.date.outputs.date }} for version ${{ steps.version.outputs.v-version }}."
+          body: "🕒 This release was [automatically generated and released](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}) at ${{ steps.date.outputs.date }}."
