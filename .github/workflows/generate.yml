@@ -53,16 +53,17 @@ jobs:
         run: echo "date=$(date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_OUTPUT
 
       - name: Determine next semver patch version
-        uses: Benbentwo/increment-semver@master
+        uses: reecetech/version-increment@2022.10.3
         id: version
         with:
-          version-level: '-p'
+          scheme: semver
+          increment: patch
 
       - name: Create a new patch release with the new calendar fragment
         uses: softprops/action-gh-release@v1
         with:
-          name: ${{ steps.version.outputs.version }}
-          tag_name: ${{ steps.version.outputs.version }}
+          name: ${{ steps.version.outputs.v-version }}
+          tag_name: ${{ steps.version.outputs.v-version }}
           files: dist/gocal.ics
           fail_on_unmatched_files: true
-          body: "Automated calendar release at ${{ steps.date.outputs.date }} for version ${{ steps.version.outputs.version }}."
+          body: "Automated calendar release at ${{ steps.date.outputs.date }} for version ${{ steps.version.outputs.v-version }}."
