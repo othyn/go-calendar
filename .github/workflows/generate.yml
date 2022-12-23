@@ -47,3 +47,22 @@ jobs:
         with:
           commit_message: "[GitHub Actions Bot: Publish iCal Update]"
           commit_author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
+
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d %H:%M:%S')"
+
+      - name: Determine next semver patch version
+        uses: Benbentwo/increment-semver@master
+        id: version
+        with:
+          version-level: '-p'
+
+      - name: Create a new patch release with the new calendar fragment
+        uses: softprops/action-gh-release@v1
+        with:
+          name: ${{ steps.version.outputs.version }}
+          tag_name: ${{ steps.version.outputs.version }}
+          files: dist/gocal.ics
+          fail_on_unmatched_files: true
+          body: "Automated calendar release at ${{ steps.date.outputs.date }} for version ${{ steps.version.outputs.version }}."
