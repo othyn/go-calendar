@@ -3,6 +3,7 @@
 [![Generate iCal](https://github.com/othyn/go-calendar/actions/workflows/generate.yml/badge.svg)](https://github.com/othyn/go-calendar/actions/workflows/generate.yml)
 [![Lint](https://github.com/othyn/go-calendar/actions/workflows/lint.yml/badge.svg)](https://github.com/othyn/go-calendar/actions/workflows/lint.yml)
 [![Deploy site to Pages](https://github.com/othyn/go-calendar/actions/workflows/pages.yml/badge.svg)](https://github.com/othyn/go-calendar/actions/workflows/pages.yml)
+![GitHub all releases](https://img.shields.io/github/downloads/othyn/go-calendar/total?color=success&label=Downloads)
 
 An automated unofficial iCal calendar generator for Pokémon GO events powered by Leek Duck, so you can easily have a
 Pokémon GO calendar on your phone (iOS & Android) or computer (Linux, macOS & Windows) that is always up-to-date.
