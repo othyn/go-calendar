@@ -110,7 +110,8 @@ class GenerateCalendar extends Command
                 )
                 ->endsAt(
                     ends: $endDate
-                );
+                )
+                ->withoutTimezone();
 
             $eventDurationInDays = $startDate->diffInDays($endDate);
 
