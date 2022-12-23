@@ -68,8 +68,8 @@ class GenerateCalendar extends Command
             ->refreshInterval(
                 minutes: 1440 // 1 day
             )
-            ->withoutTimezone()
-            ->withoutAutoTimezoneComponents();
+            ->withoutAutoTimezoneComponents()
+            ->withoutTimezone();
 
         $output->writeln(
             messages: [
@@ -86,11 +86,13 @@ class GenerateCalendar extends Command
             );
 
             $startDate = Carbon::parse(
-                time: $event['start']
+                time: $event['start'],
+                tz: new \DateTimeZone('Europe/London')
             );
 
             $endDate = Carbon::parse(
-                time: $event['end']
+                time: $event['end'],
+                tz: new \DateTimeZone('Europe/London')
             );
 
             $calendarEvent = Event::create()
