@@ -72,13 +72,19 @@ suffixed with a `Z`. According to this [SO post](https://stackoverflow.com/a/762
 with times that end with `Z` will be interpreted in a UTC timezone, regardless of the timezone - or lack thereof - in
 the calendar or event.
 
-Next step, we need to remove the `Z`.
+Next step, we need to remove the `Z` by finding out where and how its being added.
 
-Turns out in `\Spatie\IcalendarGenerator\Properties\DateTimeProperty::getValue` if the DateTime value passed in is in
-UTC, regardless of the state of `withoutTimezone()`, it will append `Z` to the generated Timezone, which will set the
-Timezone to UTC in the calendar, even though we aren't specifying a timezone.
-The [Spatie documentation](https://github.com/spatie/icalendar-generator#timezones) doesn't specify this behaviour, and
-I believe this to be a bug in the library. For example, this is the current code:
+Turns out in `\Spatie\IcalendarGenerator\Properties\DateTimeProperty::getValue` if the DateTime entity passed is in
+UTC (which is the default in PHP if no time zone is specified when creating a DateTime entity), regardless of the state
+of `withoutTimezone()`, `getValue` will append `Z` to the generated `DateTimeValue` as its **only** checks are if the
+DateTime is in UTC and has a time associated with it. The calendar clients will then interpret this as a set UTC time
+zone when in fact we didn't want that as we provided no initial time zone and removed time zones
+with `withoutTimezone()`.
+The [Spatie documentation for `spatie/icalendar-generator`](https://github.com/spatie/icalendar-generator#timezones)
+doesn't specify this behaviour, and I believe this to be a bug in the library... kinda. More on that below as I worked
+on a potential PR only to hit a _gotcha_ scenario.
+
+To illustrate the issue, this is the current code:
 
 ```php
 public function getValue(): string
@@ -89,10 +95,10 @@ public function getValue(): string
 }
 ```
 
-and this is how I think it should be:
+... and this is what I think it should be:
 
 ```php
-// Expose the $withoutTimeZone captured in the __construct as a class property
+// Expose the existing $withoutTimeZone parameter captured in the __construct as a class property
 private bool $withoutTimeZone;
 
 public function getValue(): string
@@ -103,8 +109,28 @@ public function getValue(): string
 }
 ```
 
-This as we should only be adding the `Z` suffix if the time zone has been explicitly set, otherwise we are getting the
-UTC time zone interpreted by default.
+This as we should only be adding the `Z` suffix if the time zone has been **explicitly** set, otherwise we are getting
+the UTC time zone set and thus interpreted by default, which is not intended if you've specified `withoutTimeZone()` on
+DateTime's initialised with no time zone, thus defaulting to UTC.
+
+The workaround being to simply set a random time zone on the DateTime being created and then use `withoutTimeZone()`, as
+it will correctly strip out/not generate _any_ time zone related properties making all dates interpret as intended -
+local time.
+
+Now, back to that kinda, that lovely _gotcha_. I've had a go at patching this bug and submitting a PR for it,
+and now I see their problem, and it doesn't really have a clean solution. UTC DateTime's are used for internal time zone
+calculations, mainly for setting boundaries to expected time zone shifts, such as during summer. Patching it with
+the above fix solves the issues with implicit/default UTC usage and `withoutTimeZone()` used in combination, but breaks
+all `DTSTAMP` generation which needs to be UTC based. This is as internally they are using `withoutTimeZone()` to ensure
+that all user defined time zones are stripped from these internal DateTime's, to normalise them onto a UTC base,
+as is required for fixed points in time such as time zone boundaries. Its not an easy solve without some major
+reworking of how dates are safely handled for time zone boundaries in the library.
+
+For now, I'm going to leave my hack in this repo. Setting the time zone to GMT on the event dates in combination with
+using `withoutTimeZone()` allows the library to skip the UTC logic, giving the desired effect of local times on the
+events due to the UTC `Z` suffix **and** all time zone stuff being dropped from the generated iCal file. I'll maybe
+submit a PR just with a documentation change to alert other future users of the library to this _gotcha_ scenario,
+although I need to find a good way of phrasing it before I do so, as the above is a bit of a brain-teaser.
 
 # Legal
 
