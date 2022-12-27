@@ -60,10 +60,10 @@ class GenerateCalendar extends Command
 
         $calendar = Calendar::create()
             ->name(
-                name: 'Pokémon GO - Unofficial Event Calendar'
+                name: 'GO Calendar'
             )
             ->description(
-                description: 'Lists all events, in your local time, sourced from Leek Duck.'
+                description: 'All Pokémon GO events, in your local time, auto-updated and sourced from Leek Duck.'
             )
             ->refreshInterval(
                 minutes: 1440 // 1 day
