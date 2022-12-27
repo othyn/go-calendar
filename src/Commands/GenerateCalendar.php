@@ -22,6 +22,26 @@ class GenerateCalendar extends Command
     }
 
     /**
+     * The data heading into the event type seems consistent, but given its external, never leave it to chance.
+     */
+    protected function sanitiseEventType(string $eventType): string
+    {
+        return trim(
+            strtolower(
+                preg_replace(
+                    pattern: '/[\-\ ]/i',
+                    replacement: '_',
+                    subject: preg_replace(
+                        pattern: '/[^a-z0-9\_\-\ ]/i',
+                        replacement: '',
+                        subject: $eventType
+                    )
+                )
+            )
+        );
+    }
+
+    /**
      * @throws \JsonException
      */
     protected function execute(InputInterface $input, OutputInterface $output): int
@@ -58,7 +78,7 @@ class GenerateCalendar extends Command
             ]
         );
 
-        $calendar = Calendar::create()
+        $everythingCalendar = Calendar::create()
             ->name(
                 name: 'GO Calendar'
             )
@@ -71,10 +91,13 @@ class GenerateCalendar extends Command
             ->withoutAutoTimezoneComponents()
             ->withoutTimezone();
 
+        /** @var array<Calendar> $eventTypeCalendars */
+        $eventTypeCalendars = [];
+
         $output->writeln(
             messages: [
                 '├─[CAL] Created!',
-                '├─[EVENTS] Creating calendar events from manifest...',
+                '├─[EVENTS] Creating all calendar permutations from manifest...',
             ]
         );
 
@@ -126,7 +149,28 @@ class GenerateCalendar extends Command
                     );
             }
 
-            $calendar->event(
+            $everythingCalendar->event(
+                event: $calendarEvent
+            );
+
+            $eventTypeKey = $this->sanitiseEventType($event['eventType']);
+
+            if (! isset($eventTypeCalendars[$eventTypeKey])) {
+                $eventTypeCalendars[$eventTypeKey] = Calendar::create()
+                    ->name(
+                        name: 'GO Calendar - ' . $event['heading']
+                    )
+                    ->description(
+                        description: 'All Pokémon GO ' . $event['heading'] . ' events, in your local time, auto-updated and sourced from Leek Duck.'
+                    )
+                    ->refreshInterval(
+                        minutes: 1440 // 1 day
+                    )
+                    ->withoutAutoTimezoneComponents()
+                    ->withoutTimezone();
+            }
+
+            $eventTypeCalendars[$eventTypeKey]->event(
                 event: $calendarEvent
             );
         }
@@ -134,7 +178,7 @@ class GenerateCalendar extends Command
         $output->writeln(
             messages: [
                 '├─[EVENTS] Created!',
-                '├─[EXPORT] Generating iCal export...',
+                '├─[EXPORT-EVERYTHING] Generating everything-calendar iCal export...',
             ]
         );
 
@@ -142,12 +186,40 @@ class GenerateCalendar extends Command
 
         file_put_contents(
             filename: $calendarFile,
-            data: $calendar->get()
+            data: $everythingCalendar->get()
         );
 
         $output->writeln(
             messages: [
-                "├─[EXPORT] Generated to '{$calendarFile}'!",
+                "├─[EXPORT-EVERYTHING] Generated to '{$calendarFile}'!",
+                '├─[EXPORT-TYPES] Generating all type-calendar iCal exports...',
+            ]
+        );
+
+        foreach ($eventTypeCalendars as $eventTypeKey => $eventTypeCalendar) {
+            $output->writeln(
+                messages: [
+                    "├──[EXPORT-TYPE] Generating {$eventTypeKey} calendar iCal export...",
+                ]
+            );
+
+            $eventTypeCalendarFile = __DIR__ . "/../../dist/gocal__{$eventTypeKey}.ics";
+
+            file_put_contents(
+                filename: $eventTypeCalendarFile,
+                data: $eventTypeCalendar->get()
+            );
+
+            $output->writeln(
+                messages: [
+                    "├──[EXPORT-TYPE] Generated to '{$eventTypeCalendarFile}'!",
+                ]
+            );
+        }
+
+        $output->writeln(
+            messages: [
+                '├─[EXPORT-TYPES] Generated all type-calendars!',
                 '└<[ Calendar generate complete! ]>',
             ]
         );
