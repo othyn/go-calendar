@@ -41,6 +41,6 @@ jobs:
         with:
           name: ${{ steps.version.outputs.v-version }}
           tag_name: ${{ steps.version.outputs.v-version }}
-          files: dist/gocal.ics
+          files: dist/*
           fail_on_unmatched_files: true
           body: "🕒 This release was [automatically generated and released](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}) at ${{ steps.date.outputs.date }}."
