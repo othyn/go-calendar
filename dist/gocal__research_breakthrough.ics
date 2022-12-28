@@ -10,8 +10,8 @@ X-WR-CALDESC:All Pokémon GO Research Breakthrough events\, in your local t
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:63ac972242a75
-DTSTAMP:20221228T192106Z
+UID:63acaaefd3d70
+DTSTAMP:20221228T204535Z
 SUMMARY:[Research Breakthrough] Mythical Wishes Research Breakthrough - Sea
  son 9
 DESCRIPTION:Starts at 21:00\, ends at 21:00.

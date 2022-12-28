@@ -10,8 +10,8 @@ X-WR-CALDESC:All Pokémon GO Season events\, in your local time\, auto-upda
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:63ac972242a2c
-DTSTAMP:20221228T192106Z
+UID:63acaaefd3d30
+DTSTAMP:20221228T204535Z
 SUMMARY:[Season] Season 9: Mythical Wishes
 DESCRIPTION:Starts at 10:00\, ends at 10:00.
 URL:https://leekduck.com/events/season-9-mythical-wishes/

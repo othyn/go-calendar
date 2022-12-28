@@ -10,8 +10,8 @@ X-WR-CALDESC:All Pokémon GO Pokémon Spotlight Hour events\, in your local
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:63ac972241b8d
-DTSTAMP:20221228T192106Z
+UID:63acaaefd32aa
+DTSTAMP:20221228T204535Z
 SUMMARY:[Pokémon Spotlight Hour] Cubchoo Spotlight Hour
 URL:https://leekduck.com/events/pokemonspotlighthour2022-12-27/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
@@ -24,8 +24,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63ac972241f26
-DTSTAMP:20221228T192106Z
+UID:63acaaefd35cb
+DTSTAMP:20221228T204535Z
 SUMMARY:[Pokémon Spotlight Hour] Alolan Sandshrew Spotlight Hour
 URL:https://leekduck.com/events/pokemonspotlighthour2023-01-03/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
@@ -38,8 +38,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63ac972242082
-DTSTAMP:20221228T192106Z
+UID:63acaaefd3702
+DTSTAMP:20221228T204535Z
 SUMMARY:[Pokémon Spotlight Hour] Swirlix Spotlight Hour
 URL:https://leekduck.com/events/pokemonspotlighthour2023-01-10/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
@@ -52,8 +52,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63ac97224230c
-DTSTAMP:20221228T192106Z
+UID:63acaaefd37d6
+DTSTAMP:20221228T204535Z
 SUMMARY:[Pokémon Spotlight Hour] Seedot Spotlight Hour
 URL:https://leekduck.com/events/pokemonspotlighthour2023-01-17/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
@@ -66,8 +66,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63ac972242465
-DTSTAMP:20221228T192106Z
+UID:63acaaefd38e9
+DTSTAMP:20221228T204535Z
 SUMMARY:[Pokémon Spotlight Hour] Tynamo Spotlight Hour
 URL:https://leekduck.com/events/pokemonspotlighthour2023-01-24/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
@@ -80,8 +80,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63ac9722425f7
-DTSTAMP:20221228T192106Z
+UID:63acaaefd39df
+DTSTAMP:20221228T204535Z
 SUMMARY:[Pokémon Spotlight Hour] Blitzle Spotlight Hour
 URL:https://leekduck.com/events/pokemonspotlighthour2023-01-31/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
