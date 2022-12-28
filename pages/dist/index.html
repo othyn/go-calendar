@@ -4,7 +4,6 @@
 <head>
     <title>GO Calendar</title>
 
-
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -31,7 +30,8 @@
 </head>
 
 <body class="antialiased bg-body text-body font-body bg-white">
-<section id="nav" class="relative overflow-hidden bg-gray-50">
+
+<section id="title" class="relative overflow-hidden bg-gray-50">
     <div class="container mx-auto">
         <div class="relative px-4 mx-auto max-w-5xl text-center">
             <p class="pt-14 pb-8 w-100 inline-flex items-center font-bold text-2xl md:text-3xl text-gray-900 uppercase tracking-widest">
@@ -42,7 +42,7 @@
     </div>
 </section>
 
-<section id="header" class="relative pt-12 lg:pt-16 pb-16 lg:pb-24 overflow-hidden bg-gray-50">
+<section id="landing" class="relative pt-12 lg:pt-16 pb-16 lg:pb-24 overflow-hidden bg-gray-50">
     <div class="container mx-auto">
         <div class="relative px-4 mx-auto max-w-5xl">
             <div class="mb-8 md:mb-12 mx-auto text-left">
@@ -51,7 +51,7 @@
                 </h1>
                 <p class="mb-8 text-lg md:text-xl text-gray-500 font-medium leading-loose md:leading-loose">
                     Whether it's on your phone (iOS or Android), on your computer (Linux, macOS or Windows) or anything
-                    else, its quick and easy to set up.
+                    else, its quick and easy to subscribe to.
                     <a href="#legal" class="text-red-600 hover:text-red-400">
                         Unofficial, of course.
                     </a>
@@ -66,11 +66,20 @@
                         GitHub.
                     </a>
                 </p>
-                <a class="block mb-8 sm:inline-flex items-center justify-center uppercase tracking-wide w-100 md:text-lg lg:text-xl space-x-4 px-6 py-4 lg:px-10 lg:py-6 leading-7 text-red-50 bg-red-600 hover:bg-red-500 font-medium focus:ring-2 focus:ring-green-500 focus:ring-opacity-50 border border-transparent rounded-lg shadow-lg"
-                   href="https://github.com/othyn/go-calendar/releases/latest/download/gocal.ics">
-                    <img class="h-8 inline-flex" src="art/icon.svg" alt="logo">
-                    <span>Get the Calendar</span>
-                </a>
+                <div class="block mb-8 w-100 grid grid-cols-5 items-center">
+                    <a class="col-span-5 md:col-span-2 inline-block text-center uppercase tracking-wide md:text-lg lg:text-xl space-x-4 py-4 lg:py-6 mb-8 md:mb-0 leading-7 text-red-50 bg-red-600 font-medium border border-transparent rounded-lg shadow-lg hover:bg-red-500 focus:ring-2 focus:ring-red-500 focus:ring-opacity-50"
+                       href="https://github.com/othyn/go-calendar/releases/latest/download/gocal.ics">
+                        <img class="h-8 inline" src="art/icon.svg" alt="logo">
+                        <span>Get the Calendar</span>
+                    </a>
+                    <p class="col-span-5 md:col-span-3 inline-block text-gray-500 font-medium ml-0 md:ml-8"
+                       href="#specific-calendars">
+                        Don't want all events?
+                        <a class="text-red-600 hover:text-red-400" href="#calendars">
+                            Got you covered.
+                        </a>
+                    </p>
+                </div>
                 <p class="text-gray-400">
                     <a href="https://xkcd.com/927/" target="_blank" rel="noopener noreferrer"
                        class="text-red-400 hover:text-red-600">
@@ -92,20 +101,18 @@
             <div class="flex flex-wrap">
                 <div class="w-full lg:w-1/2 pr-8">
                     <div class="pb-16 lg:pb-0">
-                    <span class="inline-block mb-4 text-sm sm:text-base text-red-500 uppercase font-semibold tracking-[.2rem]">
-                        Button didn't work, now what?
-                    </span>
+                        <span class="inline-block mb-4 text-sm sm:text-base text-red-500 uppercase font-semibold tracking-[.2rem]">
+                            Button didn't work, now what?
+                        </span>
                         <h2 class="mb-6 text-3xl md:text-5xl lg:text-7xl text-gray-900 font-bold tracking-tight leading-snug md:leading-snug lg:leading-snug">
                             Here's what.
                         </h2>
-                        <p class="mb-4 text-lg md:text-xl text-gray-500 font-medium leading-loose md:leading-loose">
-                            First thing you'll need is the URL for the calendar file, which is:
+                        <p class="mb-2 text-lg md:text-xl text-gray-500 font-medium leading-loose md:leading-loose">
+                            First thing you'll need to do is
+                            <a class="text-red-600 hover:text-red-400" href="#calendars">
+                                pick a calendar to subscribe to.
+                            </a>
                         </p>
-                        <code class="mb-4 block text-sm text-gray-700 bg-gray-200 font-medium rounded-md p-4 break-words">
-                            <a href="https://github.com/othyn/go-calendar/releases/latest/download/gocal.ics"
-                               class="hover:text-red-600">
-                                https://github.com/othyn/go-calendar/releases/latest/download/gocal.ics</a>
-                        </code>
                         <p class="mb-2 text-lg md:text-xl text-gray-500 font-medium leading-loose md:leading-loose">
                             The idea is to have your calendar provider or client subscribe to the above URL, so it will
                             automatically update when the calendar file updates, which does so every night.
@@ -223,7 +230,166 @@
     </div>
 </section>
 
-<section id="credit" class="relative py-16 sm:py-24 bg-gray-50 overflow-hidden">
+<section id="calendars" class="relative py-16 sm:py-24 overflow-hidden bg-gray-50">
+    <div class="container mx-auto">
+        <div class="relative px-4 max-w-5xl mx-auto">
+            <div class="mb-18 md:mb-16">
+                <span class="inline-block mb-4 text-sm sm:text-base text-red-500 uppercase font-semibold tracking-[.2rem]">
+                    Have something a bit lighter?
+                </span>
+                <h2 class="mb-6 text-3xl md:text-5xl lg:text-7xl text-gray-900 font-bold tracking-tight leading-snug md:leading-snug lg:leading-snug">
+                    Let's customise!
+                </h2>
+                <p class="mb-8 text-lg md:text-xl text-gray-500 font-medium leading-loose md:leading-loose">
+                    The 'Everything' calendar really is <i>everything</i>, which is awesome but can get a bit cluttered.
+                    In order to get around this and give you some options to play with, there are multiple calendars to
+                    choose from that only provide specific things from the 'Everything' calendar. Subscribe to just one,
+                    or as many as you like, to only have the events that you care about.
+                </p>
+                <div class="inline-block min-w-full overflow-hidden rounded-lg shadow">
+                    <table class="min-w-full">
+                        <thead>
+                        <tr>
+                            <th class="px-5 py-3 text-sm font-normal text-left text-gray-800 uppercase bg-white border-b border-gray-200">
+                                Events
+                            </th>
+                            <th class="px-5 py-3 text-sm font-normal text-left text-gray-800 uppercase bg-white border-b border-gray-200">
+                                Calendar Subscription URL
+                            </th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <td class="px-5 py-5 text-sm bg-white border-b border-gray-200">
+                                Community Day
+                            </td>
+                            <td class="px-5 py-5 text-sm bg-white border-b border-gray-200">
+                                <code class="block text-sm text-gray-700 bg-gray-200 font-medium rounded-md p-2 break-words">
+                                    <a href="https://github.com/othyn/go-calendar/releases/latest/download/gocal__community_day.ics"
+                                       class="hover:text-red-600">
+                                        https://github.com/othyn/go-calendar/releases/latest/download/gocal__community_day.ics</a>
+                                </code>
+                            </td>
+                        </tr><tr>
+                            <td class="px-5 py-5 text-sm bg-white border-b border-gray-200">
+                                Event
+                            </td>
+                            <td class="px-5 py-5 text-sm bg-white border-b border-gray-200">
+                                <code class="block text-sm text-gray-700 bg-gray-200 font-medium rounded-md p-2 break-words">
+                                    <a href="https://github.com/othyn/go-calendar/releases/latest/download/gocal__event.ics"
+                                       class="hover:text-red-600">
+                                        https://github.com/othyn/go-calendar/releases/latest/download/gocal__event.ics</a>
+                                </code>
+                            </td>
+                        </tr><tr>
+                            <td class="px-5 py-5 text-sm bg-white border-b border-gray-200">
+                                Everything
+                            </td>
+                            <td class="px-5 py-5 text-sm bg-white border-b border-gray-200">
+                                <code class="block text-sm text-gray-700 bg-gray-200 font-medium rounded-md p-2 break-words">
+                                    <a href="https://github.com/othyn/go-calendar/releases/latest/download/gocal.ics"
+                                       class="hover:text-red-600">
+                                        https://github.com/othyn/go-calendar/releases/latest/download/gocal.ics</a>
+                                </code>
+                            </td>
+                        </tr><tr>
+                            <td class="px-5 py-5 text-sm bg-white border-b border-gray-200">
+                                GO Battle League
+                            </td>
+                            <td class="px-5 py-5 text-sm bg-white border-b border-gray-200">
+                                <code class="block text-sm text-gray-700 bg-gray-200 font-medium rounded-md p-2 break-words">
+                                    <a href="https://github.com/othyn/go-calendar/releases/latest/download/gocal__go_battle_league.ics"
+                                       class="hover:text-red-600">
+                                        https://github.com/othyn/go-calendar/releases/latest/download/gocal__go_battle_league.ics</a>
+                                </code>
+                            </td>
+                        </tr><tr>
+                            <td class="px-5 py-5 text-sm bg-white border-b border-gray-200">
+                                Pokémon GO Tour
+                            </td>
+                            <td class="px-5 py-5 text-sm bg-white border-b border-gray-200">
+                                <code class="block text-sm text-gray-700 bg-gray-200 font-medium rounded-md p-2 break-words">
+                                    <a href="https://github.com/othyn/go-calendar/releases/latest/download/gocal__pokemon_go_tour.ics"
+                                       class="hover:text-red-600">
+                                        https://github.com/othyn/go-calendar/releases/latest/download/gocal__pokemon_go_tour.ics</a>
+                                </code>
+                            </td>
+                        </tr><tr>
+                            <td class="px-5 py-5 text-sm bg-white border-b border-gray-200">
+                                Pokémon Spotlight Hour
+                            </td>
+                            <td class="px-5 py-5 text-sm bg-white border-b border-gray-200">
+                                <code class="block text-sm text-gray-700 bg-gray-200 font-medium rounded-md p-2 break-words">
+                                    <a href="https://github.com/othyn/go-calendar/releases/latest/download/gocal__pokemon_spotlight_hour.ics"
+                                       class="hover:text-red-600">
+                                        https://github.com/othyn/go-calendar/releases/latest/download/gocal__pokemon_spotlight_hour.ics</a>
+                                </code>
+                            </td>
+                        </tr><tr>
+                            <td class="px-5 py-5 text-sm bg-white border-b border-gray-200">
+                                Raid Battles
+                            </td>
+                            <td class="px-5 py-5 text-sm bg-white border-b border-gray-200">
+                                <code class="block text-sm text-gray-700 bg-gray-200 font-medium rounded-md p-2 break-words">
+                                    <a href="https://github.com/othyn/go-calendar/releases/latest/download/gocal__raid_battles.ics"
+                                       class="hover:text-red-600">
+                                        https://github.com/othyn/go-calendar/releases/latest/download/gocal__raid_battles.ics</a>
+                                </code>
+                            </td>
+                        </tr><tr>
+                            <td class="px-5 py-5 text-sm bg-white border-b border-gray-200">
+                                Raid Hour
+                            </td>
+                            <td class="px-5 py-5 text-sm bg-white border-b border-gray-200">
+                                <code class="block text-sm text-gray-700 bg-gray-200 font-medium rounded-md p-2 break-words">
+                                    <a href="https://github.com/othyn/go-calendar/releases/latest/download/gocal__raid_hour.ics"
+                                       class="hover:text-red-600">
+                                        https://github.com/othyn/go-calendar/releases/latest/download/gocal__raid_hour.ics</a>
+                                </code>
+                            </td>
+                        </tr><tr>
+                            <td class="px-5 py-5 text-sm bg-white border-b border-gray-200">
+                                Research Breakthrough
+                            </td>
+                            <td class="px-5 py-5 text-sm bg-white border-b border-gray-200">
+                                <code class="block text-sm text-gray-700 bg-gray-200 font-medium rounded-md p-2 break-words">
+                                    <a href="https://github.com/othyn/go-calendar/releases/latest/download/gocal__research_breakthrough.ics"
+                                       class="hover:text-red-600">
+                                        https://github.com/othyn/go-calendar/releases/latest/download/gocal__research_breakthrough.ics</a>
+                                </code>
+                            </td>
+                        </tr><tr>
+                            <td class="px-5 py-5 text-sm bg-white border-b border-gray-200">
+                                Season
+                            </td>
+                            <td class="px-5 py-5 text-sm bg-white border-b border-gray-200">
+                                <code class="block text-sm text-gray-700 bg-gray-200 font-medium rounded-md p-2 break-words">
+                                    <a href="https://github.com/othyn/go-calendar/releases/latest/download/gocal__season.ics"
+                                       class="hover:text-red-600">
+                                        https://github.com/othyn/go-calendar/releases/latest/download/gocal__season.ics</a>
+                                </code>
+                            </td>
+                        </tr><tr>
+                            <td class="px-5 py-5 text-sm bg-white border-b border-gray-200">
+                                Update
+                            </td>
+                            <td class="px-5 py-5 text-sm bg-white border-b border-gray-200">
+                                <code class="block text-sm text-gray-700 bg-gray-200 font-medium rounded-md p-2 break-words">
+                                    <a href="https://github.com/othyn/go-calendar/releases/latest/download/gocal__update.ics"
+                                       class="hover:text-red-600">
+                                        https://github.com/othyn/go-calendar/releases/latest/download/gocal__update.ics</a>
+                                </code>
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="credit" class="relative py-16 sm:py-24 overflow-hidden">
     <div class="container mx-auto">
         <div class="relative px-4 max-w-5xl mx-auto">
             <div class="mb-18 md:mb-16">
@@ -266,7 +432,7 @@
     </div>
 </section>
 
-<section id="legal" class="relative py-16 sm:py-24 overflow-hidden">
+<section id="legal" class="relative py-16 sm:py-24 overflow-hidden bg-gray-50">
     <div class="container mx-auto">
         <div class="relative px-4 max-w-5xl mx-auto">
             <div class="mb-18 md:mb-16">
@@ -274,7 +440,7 @@
                     What about the boring stuff?
                 </span>
                 <h2 class="mb-6 text-3xl md:text-5xl lg:text-7xl text-gray-900 font-bold tracking-tight leading-snug md:leading-snug lg:leading-snug">
-                    Ah, Legal.
+                    Ah, legal.
                 </h2>
                 <p class="mb-4 text-lg md:text-xl text-gray-500 font-medium leading-loose md:leading-loose">
                     All rights reserved by their respective owners.
@@ -295,7 +461,7 @@
     </div>
 </section>
 
-<section id="theme" class="relative py-16 sm:py-24 bg-gray-50 overflow-hidden">
+<section id="theme" class="relative py-16 sm:py-24 overflow-hidden">
     <div class="container mx-auto">
         <div class="relative px-4 max-w-5xl mx-auto">
             <div class="mb-18 md:mb-16">
@@ -317,6 +483,14 @@
         </div>
     </div>
 </section>
+
+<div class="w-100 pb-16 text-center">
+    <a href="#title"
+       class="inline-block bg-red-50 hover:bg-red-100 rounded rounded-xl px-8 py-4 font-medium text-red-400 hover:text-red-500">
+        🚀 <span class="pl-2">back to top</span>
+    </a>
+</div>
+
 </body>
 
 </html>

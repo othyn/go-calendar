@@ -17,8 +17,8 @@ class GenerateCalendar extends Command
     {
         $this
             ->setName(name: 'gen')
-            ->setDescription(description: 'Grabs the latest data from Leek Duck (ScrapedDuck) and generates the iCal calendar.')
-            ->setHelp(help: 'Grabs the latest data from Leek Duck (ScrapedDuck) and generates the iCal calendar.');
+            ->setDescription(description: 'Grabs the latest data from Leek Duck (ScrapedDuck) and generates the iCal calendar')
+            ->setHelp(help: 'Grabs the latest data from Leek Duck (ScrapedDuck) and generates the iCal calendar');
     }
 
     /**
@@ -77,6 +77,14 @@ class GenerateCalendar extends Command
                 '├─[CAL] Creating the calendar...',
             ]
         );
+
+        /** @var <string, array{name: string, url: string}> $calendarManifest */
+        $calendarManifest = [
+            'everything' => [
+                'name' => 'Everything',
+                'url' => 'https://github.com/othyn/go-calendar/releases/latest/download/gocal.ics',
+            ],
+        ];
 
         $everythingCalendar = Calendar::create()
             ->name(
@@ -173,7 +181,14 @@ class GenerateCalendar extends Command
             $eventTypeCalendars[$eventTypeKey]->event(
                 event: $calendarEvent
             );
+
+            $calendarManifest[$eventTypeKey] = [
+                'name' => $event['heading'],
+                'url' => "https://github.com/othyn/go-calendar/releases/latest/download/gocal__{$eventTypeKey}.ics",
+            ];
         }
+
+        ksort(array: $calendarManifest);
 
         $output->writeln(
             messages: [
@@ -220,6 +235,23 @@ class GenerateCalendar extends Command
         $output->writeln(
             messages: [
                 '├─[EXPORT-TYPES] Generated all type-calendars!',
+                '├─[EXPORT-MANIFEST] Generating calendar manifest...',
+            ]
+        );
+
+        $calendarManifestFile = __DIR__ . '/../../dist/manifest.json';
+
+        file_put_contents(
+            filename: $calendarManifestFile,
+            data: json_encode(
+                value: $calendarManifest,
+                flags: JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE
+            )
+        );
+
+        $output->writeln(
+            messages: [
+                '├─[EVENTS-MANIFEST] Created!',
                 '└<[ Calendar generate complete! ]>',
             ]
         );

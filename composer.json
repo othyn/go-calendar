@@ -17,7 +17,10 @@
   "autoload": {
     "psr-4": {
       "Console\\": "src"
-    }
+    },
+    "files": [
+      "src/helpers.php"
+    ]
   },
   "scripts": {
     "php-cs-fixer": "./vendor/bin/php-cs-fixer fix --allow-risky yes --config ./.php-cs-fixer.dist.php"

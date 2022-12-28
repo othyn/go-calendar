@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:spatie/icalendar-generator
+NAME:GO Calendar - Research Breakthrough
+X-WR-CALNAME:GO Calendar - Research Breakthrough
+DESCRIPTION:All Pokémon GO Research Breakthrough events\, in your local ti
+ me\, auto-updated and sourced from Leek Duck.
+X-WR-CALDESC:All Pokémon GO Research Breakthrough events\, in your local t
+ ime\, auto-updated and sourced from Leek Duck.
+REFRESH-INTERVAL;VALUE=DURATION:PT1440M
+X-PUBLISHED-TTL:PT1440M
+BEGIN:VEVENT
+UID:63ac37cd96e8e
+DTSTAMP:20221228T123421Z
+SUMMARY:[Research Breakthrough] Mythical Wishes Research Breakthrough - Sea
+ son 9
+DESCRIPTION:Starts at 21:00\, ends at 21:00.
+URL:https://leekduck.com/events/season-9-mythical-wishes-research-breakthro
+ ugh/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/researchWinter.jpg
+DTSTART;VALUE=DATE:20221201
+DTEND;VALUE=DATE:20230301
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

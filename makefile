@@ -28,3 +28,7 @@ lint: up
 .PHONY: gen
 gen: up
 	$(call gocal,gen)
+
+.PHONY: site
+site: up
+	$(call gocal,site)

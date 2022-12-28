@@ -1,4 +1,4 @@
-name: Generate iCal file
+name: Generate Calendars
 
 on:
   schedule:
@@ -17,7 +17,7 @@ concurrency:
 
 jobs:
   build:
-    name: Generate iCal file
+    name: Generate Calendars
     runs-on: ubuntu-latest
     timeout-minutes: 2
 
@@ -35,7 +35,7 @@ jobs:
       - name: Install PHP dependencies
         run: composer install
 
-      - name: Run iCal build
+      - name: Run iCal's build
         run: bin/gocal gen
         continue-on-error: false
 
@@ -45,25 +45,5 @@ jobs:
       - name: Commit any changes back to the repo
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "[GitHub Actions Bot: Publish iCal Update]"
+          commit_message: "[GitHub Actions Bot: Publish iCal's Update]"
           commit_author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
-
-      - name: Get current date
-        id: date
-        run: echo "date=$(date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_OUTPUT
-
-      - name: Determine next semver patch version
-        uses: reecetech/version-increment@2022.10.3
-        id: version
-        with:
-          scheme: semver
-          increment: patch
-
-      - name: Create a new patch release with the new calendar fragment
-        uses: softprops/action-gh-release@v1
-        with:
-          name: ${{ steps.version.outputs.v-version }}
-          tag_name: ${{ steps.version.outputs.v-version }}
-          files: dist/gocal.ics
-          fail_on_unmatched_files: true
-          body: "🕒 This release was [automatically generated and released](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}) at ${{ steps.date.outputs.date }}."

@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:spatie/icalendar-generator
+NAME:GO Calendar - Pokémon GO Tour
+X-WR-CALNAME:GO Calendar - Pokémon GO Tour
+DESCRIPTION:All Pokémon GO Pokémon GO Tour events\, in your local time\, 
+ auto-updated and sourced from Leek Duck.
+X-WR-CALDESC:All Pokémon GO Pokémon GO Tour events\, in your local time\,
+  auto-updated and sourced from Leek Duck.
+REFRESH-INTERVAL;VALUE=DURATION:PT1440M
+X-PUBLISHED-TTL:PT1440M
+BEGIN:VEVENT
+UID:63ac37cd96dbe
+DTSTAMP:20221228T123421Z
+SUMMARY:[Pokémon GO Tour] Pokémon GO Tour: Hoenn - Las Vegas
+URL:https://leekduck.com/events/pokemon-go-tour-hoenn-live-event-las-vegas/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemon-go-tour-2023
+ -hoenn-las-vegas.jpg
+DTSTART:20230218T180000
+DTEND:20230220T020000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63ac37cd96e50
+DTSTAMP:20221228T123421Z
+SUMMARY:[Pokémon GO Tour] Pokémon GO Tour: Hoenn - Global
+URL:https://leekduck.com/events/pokemon-go-tour-hoenn-global/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemon-go-tour-hoen
+ n-global.jpg
+DTSTART:20230225T100000
+DTEND:20230226T180000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

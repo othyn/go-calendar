@@ -1,8 +1,9 @@
 # GO Calendar
 
-[![Generate iCal](https://github.com/othyn/go-calendar/actions/workflows/generate.yml/badge.svg)](https://github.com/othyn/go-calendar/actions/workflows/generate.yml)
-[![Lint](https://github.com/othyn/go-calendar/actions/workflows/lint.yml/badge.svg)](https://github.com/othyn/go-calendar/actions/workflows/lint.yml)
-[![Deploy site to Pages](https://github.com/othyn/go-calendar/actions/workflows/pages.yml/badge.svg)](https://github.com/othyn/go-calendar/actions/workflows/pages.yml)
+[![Lint](https://github.com/othyn/go-calendar/actions/workflows/00-lint.yml/badge.svg)](https://github.com/othyn/go-calendar/actions/workflows/00-lint.yml)
+[![Generate Calendars](https://github.com/othyn/go-calendar/actions/workflows/10-calendars.yml/badge.svg)](https://github.com/othyn/go-calendar/actions/workflows/10-calendars.yml)
+[![Deploy Site](https://github.com/othyn/go-calendar/actions/workflows/20-site.yml/badge.svg)](https://github.com/othyn/go-calendar/actions/workflows/20-site.yml)
+[![Automated Release](https://github.com/othyn/go-calendar/actions/workflows/30-release.yml/badge.svg)](https://github.com/othyn/go-calendar/actions/workflows/30-release.yml)
 ![GitHub all releases](https://img.shields.io/github/downloads/othyn/go-calendar/total?color=success&label=Downloads)
 
 An automated unofficial iCal calendar generator for Pokémon GO events powered by Leek Duck, so you can easily have a
@@ -52,6 +53,9 @@ make lint
 
 # Generate the calendar file into dist/gocal.ics via the project container 
 make gen
+
+# Build the pages site into a static HTML file in pages/dist 
+make site
 ```
 
 As for the code itself, `bin/gocal` is the entrypoint of this CLI tool. It will bootstrap the Symfony console library

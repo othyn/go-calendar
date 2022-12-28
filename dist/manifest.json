@@ -1,0 +1,46 @@
+{
+    "community_day": {
+        "name": "Community Day",
+        "url": "https:\/\/github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__community_day.ics"
+    },
+    "event": {
+        "name": "Event",
+        "url": "https:\/\/github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__event.ics"
+    },
+    "everything": {
+        "name": "Everything",
+        "url": "https:\/\/github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal.ics"
+    },
+    "go_battle_league": {
+        "name": "GO Battle League",
+        "url": "https:\/\/github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__go_battle_league.ics"
+    },
+    "pokemon_go_tour": {
+        "name": "Pokémon GO Tour",
+        "url": "https:\/\/github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokemon_go_tour.ics"
+    },
+    "pokemon_spotlight_hour": {
+        "name": "Pokémon Spotlight Hour",
+        "url": "https:\/\/github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokemon_spotlight_hour.ics"
+    },
+    "raid_battles": {
+        "name": "Raid Battles",
+        "url": "https:\/\/github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__raid_battles.ics"
+    },
+    "raid_hour": {
+        "name": "Raid Hour",
+        "url": "https:\/\/github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__raid_hour.ics"
+    },
+    "research_breakthrough": {
+        "name": "Research Breakthrough",
+        "url": "https:\/\/github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__research_breakthrough.ics"
+    },
+    "season": {
+        "name": "Season",
+        "url": "https:\/\/github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__season.ics"
+    },
+    "update": {
+        "name": "Update",
+        "url": "https:\/\/github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__update.ics"
+    }
+}

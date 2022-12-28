@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:spatie/icalendar-generator
+NAME:GO Calendar - Pokémon Spotlight Hour
+X-WR-CALNAME:GO Calendar - Pokémon Spotlight Hour
+DESCRIPTION:All Pokémon GO Pokémon Spotlight Hour events\, in your local 
+ time\, auto-updated and sourced from Leek Duck.
+X-WR-CALDESC:All Pokémon GO Pokémon Spotlight Hour events\, in your local
+  time\, auto-updated and sourced from Leek Duck.
+REFRESH-INTERVAL;VALUE=DURATION:PT1440M
+X-PUBLISHED-TTL:PT1440M
+BEGIN:VEVENT
+UID:63ac37cd95efa
+DTSTAMP:20221228T123421Z
+SUMMARY:[Pokémon Spotlight Hour] Cubchoo Spotlight Hour
+URL:https://leekduck.com/events/pokemonspotlighthour2022-12-27/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20221227T180000
+DTEND:20221227T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63ac37cd9697e
+DTSTAMP:20221228T123421Z
+SUMMARY:[Pokémon Spotlight Hour] Alolan Sandshrew Spotlight Hour
+URL:https://leekduck.com/events/pokemonspotlighthour2023-01-03/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20230103T180000
+DTEND:20230103T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63ac37cd96a36
+DTSTAMP:20221228T123421Z
+SUMMARY:[Pokémon Spotlight Hour] Swirlix Spotlight Hour
+URL:https://leekduck.com/events/pokemonspotlighthour2023-01-10/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20230110T180000
+DTEND:20230110T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63ac37cd96ac3
+DTSTAMP:20221228T123421Z
+SUMMARY:[Pokémon Spotlight Hour] Seedot Spotlight Hour
+URL:https://leekduck.com/events/pokemonspotlighthour2023-01-17/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20230117T180000
+DTEND:20230117T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63ac37cd96b9a
+DTSTAMP:20221228T123421Z
+SUMMARY:[Pokémon Spotlight Hour] Tynamo Spotlight Hour
+URL:https://leekduck.com/events/pokemonspotlighthour2023-01-24/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20230124T180000
+DTEND:20230124T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63ac37cd96c2f
+DTSTAMP:20221228T123421Z
+SUMMARY:[Pokémon Spotlight Hour] Blitzle Spotlight Hour
+URL:https://leekduck.com/events/pokemonspotlighthour2023-01-31/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20230131T180000
+DTEND:20230131T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

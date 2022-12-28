@@ -1,0 +1,114 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:spatie/icalendar-generator
+NAME:GO Calendar - Event
+X-WR-CALNAME:GO Calendar - Event
+DESCRIPTION:All Pokémon GO Event events\, in your local time\, auto-update
+ d and sourced from Leek Duck.
+X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
+ ed and sourced from Leek Duck.
+REFRESH-INTERVAL;VALUE=DURATION:PT1440M
+X-PUBLISHED-TTL:PT1440M
+BEGIN:VEVENT
+UID:63ac37cd9693e
+DTSTAMP:20221228T123421Z
+SUMMARY:[Event] Winter Holiday - Part 2
+DESCRIPTION:Starts at 10:00\, ends at 20:00.
+URL:https://leekduck.com/events/winter-holiday-2022-part-2/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/winter-holiday-part-
+ 2-2022-eevee.jpg
+DTSTART;VALUE=DATE:20221223
+DTEND;VALUE=DATE:20221231
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63ac37cd969a5
+DTSTAMP:20221228T123421Z
+SUMMARY:[Event] Pokémon GO New Year’s 2023 Event
+DESCRIPTION:Starts at 20:00\, ends at 20:00.
+URL:https://leekduck.com/events/pokemon-go-new-years-2023/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/new-years-2023.jpg
+DTSTART;VALUE=DATE:20221231
+DTEND;VALUE=DATE:20230104
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63ac37cd96a9d
+DTSTAMP:20221228T123421Z
+SUMMARY:[Event] GO Battle Day: Steven Stone
+URL:https://leekduck.com/events/go-battle-day-steven-stone/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattlenightflyingc
+ up.jpg
+DTSTART:20230114T000000
+DTEND:20230115T235959
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63ac37cd96ab1
+DTSTAMP:20221228T123421Z
+SUMMARY:[Event] Twinkling Fantasy Event
+DESCRIPTION:Starts at 08:00\, ends at 22:00.
+URL:https://leekduck.com/events/twinkling-fantasy-event/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART;VALUE=DATE:20230110
+DTEND;VALUE=DATE:20230116
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63ac37cd96b7c
+DTSTAMP:20221228T123421Z
+SUMMARY:[Event] Lunar New Year 2023
+DESCRIPTION:Starts at 10:00\, ends at 20:00.
+URL:https://leekduck.com/events/lunar-new-year-2023-event/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART;VALUE=DATE:20230119
+DTEND;VALUE=DATE:20230123
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63ac37cd96cef
+DTSTAMP:20221228T123421Z
+SUMMARY:[Event] Crackling Voltage Event
+DESCRIPTION:Starts at 10:00\, ends at 23:59.
+URL:https://leekduck.com/events/crackling-voltage-event/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART;VALUE=DATE:20230127
+DTEND;VALUE=DATE:20230205
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63ac37cd96d4c
+DTSTAMP:20221228T123421Z
+SUMMARY:[Event] GO Battle Day: Vulpix
+URL:https://leekduck.com/events/go-battle-day-vulpix/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattlenightflyingc
+ up.jpg
+DTSTART:20230212T000000
+DTEND:20230212T235959
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

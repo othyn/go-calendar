@@ -1,14 +1,16 @@
 #!/usr/bin/env php
 <?php
 
-require __DIR__.'/../vendor/autoload.php';
+require __DIR__ . '/../vendor/autoload.php';
 
+use Console\Commands\BuildPagesSite;
 use Console\Commands\GenerateCalendar;
 use Symfony\Component\Console\Application;
 
 $application = new Application();
 
 $application->add(command: new GenerateCalendar());
+$application->add(command: new BuildPagesSite());
 
 try {
     $application->run();

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>GO Calendar</title>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <meta name="description"
+          content="A community driven auto-updating Pokémon GO events calendar (in your local time) that you can subscribe to in any calendar app on your phone or PC. Powered by Leek Duck.">
+
+    <meta property="og:url" content="{{ app_url }}"/>
+    <meta property="og:title" content="GO Calendar"/>
+    <meta property="og:image" content="{{ app_url }}{{ logo_url }}"/>
+    <meta property="og:description"
+          content="A community driven auto-updating Pokémon GO events calendar (in your local time) that you can subscribe to in any calendar app on your phone or PC. Powered by Leek Duck."/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:keywords"
+          content="android,apple,calendar,client,community day,computer,elite raid,elite raids,event,events,ex raid,ex raids,go,go fest,google,ios,laptop,linux,local time,local timezone,macos,microsoft,mobile,niantic,niantic events,phone,pokemon,pokemon calendar,pokemon event,pokemon events,pokemon go,pokemon go calendar,pokemon go event,pokemon go events,pokemon go raid,pokemon go raids,raid,windows"/>
+
+    <link rel="canonical" href="{{ app_url }}"/>
+
+    <link rel="icon" type="image/svg" href="{{ logo_url }}">
+    <link rel="icon" type="image/svg" sizes="32x32" href="{{ logo_url }}">
+    <link rel="icon" type="image/svg" sizes="16x16" href="{{ logo_url }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ logo_url }}">
+
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="antialiased bg-body text-body font-body bg-white">
+
+@include{title}
+
+@include{landing}
+
+@include{how_to}
+
+@include{calendar}
+
+@include{credit}
+
+@include{legal}
+
+@include{theme}
+
+@include{footer}
+
+</body>
+
+</html>

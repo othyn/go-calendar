@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:spatie/icalendar-generator
+NAME:GO Calendar - Update
+X-WR-CALNAME:GO Calendar - Update
+DESCRIPTION:All Pokémon GO Update events\, in your local time\, auto-updat
+ ed and sourced from Leek Duck.
+X-WR-CALDESC:All Pokémon GO Update events\, in your local time\, auto-upda
+ ted and sourced from Leek Duck.
+REFRESH-INTERVAL;VALUE=DURATION:PT1440M
+X-PUBLISHED-TTL:PT1440M
+BEGIN:VEVENT
+UID:63ac37cd96926
+DTSTAMP:20221228T123421Z
+SUMMARY:[Update] Vivillon Debuts and Vivillon Medal
+DESCRIPTION:Starts at 10:00\, ends at 20:00.
+URL:https://leekduck.com/events/vivillon-launch-postcard-feature/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/vivillon-debut.jpg
+DTSTART;VALUE=DATE:20221214
+DTEND;VALUE=DATE:20221230
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

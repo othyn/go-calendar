@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:spatie/icalendar-generator
+NAME:GO Calendar - Season
+X-WR-CALNAME:GO Calendar - Season
+DESCRIPTION:All Pokémon GO Season events\, in your local time\, auto-updat
+ ed and sourced from Leek Duck.
+X-WR-CALDESC:All Pokémon GO Season events\, in your local time\, auto-upda
+ ted and sourced from Leek Duck.
+REFRESH-INTERVAL;VALUE=DURATION:PT1440M
+X-PUBLISHED-TTL:PT1440M
+BEGIN:VEVENT
+UID:63ac37cd96e61
+DTSTAMP:20221228T123421Z
+SUMMARY:[Season] Season 9: Mythical Wishes
+DESCRIPTION:Starts at 10:00\, ends at 10:00.
+URL:https://leekduck.com/events/season-9-mythical-wishes/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/season9-mythical-wis
+ hes.jpg
+DTSTART;VALUE=DATE:20221201
+DTEND;VALUE=DATE:20230301
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
