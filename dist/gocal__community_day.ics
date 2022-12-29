@@ -10,8 +10,8 @@ X-WR-CALDESC:All Pokémon GO Community Day events\, in your local time\, au
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:63acdd451739a
-DTSTAMP:20221229T002021Z
+UID:63adb32b0d09b
+DTSTAMP:20221229T153259Z
 SUMMARY:[Community Day] Chespin Community Day
 URL:https://leekduck.com/events/january-communityday2023/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-2023-01-chespin.j
@@ -24,8 +24,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63acdd45183e4
-DTSTAMP:20221229T002021Z
+UID:63adb32b0d8cc
+DTSTAMP:20221229T153259Z
 SUMMARY:[Community Day] January Community Day Classic
 URL:https://leekduck.com/events/january-communitydayclassic2023/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default-3.jpg
@@ -37,8 +37,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63acdd4518b97
-DTSTAMP:20221229T002021Z
+UID:63adb32b0de44
+DTSTAMP:20221229T153259Z
 SUMMARY:[Community Day] February Community Day
 URL:https://leekduck.com/events/february-communityday2023/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default-3.jpg
