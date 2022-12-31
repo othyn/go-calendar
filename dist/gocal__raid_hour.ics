@@ -10,8 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Hour events\, in your local time\, auto-u
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:63ae2ead48935
-DTSTAMP:20221230T001957Z
+UID:63af8000ae7fe
+DTSTAMP:20221231T001912Z
 SUMMARY:[Raid Hour] Reshiram Raid Hour
 URL:https://leekduck.com/events/raidhour20220104/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
@@ -23,8 +23,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63ae2ead48a85
-DTSTAMP:20221230T001957Z
+UID:63af8000aed2c
+DTSTAMP:20221231T001912Z
 SUMMARY:[Raid Hour] Zekrom Raid Hour
 URL:https://leekduck.com/events/raidhour20220111/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
@@ -36,8 +36,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63ae2ead48bc3
-DTSTAMP:20221230T001957Z
+UID:63af8000aef8c
+DTSTAMP:20221231T001912Z
 SUMMARY:[Raid Hour] Regice Raid Hour
 URL:https://leekduck.com/events/raidhour20220118/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
@@ -49,8 +49,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63ae2ead48d01
-DTSTAMP:20221230T001957Z
+UID:63af8000af181
+DTSTAMP:20221231T001912Z
 SUMMARY:[Raid Hour] Tapu Koko Raid Hour
 URL:https://leekduck.com/events/raidhour20220125/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg

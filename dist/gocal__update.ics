@@ -10,8 +10,8 @@ X-WR-CALDESC:All Pokémon GO Update events\, in your local time\, auto-upda
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:63ae2ead48847
-DTSTAMP:20221230T001957Z
+UID:63af8000ae511
+DTSTAMP:20221231T001912Z
 SUMMARY:[Update] Vivillon Debuts and Vivillon Medal
 DESCRIPTION:Starts at 10:00\, ends at 20:00.
 URL:https://leekduck.com/events/vivillon-launch-postcard-feature/

@@ -10,8 +10,8 @@ X-WR-CALDESC:All Pokémon GO Pokémon Spotlight Hour events\, in your local
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:63ae2ead4890e
-DTSTAMP:20221230T001957Z
+UID:63af8000ae7d6
+DTSTAMP:20221231T001912Z
 SUMMARY:[Pokémon Spotlight Hour] Alolan Sandshrew Spotlight Hour
 URL:https://leekduck.com/events/pokemonspotlighthour2023-01-03/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
@@ -24,8 +24,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63ae2ead48a61
-DTSTAMP:20221230T001957Z
+UID:63af8000aece5
+DTSTAMP:20221231T001912Z
 SUMMARY:[Pokémon Spotlight Hour] Swirlix Spotlight Hour
 URL:https://leekduck.com/events/pokemonspotlighthour2023-01-10/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
@@ -38,8 +38,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63ae2ead48b5b
-DTSTAMP:20221230T001957Z
+UID:63af8000aeebc
+DTSTAMP:20221231T001912Z
 SUMMARY:[Pokémon Spotlight Hour] Seedot Spotlight Hour
 URL:https://leekduck.com/events/pokemonspotlighthour2023-01-17/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
@@ -52,8 +52,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63ae2ead48c97
-DTSTAMP:20221230T001957Z
+UID:63af8000af0da
+DTSTAMP:20221231T001912Z
 SUMMARY:[Pokémon Spotlight Hour] Tynamo Spotlight Hour
 URL:https://leekduck.com/events/pokemonspotlighthour2023-01-24/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
@@ -66,8 +66,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63ae2ead48d85
-DTSTAMP:20221230T001957Z
+UID:63af8000af242
+DTSTAMP:20221231T001912Z
 SUMMARY:[Pokémon Spotlight Hour] Blitzle Spotlight Hour
 URL:https://leekduck.com/events/pokemonspotlighthour2023-01-31/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
