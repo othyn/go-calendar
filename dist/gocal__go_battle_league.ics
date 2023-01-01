@@ -10,8 +10,8 @@ X-WR-CALDESC:All Pokémon GO GO Battle League events\, in your local time\,
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:63b1bb7738977
-DTSTAMP:20230101T165727Z
+UID:63b1bd8ed759e
+DTSTAMP:20230101T170622Z
 SUMMARY:[GO Battle League] Master League and Holiday Cup: Ultra League Edit
  ion | Mythical Wishes
 DESCRIPTION:Starts at 21:00\, ends at 21:00.
@@ -27,8 +27,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63b1bb7738a89
-DTSTAMP:20230101T165727Z
+UID:63b1bd8ed76a3
+DTSTAMP:20230101T170622Z
 SUMMARY:[GO Battle League] Master League and Master Premier Classic | Mythi
  cal Wishes
 DESCRIPTION:Starts at 21:00\, ends at 21:00.
@@ -44,8 +44,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63b1bb7738bb5
-DTSTAMP:20230101T165727Z
+UID:63b1bd8ed77d2
+DTSTAMP:20230101T170622Z
 SUMMARY:[GO Battle League] Great League\, Ultra League\, and Master League 
  | Mythical Wishes
 DESCRIPTION:Starts at 21:00\, ends at 21:00.
@@ -61,8 +61,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63b1bb7738cde
-DTSTAMP:20230101T165727Z
+UID:63b1bd8ed78b3
+DTSTAMP:20230101T170622Z
 SUMMARY:[GO Battle League] Great League and Weather Cup: Great League Editi
  on | Mythical Wishes
 DESCRIPTION:Starts at 21:00\, ends at 21:00.
@@ -78,8 +78,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63b1bb7738da5
-DTSTAMP:20230101T165727Z
+UID:63b1bd8ed794a
+DTSTAMP:20230101T170622Z
 SUMMARY:[GO Battle League] Great League and Electric Cup: Great League Edit
  ion | Mythical Wishes
 DESCRIPTION:Starts at 21:00\, ends at 21:00.
@@ -95,8 +95,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63b1bb7738e48
-DTSTAMP:20230101T165727Z
+UID:63b1bd8ed79c6
+DTSTAMP:20230101T170622Z
 SUMMARY:[GO Battle League] Ultra League and Ultra Premier | Mythical Wishes
 DESCRIPTION:Starts at 21:00\, ends at 21:00.
 URL:https://leekduck.com/events/season-13-ultra-league_ultra-premier/
@@ -110,8 +110,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63b1bb7738ec5
-DTSTAMP:20230101T165727Z
+UID:63b1bd8ed7a26
+DTSTAMP:20230101T170622Z
 SUMMARY:[GO Battle League] Ultra League and Love Cup: Great League Edition 
  | Mythical Wishes
 DESCRIPTION:Starts at 21:00\, ends at 21:00.
@@ -127,8 +127,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63b1bb7738f9e
-DTSTAMP:20230101T165727Z
+UID:63b1bd8ed7abc
+DTSTAMP:20230101T170622Z
 SUMMARY:[GO Battle League] Master League and Master Premier | Mythical Wish
  es
 DESCRIPTION:Starts at 21:00\, ends at 21:00.
@@ -143,8 +143,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63b1bb77390b5
-DTSTAMP:20230101T165727Z
+UID:63b1bd8ed7b89
+DTSTAMP:20230101T170622Z
 SUMMARY:[GO Battle League] Master League: Mega Edition and Hoenn Cup: Great
   League Edition | Mythical Wishes
 DESCRIPTION:Starts at 21:00\, ends at 21:00.
