@@ -113,7 +113,7 @@ class GenerateCalendar extends Command
             $eventName = '[' . $event['heading'] . '] ' . $event['name'];
 
             $output->writeln(
-                messages: "├──[EVENT] Processing ~ {$eventName}"
+                messages: "├──[EVENT] ┌ Processing ~ {$eventName}"
             );
 
             $startDate = Carbon::parse(
@@ -149,7 +149,9 @@ class GenerateCalendar extends Command
 
             $eventDurationInDays = $startDate->diffInDays($endDate);
 
-            if ($eventDurationInDays > 1) {
+            $isFullDay = $eventDurationInDays > 1;
+
+            if ($isFullDay) {
                 $calendarEvent
                     ->fullDay()
                     ->description(
@@ -159,6 +161,13 @@ class GenerateCalendar extends Command
 
             $everythingCalendar->event(
                 event: $calendarEvent
+            );
+
+            $output->writeln(
+                messages: [
+                    "├──[EVENT] ├ Dates ~ Starts at {$startDate->format('Y-m-d H:i')}, ends at {$endDate->format('Y-m-d H:i')}.",
+                    '├──[EVENT] ├ All day? ~ ' . ($isFullDay ? 'Yes' : 'No'),
+                ]
             );
 
             $eventTypeKey = $this->sanitiseEventType($event['eventType']);
@@ -186,6 +195,10 @@ class GenerateCalendar extends Command
                 'name' => $event['heading'],
                 'url' => "https://github.com/othyn/go-calendar/releases/latest/download/gocal__{$eventTypeKey}.ics",
             ];
+
+            $output->writeln(
+                messages: "├──[EVENT] └ Calendars ~ Added to 'All' and to '{$event['heading']}'."
+            );
         }
 
         ksort(array: $calendarManifest);
