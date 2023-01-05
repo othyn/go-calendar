@@ -130,6 +130,9 @@ class GenerateCalendar extends Command
                 ->name(
                     name: $eventName
                 )
+                ->description(
+                    description: $event['link']
+                )
                 ->url(
                     url: $event['link']
                 )
@@ -155,7 +158,7 @@ class GenerateCalendar extends Command
                 $calendarEvent
                     ->fullDay()
                     ->description(
-                        description: 'Starts at ' . $startDate->format('H:i') . ', ends at ' . $endDate->format('H:i') . '.'
+                        description: 'Starts at ' . $startDate->format('H:i') . ', ends at ' . $endDate->format('H:i') . ".\n\n{$event['link']}"
                     );
             }
 
