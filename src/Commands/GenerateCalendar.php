@@ -118,12 +118,12 @@ class GenerateCalendar extends Command
 
             $startDate = Carbon::parse(
                 time: $event['start'],
-                tz: new \DateTimeZone('Europe/London')
+                tz: new \DateTimeZone('Atlantic/Reykjavik')
             );
 
             $endDate = Carbon::parse(
                 time: $event['end'],
-                tz: new \DateTimeZone('Europe/London')
+                tz: new \DateTimeZone('Atlantic/Reykjavik')
             );
 
             $calendarEvent = Event::create()
