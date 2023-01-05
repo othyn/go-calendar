@@ -131,7 +131,7 @@ class GenerateCalendar extends Command
                     name: $eventName
                 )
                 ->description(
-                    description: $event['link']
+                    description: 'Starts at ' . $startDate->format('H:i') . ', ends at ' . $endDate->format('H:i') . ".\n\n{$event['link']}"
                 )
                 ->url(
                     url: $event['link']
@@ -155,11 +155,7 @@ class GenerateCalendar extends Command
             $isFullDay = $eventDurationInDays > 1;
 
             if ($isFullDay) {
-                $calendarEvent
-                    ->fullDay()
-                    ->description(
-                        description: 'Starts at ' . $startDate->format('H:i') . ', ends at ' . $endDate->format('H:i') . ".\n\n{$event['link']}"
-                    );
+                $calendarEvent->fullDay();
             }
 
             $everythingCalendar->event(
