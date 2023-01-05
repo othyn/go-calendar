@@ -10,9 +10,11 @@ X-WR-CALDESC:All Pokémon GO Raid Hour events\, in your local time\, auto-u
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:63b617dca54df
-DTSTAMP:20230105T002044Z
+UID:raidhour20220104
+DTSTAMP:20230105T140016Z
 SUMMARY:[Raid Hour] Reshiram Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20220104/
 URL:https://leekduck.com/events/raidhour20220104/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
 DTSTART:20230104T180000
@@ -23,9 +25,11 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63b617dca5801
-DTSTAMP:20230105T002044Z
+UID:raidhour20220111
+DTSTAMP:20230105T140016Z
 SUMMARY:[Raid Hour] Zekrom Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20220111/
 URL:https://leekduck.com/events/raidhour20220111/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
 DTSTART:20230111T180000
@@ -36,9 +40,11 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63b617dca59dc
-DTSTAMP:20230105T002044Z
+UID:raidhour20220118
+DTSTAMP:20230105T140016Z
 SUMMARY:[Raid Hour] Regice Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20220118/
 URL:https://leekduck.com/events/raidhour20220118/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
 DTSTART:20230118T180000
@@ -49,9 +55,11 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63b617dca5ba7
-DTSTAMP:20230105T002044Z
+UID:raidhour20220125
+DTSTAMP:20230105T140016Z
 SUMMARY:[Raid Hour] Tapu Koko Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20220125/
 URL:https://leekduck.com/events/raidhour20220125/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
 DTSTART:20230125T180000

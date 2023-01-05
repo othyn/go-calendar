@@ -10,9 +10,11 @@ X-WR-CALDESC:All Pokémon GO Pokémon Spotlight Hour events\, in your local
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:63b617dca57c3
-DTSTAMP:20230105T002044Z
+UID:pokemonspotlighthour2023-01-10
+DTSTAMP:20230105T140016Z
 SUMMARY:[Pokémon Spotlight Hour] Swirlix Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2023-01-10/
 URL:https://leekduck.com/events/pokemonspotlighthour2023-01-10/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
  .jpg
@@ -24,9 +26,11 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63b617dca5927
-DTSTAMP:20230105T002044Z
+UID:pokemonspotlighthour2023-01-17
+DTSTAMP:20230105T140016Z
 SUMMARY:[Pokémon Spotlight Hour] Seedot Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2023-01-17/
 URL:https://leekduck.com/events/pokemonspotlighthour2023-01-17/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
  .jpg
@@ -38,9 +42,11 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63b617dca5af7
-DTSTAMP:20230105T002044Z
+UID:pokemonspotlighthour2023-01-24
+DTSTAMP:20230105T140016Z
 SUMMARY:[Pokémon Spotlight Hour] Tynamo Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2023-01-24/
 URL:https://leekduck.com/events/pokemonspotlighthour2023-01-24/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
  .jpg
@@ -52,9 +58,11 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63b617dca5c4b
-DTSTAMP:20230105T002044Z
+UID:pokemonspotlighthour2023-01-31
+DTSTAMP:20230105T140016Z
 SUMMARY:[Pokémon Spotlight Hour] Blitzle Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2023-01-31/
 URL:https://leekduck.com/events/pokemonspotlighthour2023-01-31/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
  .jpg

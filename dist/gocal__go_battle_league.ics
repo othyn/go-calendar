@@ -10,11 +10,12 @@ X-WR-CALDESC:All Pokémon GO GO Battle League events\, in your local time\,
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:63b617dca56c3
-DTSTAMP:20230105T002044Z
+UID:season-13-master-league_holiday-cup-ultra-leauge-edition
+DTSTAMP:20230105T140016Z
 SUMMARY:[GO Battle League] Master League and Holiday Cup: Ultra League Edit
  ion | Mythical Wishes
-DESCRIPTION:Starts at 21:00\, ends at 21:00.
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /season-13-master-league_holiday-cup-ultra-leauge-edition/
 URL:https://leekduck.com/events/season-13-master-league_holiday-cup-ultra-l
  eauge-edition/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattleleague-maste
@@ -27,11 +28,12 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63b617dca584f
-DTSTAMP:20230105T002044Z
+UID:season-13-master-league_master-premier-classic
+DTSTAMP:20230105T140016Z
 SUMMARY:[GO Battle League] Master League and Master Premier Classic | Mythi
  cal Wishes
-DESCRIPTION:Starts at 21:00\, ends at 21:00.
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /season-13-master-league_master-premier-classic/
 URL:https://leekduck.com/events/season-13-master-league_master-premier-clas
  sic/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattleleague-maste
@@ -44,11 +46,12 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63b617dca5a28
-DTSTAMP:20230105T002044Z
+UID:season-13-great-league_ultra-league_master-league
+DTSTAMP:20230105T140016Z
 SUMMARY:[GO Battle League] Great League\, Ultra League\, and Master League 
  | Mythical Wishes
-DESCRIPTION:Starts at 21:00\, ends at 21:00.
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /season-13-great-league_ultra-league_master-league/
 URL:https://leekduck.com/events/season-13-great-league_ultra-league_master-
  league/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-sea
@@ -61,11 +64,12 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63b617dca5bf3
-DTSTAMP:20230105T002044Z
+UID:season-13-great-league_weather-cup-great-league-edition
+DTSTAMP:20230105T140016Z
 SUMMARY:[GO Battle League] Great League and Weather Cup: Great League Editi
  on | Mythical Wishes
-DESCRIPTION:Starts at 21:00\, ends at 21:00.
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /season-13-great-league_weather-cup-great-league-edition/
 URL:https://leekduck.com/events/season-13-great-league_weather-cup-great-le
  ague-edition/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattle-greatleague
@@ -78,11 +82,12 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63b617dca5d31
-DTSTAMP:20230105T002044Z
+UID:season-13-great-league_electric-cup-great-league-edition
+DTSTAMP:20230105T140016Z
 SUMMARY:[GO Battle League] Great League and Electric Cup: Great League Edit
  ion | Mythical Wishes
-DESCRIPTION:Starts at 21:00\, ends at 21:00.
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /season-13-great-league_electric-cup-great-league-edition/
 URL:https://leekduck.com/events/season-13-great-league_electric-cup-great-l
  eague-edition/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattle-greatleague
@@ -95,10 +100,11 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63b617dca5e17
-DTSTAMP:20230105T002044Z
+UID:season-13-ultra-league_ultra-premier
+DTSTAMP:20230105T140016Z
 SUMMARY:[GO Battle League] Ultra League and Ultra Premier | Mythical Wishes
-DESCRIPTION:Starts at 21:00\, ends at 21:00.
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /season-13-ultra-league_ultra-premier/
 URL:https://leekduck.com/events/season-13-ultra-league_ultra-premier/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-ult
  ra-league-machamp-swampert.jpg
@@ -110,11 +116,12 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63b617dca5ebc
-DTSTAMP:20230105T002044Z
+UID:season-13-ultra-league_love-cup-great-league-edition
+DTSTAMP:20230105T140016Z
 SUMMARY:[GO Battle League] Ultra League and Love Cup: Great League Edition 
  | Mythical Wishes
-DESCRIPTION:Starts at 21:00\, ends at 21:00.
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /season-13-ultra-league_love-cup-great-league-edition/
 URL:https://leekduck.com/events/season-13-ultra-league_love-cup-great-leagu
  e-edition/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-ult
@@ -127,11 +134,12 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63b617dca5f93
-DTSTAMP:20230105T002044Z
+UID:season-13-master-league_master-premier
+DTSTAMP:20230105T140016Z
 SUMMARY:[GO Battle League] Master League and Master Premier | Mythical Wish
  es
-DESCRIPTION:Starts at 21:00\, ends at 21:00.
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /season-13-master-league_master-premier/
 URL:https://leekduck.com/events/season-13-master-league_master-premier/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattleleague-maste
  r-key.jpg
@@ -143,11 +151,12 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63b617dca60e1
-DTSTAMP:20230105T002044Z
+UID:season-13-master-league-mega-edition_hoenn-cup-great-league-edition
+DTSTAMP:20230105T140016Z
 SUMMARY:[GO Battle League] Master League: Mega Edition and Hoenn Cup: Great
   League Edition | Mythical Wishes
-DESCRIPTION:Starts at 21:00\, ends at 21:00.
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /season-13-master-league-mega-edition_hoenn-cup-great-league-edition/
 URL:https://leekduck.com/events/season-13-master-league-mega-edition_hoenn-
  cup-great-league-edition/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattleleague-maste

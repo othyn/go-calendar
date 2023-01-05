@@ -10,10 +10,11 @@ X-WR-CALDESC:All Pokémon GO Raid Battles events\, in your local time\, aut
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:63b617dca5731
-DTSTAMP:20230105T002044Z
+UID:reshiram-in-5-star-raid-battles-january-2023
+DTSTAMP:20230105T140016Z
 SUMMARY:[Raid Battles] Reshiram in 5-star Raid Battles
-DESCRIPTION:Starts at 10:00\, ends at 10:00.
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /reshiram-in-5-star-raid-battles-january-2023/
 URL:https://leekduck.com/events/reshiram-in-5-star-raid-battles-january-202
  3/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/reshiram.jpg
@@ -25,10 +26,11 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63b617dca5784
-DTSTAMP:20230105T002044Z
+UID:mega-steelix-in-mega-raids-january-2023
+DTSTAMP:20230105T140016Z
 SUMMARY:[Raid Battles] Mega Steelix in Mega Raids
-DESCRIPTION:Starts at 10:00\, ends at 10:00.
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-steelix-in-mega-raids-january-2023/
 URL:https://leekduck.com/events/mega-steelix-in-mega-raids-january-2023/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
 DTSTART;VALUE=DATE:20230101
@@ -39,10 +41,11 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63b617dca5963
-DTSTAMP:20230105T002044Z
+UID:zekrom-in-5-star-raid-battles-january-2023
+DTSTAMP:20230105T140016Z
 SUMMARY:[Raid Battles] Zekrom in 5-star Raid Battles
-DESCRIPTION:Starts at 10:00\, ends at 10:00.
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /zekrom-in-5-star-raid-battles-january-2023/
 URL:https://leekduck.com/events/zekrom-in-5-star-raid-battles-january-2023/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/zekrom2.jpg
 DTSTART;VALUE=DATE:20230110
@@ -53,10 +56,11 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63b617dca59a0
-DTSTAMP:20230105T002044Z
+UID:mega-salamance-in-mega-raids-january-2023
+DTSTAMP:20230105T140016Z
 SUMMARY:[Raid Battles] Mega Salamence in Mega Raids
-DESCRIPTION:Starts at 10:00\, ends at 10:00.
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-salamance-in-mega-raids-january-2023/
 URL:https://leekduck.com/events/mega-salamance-in-mega-raids-january-2023/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
 DTSTART;VALUE=DATE:20230110
@@ -67,10 +71,11 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63b617dca5b30
-DTSTAMP:20230105T002044Z
+UID:regice-in-5-star-raid-battles-january-2023
+DTSTAMP:20230105T140016Z
 SUMMARY:[Raid Battles] Regice in 5-star Raid Battles
-DESCRIPTION:Starts at 10:00\, ends at 10:00.
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /regice-in-5-star-raid-battles-january-2023/
 URL:https://leekduck.com/events/regice-in-5-star-raid-battles-january-2023/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/regice.jpg
 DTSTART;VALUE=DATE:20230118
@@ -81,10 +86,11 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63b617dca5b6c
-DTSTAMP:20230105T002044Z
+UID:mega-lopunny-in-mega-raids-january-2023
+DTSTAMP:20230105T140016Z
 SUMMARY:[Raid Battles] Mega Lopunny in Mega Raids
-DESCRIPTION:Starts at 10:00\, ends at 10:00.
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-lopunny-in-mega-raids-january-2023/
 URL:https://leekduck.com/events/mega-lopunny-in-mega-raids-january-2023/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
 DTSTART;VALUE=DATE:20230118
@@ -95,10 +101,11 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63b617dca5c84
-DTSTAMP:20230105T002044Z
+UID:tapu-koko-in-5-star-raid-battles-january-2023
+DTSTAMP:20230105T140016Z
 SUMMARY:[Raid Battles] Tapu Koko in 5-star Raid Battles
-DESCRIPTION:Starts at 10:00\, ends at 10:00.
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /tapu-koko-in-5-star-raid-battles-january-2023/
 URL:https://leekduck.com/events/tapu-koko-in-5-star-raid-battles-january-20
  23/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/tapu-koko.jpg
@@ -110,10 +117,11 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63b617dca5cc2
-DTSTAMP:20230105T002044Z
+UID:mega-aerodactyl-in-mega-raids-january-2023
+DTSTAMP:20230105T140016Z
 SUMMARY:[Raid Battles] Mega Aerodactyl in Mega Raids
-DESCRIPTION:Starts at 10:00\, ends at 10:00.
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-aerodactyl-in-mega-raids-january-2023/
 URL:https://leekduck.com/events/mega-aerodactyl-in-mega-raids-january-2023/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
 DTSTART;VALUE=DATE:20230125
