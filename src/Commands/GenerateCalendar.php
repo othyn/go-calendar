@@ -127,6 +127,9 @@ class GenerateCalendar extends Command
             );
 
             $calendarEvent = Event::create()
+                ->uniqueIdentifier(
+                    uid: $event['eventID']
+                )
                 ->name(
                     name: $eventName
                 )
