@@ -10,8 +10,8 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:63b5b00926e43
-DTSTAMP:20230104T165745Z
+UID:63b617dca5673
+DTSTAMP:20230105T002044Z
 SUMMARY:[Event] Pokémon GO New Year’s 2023 Event
 DESCRIPTION:Starts at 20:00\, ends at 20:00.
 URL:https://leekduck.com/events/pokemon-go-new-years-2023/
@@ -24,8 +24,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63b5b00927280
-DTSTAMP:20230104T165745Z
+UID:63b617dca58ae
+DTSTAMP:20230105T002044Z
 SUMMARY:[Event] GO Battle Day: Steven Stone
 URL:https://leekduck.com/events/go-battle-day-steven-stone/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattlenightflyingc
@@ -38,13 +38,13 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63b5b009272d5
-DTSTAMP:20230104T165745Z
+UID:63b617dca58ec
+DTSTAMP:20230105T002044Z
 SUMMARY:[Event] Twinkling Fantasy Event
 DESCRIPTION:Starts at 08:00\, ends at 22:00.
 URL:https://leekduck.com/events/twinkling-fantasy-event/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/twinkling-fantasy-ev
+ ent.jpg
 DTSTART;VALUE=DATE:20230110
 DTEND;VALUE=DATE:20230116
 BEGIN:VALARM
@@ -53,8 +53,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63b5b00927548
-DTSTAMP:20230104T165745Z
+UID:63b617dca5abb
+DTSTAMP:20230105T002044Z
 SUMMARY:[Event] Lunar New Year 2023
 DESCRIPTION:Starts at 10:00\, ends at 20:00.
 URL:https://leekduck.com/events/lunar-new-year-2023-event/
@@ -67,8 +67,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63b5b0092793f
-DTSTAMP:20230104T165745Z
+UID:63b617dca5dc7
+DTSTAMP:20230105T002044Z
 SUMMARY:[Event] Crackling Voltage Event
 DESCRIPTION:Starts at 10:00\, ends at 23:59.
 URL:https://leekduck.com/events/crackling-voltage-event/
@@ -82,8 +82,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:63b5b00927a8b
-DTSTAMP:20230104T165745Z
+UID:63b617dca5e6f
+DTSTAMP:20230105T002044Z
 SUMMARY:[Event] GO Battle Day: Vulpix
 URL:https://leekduck.com/events/go-battle-day-vulpix/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattlenightflyingc
