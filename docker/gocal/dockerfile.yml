@@ -1,5 +1,7 @@
 FROM php:8.1.13-cli-alpine
 
+RUN cd /usr/local/etc/php/conf.d/ && echo 'memory_limit = -1' >> /usr/local/etc/php/conf.d/docker-php-ram-limit.ini
+
 COPY --from=composer:2.4.4 /usr/bin/composer /usr/local/bin/composer
 
 COPY . /gocal
