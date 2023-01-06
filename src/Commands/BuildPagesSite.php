@@ -4,7 +4,9 @@ declare(strict_types=1);
 
 namespace Console\Commands;
 
-use Console\Commands\Entities\View;
+use Console\Entities\View;
+use Console\Enums\OutputGroup;
+use Console\Services\OutputService;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
@@ -23,6 +25,11 @@ class BuildPagesSite extends Command
     protected const RESOLVE_DOWN_TO_TEMPLATES = [
         'index',
     ];
+
+    /**
+     * Shared output service.
+     */
+    protected OutputService $output;
 
     protected function configure()
     {
@@ -260,11 +267,17 @@ class BuildPagesSite extends Command
      */
     protected function execute(InputInterface $input, OutputInterface $output): int
     {
-        $output->writeln(
-            messages: [
-                '┌<[ Compile static GitHub Pages site ]>',
-                '├─[VIEWS] Compiling views...',
-            ]
+        // Parent constructor doesn't get passed the shared output interface :(
+        $this->output = new OutputService(output: $output);
+
+        $this->output->msg(
+            group: OutputGroup::START,
+            message: 'Compile static GitHub Pages site'
+        );
+
+        $this->output->msg(
+            group: OutputGroup::VIEWS,
+            message: 'Compiling views...'
         );
 
         $calendarManifest = $this->getCalendarManifest();
@@ -282,11 +295,14 @@ class BuildPagesSite extends Command
             views: $viewsToExport
         );
 
-        $output->writeln(
-            messages: [
-                '├─[VIEWS] Compiled!',
-                '└<[ GitHub Pages site compiled! ]>',
-            ]
+        $this->output->msg(
+            group: OutputGroup::VIEWS,
+            message: 'Compiled!'
+        );
+
+        $this->output->msg(
+            group: OutputGroup::END,
+            message: 'GitHub Pages site compiled!'
         );
 
         return Command::SUCCESS;

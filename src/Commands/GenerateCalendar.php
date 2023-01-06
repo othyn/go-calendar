@@ -5,6 +5,8 @@ declare(strict_types=1);
 namespace Console\Commands;
 
 use Carbon\Carbon;
+use Console\Enums\OutputGroup;
+use Console\Services\OutputService;
 use Spatie\IcalendarGenerator\Components\Calendar;
 use Spatie\IcalendarGenerator\Components\Event;
 use Symfony\Component\Console\Command\Command;
@@ -13,6 +15,11 @@ use Symfony\Component\Console\Output\OutputInterface;
 
 class GenerateCalendar extends Command
 {
+    /**
+     * Shared output service.
+     */
+    protected OutputService $output;
+
     protected function configure()
     {
         $this
@@ -42,15 +49,15 @@ class GenerateCalendar extends Command
     }
 
     /**
+     * Fetches the events manifest from the ScrapedDuck JSON resource.
+     *
      * @throws \JsonException
      */
-    protected function execute(InputInterface $input, OutputInterface $output): int
+    protected function fetchEvents(): array
     {
-        $output->writeln(
-            messages: [
-                '┌<[ Building latest iCal from Leek Duck events ]>',
-                '├─[SOURCE] Grabbing events manifest from ScrapedDuck GitHub...',
-            ]
+        $this->output->msg(
+            group: OutputGroup::SOURCE,
+            message: 'Grabbing events manifest from ScrapedDuck GitHub...'
         );
 
         // https://github.com/bigfoott/ScrapedDuck/blob/master/docs/EVENTS.md
@@ -58,11 +65,14 @@ class GenerateCalendar extends Command
             filename: 'https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/events.min.json'
         );
 
-        $output->writeln(
-            messages: [
-                '├─[SOURCE] Grabbed!',
-                '├─[PARSE] Parsing events manifest...',
-            ]
+        $this->output->msg(
+            group: OutputGroup::SOURCE,
+            message: 'Grabbed!'
+        );
+
+        $this->output->msg(
+            group: OutputGroup::PARSE,
+            message: 'Parsing events manifest...'
         );
 
         $events = json_decode(
@@ -71,12 +81,35 @@ class GenerateCalendar extends Command
             flags: JSON_THROW_ON_ERROR
         );
 
-        $output->writeln(
-            messages: [
-                '├─[PARSE] Parsed!',
-                '├─[CAL] Creating the calendar...',
-            ]
+        $this->output->msg(
+            group: OutputGroup::PARSE,
+            message: 'Parsed!'
         );
+
+        return $events;
+    }
+
+    /**
+     * @throws \JsonException
+     */
+    protected function execute(InputInterface $input, OutputInterface $output): int
+    {
+        // Parent constructor doesn't get passed the shared output interface :(
+        $this->output = new OutputService(output: $output);
+
+        $this->output->msg(
+            group: OutputGroup::START,
+            message: 'Building latest iCal from Leek Duck events.'
+        );
+
+        $events = $this->fetchEvents();
+
+        $this->output->msg(
+            group: OutputGroup::CALENDAR,
+            message: 'Creating the calendar...'
+        );
+
+//        $timezones =
 
         /** @var <string, array{name: string, url: string}> $calendarManifest */
         $calendarManifest = [
@@ -102,18 +135,22 @@ class GenerateCalendar extends Command
         /** @var array<Calendar> $eventTypeCalendars */
         $eventTypeCalendars = [];
 
-        $output->writeln(
-            messages: [
-                '├─[CAL] Created!',
-                '├─[EVENTS] Creating all calendar permutations from manifest...',
-            ]
+        $this->output->msg(
+            group: OutputGroup::CALENDAR,
+            message: 'Created!'
+        );
+
+        $this->output->msg(
+            group: OutputGroup::EVENTS,
+            message: 'Creating all calendar permutations from manifest...'
         );
 
         foreach ($events as $event) {
             $eventName = '[' . $event['heading'] . '] ' . $event['name'];
 
-            $output->writeln(
-                messages: "├──[EVENT] ┌ Processing ~ {$eventName}"
+            $this->output->msg(
+                group: OutputGroup::EVENT,
+                message: "┌ Processing ~ {$eventName}"
             );
 
             $startDate = Carbon::parse(
@@ -165,11 +202,14 @@ class GenerateCalendar extends Command
                 event: $calendarEvent
             );
 
-            $output->writeln(
-                messages: [
-                    "├──[EVENT] ├ Dates ~ Starts at {$startDate->format('Y-m-d H:i')}, ends at {$endDate->format('Y-m-d H:i')}.",
-                    '├──[EVENT] ├ All day? ~ ' . ($isFullDay ? 'Yes' : 'No'),
-                ]
+            $this->output->msg(
+                group: OutputGroup::EVENT,
+                message: "├ Dates ~ Starts at {$startDate->format('Y-m-d H:i')}, ends at {$endDate->format('Y-m-d H:i')}."
+            );
+
+            $this->output->msg(
+                group: OutputGroup::EVENT,
+                message: '├ All day? ~ ' . ($isFullDay ? 'Yes' : 'No')
             );
 
             $eventTypeKey = $this->sanitiseEventType($event['eventType']);
@@ -198,18 +238,22 @@ class GenerateCalendar extends Command
                 'url' => "https://github.com/othyn/go-calendar/releases/latest/download/gocal__{$eventTypeKey}.ics",
             ];
 
-            $output->writeln(
-                messages: "├──[EVENT] └ Calendars ~ Added to 'All' and to '{$event['heading']}'."
+            $this->output->msg(
+                group: OutputGroup::EVENT,
+                message: "└ Calendars ~ Added to 'All' and to '{$event['heading']}'."
             );
         }
 
         ksort(array: $calendarManifest);
 
-        $output->writeln(
-            messages: [
-                '├─[EVENTS] Created!',
-                '├─[EXPORT-EVERYTHING] Generating everything-calendar iCal export...',
-            ]
+        $this->output->msg(
+            group: OutputGroup::EVENTS,
+            message: 'Created!'
+        );
+
+        $this->output->msg(
+            group: OutputGroup::EXPORT,
+            message: 'Generating everything-calendar iCal export...'
         );
 
         $calendarFile = __DIR__ . '/../../dist/gocal.ics';
@@ -219,18 +263,20 @@ class GenerateCalendar extends Command
             data: $everythingCalendar->get()
         );
 
-        $output->writeln(
-            messages: [
-                "├─[EXPORT-EVERYTHING] Generated to '{$calendarFile}'!",
-                '├─[EXPORT-TYPES] Generating all type-calendar iCal exports...',
-            ]
+        $this->output->msg(
+            group: OutputGroup::EXPORT,
+            message: "Generated to '{$calendarFile}'!"
+        );
+
+        $this->output->msg(
+            group: OutputGroup::EXPORT,
+            message: 'Generating all type-calendar iCal exports...'
         );
 
         foreach ($eventTypeCalendars as $eventTypeKey => $eventTypeCalendar) {
-            $output->writeln(
-                messages: [
-                    "├──[EXPORT-TYPE] Generating {$eventTypeKey} calendar iCal export...",
-                ]
+            $this->output->msg(
+                group: OutputGroup::EXPORTSUB,
+                message: "Generating {$eventTypeKey} calendar iCal export..."
             );
 
             $eventTypeCalendarFile = __DIR__ . "/../../dist/gocal__{$eventTypeKey}.ics";
@@ -240,18 +286,20 @@ class GenerateCalendar extends Command
                 data: $eventTypeCalendar->get()
             );
 
-            $output->writeln(
-                messages: [
-                    "├──[EXPORT-TYPE] Generated to '{$eventTypeCalendarFile}'!",
-                ]
+            $this->output->msg(
+                group: OutputGroup::EXPORTSUB,
+                message: "Generated to '{$eventTypeCalendarFile}'!"
             );
         }
 
-        $output->writeln(
-            messages: [
-                '├─[EXPORT-TYPES] Generated all type-calendars!',
-                '├─[EXPORT-MANIFEST] Generating calendar manifest...',
-            ]
+        $this->output->msg(
+            group: OutputGroup::EXPORT,
+            message: 'Generated all type-calendars!'
+        );
+
+        $this->output->msg(
+            group: OutputGroup::EXPORT,
+            message: 'Generating calendar manifest...'
         );
 
         $calendarManifestFile = __DIR__ . '/../../dist/manifest.json';
@@ -264,11 +312,14 @@ class GenerateCalendar extends Command
             )
         );
 
-        $output->writeln(
-            messages: [
-                '├─[EVENTS-MANIFEST] Created!',
-                '└<[ Calendar generate complete! ]>',
-            ]
+        $this->output->msg(
+            group: OutputGroup::EXPORT,
+            message: 'Created!'
+        );
+
+        $this->output->msg(
+            group: OutputGroup::END,
+            message: 'Calendar generate complete!'
         );
 
         return Command::SUCCESS;
