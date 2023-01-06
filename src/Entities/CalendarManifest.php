@@ -24,10 +24,10 @@ class CalendarManifest
             eventType: $eventType,
             calendar: Calendar::create()
                 ->name(
-                    name: 'GO Calendar - ' . $eventType->name
+                    name: 'GO Calendar - ' . $eventType->title
                 )
                 ->description(
-                    description: 'All Pokémon GO ' . ($eventType->name == CalendarService::EVERYTHING_CALENDAR_NAME ? '' : "{$eventType->name} ") . 'events, in your local time, auto-updated and sourced from Leek Duck.'
+                    description: 'All Pokémon GO ' . ($eventType->title == CalendarService::EVERYTHING_CALENDAR_NAME ? '' : "{$eventType->title} ") . 'events, in your local time, auto-updated and sourced from Leek Duck.'
                 )
                 ->refreshInterval(
                     minutes: 1440 // 1 day

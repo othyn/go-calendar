@@ -19,8 +19,9 @@ class LeekDuckEventType
     public const BASE_DOWNLOAD_URL = 'https://github.com/othyn/go-calendar/releases/latest/download/';
 
     public function __construct(
-        public string $name,
         public string $key,
+        public string $name,
+        public string $title,
         public string $filename,
         public string $filepath,
         public string $url,
@@ -50,7 +51,7 @@ class LeekDuckEventType
     /**
      * Create an LeekDuckEventType object from the type name.
      */
-    public static function create(string $name): self
+    public static function create(string $name, string $heading): self
     {
         $key = self::sanitise(
             type: $name
@@ -61,8 +62,9 @@ class LeekDuckEventType
             : "gocal__{$key}.ics";
 
         return new self(
-            name: $name,
             key: $key,
+            name: $name,
+            title: $heading,
             filename: $filename,
             filepath: self::BASE_LOCAL_PATH . $filename,
             url: self::BASE_DOWNLOAD_URL . $filename

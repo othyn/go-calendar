@@ -84,7 +84,8 @@ class EventService
         if (empty(self::$eventTypeCache)) {
             $types = [
                 LeekDuckEventType::create(
-                    name: CalendarService::EVERYTHING_CALENDAR_NAME
+                    name: CalendarService::EVERYTHING_CALENDAR_NAME,
+                    heading: CalendarService::EVERYTHING_CALENDAR_NAME
                 ),
             ];
 

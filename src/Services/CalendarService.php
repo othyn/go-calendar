@@ -17,6 +17,11 @@ class CalendarService
     public const EVERYTHING_CALENDAR_NAME = 'Everything';
 
     /**
+     * Key used by the 'one of everything' manual calendar.
+     */
+    public const EVERYTHING_CALENDAR_KEY = 'everything';
+
+    /**
      * Calendar manifest store, by event type.
      *
      * @var array<LeekDuckEventType, CalendarManifest>
@@ -46,7 +51,7 @@ class CalendarService
      */
     public static function addEventToCalendar(LeekDuckEventType $eventType, Event $event): void
     {
-        self::$manifest[self::EVERYTHING_CALENDAR_NAME]->calendar
+        self::$manifest[self::EVERYTHING_CALENDAR_KEY]->calendar
             ->event(
                 event: $event
             );
@@ -79,7 +84,7 @@ class CalendarService
 
         foreach (self::$manifest as $calendarManifest) {
             $manifest[$calendarManifest->eventType->key] = [
-                'name' => $calendarManifest->eventType->name,
+                'name' => $calendarManifest->eventType->title,
                 'url' => $calendarManifest->eventType->url,
             ];
         }

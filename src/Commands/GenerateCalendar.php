@@ -96,7 +96,7 @@ class GenerateCalendar extends Command
 
             $this->output->msg(
                 group: OutputGroup::EVENT,
-                message: "└ Calendars ~ Added to 'All' and to '{$event->heading}'."
+                message: "└ Calendars ~ Added to '" . CalendarService::EVERYTHING_CALENDAR_NAME . "' and to '{$event->type->title}'."
             );
         }
 

@@ -15,7 +15,6 @@ class LeekDuckEvent
         public string $title,
         public string $description,
         public LeekDuckEventType $type,
-        public string $heading,
         public string $link,
         public string $imageUrl,
         public string $startDateString,
@@ -57,9 +56,9 @@ class LeekDuckEvent
             title: "[{$event['heading']}] {$event['name']}",
             description: 'Starts at ' . $startDate->format(format: 'H:i') . ', ends at ' . $endDate->format(format: 'H:i') . ".\n\n{$event['link']}",
             type: LeekDuckEventType::create(
-                name: $event['eventType']
+                name: $event['eventType'],
+                heading: $event['heading']
             ),
-            heading: $event['heading'],
             link: $event['link'],
             imageUrl: $event['image'],
             startDateString: $event['start'],
