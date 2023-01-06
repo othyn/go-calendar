@@ -95,16 +95,14 @@ class CalendarService
     public static function addEventsToCalendar(array $events): void
     {
         foreach (self::$manifest as $timezone => $eventTypeCalendars) {
-            foreach ($eventTypeCalendars as $manifest) {
-                foreach ($events as $event) {
-                    self::addEventToCalendar(
-                        timezone: $timezone,
-                        eventType: $manifest->eventType,
-                        event: $event->asCalendarEvent(
-                            timezone: $timezone
-                        )
-                    );
-                }
+            foreach ($events as $event) {
+                self::addEventToCalendar(
+                    timezone: $timezone,
+                    eventType: $event->type,
+                    event: $event->asCalendarEvent(
+                        timezone: $timezone
+                    )
+                );
             }
         }
     }
