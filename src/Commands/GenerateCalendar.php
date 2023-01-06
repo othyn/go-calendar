@@ -5,9 +5,9 @@ declare(strict_types=1);
 namespace Console\Commands;
 
 use Console\Enums\OutputGroup;
+use Console\Services\CalendarService;
 use Console\Services\EventService;
 use Console\Services\OutputService;
-use Spatie\IcalendarGenerator\Components\Calendar;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
@@ -37,60 +37,40 @@ class GenerateCalendar extends Command
 
         $this->output->msg(
             group: OutputGroup::START,
-            message: 'Building latest iCal from Leek Duck events.'
+            message: 'Generating calendars from Leek Duck events.'
         );
 
         $this->output->msg(
             group: OutputGroup::SOURCE,
-            message: 'Grabbing events manifest from ScrapedDuck GitHub...'
+            message: 'Grabbing events from ScrapedDuck GitHub...'
         );
 
-        $events = EventService::fetch();
+        $events = EventService::fetchEvents();
 
         $this->output->msg(
             group: OutputGroup::SOURCE,
-            message: 'Grabbed!'
+            message: 'Events grabbed!'
         );
 
         $this->output->msg(
             group: OutputGroup::CALENDAR,
-            message: 'Creating the calendar...'
+            message: 'Creating calendars...'
+        );
+
+        CalendarService::createCalendars(
+            eventTypes: EventService::fetchEventTypes()
         );
 
 //        $timezones =
 
-        /** @var <string, array{name: string, url: string}> $calendarManifest */
-        $calendarManifest = [
-            'everything' => [
-                'name' => 'Everything',
-                'url' => 'https://github.com/othyn/go-calendar/releases/latest/download/gocal.ics',
-            ],
-        ];
-
-        $everythingCalendar = Calendar::create()
-            ->name(
-                name: 'GO Calendar'
-            )
-            ->description(
-                description: 'All Pokémon GO events, in your local time, auto-updated and sourced from Leek Duck.'
-            )
-            ->refreshInterval(
-                minutes: 1440 // 1 day
-            )
-            ->withoutAutoTimezoneComponents()
-            ->withoutTimezone();
-
-        /** @var array<Calendar> $eventTypeCalendars */
-        $eventTypeCalendars = [];
-
         $this->output->msg(
             group: OutputGroup::CALENDAR,
-            message: 'Created!'
+            message: 'Calendars created!'
         );
 
         $this->output->msg(
             group: OutputGroup::EVENTS,
-            message: 'Creating all calendar permutations from manifest...'
+            message: 'Adding all events to calendars...'
         );
 
         foreach ($events as $event) {
@@ -99,35 +79,10 @@ class GenerateCalendar extends Command
                 message: "┌ Processing ~ {$event->title}"
             );
 
-            if (! isset($eventTypeCalendars[$event->key])) {
-                $eventTypeCalendars[$event->key] = Calendar::create()
-                    ->name(
-                        name: 'GO Calendar - ' . $event->heading
-                    )
-                    ->description(
-                        description: 'All Pokémon GO ' . $event->heading . ' events, in your local time, auto-updated and sourced from Leek Duck.'
-                    )
-                    ->refreshInterval(
-                        minutes: 1440 // 1 day
-                    )
-                    ->withoutAutoTimezoneComponents()
-                    ->withoutTimezone();
-            }
-
-            $calendarEvent = $event->asCalendarEvent();
-
-            $everythingCalendar->event(
-                event: $calendarEvent
+            CalendarService::addEventToCalendar(
+                eventType: $event->type,
+                event: $event->asCalendarEvent()
             );
-
-            $eventTypeCalendars[$event->key]->event(
-                event: $calendarEvent
-            );
-
-            $calendarManifest[$event->key] = [
-                'name' => $event->heading,
-                'url' => "https://github.com/othyn/go-calendar/releases/latest/download/gocal__{$event->key}.ics",
-            ];
 
             $this->output->msg(
                 group: OutputGroup::EVENT,
@@ -145,82 +100,38 @@ class GenerateCalendar extends Command
             );
         }
 
-        ksort(array: $calendarManifest);
-
         $this->output->msg(
             group: OutputGroup::EVENTS,
-            message: 'Created!'
+            message: 'All events added to calendars!'
         );
 
         $this->output->msg(
             group: OutputGroup::EXPORT,
-            message: 'Generating everything-calendar iCal export...'
+            message: 'Exporting all calendars...'
         );
 
-        $calendarFile = __DIR__ . '/../../dist/gocal.ics';
+        CalendarService::exportCalendars();
 
-        file_put_contents(
-            filename: $calendarFile,
-            data: $everythingCalendar->get()
+        $this->output->msg(
+            group: OutputGroup::EXPORT,
+            message: 'Exported all calendars!'
         );
 
         $this->output->msg(
             group: OutputGroup::EXPORT,
-            message: "Generated to '{$calendarFile}'!"
+            message: 'Exporting calendar manifest...'
         );
+
+        CalendarService::exportManifest();
 
         $this->output->msg(
             group: OutputGroup::EXPORT,
-            message: 'Generating all type-calendar iCal exports...'
-        );
-
-        foreach ($eventTypeCalendars as $eventKey => $eventTypeCalendar) {
-            $this->output->msg(
-                group: OutputGroup::EXPORTSUB,
-                message: "Generating {$eventKey} calendar iCal export..."
-            );
-
-            $eventTypeCalendarFile = __DIR__ . "/../../dist/gocal__{$eventKey}.ics";
-
-            file_put_contents(
-                filename: $eventTypeCalendarFile,
-                data: $eventTypeCalendar->get()
-            );
-
-            $this->output->msg(
-                group: OutputGroup::EXPORTSUB,
-                message: "Generated to '{$eventTypeCalendarFile}'!"
-            );
-        }
-
-        $this->output->msg(
-            group: OutputGroup::EXPORT,
-            message: 'Generated all type-calendars!'
-        );
-
-        $this->output->msg(
-            group: OutputGroup::EXPORT,
-            message: 'Generating calendar manifest...'
-        );
-
-        $calendarManifestFile = __DIR__ . '/../../dist/manifest.json';
-
-        file_put_contents(
-            filename: $calendarManifestFile,
-            data: json_encode(
-                value: $calendarManifest,
-                flags: JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE
-            )
-        );
-
-        $this->output->msg(
-            group: OutputGroup::EXPORT,
-            message: 'Created!'
+            message: 'Exported calendar manifest!'
         );
 
         $this->output->msg(
             group: OutputGroup::END,
-            message: 'Calendar generate complete!'
+            message: 'Calendar generation complete!'
         );
 
         return Command::SUCCESS;

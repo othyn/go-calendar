@@ -5,6 +5,7 @@ declare(strict_types=1);
 namespace Console\Services;
 
 use Console\Entities\LeekDuckEvent;
+use Console\Entities\LeekDuckEventType;
 
 class EventService
 {
@@ -15,22 +16,89 @@ class EventService
     protected const EVENTS_URL = 'https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/events.min.json';
 
     /**
-     * Fetches the events manifest from the ScrapedDuck JSON resource.
+     * Cache the parsed JSON response.
+     */
+    protected static array $jsonCache;
+
+    /**
+     * Cache the parsed Events.
      *
-     * @return array<LeekDuckEvent>
+     * @var array<LeekDuckEvent>
+     */
+    protected static array $eventCache;
+
+    /**
+     * Cache the parsed Event types.
+     *
+     * @var array<LeekDuckEventType>
+     */
+    protected static array $eventTypeCache;
+
+    /**
+     * Fetches and parses the events manifest from the ScrapedDuck JSON resource.
      *
      * @throws \JsonException
      */
-    public static function fetch(): array
+    protected static function fetch(): array
     {
-        return LeekDuckEvent::createMany(
-            events: json_decode(
+        if (empty(self::$jsonCache)) {
+            self::$jsonCache = json_decode(
                 json: file_get_contents(
                     filename: self::EVENTS_URL
                 ),
                 associative: true,
                 flags: JSON_THROW_ON_ERROR
-            )
-        );
+            );
+        }
+
+        return self::$jsonCache;
+    }
+
+    /**
+     * Fetches events from the ScrapedDuck resource.
+     *
+     * @return array<LeekDuckEvent>
+     *
+     * @throws \JsonException
+     */
+    public static function fetchEvents(): array
+    {
+        if (empty(self::$eventCache)) {
+            self::$eventCache = LeekDuckEvent::createMany(
+                events: self::fetch()
+            );
+        }
+
+        return self::$eventCache;
+    }
+
+    /**
+     * Fetches event types from the ScrapedDuck resource.
+     *
+     * @return array<LeekDuckEventType>
+     *
+     * @throws \JsonException
+     */
+    public static function fetchEventTypes(): array
+    {
+        if (empty(self::$eventTypeCache)) {
+            $types = [
+                LeekDuckEventType::create(
+                    name: CalendarService::EVERYTHING_CALENDAR_NAME
+                ),
+            ];
+
+            foreach (self::fetchEvents() as $event) {
+                if (! in_array(needle: $event->type, haystack: $types)) {
+                    $types[] = $event->type;
+                }
+            }
+
+            sort(array: $types);
+
+            self::$eventTypeCache = $types;
+        }
+
+        return self::$eventTypeCache;
     }
 }

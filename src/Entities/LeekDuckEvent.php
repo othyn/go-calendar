@@ -11,11 +11,10 @@ class LeekDuckEvent
 {
     public function __construct(
         public string $eventId,
-        public string $key,
         public string $name,
         public string $title,
         public string $description,
-        public string $eventType,
+        public LeekDuckEventType $type,
         public string $heading,
         public string $link,
         public string $imageUrl,
@@ -27,26 +26,6 @@ class LeekDuckEvent
         public bool $isFullDay,
         public ?array $extraData
     ) {
-    }
-
-    /**
-     * The data heading into the event type seems consistent, but given its external, never leave it to chance.
-     */
-    protected static function sanitiseEventType(string $eventType): string
-    {
-        return trim(
-            strtolower(
-                preg_replace(
-                    pattern: '/[\-\ ]/i',
-                    replacement: '_',
-                    subject: preg_replace(
-                        pattern: '/[^a-z0-9\_\-\ ]/i',
-                        replacement: '',
-                        subject: $eventType
-                    )
-                )
-            )
-        );
     }
 
     /**
@@ -74,13 +53,12 @@ class LeekDuckEvent
 
         return new self(
             eventId: $event['eventID'],
-            key: self::sanitiseEventType(
-                eventType: $event['eventType']
-            ),
             name: $event['name'],
             title: "[{$event['heading']}] {$event['name']}",
             description: 'Starts at ' . $startDate->format(format: 'H:i') . ', ends at ' . $endDate->format(format: 'H:i') . ".\n\n{$event['link']}",
-            eventType: $event['eventType'],
+            type: LeekDuckEventType::create(
+                name: $event['eventType']
+            ),
             heading: $event['heading'],
             link: $event['link'],
             imageUrl: $event['image'],
