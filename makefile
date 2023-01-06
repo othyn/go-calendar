@@ -32,3 +32,8 @@ gen: up
 .PHONY: site
 site: up
 	$(call gocal,site)
+
+.PHONY: clean
+clean:
+	rm -r ./dist/*.ics
+	rm -r ./dist/*.json

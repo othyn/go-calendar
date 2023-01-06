@@ -5,6 +5,7 @@ declare(strict_types=1);
 namespace Console\Entities;
 
 use Carbon\Carbon;
+use Console\Services\CalendarService;
 use Spatie\IcalendarGenerator\Components\Event;
 
 class LeekDuckEvent
@@ -30,7 +31,7 @@ class LeekDuckEvent
     /**
      * Create an LeekDuckEvent object from the JSON array object.
      */
-    public static function create(array $event, string $timezone = 'Atlantic/Reykjavik'): self
+    public static function create(array $event, string $timezone): self
     {
         $startDate = Carbon::parse(
             time: $event['start'],
@@ -76,7 +77,7 @@ class LeekDuckEvent
      *
      * @return array<LeekDuckEvent>
      */
-    public static function createMany(array $events, string $timezone = 'Atlantic/Reykjavik'): array
+    public static function createMany(array $events, string $timezone): array
     {
         $parsedEvents = [];
 
@@ -93,8 +94,12 @@ class LeekDuckEvent
     /**
      * Changes the events start and end date Carbon instances to be presented in a new timezone.
      */
-    public function changeTimezone(string $timezone = 'Atlantic/Reykjavik'): void
+    public function changeTimezone(string $timezone): void
     {
+        if ($timezone === CalendarService::LOCAL_TIMEZONE_NAME) {
+            $timezone = CalendarService::LOCAL_TIMEZONE_IDENTIFIER;
+        }
+
         $this->startDate = Carbon::parse(
             time: $this->startDateString,
             tz: new \DateTimeZone(
@@ -113,7 +118,7 @@ class LeekDuckEvent
     /**
      * Converts a Leek Duck event to a calendar event.
      */
-    public function asCalendarEvent(string $timezone = 'Atlantic/Reykjavik'): Event
+    public function asCalendarEvent(string $timezone): Event
     {
         $this->changeTimezone(
             timezone: $timezone
@@ -143,8 +148,11 @@ class LeekDuckEvent
             )
             ->endsAt(
                 ends: $this->endDate
-            )
-            ->withoutTimezone();
+            );
+
+        if ($timezone === CalendarService::LOCAL_TIMEZONE_NAME) {
+            $calendarEvent->withoutTimezone();
+        }
 
         if ($this->isFullDay) {
             $calendarEvent->fullDay();

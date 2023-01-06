@@ -61,11 +61,12 @@ class EventService
      *
      * @throws \JsonException
      */
-    public static function fetchEvents(): array
+    public static function fetchEvents(string $timezone = CalendarService::LOCAL_TIMEZONE_IDENTIFIER): array
     {
         if (empty(self::$eventCache)) {
             self::$eventCache = LeekDuckEvent::createMany(
-                events: self::fetch()
+                events: self::fetch(),
+                timezone: $timezone
             );
         }
 

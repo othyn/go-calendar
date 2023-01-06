@@ -10,7 +10,6 @@ enum OutputGroup: string
     case SOURCE = 'SOURCE';
     case CALENDAR = 'CALENDAR';
     case EVENTS = 'EVENTS';
-    case EVENT = 'EVENT';
     case EXPORT = 'EXPORT';
     case VIEWS = 'VIEWS';
     case END = 'END';
@@ -22,7 +21,6 @@ enum OutputGroup: string
             self::SOURCE => '├',
             self::CALENDAR => '├',
             self::EVENTS => '├',
-            self::EVENT => '├',
             self::EXPORT => '├',
             self::VIEWS => '├',
             self::END => '└<'
@@ -36,7 +34,6 @@ enum OutputGroup: string
             self::SOURCE => 1,
             self::CALENDAR => 1,
             self::EVENTS => 1,
-            self::EVENT => 2,
             self::EXPORT => 1,
             self::VIEWS => 1,
             self::END => 0

@@ -56,6 +56,9 @@ make gen
 
 # Build the pages site into a static HTML file in pages/dist 
 make site
+
+# Delete all generated assets in the dist folder 
+make clean
 ```
 
 As for the code itself, `bin/gocal` is the entrypoint of this CLI tool. It will bootstrap the Symfony console library
