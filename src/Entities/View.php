@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Console\Commands\Entities;
+namespace Console\Entities;
 
 class View
 {

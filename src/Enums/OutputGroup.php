@@ -8,7 +8,6 @@ enum OutputGroup: string
 {
     case START = 'START';
     case SOURCE = 'SOURCE';
-    case PARSE = 'PARSE';
     case CALENDAR = 'CALENDAR';
     case EVENTS = 'EVENTS';
     case EVENT = 'EVENT';
@@ -22,7 +21,6 @@ enum OutputGroup: string
         return match ($this) {
             self::START => '┌<',
             self::SOURCE => '├',
-            self::PARSE => '├',
             self::CALENDAR => '├',
             self::EVENTS => '├',
             self::EVENT => '├',
@@ -38,7 +36,6 @@ enum OutputGroup: string
         return match ($this) {
             self::START => 0,
             self::SOURCE => 1,
-            self::PARSE => 1,
             self::CALENDAR => 1,
             self::EVENTS => 1,
             self::EVENT => 2,

@@ -4,11 +4,10 @@ declare(strict_types=1);
 
 namespace Console\Commands;
 
-use Carbon\Carbon;
 use Console\Enums\OutputGroup;
+use Console\Services\EventService;
 use Console\Services\OutputService;
 use Spatie\IcalendarGenerator\Components\Calendar;
-use Spatie\IcalendarGenerator\Components\Event;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
@@ -29,67 +28,6 @@ class GenerateCalendar extends Command
     }
 
     /**
-     * The data heading into the event type seems consistent, but given its external, never leave it to chance.
-     */
-    protected function sanitiseEventType(string $eventType): string
-    {
-        return trim(
-            strtolower(
-                preg_replace(
-                    pattern: '/[\-\ ]/i',
-                    replacement: '_',
-                    subject: preg_replace(
-                        pattern: '/[^a-z0-9\_\-\ ]/i',
-                        replacement: '',
-                        subject: $eventType
-                    )
-                )
-            )
-        );
-    }
-
-    /**
-     * Fetches the events manifest from the ScrapedDuck JSON resource.
-     *
-     * @throws \JsonException
-     */
-    protected function fetchEvents(): array
-    {
-        $this->output->msg(
-            group: OutputGroup::SOURCE,
-            message: 'Grabbing events manifest from ScrapedDuck GitHub...'
-        );
-
-        // https://github.com/bigfoott/ScrapedDuck/blob/master/docs/EVENTS.md
-        $json = file_get_contents(
-            filename: 'https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/events.min.json'
-        );
-
-        $this->output->msg(
-            group: OutputGroup::SOURCE,
-            message: 'Grabbed!'
-        );
-
-        $this->output->msg(
-            group: OutputGroup::PARSE,
-            message: 'Parsing events manifest...'
-        );
-
-        $events = json_decode(
-            json: $json,
-            associative: true,
-            flags: JSON_THROW_ON_ERROR
-        );
-
-        $this->output->msg(
-            group: OutputGroup::PARSE,
-            message: 'Parsed!'
-        );
-
-        return $events;
-    }
-
-    /**
      * @throws \JsonException
      */
     protected function execute(InputInterface $input, OutputInterface $output): int
@@ -102,7 +40,17 @@ class GenerateCalendar extends Command
             message: 'Building latest iCal from Leek Duck events.'
         );
 
-        $events = $this->fetchEvents();
+        $this->output->msg(
+            group: OutputGroup::SOURCE,
+            message: 'Grabbing events manifest from ScrapedDuck GitHub...'
+        );
+
+        $events = EventService::fetch();
+
+        $this->output->msg(
+            group: OutputGroup::SOURCE,
+            message: 'Grabbed!'
+        );
 
         $this->output->msg(
             group: OutputGroup::CALENDAR,
@@ -146,81 +94,18 @@ class GenerateCalendar extends Command
         );
 
         foreach ($events as $event) {
-            $eventName = '[' . $event['heading'] . '] ' . $event['name'];
-
             $this->output->msg(
                 group: OutputGroup::EVENT,
-                message: "┌ Processing ~ {$eventName}"
+                message: "┌ Processing ~ {$event->title}"
             );
 
-            $startDate = Carbon::parse(
-                time: $event['start'],
-                tz: new \DateTimeZone('Atlantic/Reykjavik')
-            );
-
-            $endDate = Carbon::parse(
-                time: $event['end'],
-                tz: new \DateTimeZone('Atlantic/Reykjavik')
-            );
-
-            $calendarEvent = Event::create()
-                ->uniqueIdentifier(
-                    uid: $event['eventID']
-                )
-                ->name(
-                    name: $eventName
-                )
-                ->description(
-                    description: 'Starts at ' . $startDate->format('H:i') . ', ends at ' . $endDate->format('H:i') . ".\n\n{$event['link']}"
-                )
-                ->url(
-                    url: $event['link']
-                )
-                ->image(
-                    url: $event['image']
-                )
-                ->alertMinutesBefore(
-                    minutes: 15
-                )
-                ->startsAt(
-                    starts: $startDate
-                )
-                ->endsAt(
-                    ends: $endDate
-                )
-                ->withoutTimezone();
-
-            $eventDurationInDays = $startDate->diffInDays($endDate);
-
-            $isFullDay = $eventDurationInDays > 1;
-
-            if ($isFullDay) {
-                $calendarEvent->fullDay();
-            }
-
-            $everythingCalendar->event(
-                event: $calendarEvent
-            );
-
-            $this->output->msg(
-                group: OutputGroup::EVENT,
-                message: "├ Dates ~ Starts at {$startDate->format('Y-m-d H:i')}, ends at {$endDate->format('Y-m-d H:i')}."
-            );
-
-            $this->output->msg(
-                group: OutputGroup::EVENT,
-                message: '├ All day? ~ ' . ($isFullDay ? 'Yes' : 'No')
-            );
-
-            $eventTypeKey = $this->sanitiseEventType($event['eventType']);
-
-            if (! isset($eventTypeCalendars[$eventTypeKey])) {
-                $eventTypeCalendars[$eventTypeKey] = Calendar::create()
+            if (! isset($eventTypeCalendars[$event->key])) {
+                $eventTypeCalendars[$event->key] = Calendar::create()
                     ->name(
-                        name: 'GO Calendar - ' . $event['heading']
+                        name: 'GO Calendar - ' . $event->heading
                     )
                     ->description(
-                        description: 'All Pokémon GO ' . $event['heading'] . ' events, in your local time, auto-updated and sourced from Leek Duck.'
+                        description: 'All Pokémon GO ' . $event->heading . ' events, in your local time, auto-updated and sourced from Leek Duck.'
                     )
                     ->refreshInterval(
                         minutes: 1440 // 1 day
@@ -229,18 +114,34 @@ class GenerateCalendar extends Command
                     ->withoutTimezone();
             }
 
-            $eventTypeCalendars[$eventTypeKey]->event(
+            $calendarEvent = $event->asCalendarEvent();
+
+            $everythingCalendar->event(
                 event: $calendarEvent
             );
 
-            $calendarManifest[$eventTypeKey] = [
-                'name' => $event['heading'],
-                'url' => "https://github.com/othyn/go-calendar/releases/latest/download/gocal__{$eventTypeKey}.ics",
+            $eventTypeCalendars[$event->key]->event(
+                event: $calendarEvent
+            );
+
+            $calendarManifest[$event->key] = [
+                'name' => $event->heading,
+                'url' => "https://github.com/othyn/go-calendar/releases/latest/download/gocal__{$event->key}.ics",
             ];
 
             $this->output->msg(
                 group: OutputGroup::EVENT,
-                message: "└ Calendars ~ Added to 'All' and to '{$event['heading']}'."
+                message: "├ Dates ~ Starts at {$event->startDate->format(format: 'Y-m-d H:i')}, ends at {$event->endDate->format(format: 'Y-m-d H:i')}."
+            );
+
+            $this->output->msg(
+                group: OutputGroup::EVENT,
+                message: '├ All day? ~ ' . ($event->isFullDay ? 'Yes' : 'No')
+            );
+
+            $this->output->msg(
+                group: OutputGroup::EVENT,
+                message: "└ Calendars ~ Added to 'All' and to '{$event->heading}'."
             );
         }
 
@@ -273,13 +174,13 @@ class GenerateCalendar extends Command
             message: 'Generating all type-calendar iCal exports...'
         );
 
-        foreach ($eventTypeCalendars as $eventTypeKey => $eventTypeCalendar) {
+        foreach ($eventTypeCalendars as $eventKey => $eventTypeCalendar) {
             $this->output->msg(
                 group: OutputGroup::EXPORTSUB,
-                message: "Generating {$eventTypeKey} calendar iCal export..."
+                message: "Generating {$eventKey} calendar iCal export..."
             );
 
-            $eventTypeCalendarFile = __DIR__ . "/../../dist/gocal__{$eventTypeKey}.ics";
+            $eventTypeCalendarFile = __DIR__ . "/../../dist/gocal__{$eventKey}.ics";
 
             file_put_contents(
                 filename: $eventTypeCalendarFile,
