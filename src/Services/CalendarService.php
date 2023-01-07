@@ -129,16 +129,25 @@ class CalendarService
      */
     public static function exportManifest(): void
     {
-        $manifest = [];
+        $manifest = [
+            'timezones' => [],
+            'calendars' => [],
+        ];
 
         foreach (self::$manifest as $timezone => $eventTypeCalendars) {
-            if (! isset($manifest[$timezone])) {
-                $manifest[$timezone] = [];
+            if (! in_array(needle: $timezone, haystack: $manifest['timezones'])) {
+                $manifest['timezones'][] = $timezone;
+            }
+
+            if (! isset($manifest['calendars'][$timezone])) {
+                $manifest['calendars'][$timezone] = [];
             }
 
             foreach ($eventTypeCalendars as $calendarManifest) {
-                $manifest[$timezone][$calendarManifest->eventType->key] = [
-                    'name' => $calendarManifest->eventType->title,
+                $manifest['calendars'][$timezone][$calendarManifest->eventType->key] = [
+                    'key' => $calendarManifest->eventType->key,
+                    'name' => $calendarManifest->eventType->name,
+                    'title' => $calendarManifest->eventType->title,
                     'url' => $calendarManifest->eventType->downloadUrl(
                         timezone: $timezone
                     ),

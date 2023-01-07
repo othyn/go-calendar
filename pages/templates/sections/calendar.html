@@ -1,7 +1,7 @@
 <section id="calendars" class="relative py-16 sm:py-24 overflow-hidden bg-gray-50">
     <div class="container mx-auto">
         <div class="relative px-4 max-w-5xl mx-auto">
-            <div class="mb-18 md:mb-16">
+            <div class="mb-18 md:mb-16" x-data="{timezone: '{{ default_timezone }}'}">
                 <span class="inline-block mb-4 text-sm sm:text-base text-red-500 uppercase font-semibold tracking-[.2rem]">
                     Have something a bit lighter?
                 </span>
@@ -14,6 +14,17 @@
                     choose from that only provide specific things from the 'Everything' calendar. Subscribe to just one,
                     or as many as you like, to only have the events that you care about.
                 </p>
+                <label class="block w-full mb-8 text-lg md:text-xl text-red-500 uppercase font-semibold tracking-[.1rem]">
+                    Timezone
+                    <select class="block sm:inline-block w-full max-w-fit ml-0 sm:ml-4 mt-2 sm:mt-0 px-3 py-2 text-gray-700 text-lg font-medium bg-white border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-primary-500 focus:border-primary-500"
+                            x-model="timezone">
+                        @loop{timezones}
+                        <option value="{{ value }}">
+                            {{ value }}
+                        </option>
+                        @endloop
+                    </select>
+                </label>
                 <div class="inline-block min-w-full overflow-hidden rounded-lg shadow">
                     <table class="min-w-full">
                         <thead>
@@ -30,12 +41,14 @@
                         @loop{calendars}
                         <tr>
                             <td class="px-5 py-5 text-sm bg-white border-b border-gray-200">
-                                {{ name }}
+                                {{ title }}
                             </td>
                             <td class="px-5 py-5 text-sm bg-white border-b border-gray-200">
                                 <code class="block text-sm text-gray-700 bg-gray-200 font-medium rounded-md p-2 break-words">
                                     <a href="{{ url }}"
-                                       class="hover:text-red-600">
+                                       class="hover:text-red-600"
+                                       x-text="urls[timezone + '__{{ key }}']"
+                                       x-bind:href="urls[timezone + '__{{ key }}']">
                                         {{ url }}</a>
                                 </code>
                             </td>

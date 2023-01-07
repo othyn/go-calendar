@@ -6,6 +6,7 @@ namespace Console\Commands;
 
 use Console\Entities\View;
 use Console\Enums\OutputGroup;
+use Console\Services\CalendarService;
 use Console\Services\OutputService;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
@@ -187,7 +188,7 @@ class BuildPagesSite extends Command
                 foreach ($with[$loopName] as $value) {
                     $iterationContent .= $this->substituteVariables(
                         in: $loopContent,
-                        with: $value
+                        with: is_array($value) ? $value : ['value' => $value]
                     );
                 }
 
@@ -281,13 +282,23 @@ class BuildPagesSite extends Command
         );
 
         $calendarManifest = $this->getCalendarManifest();
+        $urls = [];
+
+        foreach ($calendarManifest['calendars'] as $timezone => $eventTypeCalendars) {
+            foreach ($eventTypeCalendars as $eventTypeKey => $manifest) {
+                $urls["{$timezone}__{$eventTypeKey}"] = $manifest['url'];
+            }
+        }
 
         $viewsToExport = $this->render(
             with: [
                 'app_url' => 'https://gocalendar.info/',
                 'logo_url' => 'art/icon.svg',
-                'calendars' => $calendarManifest,
-                'default_calendar_url' => $calendarManifest['everything']['url'],
+                'timezones' => $calendarManifest['timezones'],
+                'calendars' => $calendarManifest['calendars'][CalendarService::LOCAL_TIMEZONE_NAME],
+                'default_timezone' => CalendarService::LOCAL_TIMEZONE_NAME,
+                'default_calendar_url' => $calendarManifest['calendars'][CalendarService::LOCAL_TIMEZONE_NAME][CalendarService::EVERYTHING_CALENDAR_KEY]['url'],
+                'urls' => json_encode($urls),
             ]
         );
 
