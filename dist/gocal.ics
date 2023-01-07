@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:season-13-master-league_holiday-cup-ultra-leauge-edition
-DTSTAMP:20230106T195807Z
+DTSTAMP:20230107T001930Z
 SUMMARY:[GO Battle League] Master League and Holiday Cup: Ultra League Edit
  ion | Mythical Wishes
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -29,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:january-communityday2023
-DTSTAMP:20230106T195807Z
+DTSTAMP:20230107T001930Z
 SUMMARY:[Community Day] Chespin Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /january-communityday2023/
@@ -45,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:reshiram-in-5-star-raid-battles-january-2023
-DTSTAMP:20230106T195807Z
+DTSTAMP:20230107T001930Z
 SUMMARY:[Raid Battles] Reshiram in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /reshiram-in-5-star-raid-battles-january-2023/
@@ -61,7 +61,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-steelix-in-mega-raids-january-2023
-DTSTAMP:20230106T195807Z
+DTSTAMP:20230107T001930Z
 SUMMARY:[Raid Battles] Mega Steelix in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-steelix-in-mega-raids-january-2023/
@@ -76,7 +76,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-01-10
-DTSTAMP:20230106T195807Z
+DTSTAMP:20230107T001930Z
 SUMMARY:[Pokémon Spotlight Hour] Swirlix Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-01-10/
@@ -92,7 +92,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20220111
-DTSTAMP:20230106T195807Z
+DTSTAMP:20230107T001930Z
 SUMMARY:[Raid Hour] Zekrom Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20220111/
@@ -107,7 +107,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-13-master-league_master-premier-classic
-DTSTAMP:20230106T195807Z
+DTSTAMP:20230107T001930Z
 SUMMARY:[GO Battle League] Master League and Master Premier Classic | Mythi
  cal Wishes
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -125,7 +125,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-day-steven-stone
-DTSTAMP:20230106T195807Z
+DTSTAMP:20230107T001930Z
 SUMMARY:[Event] GO Battle Day: Steven Stone
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-day-steven-stone/
@@ -141,7 +141,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:twinkling-fantasy-event
-DTSTAMP:20230106T195807Z
+DTSTAMP:20230107T001930Z
 SUMMARY:[Event] Twinkling Fantasy Event
 DESCRIPTION:Starts at 08:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /twinkling-fantasy-event/
@@ -157,7 +157,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-01-17
-DTSTAMP:20230106T195807Z
+DTSTAMP:20230107T001930Z
 SUMMARY:[Pokémon Spotlight Hour] Seedot Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-01-17/
@@ -173,7 +173,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:zekrom-in-5-star-raid-battles-january-2023
-DTSTAMP:20230106T195807Z
+DTSTAMP:20230107T001930Z
 SUMMARY:[Raid Battles] Zekrom in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /zekrom-in-5-star-raid-battles-january-2023/
@@ -188,7 +188,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-salamance-in-mega-raids-january-2023
-DTSTAMP:20230106T195807Z
+DTSTAMP:20230107T001930Z
 SUMMARY:[Raid Battles] Mega Salamence in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-salamance-in-mega-raids-january-2023/
@@ -203,7 +203,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20220118
-DTSTAMP:20230106T195807Z
+DTSTAMP:20230107T001930Z
 SUMMARY:[Raid Hour] Regice Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20220118/
@@ -218,7 +218,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-13-great-league_ultra-league_master-league
-DTSTAMP:20230106T195807Z
+DTSTAMP:20230107T001930Z
 SUMMARY:[GO Battle League] Great League\, Ultra League\, and Master League 
  | Mythical Wishes
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -236,7 +236,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:january-communitydayclassic2023
-DTSTAMP:20230106T195807Z
+DTSTAMP:20230107T001930Z
 SUMMARY:[Community Day] Larvitar Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /january-communitydayclassic2023/
@@ -252,7 +252,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lunar-new-year-2023-event
-DTSTAMP:20230106T195807Z
+DTSTAMP:20230107T001930Z
 SUMMARY:[Event] Lunar New Year 2023
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /lunar-new-year-2023-event/
@@ -267,7 +267,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-01-24
-DTSTAMP:20230106T195807Z
+DTSTAMP:20230107T001930Z
 SUMMARY:[Pokémon Spotlight Hour] Tynamo Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-01-24/
@@ -283,7 +283,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:regice-in-5-star-raid-battles-january-2023
-DTSTAMP:20230106T195807Z
+DTSTAMP:20230107T001930Z
 SUMMARY:[Raid Battles] Regice in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /regice-in-5-star-raid-battles-january-2023/
@@ -298,7 +298,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-lopunny-in-mega-raids-january-2023
-DTSTAMP:20230106T195807Z
+DTSTAMP:20230107T001930Z
 SUMMARY:[Raid Battles] Mega Lopunny in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-lopunny-in-mega-raids-january-2023/
@@ -313,7 +313,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20220125
-DTSTAMP:20230106T195807Z
+DTSTAMP:20230107T001930Z
 SUMMARY:[Raid Hour] Tapu Koko Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20220125/
@@ -328,7 +328,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-13-great-league_weather-cup-great-league-edition
-DTSTAMP:20230106T195807Z
+DTSTAMP:20230107T001930Z
 SUMMARY:[GO Battle League] Great League and Weather Cup: Great League Editi
  on | Mythical Wishes
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -346,7 +346,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-01-31
-DTSTAMP:20230106T195807Z
+DTSTAMP:20230107T001930Z
 SUMMARY:[Pokémon Spotlight Hour] Blitzle Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-01-31/
@@ -362,7 +362,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tapu-koko-in-5-star-raid-battles-january-2023
-DTSTAMP:20230106T195807Z
+DTSTAMP:20230107T001930Z
 SUMMARY:[Raid Battles] Tapu Koko in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /tapu-koko-in-5-star-raid-battles-january-2023/
@@ -378,7 +378,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-aerodactyl-in-mega-raids-january-2023
-DTSTAMP:20230106T195807Z
+DTSTAMP:20230107T001930Z
 SUMMARY:[Raid Battles] Mega Aerodactyl in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-aerodactyl-in-mega-raids-january-2023/
@@ -393,7 +393,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-13-great-league_electric-cup-great-league-edition
-DTSTAMP:20230106T195807Z
+DTSTAMP:20230107T001930Z
 SUMMARY:[GO Battle League] Great League and Electric Cup: Great League Edit
  ion | Mythical Wishes
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -411,7 +411,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:february-communityday2023
-DTSTAMP:20230106T195807Z
+DTSTAMP:20230107T001930Z
 SUMMARY:[Community Day] February Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /february-communityday2023/
@@ -426,7 +426,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:crackling-voltage-event
-DTSTAMP:20230106T195807Z
+DTSTAMP:20230107T001930Z
 SUMMARY:[Event] Crackling Voltage Event
 DESCRIPTION:Starts at 10:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /crackling-voltage-event/
@@ -442,7 +442,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-13-ultra-league_ultra-premier
-DTSTAMP:20230106T195807Z
+DTSTAMP:20230107T001930Z
 SUMMARY:[GO Battle League] Ultra League and Ultra Premier | Mythical Wishes
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /season-13-ultra-league_ultra-premier/
@@ -458,7 +458,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-day-vulpix
-DTSTAMP:20230106T195807Z
+DTSTAMP:20230107T001930Z
 SUMMARY:[Event] GO Battle Day: Vulpix
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-day-vulpix/
@@ -474,7 +474,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-13-ultra-league_love-cup-great-league-edition
-DTSTAMP:20230106T195807Z
+DTSTAMP:20230107T001930Z
 SUMMARY:[GO Battle League] Ultra League and Love Cup: Great League Edition 
  | Mythical Wishes
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -492,7 +492,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-hoenn-live-event-las-vegas
-DTSTAMP:20230106T195807Z
+DTSTAMP:20230107T001930Z
 SUMMARY:[Pokémon GO Tour] Pokémon GO Tour: Hoenn - Las Vegas
 DESCRIPTION:Starts at 18:00\, ends at 02:00.\n\nhttps://leekduck.com/events
  /pokemon-go-tour-hoenn-live-event-las-vegas/
@@ -508,7 +508,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-13-master-league_master-premier
-DTSTAMP:20230106T195807Z
+DTSTAMP:20230107T001930Z
 SUMMARY:[GO Battle League] Master League and Master Premier | Mythical Wish
  es
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -525,7 +525,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-hoenn-global
-DTSTAMP:20230106T195807Z
+DTSTAMP:20230107T001930Z
 SUMMARY:[Pokémon GO Tour] Pokémon GO Tour: Hoenn - Global
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-tour-hoenn-global/
@@ -541,7 +541,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-9-mythical-wishes
-DTSTAMP:20230106T195807Z
+DTSTAMP:20230107T001930Z
 SUMMARY:[Season] Season 9: Mythical Wishes
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-9-mythical-wishes/
@@ -557,7 +557,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-9-mythical-wishes-research-breakthrough
-DTSTAMP:20230106T195807Z
+DTSTAMP:20230107T001930Z
 SUMMARY:[Research Breakthrough] Mythical Wishes Research Breakthrough - Sea
  son 9
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -574,7 +574,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-13-master-league-mega-edition_hoenn-cup-great-league-edition
-DTSTAMP:20230106T195807Z
+DTSTAMP:20230107T001930Z
 SUMMARY:[GO Battle League] Master League: Mega Edition and Hoenn Cup: Great
   League Edition | Mythical Wishes
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
