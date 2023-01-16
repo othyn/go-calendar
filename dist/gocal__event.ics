@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:go-battle-day-steven-stone
-DTSTAMP:20230115T002155Z
+DTSTAMP:20230116T002048Z
 SUMMARY:[Event] GO Battle Day: Steven Stone
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-day-steven-stone/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:twinkling-fantasy-event
-DTSTAMP:20230115T002155Z
+DTSTAMP:20230116T002048Z
 SUMMARY:[Event] Twinkling Fantasy Event
 DESCRIPTION:Starts at 08:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /twinkling-fantasy-event/
@@ -43,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lunar-new-year-2023-event
-DTSTAMP:20230115T002155Z
+DTSTAMP:20230116T002048Z
 SUMMARY:[Event] Lunar New Year 2023
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /lunar-new-year-2023-event/
@@ -59,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:crackling-voltage-event
-DTSTAMP:20230115T002155Z
+DTSTAMP:20230116T002048Z
 SUMMARY:[Event] Crackling Voltage Event
 DESCRIPTION:Starts at 10:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /crackling-voltage-event/
@@ -75,7 +75,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-day-vulpix
-DTSTAMP:20230115T002155Z
+DTSTAMP:20230116T002048Z
 SUMMARY:[Event] GO Battle Day: Vulpix
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-day-vulpix/
