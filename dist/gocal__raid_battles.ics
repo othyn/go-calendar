@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:zekrom-in-5-star-raid-battles-january-2023
-DTSTAMP:20230116T002048Z
+DTSTAMP:20230117T002128Z
 SUMMARY:[Raid Battles] Zekrom in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /zekrom-in-5-star-raid-battles-january-2023/
@@ -26,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-salamance-in-mega-raids-january-2023
-DTSTAMP:20230116T002048Z
+DTSTAMP:20230117T002128Z
 SUMMARY:[Raid Battles] Mega Salamence in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-salamance-in-mega-raids-january-2023/
@@ -41,7 +41,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:regice-in-5-star-raid-battles-january-2023
-DTSTAMP:20230116T002048Z
+DTSTAMP:20230117T002128Z
 SUMMARY:[Raid Battles] Regice in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /regice-in-5-star-raid-battles-january-2023/
@@ -56,7 +56,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-lopunny-in-mega-raids-january-2023
-DTSTAMP:20230116T002048Z
+DTSTAMP:20230117T002128Z
 SUMMARY:[Raid Battles] Mega Lopunny in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-lopunny-in-mega-raids-january-2023/
@@ -71,7 +71,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tapu-koko-in-5-star-raid-battles-january-2023
-DTSTAMP:20230116T002048Z
+DTSTAMP:20230117T002128Z
 SUMMARY:[Raid Battles] Tapu Koko in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /tapu-koko-in-5-star-raid-battles-january-2023/
@@ -87,7 +87,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-aerodactyl-in-mega-raids-january-2023
-DTSTAMP:20230116T002048Z
+DTSTAMP:20230117T002128Z
 SUMMARY:[Raid Battles] Mega Aerodactyl in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-aerodactyl-in-mega-raids-january-2023/
