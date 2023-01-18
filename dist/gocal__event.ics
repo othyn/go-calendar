@@ -10,40 +10,8 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:go-battle-day-steven-stone
-DTSTAMP:20230117T002128Z
-SUMMARY:[Event] GO Battle Day: Steven Stone
-DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
- /go-battle-day-steven-stone/
-URL:https://leekduck.com/events/go-battle-day-steven-stone/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattlenightflyingc
- up.jpg
-DTSTART:20230114T000000
-DTEND:20230115T235959
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:twinkling-fantasy-event
-DTSTAMP:20230117T002128Z
-SUMMARY:[Event] Twinkling Fantasy Event
-DESCRIPTION:Starts at 08:00\, ends at 22:00.\n\nhttps://leekduck.com/events
- /twinkling-fantasy-event/
-URL:https://leekduck.com/events/twinkling-fantasy-event/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/twinkling-fantasy-ev
- ent.jpg
-DTSTART;VALUE=DATE:20230110
-DTEND;VALUE=DATE:20230116
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:lunar-new-year-2023-event
-DTSTAMP:20230117T002128Z
+DTSTAMP:20230118T002118Z
 SUMMARY:[Event] Lunar New Year 2023
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /lunar-new-year-2023-event/
@@ -59,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:crackling-voltage-event
-DTSTAMP:20230117T002128Z
+DTSTAMP:20230118T002118Z
 SUMMARY:[Event] Crackling Voltage Event
 DESCRIPTION:Starts at 10:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /crackling-voltage-event/
@@ -75,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-day-vulpix
-DTSTAMP:20230117T002128Z
+DTSTAMP:20230118T002118Z
 SUMMARY:[Event] GO Battle Day: Vulpix
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-day-vulpix/
