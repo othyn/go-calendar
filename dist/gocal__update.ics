@@ -10,14 +10,15 @@ X-WR-CALDESC:All Pokémon GO Update events\, in your local time\, auto-upda
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:63af8000ae511
-DTSTAMP:20221231T001912Z
-SUMMARY:[Update] Vivillon Debuts and Vivillon Medal
-DESCRIPTION:Starts at 10:00\, ends at 20:00.
-URL:https://leekduck.com/events/vivillon-launch-postcard-feature/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/vivillon-debut.jpg
-DTSTART;VALUE=DATE:20221214
-DTEND;VALUE=DATE:20221230
+UID:primal-reversion-detailed
+DTSTAMP:20230119T002123Z
+SUMMARY:[Update] Primal Reversion
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /primal-reversion-detailed/
+URL:https://leekduck.com/events/primal-reversion-detailed/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/primal-reversion.jpg
+DTSTART;VALUE=DATE:20230118
+DTEND;VALUE=DATE:20230228
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
