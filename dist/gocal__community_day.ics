@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:january-communitydayclassic2023
-DTSTAMP:20230119T002123Z
+DTSTAMP:20230120T002154Z
 SUMMARY:[Community Day] Larvitar Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /january-communitydayclassic2023/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:february-communityday2023
-DTSTAMP:20230119T002123Z
+DTSTAMP:20230120T002154Z
 SUMMARY:[Community Day] Noibat Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /february-communityday2023/
