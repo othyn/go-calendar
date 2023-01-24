@@ -11,13 +11,13 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-go-tour-hoenn-live-event-las-vegas
-DTSTAMP:20230123T001959Z
+DTSTAMP:20230124T002124Z
 SUMMARY:[Pokémon GO Tour] Pokémon GO Tour: Hoenn - Las Vegas
 DESCRIPTION:Starts at 18:00\, ends at 02:00.\n\nhttps://leekduck.com/events
  /pokemon-go-tour-hoenn-live-event-las-vegas/
 URL:https://leekduck.com/events/pokemon-go-tour-hoenn-live-event-las-vegas/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemon-go-tour-2023
- -hoenn-las-vegas.jpg
+ -hoenn-las-vegas-updated.jpg
 DTSTART:20230218T180000
 DTEND:20230220T020000
 BEGIN:VALARM
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-hoenn-global
-DTSTAMP:20230123T001959Z
+DTSTAMP:20230124T002124Z
 SUMMARY:[Pokémon GO Tour] Pokémon GO Tour: Hoenn - Global
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-tour-hoenn-global/
