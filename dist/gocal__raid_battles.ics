@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:tapu-koko-in-5-star-raid-battles-january-2023
-DTSTAMP:20230127T002137Z
+DTSTAMP:20230128T001950Z
 SUMMARY:[Raid Battles] Tapu Koko in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /tapu-koko-in-5-star-raid-battles-january-2023/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-aerodactyl-in-mega-raids-january-2023
-DTSTAMP:20230127T002137Z
+DTSTAMP:20230128T001950Z
 SUMMARY:[Raid Battles] Mega Aerodactyl in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-aerodactyl-in-mega-raids-january-2023/
