@@ -19,7 +19,7 @@ class OutputService
     /**
      * Output a new line to the console in the standard format.
      */
-    public function msg(OutputGroup $group, string $message): void
+    public function msg(OutputGroup $group, string $message, bool $addExtraNewline = false): void
     {
         $msg = $group->prefix();
 
@@ -35,5 +35,11 @@ class OutputService
         $this->output->writeln(
             messages: $msg
         );
+
+        if ($addExtraNewline) {
+            $this->output->writeln(
+                messages: '│'
+            );
+        }
     }
 }

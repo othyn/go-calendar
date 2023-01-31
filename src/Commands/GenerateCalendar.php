@@ -61,8 +61,6 @@ class GenerateCalendar extends Command
             eventTypes: EventService::fetchEventTypes()
         );
 
-//        $timezones =
-
         $this->output->msg(
             group: OutputGroup::CALENDAR,
             message: 'Calendars created!'
@@ -73,32 +71,10 @@ class GenerateCalendar extends Command
             message: 'Adding all events to calendars...'
         );
 
-        foreach ($events as $event) {
-            $this->output->msg(
-                group: OutputGroup::EVENT,
-                message: "┌ Processing ~ {$event->title}"
-            );
-
-            CalendarService::addEventToCalendar(
-                eventType: $event->type,
-                event: $event->asCalendarEvent()
-            );
-
-            $this->output->msg(
-                group: OutputGroup::EVENT,
-                message: "├ Dates ~ Starts at {$event->startDate->format(format: 'Y-m-d H:i')}, ends at {$event->endDate->format(format: 'Y-m-d H:i')}."
-            );
-
-            $this->output->msg(
-                group: OutputGroup::EVENT,
-                message: '├ All day? ~ ' . ($event->isFullDay ? 'Yes' : 'No')
-            );
-
-            $this->output->msg(
-                group: OutputGroup::EVENT,
-                message: "└ Calendars ~ Added to '" . CalendarService::EVERYTHING_CALENDAR_NAME . "' and to '{$event->type->title}'."
-            );
-        }
+        CalendarService::addEventsToCalendar(
+            events: $events,
+            output: $this->output
+        );
 
         $this->output->msg(
             group: OutputGroup::EVENTS,
