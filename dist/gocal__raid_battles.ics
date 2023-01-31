@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:tapu-koko-in-5-star-raid-battles-january-2023
-DTSTAMP:20230131T002155Z
+DTSTAMP:20230131T121146Z
 SUMMARY:[Raid Battles] Tapu Koko in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /tapu-koko-in-5-star-raid-battles-january-2023/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-aerodactyl-in-mega-raids-january-2023
-DTSTAMP:20230131T002155Z
+DTSTAMP:20230131T121146Z
 SUMMARY:[Raid Battles] Mega Aerodactyl in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-aerodactyl-in-mega-raids-january-2023/
@@ -35,6 +35,22 @@ URL:https://leekduck.com/events/mega-aerodactyl-in-mega-raids-january-2023/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
 DTSTART;VALUE=DATE:20230125
 DTEND;VALUE=DATE:20230201
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:registeel-in-5-star-raid-battles-february-2023
+DTSTAMP:20230131T121146Z
+SUMMARY:[Raid Battles] Registeel in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /registeel-in-5-star-raid-battles-february-2023/
+URL:https://leekduck.com/events/registeel-in-5-star-raid-battles-february-2
+ 023/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/registeel.jpg
+DTSTART;VALUE=DATE:20230201
+DTEND;VALUE=DATE:20230208
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M

@@ -10,15 +10,15 @@ X-WR-CALDESC:All Pokémon GO Raid Hour events\, in your local time\, auto-u
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:raidhour20220125
-DTSTAMP:20230126T002010Z
-SUMMARY:[Raid Hour] Tapu Koko Raid Hour
+UID:raidhour20230101
+DTSTAMP:20230131T121146Z
+SUMMARY:[Raid Hour] Registeel Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /raidhour20220125/
-URL:https://leekduck.com/events/raidhour20220125/
+ /raidhour20230101/
+URL:https://leekduck.com/events/raidhour20230101/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
-DTSTART:20230125T180000
-DTEND:20230125T190000
+DTSTART:20230201T180000
+DTEND:20230201T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
