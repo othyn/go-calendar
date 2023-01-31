@@ -4,9 +4,9 @@ declare(strict_types=1);
 
 namespace Console\Services;
 
-use Console\Enums\OutputGroup;
 use Console\Entities\CalendarManifest;
 use Console\Entities\LeekDuckEventType;
+use Console\Enums\OutputGroup;
 use Spatie\IcalendarGenerator\Components\Event;
 
 class CalendarService
@@ -80,7 +80,7 @@ class CalendarService
         foreach ($events as $event) {
             $output->msg(
                 group: OutputGroup::EVENT,
-                message: "┬───────────┬─────────┄"
+                message: '┬───────────┬─────────┄'
             );
 
             $output->msg(
@@ -95,7 +95,7 @@ class CalendarService
 
             $output->msg(
                 group: OutputGroup::EVENT,
-                message: "┼───────────┼─────────┄"
+                message: '┼───────────┼─────────┄'
             );
 
             $output->msg(
@@ -105,7 +105,7 @@ class CalendarService
 
             $output->msg(
                 group: OutputGroup::EVENT,
-                message: "┼───────────┼─────────┄"
+                message: '┼───────────┼─────────┄'
             );
 
             $output->msg(
@@ -115,7 +115,7 @@ class CalendarService
 
             $output->msg(
                 group: OutputGroup::EVENT,
-                message: "┼───────────┼─────────┄"
+                message: '┼───────────┼─────────┄'
             );
 
             $output->msg(
@@ -125,7 +125,7 @@ class CalendarService
 
             $output->msg(
                 group: OutputGroup::EVENT,
-                message: "┴───────────┴─────────┄",
+                message: '┴───────────┴─────────┄',
                 addExtraNewline: true
             );
         }
