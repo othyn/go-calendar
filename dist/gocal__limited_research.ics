@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:spatie/icalendar-generator
+NAME:GO Calendar - Limited Research
+X-WR-CALNAME:GO Calendar - Limited Research
+DESCRIPTION:All Pokémon GO Limited Research events\, in your local time\, 
+ auto-updated and sourced from Leek Duck.
+X-WR-CALDESC:All Pokémon GO Limited Research events\, in your local time\,
+  auto-updated and sourced from Leek Duck.
+REFRESH-INTERVAL;VALUE=DURATION:PT1440M
+X-PUBLISHED-TTL:PT1440M
+BEGIN:VEVENT
+UID:luvdisc-limited-research
+DTSTAMP:20230201T002336Z
+SUMMARY:[Limited Research] Luvdisc Limited Research
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /luvdisc-limited-research/
+URL:https://leekduck.com/events/luvdisc-limited-research/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/valentinesday.jpg
+DTSTART:20230211T100000
+DTEND:20230211T200000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

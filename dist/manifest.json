@@ -15,6 +15,10 @@
         "name": "GO Battle League",
         "url": "https:\/\/github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__go_battle_league.ics"
     },
+    "limited_research": {
+        "name": "Limited Research",
+        "url": "https:\/\/github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__limited_research.ics"
+    },
     "pokemon_go_tour": {
         "name": "Pokémon GO Tour",
         "url": "https:\/\/github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokemon_go_tour.ics"

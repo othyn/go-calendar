@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:crackling-voltage-event
-DTSTAMP:20230131T121146Z
+DTSTAMP:20230201T002336Z
 SUMMARY:[Event] Crackling Voltage Event
 DESCRIPTION:Starts at 10:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /crackling-voltage-event/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-day-vulpix
-DTSTAMP:20230131T121146Z
+DTSTAMP:20230201T002336Z
 SUMMARY:[Event] GO Battle Day: Vulpix
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-day-vulpix/
@@ -42,8 +42,24 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:valentines-day-event-2023
+DTSTAMP:20230201T002336Z
+SUMMARY:[Event] Valentine's Day Event
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /valentines-day-event-2023/
+URL:https://leekduck.com/events/valentines-day-event-2023/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART;VALUE=DATE:20230208
+DTEND;VALUE=DATE:20230214
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:primal-rumblings-event
-DTSTAMP:20230131T121146Z
+DTSTAMP:20230201T002336Z
 SUMMARY:[Event] Primal Rumblings
 DESCRIPTION:Starts at 10:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /primal-rumblings-event/

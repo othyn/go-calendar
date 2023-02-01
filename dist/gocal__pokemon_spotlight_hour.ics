@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-01-31
-DTSTAMP:20230131T121146Z
+DTSTAMP:20230201T002336Z
 SUMMARY:[Pokémon Spotlight Hour] Blitzle Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-01-31/
@@ -20,6 +20,70 @@ IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
  .jpg
 DTSTART:20230131T180000
 DTEND:20230131T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2023-02-07
+DTSTAMP:20230201T002336Z
+SUMMARY:[Pokémon Spotlight Hour] Pidgey Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2023-02-07/
+URL:https://leekduck.com/events/pokemonspotlighthour2023-02-07/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20230207T180000
+DTEND:20230207T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2023-02-14
+DTSTAMP:20230201T002336Z
+SUMMARY:[Pokémon Spotlight Hour] Woobat Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2023-02-14/
+URL:https://leekduck.com/events/pokemonspotlighthour2023-02-14/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20230214T180000
+DTEND:20230214T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2023-02-21
+DTSTAMP:20230201T002336Z
+SUMMARY:[Pokémon Spotlight Hour] Jigglypuff Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2023-02-21/
+URL:https://leekduck.com/events/pokemonspotlighthour2023-02-21/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20230221T180000
+DTEND:20230221T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2023-02-28
+DTSTAMP:20230201T002336Z
+SUMMARY:[Pokémon Spotlight Hour] Slakoth Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2023-02-28/
+URL:https://leekduck.com/events/pokemonspotlighthour2023-02-28/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20230228T180000
+DTEND:20230228T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M

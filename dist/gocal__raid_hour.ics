@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:raidhour20230101
-DTSTAMP:20230131T121146Z
+DTSTAMP:20230201T002336Z
 SUMMARY:[Raid Hour] Registeel Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20230101/
@@ -19,6 +19,51 @@ URL:https://leekduck.com/events/raidhour20230101/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
 DTSTART:20230201T180000
 DTEND:20230201T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20230108
+DTSTAMP:20230201T002336Z
+SUMMARY:[Raid Hour] Tapu Lele Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20230108/
+URL:https://leekduck.com/events/raidhour20230108/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20230208T180000
+DTEND:20230208T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20230115
+DTSTAMP:20230201T002336Z
+SUMMARY:[Raid Hour] Regirock Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20230115/
+URL:https://leekduck.com/events/raidhour20230115/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20230215T180000
+DTEND:20230215T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20230122
+DTSTAMP:20230201T002336Z
+SUMMARY:[Raid Hour] Rayquaza Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20230122/
+URL:https://leekduck.com/events/raidhour20230122/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20230222T180000
+DTEND:20230222T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
