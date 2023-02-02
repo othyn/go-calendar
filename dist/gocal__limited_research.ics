@@ -11,14 +11,15 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:luvdisc-limited-research
-DTSTAMP:20230201T002336Z
+DTSTAMP:20230202T002158Z
 SUMMARY:[Limited Research] Luvdisc Limited Research
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /luvdisc-limited-research/
 URL:https://leekduck.com/events/luvdisc-limited-research/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/valentinesday.jpg
-DTSTART:20230211T100000
-DTEND:20230211T200000
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/luvdisc-limited-rese
+ arch.jpg
+DTSTART:20230211T140000
+DTEND:20230211T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
