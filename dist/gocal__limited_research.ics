@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:luvdisc-limited-research
-DTSTAMP:20230202T002158Z
+DTSTAMP:20230203T002144Z
 SUMMARY:[Limited Research] Luvdisc Limited Research
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /luvdisc-limited-research/
