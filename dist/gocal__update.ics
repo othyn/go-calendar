@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:primal-reversion-detailed
-DTSTAMP:20230208T002021Z
+DTSTAMP:20230209T002102Z
 SUMMARY:[Update] Primal Reversion
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /primal-reversion-detailed/
