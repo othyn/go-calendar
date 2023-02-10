@@ -10,23 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Hour events\, in your local time\, auto-u
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:raidhour20230108
-DTSTAMP:20230209T002102Z
-SUMMARY:[Raid Hour] Tapu Lele Raid Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /raidhour20230108/
-URL:https://leekduck.com/events/raidhour20230108/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
-DTSTART:20230208T180000
-DTEND:20230208T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raidhour20230115
-DTSTAMP:20230209T002102Z
+DTSTAMP:20230210T002248Z
 SUMMARY:[Raid Hour] Regirock Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20230115/
@@ -41,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20230122
-DTSTAMP:20230209T002102Z
+DTSTAMP:20230210T002248Z
 SUMMARY:[Raid Hour] Rayquaza Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20230122/
