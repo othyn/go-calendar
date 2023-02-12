@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:spatie/icalendar-generator
+NAME:GO Calendar - Timed Research
+X-WR-CALNAME:GO Calendar - Timed Research
+DESCRIPTION:All Pokémon GO Timed Research events\, in your local time\, au
+ to-updated and sourced from Leek Duck.
+X-WR-CALDESC:All Pokémon GO Timed Research events\, in your local time\, a
+ uto-updated and sourced from Leek Duck.
+REFRESH-INTERVAL;VALUE=DURATION:PT1440M
+X-PUBLISHED-TTL:PT1440M
+BEGIN:VEVENT
+UID:pokemon-go-tour-vegas-countdown
+DTSTAMP:20230212T002301Z
+SUMMARY:[Timed Research] Pokémon GO Tour: Vegas Countdown
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-go-tour-vegas-countdown/
+URL:https://leekduck.com/events/pokemon-go-tour-vegas-countdown/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemon-go-tour-2023
+ -hoenn-las-vegas-updated.jpg
+DTSTART;VALUE=DATE:20230211
+DTEND;VALUE=DATE:20230217
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
