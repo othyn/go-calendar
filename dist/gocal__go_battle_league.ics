@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:season-13-ultra-league_love-cup-great-league-edition
-DTSTAMP:20230212T002301Z
+DTSTAMP:20230213T002222Z
 SUMMARY:[GO Battle League] Ultra League and Love Cup: Great League Edition 
  | Mythical Wishes
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -29,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-13-master-league_master-premier
-DTSTAMP:20230212T002301Z
+DTSTAMP:20230213T002222Z
 SUMMARY:[GO Battle League] Master League and Master Premier | Mythical Wish
  es
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -46,7 +46,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-13-master-league-mega-edition_hoenn-cup-great-league-edition
-DTSTAMP:20230212T002301Z
+DTSTAMP:20230213T002222Z
 SUMMARY:[GO Battle League] Master League: Mega Edition and Hoenn Cup: Great
   League Edition | Mythical Wishes
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
