@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-02-14
-DTSTAMP:20230213T002222Z
+DTSTAMP:20230214T002156Z
 SUMMARY:[Pokémon Spotlight Hour] Woobat Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-02-14/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-02-21
-DTSTAMP:20230213T002222Z
+DTSTAMP:20230214T002156Z
 SUMMARY:[Pokémon Spotlight Hour] Jigglypuff Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-02-21/
@@ -43,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-02-28
-DTSTAMP:20230213T002222Z
+DTSTAMP:20230214T002156Z
 SUMMARY:[Pokémon Spotlight Hour] Slakoth Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-02-28/
