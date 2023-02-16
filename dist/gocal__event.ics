@@ -10,24 +10,8 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:valentines-day-event-2023
-DTSTAMP:20230215T002140Z
-SUMMARY:[Event] Valentine's Day Event
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /valentines-day-event-2023/
-URL:https://leekduck.com/events/valentines-day-event-2023/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/valentines-day-2023.
- jpg
-DTSTART;VALUE=DATE:20230208
-DTEND;VALUE=DATE:20230214
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:primal-rumblings-event
-DTSTAMP:20230215T002140Z
+DTSTAMP:20230216T002136Z
 SUMMARY:[Event] Primal Rumblings
 DESCRIPTION:Starts at 10:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /primal-rumblings-event/
@@ -42,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season10-unannounced-event-march-5
-DTSTAMP:20230215T002140Z
+DTSTAMP:20230216T002136Z
 SUMMARY:[Event] Unannounced Event - March 5
 DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
  /season10-unannounced-event-march-5/
@@ -58,7 +42,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season10-unannounced-event-march-11
-DTSTAMP:20230215T002140Z
+DTSTAMP:20230216T002136Z
 SUMMARY:[Event] Unannounced Event - March 11
 DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
  /season10-unannounced-event-march-11/
@@ -74,7 +58,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season10-unannounced-event-april-09
-DTSTAMP:20230215T002140Z
+DTSTAMP:20230216T002136Z
 SUMMARY:[Event] Unannounced Event - April 9
 DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
  /season10-unannounced-event-april-09/
@@ -90,7 +74,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season10-unannounced-event-april-23
-DTSTAMP:20230215T002140Z
+DTSTAMP:20230216T002136Z
 SUMMARY:[Event] Unannounced Event - April 23
 DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
  /season10-unannounced-event-april-23/
@@ -106,7 +90,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season10-unannounced-event-may-27
-DTSTAMP:20230215T002140Z
+DTSTAMP:20230216T002136Z
 SUMMARY:[Event] Unannounced Event - May 27
 DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
  /season10-unannounced-event-may-27/
