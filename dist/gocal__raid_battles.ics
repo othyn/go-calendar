@@ -10,39 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Battles events\, in your local time\, aut
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:tapu-lele-in-5-star-raid-battles-february-2023
-DTSTAMP:20230216T002136Z
-SUMMARY:[Raid Battles] Tapu Lele in 5-star Raid Battles
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /tapu-lele-in-5-star-raid-battles-february-2023/
-URL:https://leekduck.com/events/tapu-lele-in-5-star-raid-battles-february-2
- 023/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/tapu-lele.jpg
-DTSTART;VALUE=DATE:20230208
-DTEND;VALUE=DATE:20230215
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:mega-gardevoir-in-mega-raids-february-2023
-DTSTAMP:20230216T002136Z
-SUMMARY:[Raid Battles] Mega Gardevoir in Mega Raids
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /mega-gardevoir-in-mega-raids-february-2023/
-URL:https://leekduck.com/events/mega-gardevoir-in-mega-raids-february-2023/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;VALUE=DATE:20230208
-DTEND;VALUE=DATE:20230215
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:regirock-in-5-star-raid-battles-february-2023
-DTSTAMP:20230216T002136Z
+DTSTAMP:20230217T002310Z
 SUMMARY:[Raid Battles] Regirock in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /regirock-in-5-star-raid-battles-february-2023/
@@ -58,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-pidgeot-in-mega-raids-february-2023
-DTSTAMP:20230216T002136Z
+DTSTAMP:20230217T002310Z
 SUMMARY:[Raid Battles] Mega Pidgeot in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-pidgeot-in-mega-raids-february-2023/
@@ -73,7 +42,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:rayquaza-in-5-star-raid-battles-february-2023
-DTSTAMP:20230216T002136Z
+DTSTAMP:20230217T002310Z
 SUMMARY:[Raid Battles] Rayquaza in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /rayquaza-in-5-star-raid-battles-february-2023/
@@ -89,7 +58,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-latias-and-mega-latios-in-mega-raids-february-2023
-DTSTAMP:20230216T002136Z
+DTSTAMP:20230217T002310Z
 SUMMARY:[Raid Battles] Mega Latias and Mega Latios in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-latias-and-mega-latios-in-mega-raids-february-2023/
