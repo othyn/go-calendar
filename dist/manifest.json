@@ -39,10 +39,6 @@
         "name": "Season",
         "url": "https:\/\/github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__season.ics"
     },
-    "timed_research": {
-        "name": "Timed Research",
-        "url": "https:\/\/github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__timed_research.ics"
-    },
     "update": {
         "name": "Update",
         "url": "https:\/\/github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__update.ics"
