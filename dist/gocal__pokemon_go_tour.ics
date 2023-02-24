@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-go-tour-hoenn-global
-DTSTAMP:20230223T002110Z
+DTSTAMP:20230224T002112Z
 SUMMARY:[Pokémon GO Tour] Pokémon GO Tour: Hoenn - Global
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-tour-hoenn-global/
