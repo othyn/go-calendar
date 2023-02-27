@@ -10,23 +10,8 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:primal-rumblings-event
-DTSTAMP:20230226T002432Z
-SUMMARY:[Event] Primal Rumblings
-DESCRIPTION:Starts at 10:00\, ends at 22:00.\n\nhttps://leekduck.com/events
- /primal-rumblings-event/
-URL:https://leekduck.com/events/primal-rumblings-event/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/primal-rumblings.jpg
-DTSTART;VALUE=DATE:20230222
-DTEND;VALUE=DATE:20230224
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:season10-unannounced-event-march-5
-DTSTAMP:20230226T002432Z
+DTSTAMP:20230227T002215Z
 SUMMARY:[Event] Unannounced Event - March 5
 DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
  /season10-unannounced-event-march-5/
@@ -42,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season10-unannounced-event-march-11
-DTSTAMP:20230226T002432Z
+DTSTAMP:20230227T002215Z
 SUMMARY:[Event] Unannounced Event - March 11
 DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
  /season10-unannounced-event-march-11/
@@ -58,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season10-unannounced-event-april-09
-DTSTAMP:20230226T002432Z
+DTSTAMP:20230227T002215Z
 SUMMARY:[Event] Unannounced Event - April 9
 DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
  /season10-unannounced-event-april-09/
@@ -74,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season10-unannounced-event-april-23
-DTSTAMP:20230226T002432Z
+DTSTAMP:20230227T002215Z
 SUMMARY:[Event] Unannounced Event - April 23
 DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
  /season10-unannounced-event-april-23/
@@ -90,7 +75,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season10-unannounced-event-may-27
-DTSTAMP:20230226T002432Z
+DTSTAMP:20230227T002215Z
 SUMMARY:[Event] Unannounced Event - May 27
 DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
  /season10-unannounced-event-may-27/
