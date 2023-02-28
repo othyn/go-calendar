@@ -15,10 +15,6 @@
         "name": "GO Battle League",
         "url": "https:\/\/github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__go_battle_league.ics"
     },
-    "pokemon_go_tour": {
-        "name": "Pokémon GO Tour",
-        "url": "https:\/\/github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokemon_go_tour.ics"
-    },
     "pokemon_spotlight_hour": {
         "name": "Pokémon Spotlight Hour",
         "url": "https:\/\/github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokemon_spotlight_hour.ics"
