@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:season-9-mythical-wishes-research-breakthrough
-DTSTAMP:20230228T002159Z
+DTSTAMP:20230301T002544Z
 SUMMARY:[Research Breakthrough] Mythical Wishes Research Breakthrough - Sea
  son 9
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -21,6 +21,23 @@ URL:https://leekduck.com/events/season-9-mythical-wishes-research-breakthro
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/researchWinter.jpg
 DTSTART;VALUE=DATE:20221201
 DTEND;VALUE=DATE:20230301
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:season-10-rising-heroes-research-breakthrough
+DTSTAMP:20230301T002544Z
+SUMMARY:[Research Breakthrough] Rising Heroes Research Breakthrough - Seaso
+ n 10
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /season-10-rising-heroes-research-breakthrough/
+URL:https://leekduck.com/events/season-10-rising-heroes-research-breakthrou
+ gh/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/researchWinter.jpg
+DTSTART;VALUE=DATE:20230301
+DTEND;VALUE=DATE:20230601
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M

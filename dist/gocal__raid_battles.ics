@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:rayquaza-in-5-star-raid-battles-february-2023
-DTSTAMP:20230228T002159Z
+DTSTAMP:20230301T002544Z
 SUMMARY:[Raid Battles] Rayquaza in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /rayquaza-in-5-star-raid-battles-february-2023/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-latias-and-mega-latios-in-mega-raids-february-2023
-DTSTAMP:20230228T002159Z
+DTSTAMP:20230301T002544Z
 SUMMARY:[Raid Battles] Mega Latias and Mega Latios in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-latias-and-mega-latios-in-mega-raids-february-2023/
@@ -36,6 +36,21 @@ URL:https://leekduck.com/events/mega-latias-and-mega-latios-in-mega-raids-f
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
 DTSTART;VALUE=DATE:20230222
 DTEND;VALUE=DATE:20230301
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tornadus-in-5-star-raid-battles-march-2023
+DTSTAMP:20230301T002544Z
+SUMMARY:[Raid Battles] Tornadus in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /tornadus-in-5-star-raid-battles-march-2023/
+URL:https://leekduck.com/events/tornadus-in-5-star-raid-battles-march-2023/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/tornadus.jpg
+DTSTART;VALUE=DATE:20230301
+DTEND;VALUE=DATE:20230308
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M

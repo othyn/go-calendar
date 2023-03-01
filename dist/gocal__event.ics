@@ -10,16 +10,16 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:season10-unannounced-event-march-5
-DTSTAMP:20230228T002159Z
-SUMMARY:[Event] Unannounced Event - March 5
-DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
- /season10-unannounced-event-march-5/
-URL:https://leekduck.com/events/season10-unannounced-event-march-5/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
-DTSTART:20230305T000000
-DTEND:20230305T000000
+UID:catch-mastery-march-2023
+DTSTAMP:20230301T002544Z
+SUMMARY:[Event] Catch Mastery Event
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /catch-mastery-march-2023/
+URL:https://leekduck.com/events/catch-mastery-march-2023/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/catch-mastery-march-
+ 2023.jpg
+DTSTART:20230305T100000
+DTEND:20230305T200000
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season10-unannounced-event-march-11
-DTSTAMP:20230228T002159Z
+DTSTAMP:20230301T002544Z
 SUMMARY:[Event] Unannounced Event - March 11
 DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
  /season10-unannounced-event-march-11/
@@ -43,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season10-unannounced-event-april-09
-DTSTAMP:20230228T002159Z
+DTSTAMP:20230301T002544Z
 SUMMARY:[Event] Unannounced Event - April 9
 DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
  /season10-unannounced-event-april-09/
@@ -59,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season10-unannounced-event-april-23
-DTSTAMP:20230228T002159Z
+DTSTAMP:20230301T002544Z
 SUMMARY:[Event] Unannounced Event - April 23
 DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
  /season10-unannounced-event-april-23/
@@ -75,7 +75,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season10-unannounced-event-may-27
-DTSTAMP:20230228T002159Z
+DTSTAMP:20230301T002544Z
 SUMMARY:[Event] Unannounced Event - May 27
 DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
  /season10-unannounced-event-may-27/

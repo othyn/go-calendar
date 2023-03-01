@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:season-9-mythical-wishes
-DTSTAMP:20230228T002159Z
+DTSTAMP:20230301T002544Z
 SUMMARY:[Season] Season 9: Mythical Wishes
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-9-mythical-wishes/
@@ -20,6 +20,22 @@ IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/season9-mythical-wis
  hes.jpg
 DTSTART;VALUE=DATE:20221201
 DTEND;VALUE=DATE:20230301
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:season-10-rising-heroes
+DTSTAMP:20230301T002544Z
+SUMMARY:[Season] Season 10: Rising Heroes
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /season-10-rising-heroes/
+URL:https://leekduck.com/events/season-10-rising-heroes/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/season-10-rising-her
+ oes-key.jpg
+DTSTART;VALUE=DATE:20230301
+DTEND;VALUE=DATE:20230601
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M

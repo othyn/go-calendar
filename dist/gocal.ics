@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-02-28
-DTSTAMP:20230228T002159Z
+DTSTAMP:20230301T002544Z
 SUMMARY:[Pokémon Spotlight Hour] Slakoth Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-02-28/
@@ -26,23 +26,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:primal-reversion-detailed
-DTSTAMP:20230228T002159Z
-SUMMARY:[Update] Primal Reversion
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /primal-reversion-detailed/
-URL:https://leekduck.com/events/primal-reversion-detailed/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/primal-reversion.jpg
-DTSTART;VALUE=DATE:20230118
-DTEND;VALUE=DATE:20230228
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:season-9-mythical-wishes
-DTSTAMP:20230228T002159Z
+DTSTAMP:20230301T002544Z
 SUMMARY:[Season] Season 9: Mythical Wishes
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-9-mythical-wishes/
@@ -58,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:rayquaza-in-5-star-raid-battles-february-2023
-DTSTAMP:20230228T002159Z
+DTSTAMP:20230301T002544Z
 SUMMARY:[Raid Battles] Rayquaza in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /rayquaza-in-5-star-raid-battles-february-2023/
@@ -74,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-latias-and-mega-latios-in-mega-raids-february-2023
-DTSTAMP:20230228T002159Z
+DTSTAMP:20230301T002544Z
 SUMMARY:[Raid Battles] Mega Latias and Mega Latios in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-latias-and-mega-latios-in-mega-raids-february-2023/
@@ -90,7 +75,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-9-mythical-wishes-research-breakthrough
-DTSTAMP:20230228T002159Z
+DTSTAMP:20230301T002544Z
 SUMMARY:[Research Breakthrough] Mythical Wishes Research Breakthrough - Sea
  son 9
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -107,7 +92,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-13-master-league-mega-edition_hoenn-cup-great-league-edition
-DTSTAMP:20230228T002159Z
+DTSTAMP:20230301T002544Z
 SUMMARY:[GO Battle League] Master League: Mega Edition and Hoenn Cup: Great
   League Edition | Mythical Wishes
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -124,16 +109,47 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:season10-unannounced-event-march-5
-DTSTAMP:20230228T002159Z
-SUMMARY:[Event] Unannounced Event - March 5
-DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
- /season10-unannounced-event-march-5/
-URL:https://leekduck.com/events/season10-unannounced-event-march-5/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
-DTSTART:20230305T000000
-DTEND:20230305T000000
+UID:catch-mastery-march-2023
+DTSTAMP:20230301T002544Z
+SUMMARY:[Event] Catch Mastery Event
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /catch-mastery-march-2023/
+URL:https://leekduck.com/events/catch-mastery-march-2023/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/catch-mastery-march-
+ 2023.jpg
+DTSTART:20230305T100000
+DTEND:20230305T200000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2023-03-07
+DTSTAMP:20230301T002544Z
+SUMMARY:[Pokémon Spotlight Hour] Eevee Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2023-03-07/
+URL:https://leekduck.com/events/pokemonspotlighthour2023-03-07/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20230307T180000
+DTEND:20230307T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tornadus-in-5-star-raid-battles-march-2023
+DTSTAMP:20230301T002544Z
+SUMMARY:[Raid Battles] Tornadus in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /tornadus-in-5-star-raid-battles-march-2023/
+URL:https://leekduck.com/events/tornadus-in-5-star-raid-battles-march-2023/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/tornadus.jpg
+DTSTART;VALUE=DATE:20230301
+DTEND;VALUE=DATE:20230308
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
@@ -141,7 +157,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season10-unannounced-event-march-11
-DTSTAMP:20230228T002159Z
+DTSTAMP:20230301T002544Z
 SUMMARY:[Event] Unannounced Event - March 11
 DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
  /season10-unannounced-event-march-11/
@@ -156,8 +172,24 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemonspotlighthour2023-03-14
+DTSTAMP:20230301T002544Z
+SUMMARY:[Pokémon Spotlight Hour] Rowlet Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2023-03-14/
+URL:https://leekduck.com/events/pokemonspotlighthour2023-03-14/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20230314T180000
+DTEND:20230314T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:march-communityday2023
-DTSTAMP:20230228T002159Z
+DTSTAMP:20230301T002544Z
 SUMMARY:[Community Day] March Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /march-communityday2023/
@@ -171,8 +203,40 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemonspotlighthour2023-03-21
+DTSTAMP:20230301T002544Z
+SUMMARY:[Pokémon Spotlight Hour] Litten Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2023-03-21/
+URL:https://leekduck.com/events/pokemonspotlighthour2023-03-21/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20230321T180000
+DTEND:20230321T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2023-03-28
+DTSTAMP:20230301T002544Z
+SUMMARY:[Pokémon Spotlight Hour] Popplio Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2023-03-28/
+URL:https://leekduck.com/events/pokemonspotlighthour2023-03-28/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20230328T180000
+DTEND:20230328T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:season10-unannounced-event-april-09
-DTSTAMP:20230228T002159Z
+DTSTAMP:20230301T002544Z
 SUMMARY:[Event] Unannounced Event - April 9
 DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
  /season10-unannounced-event-april-09/
@@ -188,7 +252,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:april-communityday2023
-DTSTAMP:20230228T002159Z
+DTSTAMP:20230301T002544Z
 SUMMARY:[Community Day] April Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /april-communityday2023/
@@ -203,7 +267,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season10-unannounced-event-april-23
-DTSTAMP:20230228T002159Z
+DTSTAMP:20230301T002544Z
 SUMMARY:[Event] Unannounced Event - April 23
 DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
  /season10-unannounced-event-april-23/
@@ -219,7 +283,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:april-communitydayclassic2023
-DTSTAMP:20230228T002159Z
+DTSTAMP:20230301T002544Z
 SUMMARY:[Community Day] April Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /april-communitydayclassic2023/
@@ -234,7 +298,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communityday2023
-DTSTAMP:20230228T002159Z
+DTSTAMP:20230301T002544Z
 SUMMARY:[Community Day] May Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /may-communityday2023/
@@ -249,7 +313,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season10-unannounced-event-may-27
-DTSTAMP:20230228T002159Z
+DTSTAMP:20230301T002544Z
 SUMMARY:[Event] Unannounced Event - May 27
 DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
  /season10-unannounced-event-may-27/
@@ -258,6 +322,39 @@ IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
  pg
 DTSTART:20230527T000000
 DTEND:20230528T000000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:season-10-rising-heroes
+DTSTAMP:20230301T002544Z
+SUMMARY:[Season] Season 10: Rising Heroes
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /season-10-rising-heroes/
+URL:https://leekduck.com/events/season-10-rising-heroes/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/season-10-rising-her
+ oes-key.jpg
+DTSTART;VALUE=DATE:20230301
+DTEND;VALUE=DATE:20230601
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:season-10-rising-heroes-research-breakthrough
+DTSTAMP:20230301T002544Z
+SUMMARY:[Research Breakthrough] Rising Heroes Research Breakthrough - Seaso
+ n 10
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /season-10-rising-heroes-research-breakthrough/
+URL:https://leekduck.com/events/season-10-rising-heroes-research-breakthrou
+ gh/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/researchWinter.jpg
+DTSTART;VALUE=DATE:20230301
+DTEND;VALUE=DATE:20230601
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
