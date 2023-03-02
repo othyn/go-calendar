@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:spatie/icalendar-generator
+NAME:GO Calendar - Elite Raids
+X-WR-CALNAME:GO Calendar - Elite Raids
+DESCRIPTION:All Pokémon GO Elite Raids events\, in your local time\, auto-
+ updated and sourced from Leek Duck.
+X-WR-CALDESC:All Pokémon GO Elite Raids events\, in your local time\, auto
+ -updated and sourced from Leek Duck.
+REFRESH-INTERVAL;VALUE=DURATION:PT1440M
+X-PUBLISHED-TTL:PT1440M
+BEGIN:VEVENT
+UID:elite-raid-regieleki-or-regidrago-march-2023
+DTSTAMP:20230302T002404Z
+SUMMARY:[Elite Raids] Elite Raid
+DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /elite-raid-regieleki-or-regidrago-march-2023/
+URL:https://leekduck.com/events/elite-raid-regieleki-or-regidrago-march-202
+ 3/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/elite-raids-splash-n
+ ologo.jpg
+DTSTART:20230311T110000
+DTEND:20230311T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:elite-raid-regieleki-or-regidrago-april-2023
+DTSTAMP:20230302T002404Z
+SUMMARY:[Elite Raids] Elite Raid
+DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /elite-raid-regieleki-or-regidrago-april-2023/
+URL:https://leekduck.com/events/elite-raid-regieleki-or-regidrago-april-202
+ 3/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/elite-raids-splash-n
+ ologo.jpg
+DTSTART:20230409T110000
+DTEND:20230409T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

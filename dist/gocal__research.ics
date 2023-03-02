@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:spatie/icalendar-generator
+NAME:GO Calendar - Research
+X-WR-CALNAME:GO Calendar - Research
+DESCRIPTION:All Pokémon GO Research events\, in your local time\, auto-upd
+ ated and sourced from Leek Duck.
+X-WR-CALDESC:All Pokémon GO Research events\, in your local time\, auto-up
+ dated and sourced from Leek Duck.
+REFRESH-INTERVAL;VALUE=DURATION:PT1440M
+X-PUBLISHED-TTL:PT1440M
+BEGIN:VEVENT
+UID:choose-your-fighting-type-timed-research-mexico-exclusive
+DTSTAMP:20230302T002404Z
+SUMMARY:[Research] Choose Your Fighting Type Timed Research
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /choose-your-fighting-type-timed-research-mexico-exclusive/
+URL:https://leekduck.com/events/choose-your-fighting-type-timed-research-me
+ xico-exclusive/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/hawlucha.jpg
+DTSTART;VALUE=DATE:20230301
+DTEND;VALUE=DATE:20230308
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
