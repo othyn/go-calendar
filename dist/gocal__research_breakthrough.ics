@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Research Breakthrough events\, in your local t
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:season-9-mythical-wishes-research-breakthrough
-DTSTAMP:20230302T002404Z
-SUMMARY:[Research Breakthrough] Mythical Wishes Research Breakthrough - Sea
- son 9
-DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /season-9-mythical-wishes-research-breakthrough/
-URL:https://leekduck.com/events/season-9-mythical-wishes-research-breakthro
- ugh/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/researchWinter.jpg
-DTSTART;VALUE=DATE:20221201
-DTEND;VALUE=DATE:20230301
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:season-10-rising-heroes-research-breakthrough
-DTSTAMP:20230302T002404Z
+DTSTAMP:20230303T015952Z
 SUMMARY:[Research Breakthrough] Rising Heroes Research Breakthrough - Seaso
  n 10
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events

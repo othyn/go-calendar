@@ -10,26 +10,8 @@ X-WR-CALDESC:All Pokémon GO GO Battle League events\, in your local time\,
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:season-13-master-league-mega-edition_hoenn-cup-great-league-edition
-DTSTAMP:20230302T002404Z
-SUMMARY:[GO Battle League] Master League: Mega Edition and Hoenn Cup: Great
-  League Edition | Mythical Wishes
-DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /season-13-master-league-mega-edition_hoenn-cup-great-league-edition/
-URL:https://leekduck.com/events/season-13-master-league-mega-edition_hoenn-
- cup-great-league-edition/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattleleague-maste
- r-key.jpg
-DTSTART;VALUE=DATE:20230223
-DTEND;VALUE=DATE:20230301
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:season-14-great-league_great-league-remix
-DTSTAMP:20230302T002404Z
+DTSTAMP:20230303T015952Z
 SUMMARY:[GO Battle League] Great League and Fantasy Cup: Ultra League Editi
  on | Rising Heroes
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
