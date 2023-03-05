@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:catch-mastery-march-2023
-DTSTAMP:20230304T002009Z
+DTSTAMP:20230305T002448Z
 SUMMARY:[Event] Catch Mastery Event
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /catch-mastery-march-2023/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-03-07
-DTSTAMP:20230304T002009Z
+DTSTAMP:20230305T002448Z
 SUMMARY:[Pokémon Spotlight Hour] Eevee Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-03-07/
@@ -43,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tornadus-in-5-star-raid-battles-march-2023
-DTSTAMP:20230304T002009Z
+DTSTAMP:20230305T002448Z
 SUMMARY:[Raid Battles] Tornadus in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /tornadus-in-5-star-raid-battles-march-2023/
@@ -58,7 +58,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-charizard-y-in-mega-raids-march-2023
-DTSTAMP:20230304T002009Z
+DTSTAMP:20230305T002448Z
 SUMMARY:[Raid Battles] Mega Charizard Y in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-charizard-y-in-mega-raids-march-2023/
@@ -73,7 +73,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-14-great-league_great-league-remix
-DTSTAMP:20230304T002009Z
+DTSTAMP:20230305T002448Z
 SUMMARY:[GO Battle League] Great League and Fantasy Cup: Ultra League Editi
  on | Rising Heroes
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -90,7 +90,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20230308
-DTSTAMP:20230304T002009Z
+DTSTAMP:20230305T002448Z
 SUMMARY:[Raid Hour] Ho-Oh Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20230308/
@@ -105,7 +105,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:choose-your-fighting-type-timed-research-mexico-exclusive
-DTSTAMP:20230304T002009Z
+DTSTAMP:20230305T002448Z
 SUMMARY:[Research] Choose Your Fighting Type Timed Research
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /choose-your-fighting-type-timed-research-mexico-exclusive/
@@ -121,7 +121,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:elite-raid-regieleki-or-regidrago-march-2023
-DTSTAMP:20230304T002009Z
+DTSTAMP:20230305T002448Z
 SUMMARY:[Elite Raids] Elite Raid
 DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /elite-raid-regieleki-or-regidrago-march-2023/
@@ -138,7 +138,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-03-14
-DTSTAMP:20230304T002009Z
+DTSTAMP:20230305T002448Z
 SUMMARY:[Pokémon Spotlight Hour] Rowlet Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-03-14/
@@ -154,7 +154,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:festival-of-colors-event-2023
-DTSTAMP:20230304T002009Z
+DTSTAMP:20230305T002448Z
 SUMMARY:[Event] Festival of Colors
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /festival-of-colors-event-2023/
@@ -170,7 +170,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20230315
-DTSTAMP:20230304T002009Z
+DTSTAMP:20230305T002448Z
 SUMMARY:[Raid Hour] Ho-Oh Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20230315/
@@ -185,7 +185,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:march-communityday2023
-DTSTAMP:20230304T002009Z
+DTSTAMP:20230305T002448Z
 SUMMARY:[Community Day] Slowpoke Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /march-communityday2023/
@@ -201,7 +201,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ho-oh-in-5-star-raid-battles-march-2023
-DTSTAMP:20230304T002009Z
+DTSTAMP:20230305T002448Z
 SUMMARY:[Raid Battles] Ho-Oh in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /ho-oh-in-5-star-raid-battles-march-2023/
@@ -216,7 +216,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-medicham-in-mega-raids-march-2023
-DTSTAMP:20230304T002009Z
+DTSTAMP:20230305T002448Z
 SUMMARY:[Raid Battles] Mega Medicham in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-medicham-in-mega-raids-march-2023/
@@ -231,7 +231,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-03-21
-DTSTAMP:20230304T002009Z
+DTSTAMP:20230305T002448Z
 SUMMARY:[Pokémon Spotlight Hour] Litten Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-03-21/
@@ -247,7 +247,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20230322
-DTSTAMP:20230304T002009Z
+DTSTAMP:20230305T002448Z
 SUMMARY:[Raid Hour] Thundurus Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20230322/
@@ -262,7 +262,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:thundurus-in-5-star-raid-battles-march-2023
-DTSTAMP:20230304T002009Z
+DTSTAMP:20230305T002448Z
 SUMMARY:[Raid Battles] Thundurus in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /thundurus-in-5-star-raid-battles-march-2023/
@@ -278,7 +278,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-venusaur-in-mega-raids-march-2023
-DTSTAMP:20230304T002009Z
+DTSTAMP:20230305T002448Z
 SUMMARY:[Raid Battles] Mega Venusaur in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-venusaur-in-mega-raids-march-2023/
@@ -293,7 +293,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-03-28
-DTSTAMP:20230304T002009Z
+DTSTAMP:20230305T002448Z
 SUMMARY:[Pokémon Spotlight Hour] Popplio Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-03-28/
@@ -309,7 +309,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20230329
-DTSTAMP:20230304T002009Z
+DTSTAMP:20230305T002448Z
 SUMMARY:[Raid Hour] Lugia Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20230329/
@@ -324,7 +324,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lets-go-team-go-rocket-takeover
-DTSTAMP:20230304T002009Z
+DTSTAMP:20230305T002448Z
 SUMMARY:[Event] Let's GO! + Team GO Rocket Takeover
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /lets-go-team-go-rocket-takeover/
@@ -340,7 +340,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20230405
-DTSTAMP:20230304T002009Z
+DTSTAMP:20230305T002448Z
 SUMMARY:[Raid Hour] Lugia Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20230405/
@@ -355,7 +355,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season10-unannounced-event-april-09
-DTSTAMP:20230304T002009Z
+DTSTAMP:20230305T002448Z
 SUMMARY:[Event] Unannounced Event - April 9
 DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
  /season10-unannounced-event-april-09/
@@ -371,7 +371,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:elite-raid-regieleki-or-regidrago-april-2023
-DTSTAMP:20230304T002009Z
+DTSTAMP:20230305T002448Z
 SUMMARY:[Elite Raids] Elite Raid
 DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /elite-raid-regieleki-or-regidrago-april-2023/
@@ -388,7 +388,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lugia-in-5-star-raid-battles-march-2023
-DTSTAMP:20230304T002009Z
+DTSTAMP:20230305T002448Z
 SUMMARY:[Raid Battles] Lugia in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /lugia-in-5-star-raid-battles-march-2023/
@@ -403,7 +403,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-alakazam-in-mega-raids-march-2023
-DTSTAMP:20230304T002009Z
+DTSTAMP:20230305T002448Z
 SUMMARY:[Raid Battles] Mega Alakazam in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-alakazam-in-mega-raids-march-2023/
@@ -418,7 +418,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:april-communityday2023
-DTSTAMP:20230304T002009Z
+DTSTAMP:20230305T002448Z
 SUMMARY:[Community Day] April Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /april-communityday2023/
@@ -433,7 +433,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season10-unannounced-event-april-23
-DTSTAMP:20230304T002009Z
+DTSTAMP:20230305T002448Z
 SUMMARY:[Event] Unannounced Event - April 23
 DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
  /season10-unannounced-event-april-23/
@@ -449,7 +449,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:april-communitydayclassic2023
-DTSTAMP:20230304T002009Z
+DTSTAMP:20230305T002448Z
 SUMMARY:[Community Day] April Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /april-communitydayclassic2023/
@@ -464,7 +464,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communityday2023
-DTSTAMP:20230304T002009Z
+DTSTAMP:20230305T002448Z
 SUMMARY:[Community Day] May Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /may-communityday2023/
@@ -479,7 +479,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season10-unannounced-event-may-27
-DTSTAMP:20230304T002009Z
+DTSTAMP:20230305T002448Z
 SUMMARY:[Event] Unannounced Event - May 27
 DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
  /season10-unannounced-event-may-27/
@@ -495,7 +495,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-10-rising-heroes
-DTSTAMP:20230304T002009Z
+DTSTAMP:20230305T002448Z
 SUMMARY:[Season] Season 10: Rising Heroes
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-10-rising-heroes/
@@ -511,7 +511,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-10-rising-heroes-research-breakthrough
-DTSTAMP:20230304T002009Z
+DTSTAMP:20230305T002448Z
 SUMMARY:[Research Breakthrough] Rising Heroes Research Breakthrough - Seaso
  n 10
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events

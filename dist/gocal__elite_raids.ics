@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:elite-raid-regieleki-or-regidrago-march-2023
-DTSTAMP:20230304T002009Z
+DTSTAMP:20230305T002448Z
 SUMMARY:[Elite Raids] Elite Raid
 DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /elite-raid-regieleki-or-regidrago-march-2023/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:elite-raid-regieleki-or-regidrago-april-2023
-DTSTAMP:20230304T002009Z
+DTSTAMP:20230305T002448Z
 SUMMARY:[Elite Raids] Elite Raid
 DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /elite-raid-regieleki-or-regidrago-april-2023/
