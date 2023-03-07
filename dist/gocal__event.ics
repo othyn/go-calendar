@@ -10,24 +10,8 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:catch-mastery-march-2023
-DTSTAMP:20230306T002224Z
-SUMMARY:[Event] Catch Mastery Event
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /catch-mastery-march-2023/
-URL:https://leekduck.com/events/catch-mastery-march-2023/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/catch-mastery-march-
- 2023.jpg
-DTSTART:20230305T100000
-DTEND:20230305T200000
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:festival-of-colors-event-2023
-DTSTAMP:20230306T002224Z
+DTSTAMP:20230307T002254Z
 SUMMARY:[Event] Festival of Colors
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /festival-of-colors-event-2023/
@@ -43,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lets-go-team-go-rocket-takeover
-DTSTAMP:20230306T002224Z
+DTSTAMP:20230307T002254Z
 SUMMARY:[Event] Let's GO! + Team GO Rocket Takeover
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /lets-go-team-go-rocket-takeover/
@@ -59,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season10-unannounced-event-april-09
-DTSTAMP:20230306T002224Z
+DTSTAMP:20230307T002254Z
 SUMMARY:[Event] Unannounced Event - April 9
 DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
  /season10-unannounced-event-april-09/
@@ -75,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season10-unannounced-event-april-23
-DTSTAMP:20230306T002224Z
+DTSTAMP:20230307T002254Z
 SUMMARY:[Event] Unannounced Event - April 23
 DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
  /season10-unannounced-event-april-23/
@@ -91,7 +75,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season10-unannounced-event-may-27
-DTSTAMP:20230306T002224Z
+DTSTAMP:20230307T002254Z
 SUMMARY:[Event] Unannounced Event - May 27
 DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
  /season10-unannounced-event-may-27/

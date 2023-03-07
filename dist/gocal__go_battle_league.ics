@@ -10,17 +10,231 @@ X-WR-CALDESC:All Pokémon GO GO Battle League events\, in your local time\,
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:season-14-great-league_great-league-remix
-DTSTAMP:20230306T002224Z
+UID:season-14-great-league_fantasy-cup-ultra-league
+DTSTAMP:20230307T002254Z
 SUMMARY:[GO Battle League] Great League and Fantasy Cup: Ultra League Editi
  on | Rising Heroes
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /season-14-great-league_great-league-remix/
-URL:https://leekduck.com/events/season-14-great-league_great-league-remix/
+ /season-14-great-league_fantasy-cup-ultra-league/
+URL:https://leekduck.com/events/season-14-great-league_fantasy-cup-ultra-le
+ ague/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattle-greatleague
  -key.jpg
 DTSTART;VALUE=DATE:20230301
 DTEND;VALUE=DATE:20230308
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:season-14-great-league_color-cup-great-league-edition-remix
+DTSTAMP:20230307T002254Z
+SUMMARY:[GO Battle League] Great League and Color Cup: Great League Edition
+  | Rising Heroes
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /season-14-great-league_color-cup-great-league-edition-remix/
+URL:https://leekduck.com/events/season-14-great-league_color-cup-great-leag
+ ue-edition-remix/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattle-greatleague
+ -key.jpg
+DTSTART;VALUE=DATE:20230308
+DTEND;VALUE=DATE:20230315
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:season-14-ultra-league_psychic-cup-great-league-edition
+DTSTAMP:20230307T002254Z
+SUMMARY:[GO Battle League] Ultra League and Psychic Cup: Great League Editi
+ on | Rising Heroes
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /season-14-ultra-league_psychic-cup-great-league-edition/
+URL:https://leekduck.com/events/season-14-ultra-league_psychic-cup-great-le
+ ague-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-ult
+ ra-league-machamp-swampert.jpg
+DTSTART;VALUE=DATE:20230315
+DTEND;VALUE=DATE:20230322
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:season-14-ultra-league_mountain-cup-great-league-edition
+DTSTAMP:20230307T002254Z
+SUMMARY:[GO Battle League] Ultra League and Mountain Cup: Great League Edit
+ ion | Rising Heroes
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /season-14-ultra-league_mountain-cup-great-league-edition/
+URL:https://leekduck.com/events/season-14-ultra-league_mountain-cup-great-l
+ eague-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-ult
+ ra-league-machamp-swampert.jpg
+DTSTART;VALUE=DATE:20230322
+DTEND;VALUE=DATE:20230329
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:season-14-master-league_little-cup
+DTSTAMP:20230307T002254Z
+SUMMARY:[GO Battle League] Master League and Little Cup | Rising Heroes
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /season-14-master-league_little-cup/
+URL:https://leekduck.com/events/season-14-master-league_little-cup/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattleleague-maste
+ r-key.jpg
+DTSTART;VALUE=DATE:20230329
+DTEND;VALUE=DATE:20230405
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:season-14-master-league_spring-cup-great-league-edition
+DTSTAMP:20230307T002254Z
+SUMMARY:[GO Battle League] Master League and Spring Cup: Great League Editi
+ on | Rising Heroes
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /season-14-master-league_spring-cup-great-league-edition/
+URL:https://leekduck.com/events/season-14-master-league_spring-cup-great-le
+ ague-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattleleague-maste
+ r-key.jpg
+DTSTART;VALUE=DATE:20230405
+DTEND;VALUE=DATE:20230412
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:season-14-great-league_ultra_league_master-league_evolution-cup-great-l
+ eague-edition
+DTSTAMP:20230307T002254Z
+SUMMARY:[GO Battle League] Great League\, Ultra League\, Master League and 
+ Evolution Cup: Great League Edition | Rising Heroes
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /season-14-great-league_ultra_league_master-league_evolution-cup-great-lea
+ gue-edition/
+URL:https://leekduck.com/events/season-14-great-league_ultra_league_master-
+ league_evolution-cup-great-league-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-sea
+ son-14-rising-heroes.jpg
+DTSTART;VALUE=DATE:20230412
+DTEND;VALUE=DATE:20230419
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:season-14-great-league_weather-cup-ultra-league-edition
+DTSTAMP:20230307T002254Z
+SUMMARY:[GO Battle League] Great League and Weather Cup: Ultra League Editi
+ on | Rising Heroes
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /season-14-great-league_weather-cup-ultra-league-edition/
+URL:https://leekduck.com/events/season-14-great-league_weather-cup-ultra-le
+ ague-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattle-greatleague
+ -key.jpg
+DTSTART;VALUE=DATE:20230419
+DTEND;VALUE=DATE:20230426
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:season-14-great-league_master-premier-cup
+DTSTAMP:20230307T002254Z
+SUMMARY:[GO Battle League] Great League and Master Premier Cup | Rising Her
+ oes
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /season-14-great-league_master-premier-cup/
+URL:https://leekduck.com/events/season-14-great-league_master-premier-cup/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattle-greatleague
+ -key.jpg
+DTSTART;VALUE=DATE:20230426
+DTEND;VALUE=DATE:20230503
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:season-14-ultra-league_little-cup
+DTSTAMP:20230307T002254Z
+SUMMARY:[GO Battle League] Ultra League and Little Cup | Rising Heroes
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /season-14-ultra-league_little-cup/
+URL:https://leekduck.com/events/season-14-ultra-league_little-cup/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-ult
+ ra-league-machamp-swampert.jpg
+DTSTART;VALUE=DATE:20230503
+DTEND;VALUE=DATE:20230510
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:season-14-ultra-league_sunshine-cup-great-league-edition
+DTSTAMP:20230307T002254Z
+SUMMARY:[GO Battle League] Ultra League and Sunshine Cup: Great League Edit
+ ion | Rising Heroes
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /season-14-ultra-league_sunshine-cup-great-league-edition/
+URL:https://leekduck.com/events/season-14-ultra-league_sunshine-cup-great-l
+ eague-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-ult
+ ra-league-machamp-swampert.jpg
+DTSTART;VALUE=DATE:20230510
+DTEND;VALUE=DATE:20230517
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:season-14-master-league_elements-cup-little-edition
+DTSTAMP:20230307T002254Z
+SUMMARY:[GO Battle League] Master League and Element Cup: Little Edition | 
+ Rising Heroes
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /season-14-master-league_elements-cup-little-edition/
+URL:https://leekduck.com/events/season-14-master-league_elements-cup-little
+ -edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-ult
+ ra-league-machamp-swampert.jpg
+DTSTART;VALUE=DATE:20230517
+DTEND;VALUE=DATE:20230524
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:season-14-master-league_catch-cup-rising-heroes-edition
+DTSTAMP:20230307T002254Z
+SUMMARY:[GO Battle League] Master League and Catch Cup: Rising Heroes Editi
+ on | Rising Heroes
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /season-14-master-league_catch-cup-rising-heroes-edition/
+URL:https://leekduck.com/events/season-14-master-league_catch-cup-rising-he
+ roes-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-ult
+ ra-league-machamp-swampert.jpg
+DTSTART;VALUE=DATE:20230524
+DTEND;VALUE=DATE:20230601
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
