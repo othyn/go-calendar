@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-03-14
-DTSTAMP:20230313T002145Z
+DTSTAMP:20230314T001924Z
 SUMMARY:[Pokémon Spotlight Hour] Rowlet Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-03-14/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-03-21
-DTSTAMP:20230313T002145Z
+DTSTAMP:20230314T001924Z
 SUMMARY:[Pokémon Spotlight Hour] Litten Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-03-21/
@@ -43,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-03-28
-DTSTAMP:20230313T002145Z
+DTSTAMP:20230314T001924Z
 SUMMARY:[Pokémon Spotlight Hour] Popplio Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-03-28/
