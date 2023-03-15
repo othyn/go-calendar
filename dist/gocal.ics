@@ -10,23 +10,8 @@ X-WR-CALDESC:All Pokémon GO events\, in your local time\, auto-updated and
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:elite-raid-regidrago-march-2023
-DTSTAMP:20230314T001924Z
-SUMMARY:[Elite Raids] Regidrago in Elite Raids
-DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /elite-raid-regidrago-march-2023/
-URL:https://leekduck.com/events/elite-raid-regidrago-march-2023/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/regidrago.jpg
-DTSTART:20230311T110000
-DTEND:20230311T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemonspotlighthour2023-03-14
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[Pokémon Spotlight Hour] Rowlet Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-03-14/
@@ -42,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:festival-of-colors-event-2023
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[Event] Festival of Colors
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /festival-of-colors-event-2023/
@@ -58,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-14-great-league_color-cup-great-league-edition-remix
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[GO Battle League] Great League and Color Cup: Great League Edition
   | Rising Heroes
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -76,7 +61,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20230315
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[Raid Hour] Ho-Oh Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20230315/
@@ -91,7 +76,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:march-communityday2023
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[Community Day] Slowpoke Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /march-communityday2023/
@@ -107,7 +92,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ho-oh-in-5-star-raid-battles-march-2023
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[Raid Battles] Ho-Oh in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /ho-oh-in-5-star-raid-battles-march-2023/
@@ -122,7 +107,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-medicham-in-mega-raids-march-2023
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[Raid Battles] Mega Medicham in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-medicham-in-mega-raids-march-2023/
@@ -137,7 +122,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-03-21
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[Pokémon Spotlight Hour] Litten Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-03-21/
@@ -153,7 +138,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-14-ultra-league_psychic-cup-great-league-edition
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[GO Battle League] Ultra League and Psychic Cup: Great League Editi
  on | Rising Heroes
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -171,7 +156,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20230322
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[Raid Hour] Thundurus Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20230322/
@@ -186,7 +171,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:thundurus-in-5-star-raid-battles-march-2023
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[Raid Battles] Thundurus in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /thundurus-in-5-star-raid-battles-march-2023/
@@ -202,7 +187,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-venusaur-in-mega-raids-march-2023
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[Raid Battles] Mega Venusaur in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-venusaur-in-mega-raids-march-2023/
@@ -217,7 +202,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-03-28
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[Pokémon Spotlight Hour] Popplio Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-03-28/
@@ -233,7 +218,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-14-ultra-league_mountain-cup-great-league-edition
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[GO Battle League] Ultra League and Mountain Cup: Great League Edit
  ion | Rising Heroes
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -251,7 +236,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20230329
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[Raid Hour] Lugia Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20230329/
@@ -265,14 +250,29 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:lets-go-team-go-rocket-takeover
-DTSTAMP:20230314T001924Z
-SUMMARY:[Event] Let's GO! + Team GO Rocket Takeover
+UID:team-go-rocket-takeover-march-2023
+DTSTAMP:20230315T002116Z
+SUMMARY:[Team GO Rocket] Team GO Rocket Takeover
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /lets-go-team-go-rocket-takeover/
-URL:https://leekduck.com/events/lets-go-team-go-rocket-takeover/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+ /team-go-rocket-takeover-march-2023/
+URL:https://leekduck.com/events/team-go-rocket-takeover-march-2023/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/rocket-giovanni-shad
+ ow-regice.jpg
+DTSTART;VALUE=DATE:20230325
+DTEND;VALUE=DATE:20230329
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lets-go-event
+DTSTAMP:20230315T002116Z
+SUMMARY:[Event] Let's GO!
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /lets-go-event/
+URL:https://leekduck.com/events/lets-go-event/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/lets-go-event.jpg
 DTSTART;VALUE=DATE:20230321
 DTEND;VALUE=DATE:20230329
 BEGIN:VALARM
@@ -282,7 +282,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-14-master-league_little-cup
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[GO Battle League] Master League and Little Cup | Rising Heroes
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /season-14-master-league_little-cup/
@@ -298,7 +298,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20230405
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[Raid Hour] Lugia Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20230405/
@@ -313,7 +313,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season10-unannounced-event-april-09
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[Event] Unannounced Event - April 9
 DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
  /season10-unannounced-event-april-09/
@@ -329,7 +329,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:elite-raid-regieleki-april-2023
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[Elite Raids] Elite Raid
 DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /elite-raid-regieleki-april-2023/
@@ -345,7 +345,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lugia-in-5-star-raid-battles-march-2023
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[Raid Battles] Lugia in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /lugia-in-5-star-raid-battles-march-2023/
@@ -360,7 +360,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-alakazam-in-mega-raids-march-2023
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[Raid Battles] Mega Alakazam in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-alakazam-in-mega-raids-march-2023/
@@ -375,7 +375,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-14-master-league_spring-cup-great-league-edition
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[GO Battle League] Master League and Spring Cup: Great League Editi
  on | Rising Heroes
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -393,7 +393,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:april-communityday2023
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[Community Day] April Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /april-communityday2023/
@@ -409,7 +409,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:season-14-great-league_ultra_league_master-league_evolution-cup-great-l
  eague-edition
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[GO Battle League] Great League\, Ultra League\, Master League and 
  Evolution Cup: Great League Edition | Rising Heroes
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -428,7 +428,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season10-unannounced-event-april-23
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[Event] Unannounced Event - April 23
 DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
  /season10-unannounced-event-april-23/
@@ -444,7 +444,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-14-great-league_weather-cup-ultra-league-edition
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[GO Battle League] Great League and Weather Cup: Ultra League Editi
  on | Rising Heroes
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -462,7 +462,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:april-communitydayclassic2023
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[Community Day] April Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /april-communitydayclassic2023/
@@ -477,7 +477,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-14-great-league_master-premier-cup
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[GO Battle League] Great League and Master Premier Cup | Rising Her
  oes
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -494,7 +494,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-14-ultra-league_little-cup
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[GO Battle League] Ultra League and Little Cup | Rising Heroes
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /season-14-ultra-league_little-cup/
@@ -510,7 +510,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-14-ultra-league_sunshine-cup-great-league-edition
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[GO Battle League] Ultra League and Sunshine Cup: Great League Edit
  ion | Rising Heroes
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -528,7 +528,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communityday2023
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[Community Day] May Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /may-communityday2023/
@@ -543,7 +543,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-14-master-league_elements-cup-little-edition
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[GO Battle League] Master League and Element Cup: Little Edition | 
  Rising Heroes
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -561,7 +561,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season10-unannounced-event-may-27
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[Event] Unannounced Event - May 27
 DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
  /season10-unannounced-event-may-27/
@@ -577,7 +577,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-10-rising-heroes
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[Season] Season 10: Rising Heroes
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-10-rising-heroes/
@@ -593,7 +593,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-10-rising-heroes-research-breakthrough
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[Research Breakthrough] Rising Heroes Research Breakthrough - Seaso
  n 10
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -610,7 +610,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-14-master-league_catch-cup-rising-heroes-edition
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[GO Battle League] Master League and Catch Cup: Rising Heroes Editi
  on | Rising Heroes
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events

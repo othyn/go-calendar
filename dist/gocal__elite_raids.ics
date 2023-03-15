@@ -10,23 +10,8 @@ X-WR-CALDESC:All Pokémon GO Elite Raids events\, in your local time\, auto
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:elite-raid-regidrago-march-2023
-DTSTAMP:20230314T001924Z
-SUMMARY:[Elite Raids] Regidrago in Elite Raids
-DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /elite-raid-regidrago-march-2023/
-URL:https://leekduck.com/events/elite-raid-regidrago-march-2023/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/regidrago.jpg
-DTSTART:20230311T110000
-DTEND:20230311T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:elite-raid-regieleki-april-2023
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[Elite Raids] Elite Raid
 DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /elite-raid-regieleki-april-2023/

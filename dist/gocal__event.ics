@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:festival-of-colors-event-2023
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[Event] Festival of Colors
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /festival-of-colors-event-2023/
@@ -26,14 +26,13 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:lets-go-team-go-rocket-takeover
-DTSTAMP:20230314T001924Z
-SUMMARY:[Event] Let's GO! + Team GO Rocket Takeover
+UID:lets-go-event
+DTSTAMP:20230315T002116Z
+SUMMARY:[Event] Let's GO!
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /lets-go-team-go-rocket-takeover/
-URL:https://leekduck.com/events/lets-go-team-go-rocket-takeover/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+ /lets-go-event/
+URL:https://leekduck.com/events/lets-go-event/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/lets-go-event.jpg
 DTSTART;VALUE=DATE:20230321
 DTEND;VALUE=DATE:20230329
 BEGIN:VALARM
@@ -43,7 +42,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season10-unannounced-event-april-09
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[Event] Unannounced Event - April 9
 DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
  /season10-unannounced-event-april-09/
@@ -59,7 +58,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season10-unannounced-event-april-23
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[Event] Unannounced Event - April 23
 DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
  /season10-unannounced-event-april-23/
@@ -75,7 +74,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season10-unannounced-event-may-27
-DTSTAMP:20230314T001924Z
+DTSTAMP:20230315T002116Z
 SUMMARY:[Event] Unannounced Event - May 27
 DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
  /season10-unannounced-event-may-27/
