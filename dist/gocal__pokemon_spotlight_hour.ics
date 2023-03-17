@@ -10,24 +10,8 @@ X-WR-CALDESC:All Pokémon GO Pokémon Spotlight Hour events\, in your local
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemonspotlighthour2023-03-14
-DTSTAMP:20230316T002237Z
-SUMMARY:[Pokémon Spotlight Hour] Rowlet Spotlight Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2023-03-14/
-URL:https://leekduck.com/events/pokemonspotlighthour2023-03-14/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
- .jpg
-DTSTART:20230314T180000
-DTEND:20230314T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemonspotlighthour2023-03-21
-DTSTAMP:20230316T002237Z
+DTSTAMP:20230317T002122Z
 SUMMARY:[Pokémon Spotlight Hour] Litten Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-03-21/
@@ -43,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-03-28
-DTSTAMP:20230316T002237Z
+DTSTAMP:20230317T002122Z
 SUMMARY:[Pokémon Spotlight Hour] Popplio Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-03-28/
