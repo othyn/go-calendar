@@ -10,38 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Battles events\, in your local time\, aut
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:ho-oh-in-5-star-raid-battles-march-2023
-DTSTAMP:20230322T001822Z
-SUMMARY:[Raid Battles] Ho-Oh in 5-star Raid Battles
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /ho-oh-in-5-star-raid-battles-march-2023/
-URL:https://leekduck.com/events/ho-oh-in-5-star-raid-battles-march-2023/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/hooh.jpg
-DTSTART;VALUE=DATE:20230308
-DTEND;VALUE=DATE:20230321
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:mega-medicham-in-mega-raids-march-2023
-DTSTAMP:20230322T001822Z
-SUMMARY:[Raid Battles] Mega Medicham in Mega Raids
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /mega-medicham-in-mega-raids-march-2023/
-URL:https://leekduck.com/events/mega-medicham-in-mega-raids-march-2023/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;VALUE=DATE:20230308
-DTEND;VALUE=DATE:20230321
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:thundurus-in-5-star-raid-battles-march-2023
-DTSTAMP:20230322T001822Z
+DTSTAMP:20230323T002042Z
 SUMMARY:[Raid Battles] Thundurus in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /thundurus-in-5-star-raid-battles-march-2023/
@@ -57,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-venusaur-in-mega-raids-march-2023
-DTSTAMP:20230322T001822Z
+DTSTAMP:20230323T002042Z
 SUMMARY:[Raid Battles] Mega Venusaur in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-venusaur-in-mega-raids-march-2023/
@@ -72,7 +42,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lugia-in-5-star-raid-battles-march-2023
-DTSTAMP:20230322T001822Z
+DTSTAMP:20230323T002042Z
 SUMMARY:[Raid Battles] Lugia in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /lugia-in-5-star-raid-battles-march-2023/
@@ -87,7 +57,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-alakazam-in-mega-raids-march-2023
-DTSTAMP:20230322T001822Z
+DTSTAMP:20230323T002042Z
 SUMMARY:[Raid Battles] Mega Alakazam in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-alakazam-in-mega-raids-march-2023/
