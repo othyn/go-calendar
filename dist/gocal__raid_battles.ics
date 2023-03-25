@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:thundurus-in-5-star-raid-battles-march-2023
-DTSTAMP:20230324T001951Z
+DTSTAMP:20230325T001858Z
 SUMMARY:[Raid Battles] Thundurus in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /thundurus-in-5-star-raid-battles-march-2023/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-venusaur-in-mega-raids-march-2023
-DTSTAMP:20230324T001951Z
+DTSTAMP:20230325T001858Z
 SUMMARY:[Raid Battles] Mega Venusaur in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-venusaur-in-mega-raids-march-2023/
@@ -42,7 +42,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lugia-in-5-star-raid-battles-march-2023
-DTSTAMP:20230324T001951Z
+DTSTAMP:20230325T001858Z
 SUMMARY:[Raid Battles] Lugia in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /lugia-in-5-star-raid-battles-march-2023/
@@ -57,7 +57,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-alakazam-in-mega-raids-march-2023
-DTSTAMP:20230324T001951Z
+DTSTAMP:20230325T001858Z
 SUMMARY:[Raid Battles] Mega Alakazam in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-alakazam-in-mega-raids-march-2023/
