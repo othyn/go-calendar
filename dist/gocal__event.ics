@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:go-battle-day-palmer
-DTSTAMP:20230326T002136Z
+DTSTAMP:20230327T002004Z
 SUMMARY:[Event] GO Battle Day: Palmer
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-day-palmer/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lets-go-event
-DTSTAMP:20230326T002136Z
+DTSTAMP:20230327T002004Z
 SUMMARY:[Event] Let's GO!
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /lets-go-event/
@@ -42,7 +42,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season10-unannounced-event-april-09
-DTSTAMP:20230326T002136Z
+DTSTAMP:20230327T002004Z
 SUMMARY:[Event] Unannounced Event - April 9
 DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
  /season10-unannounced-event-april-09/
@@ -58,7 +58,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season10-unannounced-event-april-23
-DTSTAMP:20230326T002136Z
+DTSTAMP:20230327T002004Z
 SUMMARY:[Event] Unannounced Event - April 23
 DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
  /season10-unannounced-event-april-23/
@@ -74,7 +74,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-day-stardust
-DTSTAMP:20230326T002136Z
+DTSTAMP:20230327T002004Z
 SUMMARY:[Event] GO Battle Day: Stardust
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-day-stardust/
@@ -90,7 +90,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season10-unannounced-event-may-27
-DTSTAMP:20230326T002136Z
+DTSTAMP:20230327T002004Z
 SUMMARY:[Event] Unannounced Event - May 27
 DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
  /season10-unannounced-event-may-27/
