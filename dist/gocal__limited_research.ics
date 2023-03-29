@@ -10,16 +10,16 @@ X-WR-CALDESC:All Pokémon GO Limited Research events\, in your local time\,
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:luvdisc-limited-research
-DTSTAMP:20230212T002301Z
-SUMMARY:[Limited Research] Luvdisc Limited Research
+UID:unannounced-limited-research-event
+DTSTAMP:20230329T002257Z
+SUMMARY:[Limited Research] Unannounced Limited Research Event
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /luvdisc-limited-research/
-URL:https://leekduck.com/events/luvdisc-limited-research/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/luvdisc-limited-rese
- arch.jpg
-DTSTART:20230211T140000
-DTEND:20230211T170000
+ /unannounced-limited-research-event/
+URL:https://leekduck.com/events/unannounced-limited-research-event/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART:20230423T140000
+DTEND:20230423T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
