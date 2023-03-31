@@ -10,15 +10,16 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:lets-go-event
-DTSTAMP:20230330T002020Z
-SUMMARY:[Event] Let's GO!
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /lets-go-event/
-URL:https://leekduck.com/events/lets-go-event/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/lets-go-event.jpg
-DTSTART;VALUE=DATE:20230321
-DTEND;VALUE=DATE:20230329
+UID:april-fools-2023
+DTSTAMP:20230331T002014Z
+SUMMARY:[Event] April Fools 2023
+DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
+ /april-fools-2023/
+URL:https://leekduck.com/events/april-fools-2023/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART:20230401T000000
+DTEND:20230401T235959
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
@@ -26,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:spring-into-spring-2023
-DTSTAMP:20230330T002020Z
+DTSTAMP:20230331T002014Z
 SUMMARY:[Event] Spring into Spring 2023
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /spring-into-spring-2023/
@@ -42,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a-mystic-hero
-DTSTAMP:20230330T002020Z
+DTSTAMP:20230331T002014Z
 SUMMARY:[Event] A Mystic Hero
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /a-mystic-hero/
@@ -58,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sustainability-week-2023
-DTSTAMP:20230330T002020Z
+DTSTAMP:20230331T002014Z
 SUMMARY:[Event] Sustainability Week
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /sustainability-week-2023/
@@ -73,8 +74,24 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:season10-unannounced-event-may-6
+DTSTAMP:20230331T002014Z
+SUMMARY:[Event] Unannounced Event - May 6
+DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
+ /season10-unannounced-event-may-6/
+URL:https://leekduck.com/events/season10-unannounced-event-may-6/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART:20230506T000000
+DTEND:20230506T000000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:go-battle-day-stardust
-DTSTAMP:20230330T002020Z
+DTSTAMP:20230331T002014Z
 SUMMARY:[Event] GO Battle Day: Stardust
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-day-stardust/
@@ -90,7 +107,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season10-unannounced-event-may-27
-DTSTAMP:20230330T002020Z
+DTSTAMP:20230331T002014Z
 SUMMARY:[Event] Unannounced Event - May 27
 DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
  /season10-unannounced-event-may-27/
