@@ -11,13 +11,12 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:elite-raid-regieleki-april-2023
-DTSTAMP:20230404T001931Z
+DTSTAMP:20230405T001718Z
 SUMMARY:[Elite Raids] Regieleki in Elite Raids
 DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /elite-raid-regieleki-april-2023/
 URL:https://leekduck.com/events/elite-raid-regieleki-april-2023/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/elite-raids-splash-n
- ologo.jpg
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/regieleki.jpg
 DTSTART:20230409T110000
 DTEND:20230409T170000
 BEGIN:VALARM
