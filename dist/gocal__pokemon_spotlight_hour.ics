@@ -10,24 +10,8 @@ X-WR-CALDESC:All Pokémon GO Pokémon Spotlight Hour events\, in your local
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemonspotlighthour2023-04-04
-DTSTAMP:20230405T001718Z
-SUMMARY:[Pokémon Spotlight Hour] Exeggcute Spotlight Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2023-04-04/
-URL:https://leekduck.com/events/pokemonspotlighthour2023-04-04/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
- .jpg
-DTSTART:20230404T180000
-DTEND:20230404T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemonspotlighthour2023-04-11
-DTSTAMP:20230405T001718Z
+DTSTAMP:20230406T001842Z
 SUMMARY:[Pokémon Spotlight Hour] Shellder Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-04-11/
@@ -43,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-04-18
-DTSTAMP:20230405T001718Z
+DTSTAMP:20230406T001842Z
 SUMMARY:[Pokémon Spotlight Hour] Trapinch Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-04-18/
@@ -59,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-04-25
-DTSTAMP:20230405T001718Z
+DTSTAMP:20230406T001842Z
 SUMMARY:[Pokémon Spotlight Hour] Tangela Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-04-25/
