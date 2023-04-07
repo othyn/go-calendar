@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:april-communityday2023
-DTSTAMP:20230406T001842Z
+DTSTAMP:20230407T001821Z
 SUMMARY:[Community Day] Togetic Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /april-communityday2023/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:april-communitydayclassic2023
-DTSTAMP:20230406T001842Z
+DTSTAMP:20230407T001821Z
 SUMMARY:[Community Day] April Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /april-communitydayclassic2023/
@@ -42,7 +42,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communityday2023
-DTSTAMP:20230406T001842Z
+DTSTAMP:20230407T001821Z
 SUMMARY:[Community Day] May Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /may-communityday2023/
