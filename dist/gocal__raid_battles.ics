@@ -10,38 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Battles events\, in your local time\, aut
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:lugia-in-5-star-raid-battles-march-2023
-DTSTAMP:20230412T001913Z
-SUMMARY:[Raid Battles] Lugia in 5-star Raid Battles
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /lugia-in-5-star-raid-battles-march-2023/
-URL:https://leekduck.com/events/lugia-in-5-star-raid-battles-march-2023/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/lugia-raids.jpg
-DTSTART;VALUE=DATE:20230328
-DTEND;VALUE=DATE:20230411
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:mega-lopunny-in-mega-raids-april-2023
-DTSTAMP:20230412T001913Z
-SUMMARY:[Raid Battles] Mega Lopunny in Mega Raids
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /mega-lopunny-in-mega-raids-april-2023/
-URL:https://leekduck.com/events/mega-lopunny-in-mega-raids-april-2023/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;VALUE=DATE:20230404
-DTEND;VALUE=DATE:20230411
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:landorus-in-5-star-raid-battles-april-2023
-DTSTAMP:20230412T001913Z
+DTSTAMP:20230413T001817Z
 SUMMARY:[Raid Battles] Landorus in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /landorus-in-5-star-raid-battles-april-2023/
@@ -57,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-blastoise-in-mega-raids-april-2023
-DTSTAMP:20230412T001913Z
+DTSTAMP:20230413T001817Z
 SUMMARY:[Raid Battles] Mega Blastoise in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-blastoise-in-mega-raids-april-2023/
@@ -72,7 +42,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-slowbro-in-mega-raids-april-2023
-DTSTAMP:20230412T001913Z
+DTSTAMP:20230413T001817Z
 SUMMARY:[Raid Battles] Mega Slowbro in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-slowbro-in-mega-raids-april-2023/
@@ -87,7 +57,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tapu-bulu-in-5-star-raid-battles-april-2023
-DTSTAMP:20230412T001913Z
+DTSTAMP:20230413T001817Z
 SUMMARY:[Raid Battles] Tapu Bulu in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /tapu-bulu-in-5-star-raid-battles-april-2023/
