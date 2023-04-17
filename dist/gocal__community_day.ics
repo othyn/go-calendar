@@ -10,24 +10,8 @@ X-WR-CALDESC:All Pokémon GO Community Day events\, in your local time\, au
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:april-communityday2023
-DTSTAMP:20230416T002049Z
-SUMMARY:[Community Day] Togetic Community Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /april-communityday2023/
-URL:https://leekduck.com/events/april-communityday2023/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-2023-april-togeti
- c.jpg
-DTSTART:20230415T140000
-DTEND:20230415T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:april-communitydayclassic2023
-DTSTAMP:20230416T002049Z
+DTSTAMP:20230417T001936Z
 SUMMARY:[Community Day] April Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /april-communitydayclassic2023/
@@ -42,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communityday2023
-DTSTAMP:20230416T002049Z
+DTSTAMP:20230417T001936Z
 SUMMARY:[Community Day] May Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /may-communityday2023/
