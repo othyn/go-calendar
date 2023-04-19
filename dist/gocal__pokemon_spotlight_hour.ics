@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-04-18
-DTSTAMP:20230418T001838Z
+DTSTAMP:20230419T002104Z
 SUMMARY:[Pokémon Spotlight Hour] Trapinch Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-04-18/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-04-25
-DTSTAMP:20230418T001838Z
+DTSTAMP:20230419T002104Z
 SUMMARY:[Pokémon Spotlight Hour] Tangela Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-04-25/

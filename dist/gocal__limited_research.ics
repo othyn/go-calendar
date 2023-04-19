@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:unannounced-limited-research-event
-DTSTAMP:20230418T001838Z
+DTSTAMP:20230419T002104Z
 SUMMARY:[Limited Research] Unannounced Limited Research Event
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-limited-research-event/
