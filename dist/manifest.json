@@ -3,6 +3,10 @@
         "name": "Community Day",
         "url": "https:\/\/github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__community_day.ics"
     },
+    "elite_raids": {
+        "name": "Elite Raids",
+        "url": "https:\/\/github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__elite_raids.ics"
+    },
     "event": {
         "name": "Event",
         "url": "https:\/\/github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__event.ics"
