@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:sustainability-week-2023
-DTSTAMP:20230424T001957Z
+DTSTAMP:20230425T001924Z
 SUMMARY:[Event] Sustainability Week
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /sustainability-week-2023/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season10-unannounced-event-may-6
-DTSTAMP:20230424T001957Z
+DTSTAMP:20230425T001924Z
 SUMMARY:[Event] Unannounced Event - May 6
 DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
  /season10-unannounced-event-may-6/
@@ -42,8 +42,24 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:an-instinctive-hero
+DTSTAMP:20230425T001924Z
+SUMMARY:[Event] An Instinctive Hero
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /an-instinctive-hero/
+URL:https://leekduck.com/events/an-instinctive-hero/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/an-instinctive-hero-
+ spark.jpg
+DTSTART;VALUE=DATE:20230502
+DTEND;VALUE=DATE:20230508
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:go-battle-day-stardust
-DTSTAMP:20230424T001957Z
+DTSTAMP:20230425T001924Z
 SUMMARY:[Event] GO Battle Day: Stardust
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-day-stardust/
@@ -59,7 +75,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season10-unannounced-event-may-27
-DTSTAMP:20230424T001957Z
+DTSTAMP:20230425T001924Z
 SUMMARY:[Event] Unannounced Event - May 27
 DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
  /season10-unannounced-event-may-27/
