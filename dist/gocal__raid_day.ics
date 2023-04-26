@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:spatie/icalendar-generator
+NAME:GO Calendar - Raid Day
+X-WR-CALNAME:GO Calendar - Raid Day
+DESCRIPTION:All Pokémon GO Raid Day events\, in your local time\, auto-upd
+ ated and sourced from Leek Duck.
+X-WR-CALDESC:All Pokémon GO Raid Day events\, in your local time\, auto-up
+ dated and sourced from Leek Duck.
+REFRESH-INTERVAL;VALUE=DURATION:PT1440M
+X-PUBLISHED-TTL:PT1440M
+BEGIN:VEVENT
+UID:season10-unannounced-event-may-6
+DTSTAMP:20230426T001943Z
+SUMMARY:[Raid Day] Raid Day
+DESCRIPTION:Starts at 11:00\, ends at 14:00.\n\nhttps://leekduck.com/events
+ /season10-unannounced-event-may-6/
+URL:https://leekduck.com/events/season10-unannounced-event-may-6/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART:20230506T110000
+DTEND:20230506T140000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

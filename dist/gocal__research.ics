@@ -10,16 +10,16 @@ X-WR-CALDESC:All Pokémon GO Research events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:choose-your-fighting-type-timed-research-mexico-exclusive
-DTSTAMP:20230309T002219Z
-SUMMARY:[Research] Choose Your Fighting Type Timed Research
+UID:season10-unannounced-event-may-22
+DTSTAMP:20230426T001943Z
+SUMMARY:[Research] Unannounced Event
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /choose-your-fighting-type-timed-research-mexico-exclusive/
-URL:https://leekduck.com/events/choose-your-fighting-type-timed-research-me
- xico-exclusive/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/hawlucha.jpg
-DTSTART;VALUE=DATE:20230301
-DTEND;VALUE=DATE:20230308
+ /season10-unannounced-event-may-22/
+URL:https://leekduck.com/events/season10-unannounced-event-may-22/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART;VALUE=DATE:20230522
+DTEND;VALUE=DATE:20230528
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M

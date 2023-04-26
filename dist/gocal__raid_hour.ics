@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:raidhour20230426
-DTSTAMP:20230425T001924Z
+DTSTAMP:20230426T001943Z
 SUMMARY:[Raid Hour] Tapu Bulu Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20230426/
@@ -19,6 +19,81 @@ URL:https://leekduck.com/events/raidhour20230426/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
 DTSTART:20230426T180000
 DTEND:20230426T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20230503
+DTSTAMP:20230426T001943Z
+SUMMARY:[Raid Hour] Genesect with a Shock Drive Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20230503/
+URL:https://leekduck.com/events/raidhour20230503/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20230503T180000
+DTEND:20230503T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20230510
+DTSTAMP:20230426T001943Z
+SUMMARY:[Raid Hour] Tapu Fini Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20230510/
+URL:https://leekduck.com/events/raidhour20230510/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20230510T180000
+DTEND:20230510T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20230517
+DTSTAMP:20230426T001943Z
+SUMMARY:[Raid Hour] Tapu Fini Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20230517/
+URL:https://leekduck.com/events/raidhour20230517/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20230517T180000
+DTEND:20230517T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20230524
+DTSTAMP:20230426T001943Z
+SUMMARY:[Raid Hour] Regigigas Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20230524/
+URL:https://leekduck.com/events/raidhour20230524/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20230524T180000
+DTEND:20230524T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20230531
+DTSTAMP:20230426T001943Z
+SUMMARY:[Raid Hour] Regigigas Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20230531/
+URL:https://leekduck.com/events/raidhour20230531/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20230531T180000
+DTEND:20230531T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
