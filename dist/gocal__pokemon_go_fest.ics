@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:spatie/icalendar-generator
+NAME:GO Calendar - Pokémon GO Fest
+X-WR-CALNAME:GO Calendar - Pokémon GO Fest
+DESCRIPTION:All Pokémon GO Pokémon GO Fest events\, in your local time\, 
+ auto-updated and sourced from Leek Duck.
+X-WR-CALDESC:All Pokémon GO Pokémon GO Fest events\, in your local time\,
+  auto-updated and sourced from Leek Duck.
+REFRESH-INTERVAL;VALUE=DURATION:PT1440M
+X-PUBLISHED-TTL:PT1440M
+BEGIN:VEVENT
+UID:pokemon-go-fest-2023-osaka-japan
+DTSTAMP:20230427T002109Z
+SUMMARY:[Pokémon GO Fest] Pokémon GO Fest 2023: Osaka
+DESCRIPTION:Starts at 00:00\, ends at 09:00.\n\nhttps://leekduck.com/events
+ /pokemon-go-fest-2023-osaka-japan/
+URL:https://leekduck.com/events/pokemon-go-fest-2023-osaka-japan/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemongofest2023-os
+ aka.jpg
+DTSTART;VALUE=DATE:20230804
+DTEND;VALUE=DATE:20230806
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-go-fest-2023-london-england
+DTSTAMP:20230427T002109Z
+SUMMARY:[Pokémon GO Fest] Pokémon GO Fest 2023: London
+DESCRIPTION:Starts at 08:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /pokemon-go-fest-2023-london-england/
+URL:https://leekduck.com/events/pokemon-go-fest-2023-london-england/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemongofest2023-lo
+ ndon.jpg
+DTSTART;VALUE=DATE:20230804
+DTEND;VALUE=DATE:20230806
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-go-fest-2023-new-york-city-usa
+DTSTAMP:20230427T002109Z
+SUMMARY:[Pokémon GO Fest] Pokémon GO Fest 2023: New York City
+DESCRIPTION:Starts at 13:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /pokemon-go-fest-2023-new-york-city-usa/
+URL:https://leekduck.com/events/pokemon-go-fest-2023-new-york-city-usa/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemongofest2023-ne
+ w-york-city.jpg
+DTSTART;VALUE=DATE:20230818
+DTEND;VALUE=DATE:20230820
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
