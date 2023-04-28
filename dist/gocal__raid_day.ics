@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:season10-unannounced-event-may-6
-DTSTAMP:20230427T002109Z
+DTSTAMP:20230428T002022Z
 SUMMARY:[Raid Day] Raid Day
 DESCRIPTION:Starts at 11:00\, ends at 14:00.\n\nhttps://leekduck.com/events
  /season10-unannounced-event-may-6/
