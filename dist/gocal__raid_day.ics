@@ -10,14 +10,13 @@ X-WR-CALDESC:All Pokémon GO Raid Day events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:season10-unannounced-event-may-6
-DTSTAMP:20230428T002022Z
-SUMMARY:[Raid Day] Raid Day
+UID:kleavor-raid-day
+DTSTAMP:20230429T001915Z
+SUMMARY:[Raid Day] Kleavor Raid Day
 DESCRIPTION:Starts at 11:00\, ends at 14:00.\n\nhttps://leekduck.com/events
- /season10-unannounced-event-may-6/
-URL:https://leekduck.com/events/season10-unannounced-event-may-6/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+ /kleavor-raid-day/
+URL:https://leekduck.com/events/kleavor-raid-day/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/kleavor-raid-day.jpg
 DTSTART:20230506T110000
 DTEND:20230506T140000
 BEGIN:VALARM
