@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:kleavor-raid-day
-DTSTAMP:20230429T001915Z
+DTSTAMP:20230430T002117Z
 SUMMARY:[Raid Day] Kleavor Raid Day
 DESCRIPTION:Starts at 11:00\, ends at 14:00.\n\nhttps://leekduck.com/events
  /kleavor-raid-day/
