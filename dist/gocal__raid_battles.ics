@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:mega-slowbro-in-mega-raids-april-2023
-DTSTAMP:20230501T002109Z
+DTSTAMP:20230502T001928Z
 SUMMARY:[Raid Battles] Mega Slowbro in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-slowbro-in-mega-raids-april-2023/
@@ -26,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tapu-bulu-in-5-star-raid-battles-april-2023
-DTSTAMP:20230501T002109Z
+DTSTAMP:20230502T001928Z
 SUMMARY:[Raid Battles] Tapu Bulu in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /tapu-bulu-in-5-star-raid-battles-april-2023/
@@ -42,7 +42,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:genesect-with-a-shock-drive-in-5-star-raid-battles-may-2023
-DTSTAMP:20230501T002109Z
+DTSTAMP:20230502T001928Z
 SUMMARY:[Raid Battles] Genesect with a Shock Drive in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /genesect-with-a-shock-drive-in-5-star-raid-battles-may-2023/
@@ -58,7 +58,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-scizor-in-mega-raids-may-2023
-DTSTAMP:20230501T002109Z
+DTSTAMP:20230502T001928Z
 SUMMARY:[Raid Battles] Mega Scizor in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-scizor-in-mega-raids-may-2023/
@@ -73,7 +73,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-pinsir-in-mega-raids-may-2023
-DTSTAMP:20230501T002109Z
+DTSTAMP:20230502T001928Z
 SUMMARY:[Raid Battles] Mega Pinsir in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-pinsir-in-mega-raids-may-2023/
@@ -88,7 +88,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tapu-fini-in-5-star-raid-battles-may-2023
-DTSTAMP:20230501T002109Z
+DTSTAMP:20230502T001928Z
 SUMMARY:[Raid Battles] Tapu Fini in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /tapu-fini-in-5-star-raid-battles-may-2023/
@@ -103,7 +103,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-altaria-in-mega-raids-may-2023
-DTSTAMP:20230501T002109Z
+DTSTAMP:20230502T001928Z
 SUMMARY:[Raid Battles] Mega Altaria in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-altaria-in-mega-raids-may-2023/
@@ -118,7 +118,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:regigigas-in-5-star-raid-battles-may-2023
-DTSTAMP:20230501T002109Z
+DTSTAMP:20230502T001928Z
 SUMMARY:[Raid Battles] Regigigas in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /regigigas-in-5-star-raid-battles-may-2023/
