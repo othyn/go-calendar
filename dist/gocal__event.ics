@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:an-instinctive-hero
-DTSTAMP:20230503T001902Z
+DTSTAMP:20230504T001905Z
 SUMMARY:[Event] An Instinctive Hero
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /an-instinctive-hero/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-day-stardust
-DTSTAMP:20230503T001902Z
+DTSTAMP:20230504T001905Z
 SUMMARY:[Event] GO Battle Day: Stardust
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-day-stardust/
@@ -43,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a-valorous-hero
-DTSTAMP:20230503T001902Z
+DTSTAMP:20230504T001905Z
 SUMMARY:[Event] A Valorous Hero
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /a-valorous-hero/
@@ -59,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season10-unannounced-event-may-27
-DTSTAMP:20230503T001902Z
+DTSTAMP:20230504T001905Z
 SUMMARY:[Event] Unannounced Event - May 27
 DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
  /season10-unannounced-event-may-27/

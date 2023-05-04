@@ -10,24 +10,8 @@ X-WR-CALDESC:All Pokémon GO Pokémon Spotlight Hour events\, in your local
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemonspotlighthour2023-05-02
-DTSTAMP:20230503T001902Z
-SUMMARY:[Pokémon Spotlight Hour] Alolan Geodude Spotlight Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2023-05-02/
-URL:https://leekduck.com/events/pokemonspotlighthour2023-05-02/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
- .jpg
-DTSTART:20230502T180000
-DTEND:20230502T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemonspotlighthour2023-05-09
-DTSTAMP:20230503T001902Z
+DTSTAMP:20230504T001905Z
 SUMMARY:[Pokémon Spotlight Hour] Ponyta Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-05-09/
@@ -43,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-05-16
-DTSTAMP:20230503T001902Z
+DTSTAMP:20230504T001905Z
 SUMMARY:[Pokémon Spotlight Hour] Bellsprout Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-05-16/
@@ -59,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-05-23
-DTSTAMP:20230503T001902Z
+DTSTAMP:20230504T001905Z
 SUMMARY:[Pokémon Spotlight Hour] Skorupi Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-05-23/
@@ -75,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-05-30
-DTSTAMP:20230503T001902Z
+DTSTAMP:20230504T001905Z
 SUMMARY:[Pokémon Spotlight Hour] Houndour Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-05-30/
