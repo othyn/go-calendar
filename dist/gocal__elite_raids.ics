@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:elite-raid-regidrago-may-2023
-DTSTAMP:20230508T001848Z
+DTSTAMP:20230509T001920Z
 SUMMARY:[Elite Raids] Regidrago in Elite Raids
 DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /elite-raid-regidrago-may-2023/
