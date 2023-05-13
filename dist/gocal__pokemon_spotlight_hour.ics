@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-05-16
-DTSTAMP:20230512T001847Z
+DTSTAMP:20230513T001836Z
 SUMMARY:[Pokémon Spotlight Hour] Bellsprout Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-05-16/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-05-23
-DTSTAMP:20230512T001847Z
+DTSTAMP:20230513T001836Z
 SUMMARY:[Pokémon Spotlight Hour] Skorupi Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-05-23/
@@ -43,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-05-30
-DTSTAMP:20230512T001847Z
+DTSTAMP:20230513T001836Z
 SUMMARY:[Pokémon Spotlight Hour] Houndour Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-05-30/
