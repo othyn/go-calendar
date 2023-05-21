@@ -10,24 +10,8 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:season10-unannounced-event-may-27
-DTSTAMP:20230520T001841Z
-SUMMARY:[Event] Unannounced Event - May 27
-DESCRIPTION:Starts at 00:00\, ends at 00:00.\n\nhttps://leekduck.com/events
- /season10-unannounced-event-may-27/
-URL:https://leekduck.com/events/season10-unannounced-event-may-27/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
-DTSTART:20230527T000000
-DTEND:20230528T000000
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:rising-shadows-shadow-raid-debut
-DTSTAMP:20230520T001841Z
+DTSTAMP:20230521T002207Z
 SUMMARY:[Event] Rising Shadows Event
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /rising-shadows-shadow-raid-debut/
@@ -43,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-11-unannounced-event-june-3
-DTSTAMP:20230520T001841Z
+DTSTAMP:20230521T002207Z
 SUMMARY:[Event] Unannounced Event
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /season-11-unannounced-event-june-3/
@@ -59,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-11-unannounced-event-july-22
-DTSTAMP:20230520T001841Z
+DTSTAMP:20230521T002207Z
 SUMMARY:[Event] Unannounced Event
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /season-11-unannounced-event-july-22/
