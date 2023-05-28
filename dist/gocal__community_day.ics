@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:june-communityday2023
-DTSTAMP:20230527T002131Z
+DTSTAMP:20230528T002115Z
 SUMMARY:[Community Day] June Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /june-communityday2023/
@@ -26,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:july-communitydayclassic2023
-DTSTAMP:20230527T002131Z
+DTSTAMP:20230528T002115Z
 SUMMARY:[Community Day] July Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /july-communitydayclassic2023/
@@ -41,7 +41,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:july-communityday2023
-DTSTAMP:20230527T002131Z
+DTSTAMP:20230528T002115Z
 SUMMARY:[Community Day] July Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /july-communityday2023/
@@ -56,7 +56,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:august-communityday2023
-DTSTAMP:20230527T002131Z
+DTSTAMP:20230528T002115Z
 SUMMARY:[Community Day] August Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /august-communityday2023/
