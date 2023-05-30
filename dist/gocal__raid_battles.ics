@@ -10,24 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Battles events\, in your local time\, aut
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:shadow-mewtwo-in-shadow-raids-may-2023
-DTSTAMP:20230529T002001Z
-SUMMARY:[Raid Battles] Shadow Mewtwo in Shadow Raids
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /shadow-mewtwo-in-shadow-raids-may-2023/
-URL:https://leekduck.com/events/shadow-mewtwo-in-shadow-raids-may-2023/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/rising-shadows-event
- .jpg
-DTSTART:20230527T100000
-DTEND:20230528T200000
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:mega-altaria-in-mega-raids-may-2023
-DTSTAMP:20230529T002001Z
+DTSTAMP:20230530T002153Z
 SUMMARY:[Raid Battles] Mega Altaria in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-altaria-in-mega-raids-may-2023/
@@ -42,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:regigigas-in-5-star-raid-battles-may-2023
-DTSTAMP:20230529T002001Z
+DTSTAMP:20230530T002153Z
 SUMMARY:[Raid Battles] Regigigas in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /regigigas-in-5-star-raid-battles-may-2023/
