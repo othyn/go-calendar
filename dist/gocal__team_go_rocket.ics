@@ -10,16 +10,16 @@ X-WR-CALDESC:All Pokémon GO Team GO Rocket events\, in your local time\, a
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:team-go-rocket-takeover-march-2023
-DTSTAMP:20230330T002020Z
+UID:team-go-rocket-takeover-june-2023
+DTSTAMP:20230531T002155Z
 SUMMARY:[Team GO Rocket] Team GO Rocket Takeover
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /team-go-rocket-takeover-march-2023/
-URL:https://leekduck.com/events/team-go-rocket-takeover-march-2023/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/rocket-giovanni-shad
- ow-regice.jpg
-DTSTART;VALUE=DATE:20230325
-DTEND;VALUE=DATE:20230329
+ /team-go-rocket-takeover-june-2023/
+URL:https://leekduck.com/events/team-go-rocket-takeover-june-2023/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART;VALUE=DATE:20230616
+DTEND;VALUE=DATE:20230625
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M

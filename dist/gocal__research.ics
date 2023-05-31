@@ -10,16 +10,16 @@ X-WR-CALDESC:All Pokémon GO Research events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:season10-unannounced-event-may-22
-DTSTAMP:20230510T001855Z
-SUMMARY:[Research] Unannounced Event
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /season10-unannounced-event-may-22/
-URL:https://leekduck.com/events/season10-unannounced-event-may-22/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
-DTSTART;VALUE=DATE:20230522
-DTEND;VALUE=DATE:20230528
+UID:searching-for-gold-research-day
+DTSTAMP:20230531T002155Z
+SUMMARY:[Research] Searching for Gold Research Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /searching-for-gold-research-day/
+URL:https://leekduck.com/events/searching-for-gold-research-day/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gold-research-day.jp
+ g
+DTSTART:20230603T140000
+DTEND:20230603T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M

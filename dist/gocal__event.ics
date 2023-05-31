@@ -10,16 +10,48 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:season-11-unannounced-event-june-3
-DTSTAMP:20230530T002153Z
-SUMMARY:[Event] Unannounced Event
-DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
- /season-11-unannounced-event-june-3/
-URL:https://leekduck.com/events/season-11-unannounced-event-june-3/
+UID:water-festival-beach-week-2023
+DTSTAMP:20230531T002155Z
+SUMMARY:[Event] Water Festival: Beach Week
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /water-festival-beach-week-2023/
+URL:https://leekduck.com/events/water-festival-beach-week-2023/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/water-festival-beach
+ -week-2023.jpg
+DTSTART;VALUE=DATE:20230606
+DTEND;VALUE=DATE:20230612
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:solstice-horizons
+DTSTAMP:20230531T002155Z
+SUMMARY:[Event] Solstice Horizons
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /solstice-horizons/
+URL:https://leekduck.com/events/solstice-horizons/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
  pg
-DTSTART:20230603T000000
-DTEND:20230603T235959
+DTSTART;VALUE=DATE:20230616
+DTEND;VALUE=DATE:20230625
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dark-flames
+DTSTAMP:20230531T002155Z
+SUMMARY:[Event] Dark Flames
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /dark-flames/
+URL:https://leekduck.com/events/dark-flames/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART;VALUE=DATE:20230629
+DTEND;VALUE=DATE:20230702
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
@@ -27,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-11-unannounced-event-july-22
-DTSTAMP:20230530T002153Z
+DTSTAMP:20230531T002155Z
 SUMMARY:[Event] Unannounced Event
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /season-11-unannounced-event-july-22/

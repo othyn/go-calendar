@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:raidhour20230531
-DTSTAMP:20230530T002153Z
+DTSTAMP:20230531T002155Z
 SUMMARY:[Raid Hour] Regigigas Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20230531/
@@ -19,6 +19,66 @@ URL:https://leekduck.com/events/raidhour20230531/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
 DTSTART:20230531T180000
 DTEND:20230531T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20230607
+DTSTAMP:20230531T002155Z
+SUMMARY:[Raid Hour] Uxie\, Mesprit\, and Azelf Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20230607/
+URL:https://leekduck.com/events/raidhour20230607/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20230607T180000
+DTEND:20230607T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20230614
+DTSTAMP:20230531T002155Z
+SUMMARY:[Raid Hour] Uxie\, Mesprit\, and Azelf Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20230614/
+URL:https://leekduck.com/events/raidhour20230614/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20230614T180000
+DTEND:20230614T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20230621
+DTSTAMP:20230531T002155Z
+SUMMARY:[Raid Hour] Nihilego Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20230621/
+URL:https://leekduck.com/events/raidhour20230621/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20230621T180000
+DTEND:20230621T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20230628
+DTSTAMP:20230531T002155Z
+SUMMARY:[Raid Hour] Nihilego Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20230628/
+URL:https://leekduck.com/events/raidhour20230628/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20230628T180000
+DTEND:20230628T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
