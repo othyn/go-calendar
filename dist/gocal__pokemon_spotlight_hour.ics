@@ -10,24 +10,8 @@ X-WR-CALDESC:All Pokémon GO Pokémon Spotlight Hour events\, in your local
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemonspotlighthour2023-05-30
-DTSTAMP:20230531T002155Z
-SUMMARY:[Pokémon Spotlight Hour] Houndour Spotlight Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2023-05-30/
-URL:https://leekduck.com/events/pokemonspotlighthour2023-05-30/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
- .jpg
-DTSTART:20230530T180000
-DTEND:20230530T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemonspotlighthour2023-06-06
-DTSTAMP:20230531T002155Z
+DTSTAMP:20230601T002825Z
 SUMMARY:[Pokémon Spotlight Hour] Water Festival Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-06-06/
@@ -43,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-06-13
-DTSTAMP:20230531T002155Z
+DTSTAMP:20230601T002825Z
 SUMMARY:[Pokémon Spotlight Hour] Binacle Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-06-13/
@@ -59,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-06-20
-DTSTAMP:20230531T002155Z
+DTSTAMP:20230601T002825Z
 SUMMARY:[Pokémon Spotlight Hour] Sunkern Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-06-20/
@@ -75,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-06-27
-DTSTAMP:20230531T002155Z
+DTSTAMP:20230601T002825Z
 SUMMARY:[Pokémon Spotlight Hour] Doduo Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-06-27/
