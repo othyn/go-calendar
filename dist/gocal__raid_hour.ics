@@ -10,23 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Hour events\, in your local time\, auto-u
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:raidhour20230531
-DTSTAMP:20230601T002825Z
-SUMMARY:[Raid Hour] Regigigas Raid Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /raidhour20230531/
-URL:https://leekduck.com/events/raidhour20230531/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
-DTSTART:20230531T180000
-DTEND:20230531T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raidhour20230607
-DTSTAMP:20230601T002825Z
+DTSTAMP:20230602T002155Z
 SUMMARY:[Raid Hour] Uxie\, Mesprit\, and Azelf Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20230607/
@@ -41,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20230614
-DTSTAMP:20230601T002825Z
+DTSTAMP:20230602T002155Z
 SUMMARY:[Raid Hour] Uxie\, Mesprit\, and Azelf Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20230614/
@@ -56,7 +41,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20230621
-DTSTAMP:20230601T002825Z
+DTSTAMP:20230602T002155Z
 SUMMARY:[Raid Hour] Nihilego Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20230621/
@@ -71,7 +56,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20230628
-DTSTAMP:20230601T002825Z
+DTSTAMP:20230602T002155Z
 SUMMARY:[Raid Hour] Nihilego Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20230628/
