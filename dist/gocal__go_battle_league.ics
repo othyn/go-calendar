@@ -10,26 +10,8 @@ X-WR-CALDESC:All Pokémon GO GO Battle League events\, in your local time\,
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:season-14-master-league_catch-cup-rising-heroes-edition
-DTSTAMP:20230602T002155Z
-SUMMARY:[GO Battle League] Master League and Catch Cup: Rising Heroes Editi
- on | Rising Heroes
-DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /season-14-master-league_catch-cup-rising-heroes-edition/
-URL:https://leekduck.com/events/season-14-master-league_catch-cup-rising-he
- roes-edition/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattleleague-maste
- r-key.jpg
-DTSTART;VALUE=DATE:20230524
-DTEND;VALUE=DATE:20230601
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:gbl-hidden-gems_great-league_fantasy-cup-ultra-league
-DTSTAMP:20230602T002155Z
+DTSTAMP:20230603T002048Z
 SUMMARY:[GO Battle League] Great League and Summer Cup: Great League Editio
  n | Hidden Gems
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events

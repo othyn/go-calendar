@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Research Breakthrough events\, in your local t
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:season-10-rising-heroes-research-breakthrough
-DTSTAMP:20230602T002155Z
-SUMMARY:[Research Breakthrough] Rising Heroes Research Breakthrough - Seaso
- n 10
-DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /season-10-rising-heroes-research-breakthrough/
-URL:https://leekduck.com/events/season-10-rising-heroes-research-breakthrou
- gh/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/researchWinter.jpg
-DTSTART;VALUE=DATE:20230301
-DTEND;VALUE=DATE:20230601
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:season-11-hidden-gems-research-breakthrough
-DTSTAMP:20230602T002155Z
+DTSTAMP:20230603T002048Z
 SUMMARY:[Research Breakthrough] Hidden Gems Research Breakthrough - Season 
  11
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
