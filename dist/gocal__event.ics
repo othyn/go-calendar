@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:water-festival-beach-week-2023
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Event] Water Festival: Beach Week
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /water-festival-beach-week-2023/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solstice-horizons
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Event] Solstice Horizons
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /solstice-horizons/
@@ -43,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dark-flames
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Event] Dark Flames
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /dark-flames/
@@ -59,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-11-unannounced-event-july-22
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Event] Unannounced Event
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /season-11-unannounced-event-july-22/

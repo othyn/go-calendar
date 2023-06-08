@@ -10,24 +10,8 @@ X-WR-CALDESC:All Pokémon GO events\, in your local time\, auto-updated and
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemonspotlighthour2023-06-06
-DTSTAMP:20230607T002209Z
-SUMMARY:[Pokémon Spotlight Hour] Water Festival Spotlight Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2023-06-06/
-URL:https://leekduck.com/events/pokemonspotlighthour2023-06-06/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
- .jpg
-DTSTART:20230606T180000
-DTEND:20230606T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raidhour20230607
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Raid Hour] Uxie\, Mesprit\, and Azelf Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20230607/
@@ -41,14 +25,14 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:gbl-hidden-gems_great-league_fantasy-cup-ultra-league
-DTSTAMP:20230607T002209Z
+UID:gbl-hidden-gems_great-league_summer-cup-great-league-edition
+DTSTAMP:20230608T002146Z
 SUMMARY:[GO Battle League] Great League and Summer Cup: Great League Editio
  n | Hidden Gems
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /gbl-hidden-gems_great-league_fantasy-cup-ultra-league/
-URL:https://leekduck.com/events/gbl-hidden-gems_great-league_fantasy-cup-ul
- tra-league/
+ /gbl-hidden-gems_great-league_summer-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-hidden-gems_great-league_summer-cup-gre
+ at-league-edition/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattle-greatleague
  -key.jpg
 DTSTART;VALUE=DATE:20230601
@@ -60,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:june-communityday2023
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Community Day] June Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /june-communityday2023/
@@ -75,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:water-festival-beach-week-2023
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Event] Water Festival: Beach Week
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /water-festival-beach-week-2023/
@@ -91,7 +75,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-06-13
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Pokémon Spotlight Hour] Binacle Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-06-13/
@@ -107,7 +91,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20230614
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Raid Hour] Uxie\, Mesprit\, and Azelf Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20230614/
@@ -122,7 +106,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-swampert-in-mega-raids-june-2023
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Raid Battles] Mega Swampert in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-swampert-in-mega-raids-june-2023/
@@ -137,7 +121,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:uxie-mesprit-azelf-in-raids-june-2023
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Raid Battles] Uxie\, Mesprit\, and Azelf in Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /uxie-mesprit-azelf-in-raids-june-2023/
@@ -151,8 +135,26 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:gbl-hidden-gems_great-league_summer-cup-ultra-league-edition
+DTSTAMP:20230608T002146Z
+SUMMARY:[GO Battle League] Great League and Summer Cup: Ultra League Editio
+ n | Hidden Gems
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-hidden-gems_great-league_summer-cup-ultra-league-edition/
+URL:https://leekduck.com/events/gbl-hidden-gems_great-league_summer-cup-ult
+ ra-league-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattle-greatleague
+ -key.jpg
+DTSTART;VALUE=DATE:20230608
+DTEND;VALUE=DATE:20230615
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:pokemonspotlighthour2023-06-20
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Pokémon Spotlight Hour] Sunkern Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-06-20/
@@ -168,7 +170,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20230621
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Raid Hour] Nihilego Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20230621/
@@ -182,8 +184,26 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:gbl-hidden-gems_ultra-league_element-cup-little-edition
+DTSTAMP:20230608T002146Z
+SUMMARY:[GO Battle League] Ultra League and Element Cup: Little Edition | H
+ idden Gems
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-hidden-gems_ultra-league_element-cup-little-edition/
+URL:https://leekduck.com/events/gbl-hidden-gems_ultra-league_element-cup-li
+ ttle-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-ult
+ ra-league-machamp-swampert.jpg
+DTSTART;VALUE=DATE:20230615
+DTEND;VALUE=DATE:20230622
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:shadow-articuno-in-shadow-raids-june-2023
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Raid Battles] Shadow Articuno in Shadow Raids
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /shadow-articuno-in-shadow-raids-june-2023/
@@ -199,7 +219,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solstice-horizons
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Event] Solstice Horizons
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /solstice-horizons/
@@ -215,7 +235,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:team-go-rocket-takeover-june-2023
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Team GO Rocket] Team GO Rocket Takeover
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /team-go-rocket-takeover-june-2023/
@@ -231,7 +251,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-06-27
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Pokémon Spotlight Hour] Doduo Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-06-27/
@@ -247,7 +267,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20230628
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Raid Hour] Nihilego Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20230628/
@@ -262,7 +282,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-sceptile-in-mega-raids-june-2023
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Raid Battles] Mega Sceptile in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-sceptile-in-mega-raids-june-2023/
@@ -277,7 +297,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:nihilego-in-5-star-raid-battles-june-2023
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Raid Battles] Nihilego in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /nihilego-in-5-star-raid-battles-june-2023/
@@ -292,8 +312,26 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:gbl-hidden-gems_ultra-league_single-type-cup-great-league-edition
+DTSTAMP:20230608T002146Z
+SUMMARY:[GO Battle League] Ultra League and Single-type Cup: Great League E
+ dition | Hidden Gems
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-hidden-gems_ultra-league_single-type-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-hidden-gems_ultra-league_single-type-cu
+ p-great-league-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-ult
+ ra-league-machamp-swampert.jpg
+DTSTART;VALUE=DATE:20230622
+DTEND;VALUE=DATE:20230629
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:dark-flames
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Event] Dark Flames
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /dark-flames/
@@ -309,7 +347,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-sableye-in-mega-raids-june-2023
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Raid Battles] Mega Sableye in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-sableye-in-mega-raids-june-2023/
@@ -324,7 +362,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:heatran-in-5-star-raid-battles-june-2023
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Raid Battles] Heatran in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /heatran-in-5-star-raid-battles-june-2023/
@@ -338,8 +376,28 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:gbl-hidden-gems_master-league-premier_single-type-cup-great-league-edit
+ ion
+DTSTAMP:20230608T002146Z
+SUMMARY:[GO Battle League] Master League Premier and Single-type Cup: Great
+  League Edition | Hidden Gems
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-hidden-gems_master-league-premier_single-type-cup-great-league-editio
+ n/
+URL:https://leekduck.com/events/gbl-hidden-gems_master-league-premier_singl
+ e-type-cup-great-league-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattleleague-maste
+ r-key.jpg
+DTSTART;VALUE=DATE:20230629
+DTEND;VALUE=DATE:20230706
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:july-communitydayclassic2023
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Community Day] July Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /july-communitydayclassic2023/
@@ -354,7 +412,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-blastoise-in-mega-raids-july-2023
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Raid Battles] Mega Blastoise in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-blastoise-in-mega-raids-july-2023/
@@ -369,7 +427,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:articuno-zapdos-moltres-in-5-star-raid-battles-july-2023
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Raid Battles] Articuno\, Zapdos\, and Moltres in 5-star Raid Battl
  es
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
@@ -386,8 +444,44 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:gbl-hidden-gems_master-league-retro-cup-great-league-edition
+DTSTAMP:20230608T002146Z
+SUMMARY:[GO Battle League] Master League and Single-type Cup: Great League 
+ Edition | Hidden Gems
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-hidden-gems_master-league-retro-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-hidden-gems_master-league-retro-cup-gre
+ at-league-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattleleague-maste
+ r-key.jpg
+DTSTART;VALUE=DATE:20230706
+DTEND;VALUE=DATE:20230713
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-hidden-gems_great-league-great-league-remix
+DTSTAMP:20230608T002146Z
+SUMMARY:[GO Battle League] Great League and Great League Remix | Hidden Gem
+ s
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-hidden-gems_great-league-great-league-remix/
+URL:https://leekduck.com/events/gbl-hidden-gems_great-league-great-league-r
+ emix/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattleleague-maste
+ r-key.jpg
+DTSTART;VALUE=DATE:20230713
+DTEND;VALUE=DATE:20230720
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:season-11-unannounced-event-july-22
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Event] Unannounced Event
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /season-11-unannounced-event-july-22/
@@ -403,7 +497,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-blaziken-in-mega-raids-july-2023
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Raid Battles] Mega Blaziken in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-blaziken-in-mega-raids-july-2023/
@@ -418,7 +512,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:regieleki-in-5-star-raid-battles-july-2023
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Raid Battles] Regieleki in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /regieleki-in-5-star-raid-battles-july-2023/
@@ -433,7 +527,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:july-communityday2023
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Community Day] July Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /july-communityday2023/
@@ -448,7 +542,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-tyranitar-in-mega-raids-july-2023
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Raid Battles] Mega Tyranitar in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-tyranitar-in-mega-raids-july-2023/
@@ -463,7 +557,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:regidrago-in-5-star-raid-battles-july-2023
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Raid Battles] Regidrago in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /regidrago-in-5-star-raid-battles-july-2023/
@@ -478,13 +572,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-fest-2023-osaka-japan
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Pokémon GO Fest] Pokémon GO Fest 2023: Osaka
 DESCRIPTION:Starts at 00:00\, ends at 09:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2023-osaka-japan/
 URL:https://leekduck.com/events/pokemon-go-fest-2023-osaka-japan/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemongofest2023-os
- aka.jpg
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemon-go-fest-2023
+ -osaka-japan-global-key.jpg
 DTSTART;VALUE=DATE:20230804
 DTEND;VALUE=DATE:20230806
 BEGIN:VALARM
@@ -494,13 +588,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-fest-2023-london-england
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Pokémon GO Fest] Pokémon GO Fest 2023: London
 DESCRIPTION:Starts at 08:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2023-london-england/
 URL:https://leekduck.com/events/pokemon-go-fest-2023-london-england/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemongofest2023-lo
- ndon.jpg
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemon-go-fest-2023
+ -london-global-key.jpg
 DTSTART;VALUE=DATE:20230804
 DTEND;VALUE=DATE:20230806
 BEGIN:VALARM
@@ -510,7 +604,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:august-communityday2023
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Community Day] August Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /august-communityday2023/
@@ -525,7 +619,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-gyarados-in-mega-raids-august-2023
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Raid Battles] Mega Gyarados in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-gyarados-in-mega-raids-august-2023/
@@ -540,7 +634,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cresselia-in-5-star-raid-battles-august-2023
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Raid Battles] Cresselia in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /cresselia-in-5-star-raid-battles-august-2023/
@@ -557,13 +651,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-fest-2023-new-york-city-usa
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Pokémon GO Fest] Pokémon GO Fest 2023: New York City
 DESCRIPTION:Starts at 13:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2023-new-york-city-usa/
 URL:https://leekduck.com/events/pokemon-go-fest-2023-new-york-city-usa/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemongofest2023-ne
- w-york-city.jpg
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemon-go-fest-2023
+ -new-york-global-key.jpg
 DTSTART;VALUE=DATE:20230818
 DTEND;VALUE=DATE:20230820
 BEGIN:VALARM
@@ -573,7 +667,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-salamence-in-mega-raids-august-2023
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Raid Battles] Mega Salamence in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-salamence-in-mega-raids-august-2023/
@@ -588,13 +682,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-fest-2023-global
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Pokémon GO Fest] Pokémon GO Fest: Global
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2023-global/
 URL:https://leekduck.com/events/pokemon-go-fest-2023-global/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemongofest2023-gl
- obal.jpg
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemon-go-fest-2023
+ -global-key.jpg
 DTSTART:20230826T100000
 DTEND:20230827T180000
 BEGIN:VALARM
@@ -604,7 +698,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-11-hidden-gems
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Season] Season 11: Hidden Gems
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-11-hidden-gems/
@@ -620,7 +714,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-11-hidden-gems-research-breakthrough
-DTSTAMP:20230607T002209Z
+DTSTAMP:20230608T002146Z
 SUMMARY:[Research Breakthrough] Hidden Gems Research Breakthrough - Season 
  11
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
