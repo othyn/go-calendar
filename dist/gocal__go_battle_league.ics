@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:gbl-hidden-gems_great-league_summer-cup-great-league-edition
-DTSTAMP:20230608T002146Z
+DTSTAMP:20230609T002335Z
 SUMMARY:[GO Battle League] Great League and Summer Cup: Great League Editio
  n | Hidden Gems
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -29,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-hidden-gems_great-league_summer-cup-ultra-league-edition
-DTSTAMP:20230608T002146Z
+DTSTAMP:20230609T002335Z
 SUMMARY:[GO Battle League] Great League and Summer Cup: Ultra League Editio
  n | Hidden Gems
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -47,7 +47,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-hidden-gems_ultra-league_element-cup-little-edition
-DTSTAMP:20230608T002146Z
+DTSTAMP:20230609T002335Z
 SUMMARY:[GO Battle League] Ultra League and Element Cup: Little Edition | H
  idden Gems
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -65,7 +65,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-hidden-gems_ultra-league_single-type-cup-great-league-edition
-DTSTAMP:20230608T002146Z
+DTSTAMP:20230609T002335Z
 SUMMARY:[GO Battle League] Ultra League and Single-type Cup: Great League E
  dition | Hidden Gems
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -84,7 +84,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-hidden-gems_master-league-premier_single-type-cup-great-league-edit
  ion
-DTSTAMP:20230608T002146Z
+DTSTAMP:20230609T002335Z
 SUMMARY:[GO Battle League] Master League Premier and Single-type Cup: Great
   League Edition | Hidden Gems
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -102,13 +102,13 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:gbl-hidden-gems_master-league-retro-cup-great-league-edition
-DTSTAMP:20230608T002146Z
-SUMMARY:[GO Battle League] Master League and Single-type Cup: Great League 
- Edition | Hidden Gems
+UID:gbl-hidden-gems_master-league_retro-cup-great-league-edition
+DTSTAMP:20230609T002335Z
+SUMMARY:[GO Battle League] Master League and Retro Cup: Great League Editio
+ n | Hidden Gems
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /gbl-hidden-gems_master-league-retro-cup-great-league-edition/
-URL:https://leekduck.com/events/gbl-hidden-gems_master-league-retro-cup-gre
+ /gbl-hidden-gems_master-league_retro-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-hidden-gems_master-league_retro-cup-gre
  at-league-edition/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattleleague-maste
  r-key.jpg
@@ -121,17 +121,125 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-hidden-gems_great-league-great-league-remix
-DTSTAMP:20230608T002146Z
+DTSTAMP:20230609T002335Z
 SUMMARY:[GO Battle League] Great League and Great League Remix | Hidden Gem
  s
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-hidden-gems_great-league-great-league-remix/
 URL:https://leekduck.com/events/gbl-hidden-gems_great-league-great-league-r
  emix/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattleleague-maste
- r-key.jpg
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattle-greatleague
+ -key.jpg
 DTSTART;VALUE=DATE:20230713
 DTEND;VALUE=DATE:20230720
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-hidden-gems_great-league_fossil-cup-great-league-edition
+DTSTAMP:20230609T002335Z
+SUMMARY:[GO Battle League] Great League and Fossil Cup: Great League Editio
+ n | Hidden Gems
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-hidden-gems_great-league_fossil-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-hidden-gems_great-league_fossil-cup-gre
+ at-league-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattle-greatleague
+ -key.jpg
+DTSTART;VALUE=DATE:20230720
+DTEND;VALUE=DATE:20230727
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-hidden-gems_ultra-league-fossil-cup-great-league-edition
+DTSTAMP:20230609T002335Z
+SUMMARY:[GO Battle League] Ultra League and Fossil Cup: Great League Editio
+ n | Hidden Gems
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-hidden-gems_ultra-league-fossil-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-hidden-gems_ultra-league-fossil-cup-gre
+ at-league-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-ult
+ ra-league-machamp-swampert.jpg
+DTSTART;VALUE=DATE:20230727
+DTEND;VALUE=DATE:20230803
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-hidden-gems_ultra-league_jungle-cup-little-edition
+DTSTAMP:20230609T002335Z
+SUMMARY:[GO Battle League] Ultra League and Jungle Cup: Little Edition | Hi
+ dden Gems
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-hidden-gems_ultra-league_jungle-cup-little-edition/
+URL:https://leekduck.com/events/gbl-hidden-gems_ultra-league_jungle-cup-lit
+ tle-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-ult
+ ra-league-machamp-swampert.jpg
+DTSTART;VALUE=DATE:20230803
+DTEND;VALUE=DATE:20230810
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-hidden-gems_great-league_ultra-league_master-league
+DTSTAMP:20230609T002335Z
+SUMMARY:[GO Battle League] Great League\, Ultra League\, and Master League 
+ | Hidden Gems
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-hidden-gems_great-league_ultra-league_master-league/
+URL:https://leekduck.com/events/gbl-hidden-gems_great-league_ultra-league_m
+ aster-league/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-sea
+ son-15-hidden-gems.jpg
+DTSTART;VALUE=DATE:20230810
+DTEND;VALUE=DATE:20230817
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-hidden-gems_master-league_fantasy-cup-ultra-league-edition
+DTSTAMP:20230609T002335Z
+SUMMARY:[GO Battle League] Master League and Fantasy Cup: Ultra League Edit
+ ion| Hidden Gems
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-hidden-gems_master-league_fantasy-cup-ultra-league-edition/
+URL:https://leekduck.com/events/gbl-hidden-gems_master-league_fantasy-cup-u
+ ltra-league-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattleleague-maste
+ r-key.jpg
+DTSTART;VALUE=DATE:20230817
+DTEND;VALUE=DATE:20230824
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-hidden-gems_master-league_catch-cup-hidden-gems-edition
+DTSTAMP:20230609T002335Z
+SUMMARY:[GO Battle League] Master League and Catch Cup: Hidden Gems Edition
+  | Hidden Gems
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-hidden-gems_master-league_catch-cup-hidden-gems-edition/
+URL:https://leekduck.com/events/gbl-hidden-gems_master-league_catch-cup-hid
+ den-gems-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattleleague-maste
+ r-key.jpg
+DTSTART;VALUE=DATE:20230824
+DTEND;VALUE=DATE:20230901
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
