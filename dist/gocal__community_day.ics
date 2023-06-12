@@ -10,23 +10,8 @@ X-WR-CALDESC:All Pokémon GO Community Day events\, in your local time\, au
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:june-communityday2023
-DTSTAMP:20230611T002439Z
-SUMMARY:[Community Day] Axew Community Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /june-communityday2023/
-URL:https://leekduck.com/events/june-communityday2023/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-2023-06-axew.jpg
-DTSTART:20230610T140000
-DTEND:20230610T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:july-communitydayclassic2023
-DTSTAMP:20230611T002439Z
+DTSTAMP:20230612T002322Z
 SUMMARY:[Community Day] July Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /july-communitydayclassic2023/
@@ -41,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:july-communityday2023
-DTSTAMP:20230611T002439Z
+DTSTAMP:20230612T002322Z
 SUMMARY:[Community Day] July Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /july-communityday2023/
@@ -56,7 +41,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:august-communityday2023
-DTSTAMP:20230611T002439Z
+DTSTAMP:20230612T002322Z
 SUMMARY:[Community Day] August Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /august-communityday2023/
