@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-06-13
-DTSTAMP:20230613T002150Z
+DTSTAMP:20230614T002019Z
 SUMMARY:[Pokémon Spotlight Hour] Binacle Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-06-13/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-06-20
-DTSTAMP:20230613T002150Z
+DTSTAMP:20230614T002019Z
 SUMMARY:[Pokémon Spotlight Hour] Sunkern Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-06-20/
@@ -43,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-06-27
-DTSTAMP:20230613T002150Z
+DTSTAMP:20230614T002019Z
 SUMMARY:[Pokémon Spotlight Hour] Doduo Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-06-27/
