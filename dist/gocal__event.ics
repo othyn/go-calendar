@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:solstice-horizons
-DTSTAMP:20230618T002408Z
+DTSTAMP:20230619T002225Z
 SUMMARY:[Event] Solstice Horizons
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /solstice-horizons/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dark-flames
-DTSTAMP:20230618T002408Z
+DTSTAMP:20230619T002225Z
 SUMMARY:[Event] Dark Flames
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /dark-flames/
@@ -43,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-day-clay
-DTSTAMP:20230618T002408Z
+DTSTAMP:20230619T002225Z
 SUMMARY:[Event] GO Battle Day: Clay
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-day-clay/
@@ -59,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-11-unannounced-event-july-22
-DTSTAMP:20230618T002408Z
+DTSTAMP:20230619T002225Z
 SUMMARY:[Event] Unannounced Event
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /season-11-unannounced-event-july-22/
@@ -75,7 +75,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-world-championship-event-2023
-DTSTAMP:20230618T002408Z
+DTSTAMP:20230619T002225Z
 SUMMARY:[Event] Pokémon GO World Championships Event
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-go-world-championship-event-2023/
