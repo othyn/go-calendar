@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:raidhour20230628
-DTSTAMP:20230626T002447Z
+DTSTAMP:20230627T002357Z
 SUMMARY:[Raid Hour] Nihilego Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20230628/
@@ -19,6 +19,66 @@ URL:https://leekduck.com/events/raidhour20230628/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
 DTSTART:20230628T180000
 DTEND:20230628T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20230705
+DTSTAMP:20230627T002357Z
+SUMMARY:[Raid Hour] Heatran Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20230705/
+URL:https://leekduck.com/events/raidhour20230705/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20230705T180000
+DTEND:20230705T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20230712
+DTSTAMP:20230627T002357Z
+SUMMARY:[Raid Hour] Articuno\, Zapdos\, and Moltres Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20230712/
+URL:https://leekduck.com/events/raidhour20230712/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20230712T180000
+DTEND:20230712T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20230719
+DTSTAMP:20230627T002357Z
+SUMMARY:[Raid Hour] Regieleki Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20230719/
+URL:https://leekduck.com/events/raidhour20230719/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20230719T180000
+DTEND:20230719T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20230726
+DTSTAMP:20230627T002357Z
+SUMMARY:[Raid Hour] Regidrago Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20230726/
+URL:https://leekduck.com/events/raidhour20230726/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20230726T180000
+DTEND:20230726T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
