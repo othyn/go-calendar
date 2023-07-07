@@ -10,15 +10,16 @@ X-WR-CALDESC:All Pokémon GO Update events\, in your local time\, auto-upda
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:primal-reversion-detailed
-DTSTAMP:20230228T002159Z
-SUMMARY:[Update] Primal Reversion
+UID:pokemon-showcases-new-feature
+DTSTAMP:20230707T002427Z
+SUMMARY:[Update] New Feature: Pokémon Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /primal-reversion-detailed/
-URL:https://leekduck.com/events/primal-reversion-detailed/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/primal-reversion.jpg
-DTSTART;VALUE=DATE:20230118
-DTEND;VALUE=DATE:20230228
+ /pokemon-showcases-new-feature/
+URL:https://leekduck.com/events/pokemon-showcases-new-feature/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemon-showcases-fe
+ ature.jpg
+DTSTART;VALUE=DATE:20230706
+DTEND;VALUE=DATE:20230730
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
