@@ -10,8 +10,24 @@ X-WR-CALDESC:All Pokémon GO Community Day events\, in your local time\, au
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
+UID:july-communitydayclassic2023-makeup
+DTSTAMP:20230719T003830Z
+SUMMARY:[Community Day] Squirtle Community Day Classic Makeup Event
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /july-communitydayclassic2023-makeup/
+URL:https://leekduck.com/events/july-communitydayclassic2023-makeup/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-2023-classic-july
+ -squirtle.jpg
+DTSTART:20230723T140000
+DTEND:20230723T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:july-communityday2023
-DTSTAMP:20230718T004100Z
+DTSTAMP:20230719T003830Z
 SUMMARY:[Community Day] Poliwag Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /july-communityday2023/
@@ -27,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:august-communityday2023
-DTSTAMP:20230718T004100Z
+DTSTAMP:20230719T003830Z
 SUMMARY:[Community Day] August Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /august-communityday2023/
