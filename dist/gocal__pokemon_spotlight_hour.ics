@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-07-18
-DTSTAMP:20230719T003830Z
+DTSTAMP:20230720T002215Z
 SUMMARY:[Pokémon Spotlight Hour] Rhyhorn Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-07-18/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-07-25
-DTSTAMP:20230719T003830Z
+DTSTAMP:20230720T002215Z
 SUMMARY:[Pokémon Spotlight Hour] Yungoos Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-07-25/

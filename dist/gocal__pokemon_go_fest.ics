@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-go-fest-2023-osaka-japan
-DTSTAMP:20230719T003830Z
+DTSTAMP:20230720T002215Z
 SUMMARY:[Pokémon GO Fest] Pokémon GO Fest 2023: Osaka
 DESCRIPTION:Starts at 00:00\, ends at 09:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2023-osaka-japan/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-fest-2023-london-england
-DTSTAMP:20230719T003830Z
+DTSTAMP:20230720T002215Z
 SUMMARY:[Pokémon GO Fest] Pokémon GO Fest 2023: London
 DESCRIPTION:Starts at 08:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2023-london-england/
@@ -43,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-fest-2023-new-york-city-usa
-DTSTAMP:20230719T003830Z
+DTSTAMP:20230720T002215Z
 SUMMARY:[Pokémon GO Fest] Pokémon GO Fest 2023: New York City
 DESCRIPTION:Starts at 13:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2023-new-york-city-usa/
@@ -59,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-fest-2023-global
-DTSTAMP:20230719T003830Z
+DTSTAMP:20230720T002215Z
 SUMMARY:[Pokémon GO Fest] Pokémon GO Fest: Global - Saturday
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2023-global/
@@ -75,7 +75,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-fest-2023-global-sunday
-DTSTAMP:20230719T003830Z
+DTSTAMP:20230720T002215Z
 SUMMARY:[Pokémon GO Fest] Pokémon GO Fest: Global - Sunday
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2023-global-sunday/
