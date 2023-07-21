@@ -42,5 +42,9 @@
     "season": {
         "name": "Season",
         "url": "https:\/\/github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__season.ics"
+    },
+    "update": {
+        "name": "Update",
+        "url": "https:\/\/github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__update.ics"
     }
 }
