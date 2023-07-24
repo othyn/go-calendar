@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:riolu-hatch-day
-DTSTAMP:20230723T002326Z
+DTSTAMP:20230724T002203Z
 SUMMARY:[Event] Riolu Hatch Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /riolu-hatch-day/
@@ -26,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:blaze-new-trails-event
-DTSTAMP:20230723T002326Z
+DTSTAMP:20230724T002203Z
 SUMMARY:[Event] Blaze New Trails
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /blaze-new-trails-event/
@@ -42,7 +42,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:adventure-week-2023
-DTSTAMP:20230723T002326Z
+DTSTAMP:20230724T002203Z
 SUMMARY:[Event] Adventure Week 2023
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /adventure-week-2023/
@@ -58,7 +58,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-world-championship-event-2023
-DTSTAMP:20230723T002326Z
+DTSTAMP:20230724T002203Z
 SUMMARY:[Event] Pokémon GO World Championships Event
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-go-world-championship-event-2023/
