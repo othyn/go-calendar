@@ -10,38 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Battles events\, in your local time\, aut
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:mega-blaziken-in-mega-raids-july-2023
-DTSTAMP:20230725T002228Z
-SUMMARY:[Raid Battles] Mega Blaziken in Mega Raids
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /mega-blaziken-in-mega-raids-july-2023/
-URL:https://leekduck.com/events/mega-blaziken-in-mega-raids-july-2023/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;VALUE=DATE:20230713
-DTEND;VALUE=DATE:20230725
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:regieleki-in-5-star-raid-battles-july-2023
-DTSTAMP:20230725T002228Z
-SUMMARY:[Raid Battles] Regieleki in 5-star Raid Battles
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /regieleki-in-5-star-raid-battles-july-2023/
-URL:https://leekduck.com/events/regieleki-in-5-star-raid-battles-july-2023/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/regieleki.jpg
-DTSTART;VALUE=DATE:20230713
-DTEND;VALUE=DATE:20230725
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:mega-tyranitar-in-mega-raids-july-2023
-DTSTAMP:20230725T002228Z
+DTSTAMP:20230726T002116Z
 SUMMARY:[Raid Battles] Mega Tyranitar in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-tyranitar-in-mega-raids-july-2023/
@@ -56,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:regidrago-in-5-star-raid-battles-july-2023
-DTSTAMP:20230725T002228Z
+DTSTAMP:20230726T002116Z
 SUMMARY:[Raid Battles] Regidrago in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /regidrago-in-5-star-raid-battles-july-2023/
@@ -71,7 +41,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-gyarados-in-mega-raids-august-2023
-DTSTAMP:20230725T002228Z
+DTSTAMP:20230726T002116Z
 SUMMARY:[Raid Battles] Mega Gyarados in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-gyarados-in-mega-raids-august-2023/
@@ -86,7 +56,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cresselia-in-5-star-raid-battles-august-2023
-DTSTAMP:20230725T002228Z
+DTSTAMP:20230726T002116Z
 SUMMARY:[Raid Battles] Cresselia in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /cresselia-in-5-star-raid-battles-august-2023/
@@ -103,7 +73,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-salamence-in-mega-raids-august-2023
-DTSTAMP:20230725T002228Z
+DTSTAMP:20230726T002116Z
 SUMMARY:[Raid Battles] Mega Salamence in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-salamence-in-mega-raids-august-2023/
@@ -118,7 +88,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-rayquaza-in-mega-raids-august-2023
-DTSTAMP:20230725T002228Z
+DTSTAMP:20230726T002116Z
 SUMMARY:[Raid Battles] GO Fest: Mega Rayquaza in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /mega-rayquaza-in-mega-raids-august-2023/
@@ -133,7 +103,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-articuno-in-shadow-raids-june-2023
-DTSTAMP:20230725T002228Z
+DTSTAMP:20230726T002116Z
 SUMMARY:[Raid Battles] Shadow Articuno in Shadow Raids
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /shadow-articuno-in-shadow-raids-june-2023/
