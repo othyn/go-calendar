@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:mega-tyranitar-in-mega-raids-july-2023
-DTSTAMP:20230729T002014Z
+DTSTAMP:20230730T002244Z
 SUMMARY:[Raid Battles] Mega Tyranitar in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-tyranitar-in-mega-raids-july-2023/
@@ -26,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:regidrago-in-5-star-raid-battles-july-2023
-DTSTAMP:20230729T002014Z
+DTSTAMP:20230730T002244Z
 SUMMARY:[Raid Battles] Regidrago in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /regidrago-in-5-star-raid-battles-july-2023/
@@ -41,7 +41,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-gyarados-in-mega-raids-august-2023
-DTSTAMP:20230729T002014Z
+DTSTAMP:20230730T002244Z
 SUMMARY:[Raid Battles] Mega Gyarados in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-gyarados-in-mega-raids-august-2023/
@@ -56,7 +56,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cresselia-in-5-star-raid-battles-august-2023
-DTSTAMP:20230729T002014Z
+DTSTAMP:20230730T002244Z
 SUMMARY:[Raid Battles] Cresselia in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /cresselia-in-5-star-raid-battles-august-2023/
@@ -73,7 +73,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-salamence-in-mega-raids-august-2023
-DTSTAMP:20230729T002014Z
+DTSTAMP:20230730T002244Z
 SUMMARY:[Raid Battles] Mega Salamence in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-salamence-in-mega-raids-august-2023/
@@ -87,8 +87,42 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:xerneas-yveltal-in-5-star-raid-battles-august-2023-period1
+DTSTAMP:20230730T002244Z
+SUMMARY:[Raid Battles] Xerneas and Yveltal in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /xerneas-yveltal-in-5-star-raid-battles-august-2023-period1/
+URL:https://leekduck.com/events/xerneas-yveltal-in-5-star-raid-battles-augu
+ st-2023-period1/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/xerneas-yveltal-spli
+ t.jpg
+DTSTART;VALUE=DATE:20230816
+DTEND;VALUE=DATE:20230823
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:primal-kyogre-and-primal-groudon-in-primal-raids-august-2023
+DTSTAMP:20230730T002244Z
+SUMMARY:[Raid Battles] Primal Kyogre and Primal Groudon in Primal Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /primal-kyogre-and-primal-groudon-in-primal-raids-august-2023/
+URL:https://leekduck.com/events/primal-kyogre-and-primal-groudon-in-primal-
+ raids-august-2023/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/primal-groudon-prima
+ l-kyogre.jpg
+DTSTART;VALUE=DATE:20230823
+DTEND;VALUE=DATE:20230826
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:mega-rayquaza-in-mega-raids-august-2023
-DTSTAMP:20230729T002014Z
+DTSTAMP:20230730T002244Z
 SUMMARY:[Raid Battles] GO Fest: Mega Rayquaza in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /mega-rayquaza-in-mega-raids-august-2023/
@@ -103,7 +137,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-articuno-in-shadow-raids-june-2023
-DTSTAMP:20230729T002014Z
+DTSTAMP:20230730T002244Z
 SUMMARY:[Raid Battles] Shadow Articuno in Shadow Raids
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /shadow-articuno-in-shadow-raids-june-2023/
@@ -112,6 +146,23 @@ IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
  pg
 DTSTART;VALUE=DATE:20230610
 DTEND;VALUE=DATE:20230827
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:xerneas-yveltal-in-5-star-raid-battles-august-2023-period2
+DTSTAMP:20230730T002244Z
+SUMMARY:[Raid Battles] Xerneas and Yveltal in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /xerneas-yveltal-in-5-star-raid-battles-august-2023-period2/
+URL:https://leekduck.com/events/xerneas-yveltal-in-5-star-raid-battles-augu
+ st-2023-period2/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/xerneas-yveltal-spli
+ t.jpg
+DTSTART;VALUE=DATE:20230827
+DTEND;VALUE=DATE:20230901
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M

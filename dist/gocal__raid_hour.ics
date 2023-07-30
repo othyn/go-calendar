@@ -10,15 +10,90 @@ X-WR-CALDESC:All Pokémon GO Raid Hour events\, in your local time\, auto-u
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:raidhour20230726
-DTSTAMP:20230727T002002Z
+UID:raidhour20230802
+DTSTAMP:20230730T002244Z
 SUMMARY:[Raid Hour] Regidrago Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /raidhour20230726/
-URL:https://leekduck.com/events/raidhour20230726/
+ /raidhour20230802/
+URL:https://leekduck.com/events/raidhour20230802/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
-DTSTART:20230726T180000
-DTEND:20230726T190000
+DTSTART:20230802T180000
+DTEND:20230802T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20230809
+DTSTAMP:20230730T002244Z
+SUMMARY:[Raid Hour] Cresselia Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20230809/
+URL:https://leekduck.com/events/raidhour20230809/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20230809T180000
+DTEND:20230809T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20230816
+DTSTAMP:20230730T002244Z
+SUMMARY:[Raid Hour] Xerneas Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20230816/
+URL:https://leekduck.com/events/raidhour20230816/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20230816T180000
+DTEND:20230816T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20230830
+DTSTAMP:20230730T002244Z
+SUMMARY:[Raid Hour] Yveltal Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20230830/
+URL:https://leekduck.com/events/raidhour20230830/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20230816T180000
+DTEND:20230816T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20230823
+DTSTAMP:20230730T002244Z
+SUMMARY:[Raid Hour] Primal Kyogre Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20230823/
+URL:https://leekduck.com/events/raidhour20230823/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20230823T180000
+DTEND:20230823T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20230824
+DTSTAMP:20230730T002244Z
+SUMMARY:[Raid Hour] Primal Groudon Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20230824/
+URL:https://leekduck.com/events/raidhour20230824/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20230824T180000
+DTEND:20230824T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M

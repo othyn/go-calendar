@@ -23,9 +23,17 @@
         "name": "Pokémon GO Fest",
         "url": "https:\/\/github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokemon_go_fest.ics"
     },
+    "pokemon_spotlight_hour": {
+        "name": "Pokémon Spotlight Hour",
+        "url": "https:\/\/github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokemon_spotlight_hour.ics"
+    },
     "raid_battles": {
         "name": "Raid Battles",
         "url": "https:\/\/github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__raid_battles.ics"
+    },
+    "raid_hour": {
+        "name": "Raid Hour",
+        "url": "https:\/\/github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__raid_hour.ics"
     },
     "research": {
         "name": "Research",
