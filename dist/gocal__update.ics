@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:routes-new-feature
-DTSTAMP:20230730T002244Z
+DTSTAMP:20230731T002109Z
 SUMMARY:[Update] New Feature: Routes
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /routes-new-feature/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:august-2023-streak-bonus
-DTSTAMP:20230730T002244Z
+DTSTAMP:20230731T002109Z
 SUMMARY:[Update] Daily Streak Bonus - Hidden Gems
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /august-2023-streak-bonus/
