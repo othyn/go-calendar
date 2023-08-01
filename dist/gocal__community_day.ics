@@ -10,29 +10,14 @@ X-WR-CALDESC:All Pokémon GO Community Day events\, in your local time\, au
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:july-communityday2023
-DTSTAMP:20230731T002109Z
-SUMMARY:[Community Day] Poliwag Community Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /july-communityday2023/
-URL:https://leekduck.com/events/july-communityday2023/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-2023-07-poliwag.j
- pg
-DTSTART:20230730T140000
-DTEND:20230730T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:august-communityday2023
-DTSTAMP:20230731T002109Z
-SUMMARY:[Community Day] August Community Day
+DTSTAMP:20230801T002346Z
+SUMMARY:[Community Day] Froakie Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /august-communityday2023/
 URL:https://leekduck.com/events/august-communityday2023/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-2023-08-froakie.j
+ pg
 DTSTART:20230813T140000
 DTEND:20230813T170000
 BEGIN:VALARM
