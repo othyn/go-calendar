@@ -10,24 +10,8 @@ X-WR-CALDESC:All Pokémon GO Pokémon Spotlight Hour events\, in your local
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemonspotlighthour2023-08-01
-DTSTAMP:20230802T002019Z
-SUMMARY:[Pokémon Spotlight Hour] Vulpix Spotlight Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2023-08-01/
-URL:https://leekduck.com/events/pokemonspotlighthour2023-08-01/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
- .jpg
-DTSTART:20230801T180000
-DTEND:20230801T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemonspotlighthour2023-08-08
-DTSTAMP:20230802T002019Z
+DTSTAMP:20230803T002116Z
 SUMMARY:[Pokémon Spotlight Hour] Paras Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-08-08/
@@ -43,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-08-15
-DTSTAMP:20230802T002019Z
+DTSTAMP:20230803T002116Z
 SUMMARY:[Pokémon Spotlight Hour] Stufful Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-08-15/
@@ -59,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-08-22
-DTSTAMP:20230802T002019Z
+DTSTAMP:20230803T002116Z
 SUMMARY:[Pokémon Spotlight Hour] Venonat Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-08-22/
@@ -75,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-08-29
-DTSTAMP:20230802T002019Z
+DTSTAMP:20230803T002116Z
 SUMMARY:[Pokémon Spotlight Hour] Tentacool Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-08-29/
