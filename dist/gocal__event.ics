@@ -10,24 +10,8 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:adventure-week-2023
-DTSTAMP:20230803T002116Z
-SUMMARY:[Event] Adventure Week 2023
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /adventure-week-2023/
-URL:https://leekduck.com/events/adventure-week-2023/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/adventure-week-2023.
- jpg
-DTSTART;VALUE=DATE:20230727
-DTEND;VALUE=DATE:20230802
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:glittering-garden
-DTSTAMP:20230803T002116Z
+DTSTAMP:20230804T002145Z
 SUMMARY:[Event] Glittering Garden
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /glittering-garden/
@@ -43,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-world-championship-event-2023
-DTSTAMP:20230803T002116Z
+DTSTAMP:20230804T002145Z
 SUMMARY:[Event] Pokémon GO World Championships Event
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-go-world-championship-event-2023/
@@ -59,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:noxious-swamp
-DTSTAMP:20230803T002116Z
+DTSTAMP:20230804T002145Z
 SUMMARY:[Event] Noxious Swamp
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /noxious-swamp/
