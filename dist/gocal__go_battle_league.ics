@@ -10,26 +10,8 @@ X-WR-CALDESC:All Pokémon GO GO Battle League events\, in your local time\,
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:gbl-hidden-gems_ultra-league-fossil-cup-great-league-edition
-DTSTAMP:20230804T002145Z
-SUMMARY:[GO Battle League] Ultra League and Fossil Cup: Great League Editio
- n | Hidden Gems
-DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /gbl-hidden-gems_ultra-league-fossil-cup-great-league-edition/
-URL:https://leekduck.com/events/gbl-hidden-gems_ultra-league-fossil-cup-gre
- at-league-edition/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-ult
- ra-league-machamp-swampert.jpg
-DTSTART;VALUE=DATE:20230727
-DTEND;VALUE=DATE:20230803
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:gbl-hidden-gems_ultra-league_jungle-cup-little-edition
-DTSTAMP:20230804T002145Z
+DTSTAMP:20230805T002053Z
 SUMMARY:[GO Battle League] Ultra League and Jungle Cup: Little Edition | Hi
  dden Gems
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -47,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-hidden-gems_great-league_ultra-league_master-league
-DTSTAMP:20230804T002145Z
+DTSTAMP:20230805T002053Z
 SUMMARY:[GO Battle League] Great League\, Ultra League\, and Master League 
  | Hidden Gems
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -65,7 +47,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-hidden-gems_master-league_fantasy-cup-ultra-league-edition
-DTSTAMP:20230804T002145Z
+DTSTAMP:20230805T002053Z
 SUMMARY:[GO Battle League] Master League and Fantasy Cup: Ultra League Edit
  ion| Hidden Gems
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -83,7 +65,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-hidden-gems_master-league_catch-cup-hidden-gems-edition
-DTSTAMP:20230804T002145Z
+DTSTAMP:20230805T002053Z
 SUMMARY:[GO Battle League] Master League and Catch Cup: Hidden Gems Edition
   | Hidden Gems
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
