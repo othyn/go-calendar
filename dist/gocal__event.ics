@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:glittering-garden
-DTSTAMP:20230805T002053Z
+DTSTAMP:20230806T001959Z
 SUMMARY:[Event] Glittering Garden
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /glittering-garden/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-world-championship-event-2023
-DTSTAMP:20230805T002053Z
+DTSTAMP:20230806T001959Z
 SUMMARY:[Event] Pokémon GO World Championships Event
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-go-world-championship-event-2023/
@@ -43,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:noxious-swamp
-DTSTAMP:20230805T002053Z
+DTSTAMP:20230806T001959Z
 SUMMARY:[Event] Noxious Swamp
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /noxious-swamp/
