@@ -10,8 +10,26 @@ X-WR-CALDESC:All Pokémon GO Research events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
+UID:world-championship-twitch-timed-research-2023
+DTSTAMP:20230809T002126Z
+SUMMARY:[Research] Exclusive Timed Research for Pokémon GO World Champions
+ hips
+DESCRIPTION:Starts at 12:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /world-championship-twitch-timed-research-2023/
+URL:https://leekduck.com/events/world-championship-twitch-timed-research-20
+ 23/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/wcs-2023-timed-resea
+ rch.jpg
+DTSTART:20230811T120000
+DTEND:20230812T200000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:amazon-prime-partner-research-hidden-gems
-DTSTAMP:20230808T002142Z
+DTSTAMP:20230809T002126Z
 SUMMARY:[Research] Limited-time Partner Research: Amazon Prime Gaming
 DESCRIPTION:Starts at 16:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /amazon-prime-partner-research-hidden-gems/
