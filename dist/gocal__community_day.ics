@@ -10,16 +10,15 @@ X-WR-CALDESC:All Pokémon GO Community Day events\, in your local time\, au
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:august-communityday2023
-DTSTAMP:20230814T001818Z
-SUMMARY:[Community Day] Froakie Community Day
+UID:november-communityday2023
+DTSTAMP:20230815T001747Z
+SUMMARY:[Community Day] November Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /august-communityday2023/
-URL:https://leekduck.com/events/august-communityday2023/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-2023-08-froakie.j
- pg
-DTSTART:20230813T140000
-DTEND:20230813T170000
+ /november-communityday2023/
+URL:https://leekduck.com/events/november-communityday2023/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
+DTSTART:20231105T140000
+DTEND:20231105T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
