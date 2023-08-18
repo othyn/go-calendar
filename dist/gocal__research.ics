@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:amazon-prime-partner-research-hidden-gems
-DTSTAMP:20230817T001721Z
+DTSTAMP:20230818T001721Z
 SUMMARY:[Research] Limited-time Partner Research: Amazon Prime Gaming
 DESCRIPTION:Starts at 16:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /amazon-prime-partner-research-hidden-gems/
