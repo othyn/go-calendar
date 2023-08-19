@@ -10,26 +10,8 @@ X-WR-CALDESC:All Pokémon GO GO Battle League events\, in your local time\,
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:gbl-hidden-gems_great-league_ultra-league_master-league
-DTSTAMP:20230818T001721Z
-SUMMARY:[GO Battle League] Great League\, Ultra League\, and Master League 
- | Hidden Gems
-DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /gbl-hidden-gems_great-league_ultra-league_master-league/
-URL:https://leekduck.com/events/gbl-hidden-gems_great-league_ultra-league_m
- aster-league/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-sea
- son-15-hidden-gems.jpg
-DTSTART;VALUE=DATE:20230810
-DTEND;VALUE=DATE:20230817
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:gbl-hidden-gems_master-league_fantasy-cup-ultra-league-edition
-DTSTAMP:20230818T001721Z
+DTSTAMP:20230819T001643Z
 SUMMARY:[GO Battle League] Master League and Fantasy Cup: Ultra League Edit
  ion| Hidden Gems
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -47,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-hidden-gems_master-league_catch-cup-hidden-gems-edition
-DTSTAMP:20230818T001721Z
+DTSTAMP:20230819T001643Z
 SUMMARY:[GO Battle League] Master League and Catch Cup: Hidden Gems Edition
   | Hidden Gems
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events

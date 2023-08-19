@@ -10,26 +10,8 @@ X-WR-CALDESC:All Pokémon GO events\, in your local time\, auto-updated and
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:gbl-hidden-gems_great-league_ultra-league_master-league
-DTSTAMP:20230818T001721Z
-SUMMARY:[GO Battle League] Great League\, Ultra League\, and Master League 
- | Hidden Gems
-DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /gbl-hidden-gems_great-league_ultra-league_master-league/
-URL:https://leekduck.com/events/gbl-hidden-gems_great-league_ultra-league_m
- aster-league/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-sea
- son-15-hidden-gems.jpg
-DTSTART;VALUE=DATE:20230810
-DTEND;VALUE=DATE:20230817
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-go-fest-2023-new-york-city-usa
-DTSTAMP:20230818T001721Z
+DTSTAMP:20230819T001643Z
 SUMMARY:[Pokémon GO Fest] Pokémon GO Fest 2023: New York City
 DESCRIPTION:Starts at 13:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2023-new-york-city-usa/
@@ -45,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-08-22
-DTSTAMP:20230818T001721Z
+DTSTAMP:20230819T001643Z
 SUMMARY:[Pokémon Spotlight Hour] Venonat Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-08-22/
@@ -61,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:amazon-prime-partner-research-hidden-gems
-DTSTAMP:20230818T001721Z
+DTSTAMP:20230819T001643Z
 SUMMARY:[Research] Limited-time Partner Research: Amazon Prime Gaming
 DESCRIPTION:Starts at 16:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /amazon-prime-partner-research-hidden-gems/
@@ -77,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:noxious-swamp
-DTSTAMP:20230818T001721Z
+DTSTAMP:20230819T001643Z
 SUMMARY:[Event] Noxious Swamp
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /noxious-swamp/
@@ -92,7 +74,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-salamence-in-mega-raids-august-2023
-DTSTAMP:20230818T001721Z
+DTSTAMP:20230819T001643Z
 SUMMARY:[Raid Battles] Mega Salamence in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-salamence-in-mega-raids-august-2023/
@@ -107,7 +89,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:xerneas-yveltal-in-5-star-raid-battles-august-2023-period1
-DTSTAMP:20230818T001721Z
+DTSTAMP:20230819T001643Z
 SUMMARY:[Raid Battles] Xerneas and Yveltal in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /xerneas-yveltal-in-5-star-raid-battles-august-2023-period1/
@@ -124,7 +106,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20230823
-DTSTAMP:20230818T001721Z
+DTSTAMP:20230819T001643Z
 SUMMARY:[Raid Hour] Primal Kyogre Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20230823/
@@ -139,7 +121,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-hidden-gems_master-league_fantasy-cup-ultra-league-edition
-DTSTAMP:20230818T001721Z
+DTSTAMP:20230819T001643Z
 SUMMARY:[GO Battle League] Master League and Fantasy Cup: Ultra League Edit
  ion| Hidden Gems
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -157,7 +139,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20230824
-DTSTAMP:20230818T001721Z
+DTSTAMP:20230819T001643Z
 SUMMARY:[Raid Hour] Primal Groudon Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20230824/
@@ -172,7 +154,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:primal-kyogre-and-primal-groudon-in-primal-raids-august-2023
-DTSTAMP:20230818T001721Z
+DTSTAMP:20230819T001643Z
 SUMMARY:[Raid Battles] Primal Kyogre and Primal Groudon in Primal Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /primal-kyogre-and-primal-groudon-in-primal-raids-august-2023/
@@ -189,7 +171,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-fest-2023-global
-DTSTAMP:20230818T001721Z
+DTSTAMP:20230819T001643Z
 SUMMARY:[Pokémon GO Fest] Pokémon GO Fest: Global - Saturday
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2023-global/
@@ -205,7 +187,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-fest-2023-global-sunday
-DTSTAMP:20230818T001721Z
+DTSTAMP:20230819T001643Z
 SUMMARY:[Pokémon GO Fest] Pokémon GO Fest: Global - Sunday
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2023-global-sunday/
@@ -221,7 +203,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-rayquaza-in-mega-raids-august-2023
-DTSTAMP:20230818T001721Z
+DTSTAMP:20230819T001643Z
 SUMMARY:[Raid Battles] GO Fest: Mega Rayquaza in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /mega-rayquaza-in-mega-raids-august-2023/
@@ -236,7 +218,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-articuno-in-shadow-raids-june-2023
-DTSTAMP:20230818T001721Z
+DTSTAMP:20230819T001643Z
 SUMMARY:[Raid Battles] Shadow Articuno in Shadow Raids
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /shadow-articuno-in-shadow-raids-june-2023/
@@ -252,7 +234,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-08-29
-DTSTAMP:20230818T001721Z
+DTSTAMP:20230819T001643Z
 SUMMARY:[Pokémon Spotlight Hour] Tentacool Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-08-29/
@@ -268,7 +250,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20230830
-DTSTAMP:20230818T001721Z
+DTSTAMP:20230819T001643Z
 SUMMARY:[Raid Hour] Yveltal Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20230830/
@@ -283,7 +265,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:xerneas-yveltal-in-5-star-raid-battles-august-2023-period2
-DTSTAMP:20230818T001721Z
+DTSTAMP:20230819T001643Z
 SUMMARY:[Raid Battles] Xerneas and Yveltal in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /xerneas-yveltal-in-5-star-raid-battles-august-2023-period2/
@@ -300,7 +282,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-11-hidden-gems
-DTSTAMP:20230818T001721Z
+DTSTAMP:20230819T001643Z
 SUMMARY:[Season] Season 11: Hidden Gems
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-11-hidden-gems/
@@ -316,7 +298,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:august-2023-streak-bonus
-DTSTAMP:20230818T001721Z
+DTSTAMP:20230819T001643Z
 SUMMARY:[Update] Daily Streak Bonus - Hidden Gems
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /august-2023-streak-bonus/
@@ -332,7 +314,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-11-hidden-gems-research-breakthrough
-DTSTAMP:20230818T001721Z
+DTSTAMP:20230819T001643Z
 SUMMARY:[Research Breakthrough] Hidden Gems Research Breakthrough - Season 
  11
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -350,7 +332,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-hidden-gems_master-league_catch-cup-hidden-gems-edition
-DTSTAMP:20230818T001721Z
+DTSTAMP:20230819T001643Z
 SUMMARY:[GO Battle League] Master League and Catch Cup: Hidden Gems Edition
   | Hidden Gems
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -368,7 +350,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citysafari-seoul-2023
-DTSTAMP:20230818T001721Z
+DTSTAMP:20230819T001643Z
 SUMMARY:[City Safari] Seoul\, South Korea - Pokémon GO City Safari
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /citysafari-seoul-2023/
@@ -383,7 +365,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citysafari-barcelona-2023
-DTSTAMP:20230818T001721Z
+DTSTAMP:20230819T001643Z
 SUMMARY:[City Safari] Barcelona\, Spain - Pokémon GO City Safari
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /citysafari-barcelona-2023/
@@ -399,7 +381,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citysafari-mexico-city-2023
-DTSTAMP:20230818T001721Z
+DTSTAMP:20230819T001643Z
 SUMMARY:[City Safari] Mexico City\, Mexico - Pokémon GO City Safari
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /citysafari-mexico-city-2023/
@@ -415,7 +397,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:november-communityday2023
-DTSTAMP:20230818T001721Z
+DTSTAMP:20230819T001643Z
 SUMMARY:[Community Day] November Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /november-communityday2023/
