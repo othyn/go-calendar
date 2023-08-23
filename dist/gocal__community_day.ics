@@ -10,8 +10,54 @@ X-WR-CALDESC:All Pokémon GO Community Day events\, in your local time\, au
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
+UID:september-communitydayclassic2023
+DTSTAMP:20230823T001752Z
+SUMMARY:[Community Day] September Community Day Classic
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /september-communitydayclassic2023/
+URL:https://leekduck.com/events/september-communitydayclassic2023/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-2023-classic-july
+ -squirtle.jpg
+DTSTART:20230902T140000
+DTEND:20230902T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:september-communityday2023
+DTSTAMP:20230823T001752Z
+SUMMARY:[Community Day] September Community Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /september-communityday2023/
+URL:https://leekduck.com/events/september-communityday2023/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
+DTSTART:20230923T140000
+DTEND:20230923T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:october-communityday2023
+DTSTAMP:20230823T001752Z
+SUMMARY:[Community Day] October Community Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /october-communityday2023/
+URL:https://leekduck.com/events/october-communityday2023/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
+DTSTART:20231015T140000
+DTEND:20231015T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:november-communityday2023
-DTSTAMP:20230822T001800Z
+DTSTAMP:20230823T001752Z
 SUMMARY:[Community Day] November Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /november-communityday2023/
@@ -19,6 +65,22 @@ URL:https://leekduck.com/events/november-communityday2023/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
 DTSTART:20231105T140000
 DTEND:20231105T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:november-communitydayclassic2023
+DTSTAMP:20230823T001752Z
+SUMMARY:[Community Day] November Community Day Classic
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /november-communitydayclassic2023/
+URL:https://leekduck.com/events/november-communitydayclassic2023/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-2023-classic-july
+ -squirtle.jpg
+DTSTART:20231125T140000
+DTEND:20231125T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M

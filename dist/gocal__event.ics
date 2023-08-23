@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:noxious-swamp
-DTSTAMP:20230822T001800Z
+DTSTAMP:20230823T001752Z
 SUMMARY:[Event] Noxious Swamp
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /noxious-swamp/
@@ -19,6 +19,86 @@ URL:https://leekduck.com/events/noxious-swamp/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/noxious-swamp.jpg
 DTSTART;VALUE=DATE:20230819
 DTEND;VALUE=DATE:20230822
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:unannounced-event-september-17-season-12
+DTSTAMP:20230823T001752Z
+SUMMARY:[Event] Unannounced Event - September 17
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /unannounced-event-september-17-season-12/
+URL:https://leekduck.com/events/unannounced-event-september-17-season-12/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART:20230917T140000
+DTEND:20230917T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:unannounced-event-september-30-season-12
+DTSTAMP:20230823T001752Z
+SUMMARY:[Event] Unannounced Event - September 30
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /unannounced-event-september-30-season-12/
+URL:https://leekduck.com/events/unannounced-event-september-30-season-12/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART:20230930T140000
+DTEND:20230930T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:unannounced-event-october-07-season-12
+DTSTAMP:20230823T001752Z
+SUMMARY:[Event] Unannounced Event - October 7-8
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /unannounced-event-october-07-season-12/
+URL:https://leekduck.com/events/unannounced-event-october-07-season-12/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART:20231007T100000
+DTEND:20231008T200000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:unannounced-event-october-21-season-12
+DTSTAMP:20230823T001752Z
+SUMMARY:[Event] Unannounced Event - October 21
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /unannounced-event-october-21-season-12/
+URL:https://leekduck.com/events/unannounced-event-october-21-season-12/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART:20231021T140000
+DTEND:20231021T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:unannounced-event-november-11-season-12
+DTSTAMP:20230823T001752Z
+SUMMARY:[Event] Unannounced Event - November 11
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /unannounced-event-november-11-season-12/
+URL:https://leekduck.com/events/unannounced-event-november-11-season-12/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART:20231111T140000
+DTEND:20231111T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
