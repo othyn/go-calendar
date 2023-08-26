@@ -11,13 +11,13 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-go-fest-2023-global
-DTSTAMP:20230825T001803Z
+DTSTAMP:20230826T001653Z
 SUMMARY:[Pokémon GO Fest] Pokémon GO Fest: Global - Saturday
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2023-global/
 URL:https://leekduck.com/events/pokemon-go-fest-2023-global/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemon-go-fest-2023
- -global-key.jpg
+ -global-diancie.jpg
 DTSTART:20230826T100000
 DTEND:20230826T180000
 BEGIN:VALARM
@@ -27,13 +27,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-fest-2023-global-sunday
-DTSTAMP:20230825T001803Z
+DTSTAMP:20230826T001653Z
 SUMMARY:[Pokémon GO Fest] Pokémon GO Fest: Global - Sunday
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2023-global-sunday/
 URL:https://leekduck.com/events/pokemon-go-fest-2023-global-sunday/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemon-go-fest-2023
- -global-key.jpg
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-rayquaza.jpg
 DTSTART:20230827T100000
 DTEND:20230827T180000
 BEGIN:VALARM
