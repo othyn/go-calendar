@@ -11,13 +11,13 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:mega-rayquaza-in-mega-raids-august-2023
-DTSTAMP:20230827T001923Z
+DTSTAMP:20230828T001844Z
 SUMMARY:[Raid Battles] GO Fest: Mega Rayquaza in Mega Raids
-DESCRIPTION:Starts at 11:00\, ends at 18:00.\n\nhttps://leekduck.com/events
+DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /mega-rayquaza-in-mega-raids-august-2023/
 URL:https://leekduck.com/events/mega-rayquaza-in-mega-raids-august-2023/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-rayquaza.jpg
-DTSTART:20230827T110000
+DTSTART:20230827T100000
 DTEND:20230827T180000
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -26,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-articuno-in-shadow-raids-june-2023
-DTSTAMP:20230827T001923Z
+DTSTAMP:20230828T001844Z
 SUMMARY:[Raid Battles] Shadow Articuno in Shadow Raids
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /shadow-articuno-in-shadow-raids-june-2023/
@@ -42,7 +42,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:primal-kyogre-and-primal-groudon-in-primal-raids-august-2023
-DTSTAMP:20230827T001923Z
+DTSTAMP:20230828T001844Z
 SUMMARY:[Raid Battles] Primal Kyogre and Primal Groudon in Primal Raids
 DESCRIPTION:Starts at 10:00\, ends at 11:00.\n\nhttps://leekduck.com/events
  /primal-kyogre-and-primal-groudon-in-primal-raids-august-2023/
@@ -59,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:xerneas-yveltal-in-5-star-raid-battles-august-2023-period2
-DTSTAMP:20230827T001923Z
+DTSTAMP:20230828T001844Z
 SUMMARY:[Raid Battles] Xerneas and Yveltal in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /xerneas-yveltal-in-5-star-raid-battles-august-2023-period2/
