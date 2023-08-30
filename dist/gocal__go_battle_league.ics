@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:gbl-hidden-gems_master-league_catch-cup-hidden-gems-edition
-DTSTAMP:20230829T001815Z
+DTSTAMP:20230830T001817Z
 SUMMARY:[GO Battle League] Master League and Catch Cup: Hidden Gems Edition
   | Hidden Gems
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
