@@ -1,0 +1,162 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:spatie/icalendar-generator
+NAME:GO Calendar - PokéStop Showcase
+X-WR-CALNAME:GO Calendar - PokéStop Showcase
+DESCRIPTION:All Pokémon GO PokéStop Showcase events\, in your local time\
+ , auto-updated and sourced from Leek Duck.
+X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
+ \, auto-updated and sourced from Leek Duck.
+REFRESH-INTERVAL;VALUE=DURATION:PT1440M
+X-PUBLISHED-TTL:PT1440M
+BEGIN:VEVENT
+UID:pokemon-showcase-charmander-charizard-2023-09-02
+DTSTAMP:20230831T001809Z
+SUMMARY:[PokéStop Showcase] Charmander and Charizard PokéStop Showcases
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-charmander-charizard-2023-09-02/
+URL:https://leekduck.com/events/pokemon-showcase-charmander-charizard-2023-
+ 09-02/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART:20230902T140000
+DTEND:20230902T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-lechonk-2023-09-05
+DTSTAMP:20230831T001809Z
+SUMMARY:[PokéStop Showcase] Lechonk PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-lechonk-2023-09-05/
+URL:https://leekduck.com/events/pokemon-showcase-lechonk-2023-09-05/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART;VALUE=DATE:20230905
+DTEND;VALUE=DATE:20230909
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-nymble-2023-09-10
+DTSTAMP:20230831T001809Z
+SUMMARY:[PokéStop Showcase] Nymble PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-nymble-2023-09-10/
+URL:https://leekduck.com/events/pokemon-showcase-nymble-2023-09-10/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART;VALUE=DATE:20230910
+DTEND;VALUE=DATE:20230913
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-pawmi-2023-09-14
+DTSTAMP:20230831T001809Z
+SUMMARY:[PokéStop Showcase] Pawmi PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-pawmi-2023-09-14/
+URL:https://leekduck.com/events/pokemon-showcase-pawmi-2023-09-14/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART:20230914T100000
+DTEND:20230915T200000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-oddish-2023-09-17
+DTSTAMP:20230831T001809Z
+SUMMARY:[PokéStop Showcase] Oddish PokéStop Showcases
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-oddish-2023-09-17/
+URL:https://leekduck.com/events/pokemon-showcase-oddish-2023-09-17/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART:20230917T140000
+DTEND:20230917T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-spoink-2023-09-20
+DTSTAMP:20230831T001809Z
+SUMMARY:[PokéStop Showcase] Spoink PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-spoink-2023-09-20/
+URL:https://leekduck.com/events/pokemon-showcase-spoink-2023-09-20/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART;VALUE=DATE:20230920
+DTEND;VALUE=DATE:20230922
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-grubbin-vikavolt-2023-09-23
+DTSTAMP:20230831T001809Z
+SUMMARY:[PokéStop Showcase] Grubbin and Vikavolt PokéStop Showcases
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-grubbin-vikavolt-2023-09-23/
+URL:https://leekduck.com/events/pokemon-showcase-grubbin-vikavolt-2023-09-2
+ 3/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART:20230923T140000
+DTEND:20230923T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-growlithe-hisuian-growlithe-2023-09-27
+DTSTAMP:20230831T001809Z
+SUMMARY:[PokéStop Showcase] Growlithe and Hisuian Growlithe PokéStop Show
+ cases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-growlithe-hisuian-growlithe-2023-09-27/
+URL:https://leekduck.com/events/pokemon-showcase-growlithe-hisuian-growlith
+ e-2023-09-27/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART;VALUE=DATE:20230927
+DTEND;VALUE=DATE:20230929
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-growlithe-hisuian-growlithe-2023-09-29
+DTSTAMP:20230831T001809Z
+SUMMARY:[PokéStop Showcase] Growlithe and Hisuian Growlithe PokéStop Show
+ cases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-growlithe-hisuian-growlithe-2023-09-29/
+URL:https://leekduck.com/events/pokemon-showcase-growlithe-hisuian-growlith
+ e-2023-09-29/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART;VALUE=DATE:20230930
+DTEND;VALUE=DATE:20231002
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

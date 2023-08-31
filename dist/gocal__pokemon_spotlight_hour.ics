@@ -10,16 +10,64 @@ X-WR-CALDESC:All Pokémon GO Pokémon Spotlight Hour events\, in your local
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemonspotlighthour2023-08-29
-DTSTAMP:20230830T001817Z
-SUMMARY:[Pokémon Spotlight Hour] Tentacool Spotlight Hour
+UID:pokemonspotlighthour2023-09-05
+DTSTAMP:20230831T001809Z
+SUMMARY:[Pokémon Spotlight Hour] Wooper Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2023-08-29/
-URL:https://leekduck.com/events/pokemonspotlighthour2023-08-29/
+ /pokemonspotlighthour2023-09-05/
+URL:https://leekduck.com/events/pokemonspotlighthour2023-09-05/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
  .jpg
-DTSTART:20230829T180000
-DTEND:20230829T190000
+DTSTART:20230905T180000
+DTEND:20230905T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2023-09-12
+DTSTAMP:20230831T001809Z
+SUMMARY:[Pokémon Spotlight Hour] Mankey Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2023-09-12/
+URL:https://leekduck.com/events/pokemonspotlighthour2023-09-12/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20230912T180000
+DTEND:20230912T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2023-09-19
+DTSTAMP:20230831T001809Z
+SUMMARY:[Pokémon Spotlight Hour] Girafarig Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2023-09-19/
+URL:https://leekduck.com/events/pokemonspotlighthour2023-09-19/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20230919T180000
+DTEND:20230919T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2023-09-26
+DTSTAMP:20230831T001809Z
+SUMMARY:[Pokémon Spotlight Hour] Growlithe Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2023-09-26/
+URL:https://leekduck.com/events/pokemonspotlighthour2023-09-26/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20230926T180000
+DTEND:20230926T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M

@@ -10,24 +10,8 @@ X-WR-CALDESC:All Pokémon GO events\, in your local time\, auto-updated and
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemonspotlighthour2023-08-29
-DTSTAMP:20230830T001817Z
-SUMMARY:[Pokémon Spotlight Hour] Tentacool Spotlight Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2023-08-29/
-URL:https://leekduck.com/events/pokemonspotlighthour2023-08-29/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
- .jpg
-DTSTART:20230829T180000
-DTEND:20230829T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raidhour20230830
-DTSTAMP:20230830T001817Z
+DTSTAMP:20230831T001809Z
 SUMMARY:[Raid Hour] Yveltal Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20230830/
@@ -42,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:xerneas-yveltal-in-5-star-raid-battles-august-2023-period2
-DTSTAMP:20230830T001817Z
+DTSTAMP:20230831T001809Z
 SUMMARY:[Raid Battles] Xerneas and Yveltal in 5-star Raid Battles
 DESCRIPTION:Starts at 18:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /xerneas-yveltal-in-5-star-raid-battles-august-2023-period2/
@@ -59,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-11-hidden-gems
-DTSTAMP:20230830T001817Z
+DTSTAMP:20230831T001809Z
 SUMMARY:[Season] Season 11: Hidden Gems
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-11-hidden-gems/
@@ -75,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:august-2023-streak-bonus
-DTSTAMP:20230830T001817Z
+DTSTAMP:20230831T001809Z
 SUMMARY:[Update] Daily Streak Bonus - Hidden Gems
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /august-2023-streak-bonus/
@@ -91,7 +75,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-11-hidden-gems-research-breakthrough
-DTSTAMP:20230830T001817Z
+DTSTAMP:20230831T001809Z
 SUMMARY:[Research Breakthrough] Hidden Gems Research Breakthrough - Season 
  11
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -109,7 +93,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-hidden-gems_master-league_catch-cup-hidden-gems-edition
-DTSTAMP:20230830T001817Z
+DTSTAMP:20230831T001809Z
 SUMMARY:[GO Battle League] Master League and Catch Cup: Hidden Gems Edition
   | Hidden Gems
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -127,7 +111,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:september-communitydayclassic2023
-DTSTAMP:20230830T001817Z
+DTSTAMP:20230831T001809Z
 SUMMARY:[Community Day] Charmander Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /september-communitydayclassic2023/
@@ -142,8 +126,201 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemon-showcase-charmander-charizard-2023-09-02
+DTSTAMP:20230831T001809Z
+SUMMARY:[PokéStop Showcase] Charmander and Charizard PokéStop Showcases
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-charmander-charizard-2023-09-02/
+URL:https://leekduck.com/events/pokemon-showcase-charmander-charizard-2023-
+ 09-02/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART:20230902T140000
+DTEND:20230902T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2023-09-05
+DTSTAMP:20230831T001809Z
+SUMMARY:[Pokémon Spotlight Hour] Wooper Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2023-09-05/
+URL:https://leekduck.com/events/pokemonspotlighthour2023-09-05/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20230905T180000
+DTEND:20230905T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20230906
+DTSTAMP:20230831T001809Z
+SUMMARY:[Raid Hour] Kartana and Celesteela Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20230906/
+URL:https://leekduck.com/events/raidhour20230906/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20230906T180000
+DTEND:20230906T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kartana-celesteela-in-5-star-raid-battles-september-2023
+DTSTAMP:20230831T001809Z
+SUMMARY:[Raid Battles] Kartana and Celesteela in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /kartana-celesteela-in-5-star-raid-battles-september-2023/
+URL:https://leekduck.com/events/kartana-celesteela-in-5-star-raid-battles-s
+ eptember-2023/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/celesteela-and-karta
+ na-ultra-beast.jpg
+DTSTART;VALUE=DATE:20230901
+DTEND;VALUE=DATE:20230908
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-lechonk-2023-09-05
+DTSTAMP:20230831T001809Z
+SUMMARY:[PokéStop Showcase] Lechonk PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-lechonk-2023-09-05/
+URL:https://leekduck.com/events/pokemon-showcase-lechonk-2023-09-05/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART;VALUE=DATE:20230905
+DTEND;VALUE=DATE:20230909
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2023-09-12
+DTSTAMP:20230831T001809Z
+SUMMARY:[Pokémon Spotlight Hour] Mankey Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2023-09-12/
+URL:https://leekduck.com/events/pokemonspotlighthour2023-09-12/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20230912T180000
+DTEND:20230912T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20230913
+DTSTAMP:20230831T001809Z
+SUMMARY:[Raid Hour] Kartana and Celesteela Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20230913/
+URL:https://leekduck.com/events/raidhour20230913/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20230913T180000
+DTEND:20230913T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-nymble-2023-09-10
+DTSTAMP:20230831T001809Z
+SUMMARY:[PokéStop Showcase] Nymble PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-nymble-2023-09-10/
+URL:https://leekduck.com/events/pokemon-showcase-nymble-2023-09-10/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART;VALUE=DATE:20230910
+DTEND;VALUE=DATE:20230913
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-pawmi-2023-09-14
+DTSTAMP:20230831T001809Z
+SUMMARY:[PokéStop Showcase] Pawmi PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-pawmi-2023-09-14/
+URL:https://leekduck.com/events/pokemon-showcase-pawmi-2023-09-14/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART:20230914T100000
+DTEND:20230915T200000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-manectric-in-mega-raids-september-2023
+DTSTAMP:20230831T001809Z
+SUMMARY:[Raid Battles] Mega Manectric in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-manectric-in-mega-raids-september-2023/
+URL:https://leekduck.com/events/mega-manectric-in-mega-raids-september-2023
+ /
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20230901
+DTEND;VALUE=DATE:20230916
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kartana-celesteela-in-5-star-raid-battles-september-2023-swap
+DTSTAMP:20230831T001809Z
+SUMMARY:[Raid Battles] Kartana and Celesteela in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /kartana-celesteela-in-5-star-raid-battles-september-2023-swap/
+URL:https://leekduck.com/events/kartana-celesteela-in-5-star-raid-battles-s
+ eptember-2023-swap/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/celesteela-and-karta
+ na-ultra-beast.jpg
+DTSTART;VALUE=DATE:20230908
+DTEND;VALUE=DATE:20230916
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-oddish-2023-09-17
+DTSTAMP:20230831T001809Z
+SUMMARY:[PokéStop Showcase] Oddish PokéStop Showcases
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-oddish-2023-09-17/
+URL:https://leekduck.com/events/pokemon-showcase-oddish-2023-09-17/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART:20230917T140000
+DTEND:20230917T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:unannounced-event-september-17-season-12
-DTSTAMP:20230830T001817Z
+DTSTAMP:20230831T001809Z
 SUMMARY:[Event] Unannounced Event - September 17
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-event-september-17-season-12/
@@ -158,8 +335,71 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemonspotlighthour2023-09-19
+DTSTAMP:20230831T001809Z
+SUMMARY:[Pokémon Spotlight Hour] Girafarig Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2023-09-19/
+URL:https://leekduck.com/events/pokemonspotlighthour2023-09-19/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20230919T180000
+DTEND:20230919T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20230920
+DTSTAMP:20230831T001809Z
+SUMMARY:[Raid Hour] Genesect with a Burn Drive Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20230920/
+URL:https://leekduck.com/events/raidhour20230920/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20230920T180000
+DTEND:20230920T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-spoink-2023-09-20
+DTSTAMP:20230831T001809Z
+SUMMARY:[PokéStop Showcase] Spoink PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-spoink-2023-09-20/
+URL:https://leekduck.com/events/pokemon-showcase-spoink-2023-09-20/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART;VALUE=DATE:20230920
+DTEND;VALUE=DATE:20230922
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:genesect-with-a-burn-drive-in-5-star-raid-battles-september-2023-swap
+DTSTAMP:20230831T001809Z
+SUMMARY:[Raid Battles] Genesect with a Burn Drive in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /genesect-with-a-burn-drive-in-5-star-raid-battles-september-2023-swap/
+URL:https://leekduck.com/events/genesect-with-a-burn-drive-in-5-star-raid-b
+ attles-september-2023-swap/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/genesect.jpg
+DTSTART;VALUE=DATE:20230916
+DTEND;VALUE=DATE:20230923
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:september-communityday2023
-DTSTAMP:20230830T001817Z
+DTSTAMP:20230831T001809Z
 SUMMARY:[Community Day] September Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /september-communityday2023/
@@ -173,8 +413,74 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemon-showcase-grubbin-vikavolt-2023-09-23
+DTSTAMP:20230831T001809Z
+SUMMARY:[PokéStop Showcase] Grubbin and Vikavolt PokéStop Showcases
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-grubbin-vikavolt-2023-09-23/
+URL:https://leekduck.com/events/pokemon-showcase-grubbin-vikavolt-2023-09-2
+ 3/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART:20230923T140000
+DTEND:20230923T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2023-09-26
+DTSTAMP:20230831T001809Z
+SUMMARY:[Pokémon Spotlight Hour] Growlithe Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2023-09-26/
+URL:https://leekduck.com/events/pokemonspotlighthour2023-09-26/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20230926T180000
+DTEND:20230926T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20230927
+DTSTAMP:20230831T001809Z
+SUMMARY:[Raid Hour] Raikou\, Entei\, and Suicune Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20230927/
+URL:https://leekduck.com/events/raidhour20230927/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20230927T180000
+DTEND:20230927T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-growlithe-hisuian-growlithe-2023-09-27
+DTSTAMP:20230831T001809Z
+SUMMARY:[PokéStop Showcase] Growlithe and Hisuian Growlithe PokéStop Show
+ cases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-growlithe-hisuian-growlithe-2023-09-27/
+URL:https://leekduck.com/events/pokemon-showcase-growlithe-hisuian-growlith
+ e-2023-09-27/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART;VALUE=DATE:20230927
+DTEND;VALUE=DATE:20230929
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:unannounced-event-september-30-season-12
-DTSTAMP:20230830T001817Z
+DTSTAMP:20230831T001809Z
 SUMMARY:[Event] Unannounced Event - September 30
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-event-september-30-season-12/
@@ -189,8 +495,73 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemon-showcase-growlithe-hisuian-growlithe-2023-09-29
+DTSTAMP:20230831T001809Z
+SUMMARY:[PokéStop Showcase] Growlithe and Hisuian Growlithe PokéStop Show
+ cases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-growlithe-hisuian-growlithe-2023-09-29/
+URL:https://leekduck.com/events/pokemon-showcase-growlithe-hisuian-growlith
+ e-2023-09-29/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART;VALUE=DATE:20230930
+DTEND;VALUE=DATE:20231002
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20231004
+DTSTAMP:20230831T001809Z
+SUMMARY:[Raid Hour] Raikou\, Entei\, and Suicune Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20231004/
+URL:https://leekduck.com/events/raidhour20231004/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20231004T180000
+DTEND:20231004T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-gardevoir-in-mega-raids-september-2023
+DTSTAMP:20230831T001809Z
+SUMMARY:[Raid Battles] Mega Gardevoir in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-gardevoir-in-mega-raids-september-2023/
+URL:https://leekduck.com/events/mega-gardevoir-in-mega-raids-september-2023
+ /
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20230901
+DTEND;VALUE=DATE:20231006
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raikou-entei-suicune-in-5-star-raid-battles-september-2023-swap
+DTSTAMP:20230831T001809Z
+SUMMARY:[Raid Battles] Raikou\, Entei\, and Suicune in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /raikou-entei-suicune-in-5-star-raid-battles-september-2023-swap/
+URL:https://leekduck.com/events/raikou-entei-suicune-in-5-star-raid-battles
+ -september-2023-swap/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/ultrabonusbeasts.jpg
+DTSTART;VALUE=DATE:20230923
+DTEND;VALUE=DATE:20231006
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:citysafari-seoul-2023
-DTSTAMP:20230830T001817Z
+DTSTAMP:20230831T001809Z
 SUMMARY:[City Safari] Seoul\, South Korea - Pokémon GO City Safari
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /citysafari-seoul-2023/
@@ -205,7 +576,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-event-october-07-season-12
-DTSTAMP:20230830T001817Z
+DTSTAMP:20230831T001809Z
 SUMMARY:[Event] Unannounced Event - October 7-8
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /unannounced-event-october-07-season-12/
@@ -221,7 +592,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citysafari-barcelona-2023
-DTSTAMP:20230830T001817Z
+DTSTAMP:20230831T001809Z
 SUMMARY:[City Safari] Barcelona\, Spain - Pokémon GO City Safari
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /citysafari-barcelona-2023/
@@ -237,7 +608,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:october-communityday2023
-DTSTAMP:20230830T001817Z
+DTSTAMP:20230831T001809Z
 SUMMARY:[Community Day] October Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /october-communityday2023/
@@ -252,7 +623,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-event-october-21-season-12
-DTSTAMP:20230830T001817Z
+DTSTAMP:20230831T001809Z
 SUMMARY:[Event] Unannounced Event - October 21
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-event-october-21-season-12/
@@ -268,7 +639,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citysafari-mexico-city-2023
-DTSTAMP:20230830T001817Z
+DTSTAMP:20230831T001809Z
 SUMMARY:[City Safari] Mexico City\, Mexico - Pokémon GO City Safari
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /citysafari-mexico-city-2023/
@@ -284,7 +655,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:november-communityday2023
-DTSTAMP:20230830T001817Z
+DTSTAMP:20230831T001809Z
 SUMMARY:[Community Day] November Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /november-communityday2023/
@@ -299,7 +670,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-event-november-11-season-12
-DTSTAMP:20230830T001817Z
+DTSTAMP:20230831T001809Z
 SUMMARY:[Event] Unannounced Event - November 11
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-event-november-11-season-12/
@@ -315,7 +686,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:november-communitydayclassic2023
-DTSTAMP:20230830T001817Z
+DTSTAMP:20230831T001809Z
 SUMMARY:[Community Day] November Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /november-communitydayclassic2023/
@@ -330,13 +701,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-12-adventures-abound
-DTSTAMP:20230830T001817Z
-SUMMARY:[Season] Season 12: Adventures Abound
+DTSTAMP:20230831T001809Z
+SUMMARY:[Season] Adventures Abound
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-12-adventures-abound/
 URL:https://leekduck.com/events/season-12-adventures-abound/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/season-12-adventures
- -abound.jpg
+ -abound-2.jpg
 DTSTART;VALUE=DATE:20230901
 DTEND;VALUE=DATE:20231201
 BEGIN:VALARM

@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:raidhour20230830
-DTSTAMP:20230830T001817Z
+DTSTAMP:20230831T001809Z
 SUMMARY:[Raid Hour] Yveltal Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20230830/
@@ -19,6 +19,81 @@ URL:https://leekduck.com/events/raidhour20230830/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
 DTSTART:20230830T180000
 DTEND:20230830T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20230906
+DTSTAMP:20230831T001809Z
+SUMMARY:[Raid Hour] Kartana and Celesteela Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20230906/
+URL:https://leekduck.com/events/raidhour20230906/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20230906T180000
+DTEND:20230906T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20230913
+DTSTAMP:20230831T001809Z
+SUMMARY:[Raid Hour] Kartana and Celesteela Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20230913/
+URL:https://leekduck.com/events/raidhour20230913/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20230913T180000
+DTEND:20230913T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20230920
+DTSTAMP:20230831T001809Z
+SUMMARY:[Raid Hour] Genesect with a Burn Drive Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20230920/
+URL:https://leekduck.com/events/raidhour20230920/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20230920T180000
+DTEND:20230920T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20230927
+DTSTAMP:20230831T001809Z
+SUMMARY:[Raid Hour] Raikou\, Entei\, and Suicune Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20230927/
+URL:https://leekduck.com/events/raidhour20230927/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20230927T180000
+DTEND:20230927T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20231004
+DTSTAMP:20230831T001809Z
+SUMMARY:[Raid Hour] Raikou\, Entei\, and Suicune Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20231004/
+URL:https://leekduck.com/events/raidhour20231004/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20231004T180000
+DTEND:20231004T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
