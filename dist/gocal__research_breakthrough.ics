@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:season-11-hidden-gems-research-breakthrough
-DTSTAMP:20230831T001809Z
+DTSTAMP:20230901T001958Z
 SUMMARY:[Research Breakthrough] Hidden Gems Research Breakthrough - Season 
  11
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -22,6 +22,23 @@ IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/SummerResearchBreakt
  hrough.jpg
 DTSTART;VALUE=DATE:20230601
 DTEND;VALUE=DATE:20230901
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:season-12-adventures-abound-research-breakthrough
+DTSTAMP:20230901T001958Z
+SUMMARY:[Research Breakthrough] Adventures Abound Research Breakthrough
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /season-12-adventures-abound-research-breakthrough/
+URL:https://leekduck.com/events/season-12-adventures-abound-research-breakt
+ hrough/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/SummerResearchBreakt
+ hrough.jpg
+DTSTART;VALUE=DATE:20230901
+DTEND;VALUE=DATE:20231201
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
