@@ -10,26 +10,8 @@ X-WR-CALDESC:All Pokémon GO GO Battle League events\, in your local time\,
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:gbl-hidden-gems_master-league_catch-cup-hidden-gems-edition
-DTSTAMP:20230902T001742Z
-SUMMARY:[GO Battle League] Master League and Catch Cup: Hidden Gems Edition
-  | Hidden Gems
-DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /gbl-hidden-gems_master-league_catch-cup-hidden-gems-edition/
-URL:https://leekduck.com/events/gbl-hidden-gems_master-league_catch-cup-hid
- den-gems-edition/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattleleague-maste
- r-key.jpg
-DTSTART;VALUE=DATE:20230824
-DTEND;VALUE=DATE:20230901
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:gbl-adventures-abound_great-league_summer-cup-great-league-edition
-DTSTAMP:20230902T001742Z
+DTSTAMP:20230903T001920Z
 SUMMARY:[GO Battle League] Great League and Elemental Cup Remix: Little Edi
  tion | Adventures Abound
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
