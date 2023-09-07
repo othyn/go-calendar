@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:gbl-adventures-abound_great-league_summer-cup-great-league-edition
-DTSTAMP:20230906T001812Z
+DTSTAMP:20230907T001812Z
 SUMMARY:[GO Battle League] Great League and Elemental Cup Remix: Little Edi
  tion | Adventures Abound
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
