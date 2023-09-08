@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:a-paldean-adventure
-DTSTAMP:20230907T001812Z
+DTSTAMP:20230908T001758Z
 SUMMARY:[Event] A Paldean Adventure
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /a-paldean-adventure/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ultra-unlock-paldea
-DTSTAMP:20230907T001812Z
+DTSTAMP:20230908T001758Z
 SUMMARY:[Event] Ultra Unlock: Paldea
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /ultra-unlock-paldea/
@@ -43,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:oddish-research-day
-DTSTAMP:20230907T001812Z
+DTSTAMP:20230908T001758Z
 SUMMARY:[Event] Oddish Research Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /oddish-research-day/
@@ -59,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:psychic-spectacular-2023
-DTSTAMP:20230907T001812Z
+DTSTAMP:20230908T001758Z
 SUMMARY:[Event] Psychic Spectacular
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /psychic-spectacular-2023/
@@ -75,7 +75,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:azurill-hatch-day
-DTSTAMP:20230907T001812Z
+DTSTAMP:20230908T001758Z
 SUMMARY:[Event] Azurill Hatch Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /azurill-hatch-day/
@@ -91,7 +91,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:out-to-play
-DTSTAMP:20230907T001812Z
+DTSTAMP:20230908T001758Z
 SUMMARY:[Event] Out to Play
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /out-to-play/
@@ -107,7 +107,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-event-october-07-season-12
-DTSTAMP:20230907T001812Z
+DTSTAMP:20230908T001758Z
 SUMMARY:[Event] Unannounced Event - October 7-8
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /unannounced-event-october-07-season-12/
@@ -123,7 +123,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-event-october-21-season-12
-DTSTAMP:20230907T001812Z
+DTSTAMP:20230908T001758Z
 SUMMARY:[Event] Unannounced Event - October 21
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-event-october-21-season-12/
@@ -139,7 +139,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-event-november-11-season-12
-DTSTAMP:20230907T001812Z
+DTSTAMP:20230908T001758Z
 SUMMARY:[Event] Unannounced Event - November 11
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-event-november-11-season-12/
