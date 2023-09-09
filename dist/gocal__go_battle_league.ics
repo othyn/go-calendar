@@ -10,18 +10,234 @@ X-WR-CALDESC:All Pokémon GO GO Battle League events\, in your local time\,
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:gbl-adventures-abound_great-league_summer-cup-great-league-edition
-DTSTAMP:20230908T001758Z
+UID:gbl-adventures-abound_great-league_element-cup-remix-little-edition
+DTSTAMP:20230909T001748Z
 SUMMARY:[GO Battle League] Great League and Elemental Cup Remix: Little Edi
  tion | Adventures Abound
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /gbl-adventures-abound_great-league_summer-cup-great-league-edition/
-URL:https://leekduck.com/events/gbl-adventures-abound_great-league_summer-c
- up-great-league-edition/
+ /gbl-adventures-abound_great-league_element-cup-remix-little-edition/
+URL:https://leekduck.com/events/gbl-adventures-abound_great-league_element-
+ cup-remix-little-edition/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattle-greatleague
  -key.jpg
 DTSTART;VALUE=DATE:20230901
 DTEND;VALUE=DATE:20230908
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-adventures-abound_ultra-league_element-cup-remix-little-edition
+DTSTAMP:20230909T001748Z
+SUMMARY:[GO Battle League] Ultra League and Elemental Cup Remix: Little Edi
+ tion | Adventures Abound
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-adventures-abound_ultra-league_element-cup-remix-little-edition/
+URL:https://leekduck.com/events/gbl-adventures-abound_ultra-league_element-
+ cup-remix-little-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-ult
+ ra-league-machamp-swampert.jpg
+DTSTART;VALUE=DATE:20230908
+DTEND;VALUE=DATE:20230915
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-adventures_abound-master_league-psychic_cup_great_league_edition
+DTSTAMP:20230909T001748Z
+SUMMARY:[GO Battle League] Master League and Psychic Cup: Great League Edit
+ ion | Adventures Abound
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-adventures_abound-master_league-psychic_cup_great_league_edition/
+URL:https://leekduck.com/events/gbl-adventures_abound-master_league-psychic
+ _cup_great_league_edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattleleague-maste
+ r-key.jpg
+DTSTART;VALUE=DATE:20230915
+DTEND;VALUE=DATE:20230922
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-adventures_abound-great_league-psychic_cup_great_league_edition
+DTSTAMP:20230909T001748Z
+SUMMARY:[GO Battle League] Great League and Psychic Cup: Great League Editi
+ on | Adventures Abound
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-adventures_abound-great_league-psychic_cup_great_league_edition/
+URL:https://leekduck.com/events/gbl-adventures_abound-great_league-psychic_
+ cup_great_league_edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattle-greatleague
+ -key.jpg
+DTSTART;VALUE=DATE:20230922
+DTEND;VALUE=DATE:20230929
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-adventures_abound-ultra_league-sunshine_cup_great_league_edition
+DTSTAMP:20230909T001748Z
+SUMMARY:[GO Battle League] Ultra League and Sunshine Cup: Great League Edit
+ ion | Adventures Abound
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-adventures_abound-ultra_league-sunshine_cup_great_league_edition/
+URL:https://leekduck.com/events/gbl-adventures_abound-ultra_league-sunshine
+ _cup_great_league_edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-ult
+ ra-league-machamp-swampert.jpg
+DTSTART;VALUE=DATE:20230929
+DTEND;VALUE=DATE:20231006
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-adventures_abound-great_league-ultra_league-master-league
+DTSTAMP:20230909T001748Z
+SUMMARY:[GO Battle League] Great League\, Ultra League\, and Master League 
+ | Adventures Abound
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-adventures_abound-great_league-ultra_league-master-league/
+URL:https://leekduck.com/events/gbl-adventures_abound-great_league-ultra_le
+ ague-master-league/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-sea
+ son-16-adventures-abound.jpg
+DTSTART;VALUE=DATE:20231006
+DTEND;VALUE=DATE:20231013
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-adventures_abound-great_league-sunshine_cup_great_league_edition
+DTSTAMP:20230909T001748Z
+SUMMARY:[GO Battle League] Great League and Sunshine Cup: Great League Edit
+ ion | Adventures Abound
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-adventures_abound-great_league-sunshine_cup_great_league_edition/
+URL:https://leekduck.com/events/gbl-adventures_abound-great_league-sunshine
+ _cup_great_league_edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattle-greatleague
+ -key.jpg
+DTSTART;VALUE=DATE:20231013
+DTEND;VALUE=DATE:20231020
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-adventures_abound-ultra_league-halloween_cup_great_league_edition
+DTSTAMP:20230909T001748Z
+SUMMARY:[GO Battle League] Ultra League and Halloween Cup: Great League Edi
+ tion | Adventures Abound
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-adventures_abound-ultra_league-halloween_cup_great_league_edition/
+URL:https://leekduck.com/events/gbl-adventures_abound-ultra_league-hallowee
+ n_cup_great_league_edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-ult
+ ra-league-machamp-swampert.jpg
+DTSTART;VALUE=DATE:20231020
+DTEND;VALUE=DATE:20231027
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-adventures_abound-master_league-halloween_cup_great_league_edition
+DTSTAMP:20230909T001748Z
+SUMMARY:[GO Battle League] Master League and Halloween Cup: Great League Ed
+ ition | Adventures Abound
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-adventures_abound-master_league-halloween_cup_great_league_edition/
+URL:https://leekduck.com/events/gbl-adventures_abound-master_league-hallowe
+ en_cup_great_league_edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattleleague-maste
+ r-key.jpg
+DTSTART;VALUE=DATE:20231027
+DTEND;VALUE=DATE:20231103
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-adventures_abound-great_league-electric_cup_great_league_edition
+DTSTAMP:20230909T001748Z
+SUMMARY:[GO Battle League] Great League and Electric Cup: Great League Edit
+ ion | Adventures Abound
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-adventures_abound-great_league-electric_cup_great_league_edition/
+URL:https://leekduck.com/events/gbl-adventures_abound-great_league-electric
+ _cup_great_league_edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattle-greatleague
+ -key.jpg
+DTSTART;VALUE=DATE:20231103
+DTEND;VALUE=DATE:20231110
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-adventures_abound-ultra_league-electric_cup_great_league_edition
+DTSTAMP:20230909T001748Z
+SUMMARY:[GO Battle League] Ultra League and Electric Cup: Great League Edit
+ ion | Adventures Abound
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-adventures_abound-ultra_league-electric_cup_great_league_edition/
+URL:https://leekduck.com/events/gbl-adventures_abound-ultra_league-electric
+ _cup_great_league_edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-ult
+ ra-league-machamp-swampert.jpg
+DTSTART;VALUE=DATE:20231110
+DTEND;VALUE=DATE:20231117
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-adventures_abound-catch_cup_adventures_abound_edition
+DTSTAMP:20230909T001748Z
+SUMMARY:[GO Battle League] Catch Cup: Adventures Abound Edition | Adventure
+ s Abound
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-adventures_abound-catch_cup_adventures_abound_edition/
+URL:https://leekduck.com/events/gbl-adventures_abound-catch_cup_adventures_
+ abound_edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-sea
+ son-16-adventures-abound.jpg
+DTSTART;VALUE=DATE:20231117
+DTEND;VALUE=DATE:20231124
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-adventures_abound-great_league-ultra_league-master-league-2
+DTSTAMP:20230909T001748Z
+SUMMARY:[GO Battle League] Great League\, Ultra League\, and Master League 
+ | Adventures Abound
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-adventures_abound-great_league-ultra_league-master-league-2/
+URL:https://leekduck.com/events/gbl-adventures_abound-great_league-ultra_le
+ ague-master-league-2/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-sea
+ son-16-adventures-abound.jpg
+DTSTART;VALUE=DATE:20231124
+DTEND;VALUE=DATE:20231201
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
