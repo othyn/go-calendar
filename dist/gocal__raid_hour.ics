@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:raidhour20230913
-DTSTAMP:20230909T001748Z
+DTSTAMP:20230910T001955Z
 SUMMARY:[Raid Hour] Kartana and Celesteela Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20230913/
@@ -26,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20230920
-DTSTAMP:20230909T001748Z
+DTSTAMP:20230910T001955Z
 SUMMARY:[Raid Hour] Genesect with a Burn Drive Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20230920/
@@ -41,7 +41,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20230927
-DTSTAMP:20230909T001748Z
+DTSTAMP:20230910T001955Z
 SUMMARY:[Raid Hour] Raikou\, Entei\, and Suicune Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20230927/
@@ -56,7 +56,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20231004
-DTSTAMP:20230909T001748Z
+DTSTAMP:20230910T001955Z
 SUMMARY:[Raid Hour] Raikou\, Entei\, and Suicune Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20231004/
