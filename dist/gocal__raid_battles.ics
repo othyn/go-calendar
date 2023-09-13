@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:mega-manectric-in-mega-raids-september-2023
-DTSTAMP:20230912T001749Z
+DTSTAMP:20230913T001838Z
 SUMMARY:[Raid Battles] Mega Manectric in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-manectric-in-mega-raids-september-2023/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:kartana-celesteela-in-5-star-raid-battles-september-2023-swap
-DTSTAMP:20230912T001749Z
+DTSTAMP:20230913T001838Z
 SUMMARY:[Raid Battles] Kartana and Celesteela in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /kartana-celesteela-in-5-star-raid-battles-september-2023-swap/
@@ -44,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:genesect-with-a-burn-drive-in-5-star-raid-battles-september-2023-swap
-DTSTAMP:20230912T001749Z
+DTSTAMP:20230913T001838Z
 SUMMARY:[Raid Battles] Genesect with a Burn Drive in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /genesect-with-a-burn-drive-in-5-star-raid-battles-september-2023-swap/
@@ -60,7 +60,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-gardevoir-in-mega-raids-september-2023
-DTSTAMP:20230912T001749Z
+DTSTAMP:20230913T001838Z
 SUMMARY:[Raid Battles] Mega Gardevoir in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-gardevoir-in-mega-raids-september-2023/
@@ -76,7 +76,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raikou-entei-suicune-in-5-star-raid-battles-september-2023-swap
-DTSTAMP:20230912T001749Z
+DTSTAMP:20230913T001838Z
 SUMMARY:[Raid Battles] Raikou\, Entei\, and Suicune in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /raikou-entei-suicune-in-5-star-raid-battles-september-2023-swap/
@@ -92,7 +92,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-zapdos-in-shadow-raids-adventures-abound
-DTSTAMP:20230912T001749Z
+DTSTAMP:20230913T001838Z
 SUMMARY:[Raid Battles] Shadow Zapdos in Shadow Raids
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /shadow-zapdos-in-shadow-raids-adventures-abound/
