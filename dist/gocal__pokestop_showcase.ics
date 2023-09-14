@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-nymble-2023-09-10
-DTSTAMP:20230913T001838Z
+DTSTAMP:20230914T001824Z
 SUMMARY:[PokéStop Showcase] Nymble PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-nymble-2023-09-10/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-pawmi-2023-09-14
-DTSTAMP:20230913T001838Z
+DTSTAMP:20230914T001824Z
 SUMMARY:[PokéStop Showcase] Pawmi PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-pawmi-2023-09-14/
@@ -43,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-oddish-2023-09-17
-DTSTAMP:20230913T001838Z
+DTSTAMP:20230914T001824Z
 SUMMARY:[PokéStop Showcase] Oddish PokéStop Showcases
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-oddish-2023-09-17/
@@ -59,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-spoink-2023-09-20
-DTSTAMP:20230913T001838Z
+DTSTAMP:20230914T001824Z
 SUMMARY:[PokéStop Showcase] Spoink PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-spoink-2023-09-20/
@@ -75,7 +75,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-grubbin-vikavolt-2023-09-23
-DTSTAMP:20230913T001838Z
+DTSTAMP:20230914T001824Z
 SUMMARY:[PokéStop Showcase] Grubbin and Vikavolt PokéStop Showcases
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-grubbin-vikavolt-2023-09-23/
@@ -92,7 +92,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-growlithe-hisuian-growlithe-2023-09-27
-DTSTAMP:20230913T001838Z
+DTSTAMP:20230914T001824Z
 SUMMARY:[PokéStop Showcase] Growlithe and Hisuian Growlithe PokéStop Show
  cases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -110,7 +110,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-growlithe-hisuian-growlithe-2023-09-29
-DTSTAMP:20230913T001838Z
+DTSTAMP:20230914T001824Z
 SUMMARY:[PokéStop Showcase] Growlithe and Hisuian Growlithe PokéStop Show
  cases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events

@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-09-12
-DTSTAMP:20230913T001838Z
+DTSTAMP:20230914T001824Z
 SUMMARY:[Pokémon Spotlight Hour] Mankey Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-09-12/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-09-19
-DTSTAMP:20230913T001838Z
+DTSTAMP:20230914T001824Z
 SUMMARY:[Pokémon Spotlight Hour] Girafarig Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-09-19/
@@ -43,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-09-26
-DTSTAMP:20230913T001838Z
+DTSTAMP:20230914T001824Z
 SUMMARY:[Pokémon Spotlight Hour] Growlithe Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-09-26/
