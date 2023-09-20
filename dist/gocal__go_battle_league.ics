@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:gbl-adventures_abound-master_league-psychic_cup_great_league_edition
-DTSTAMP:20230919T001856Z
+DTSTAMP:20230920T001845Z
 SUMMARY:[GO Battle League] Master League and Psychic Cup: Great League Edit
  ion | Adventures Abound
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -29,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-adventures_abound-great_league-psychic_cup_great_league_edition
-DTSTAMP:20230919T001856Z
+DTSTAMP:20230920T001845Z
 SUMMARY:[GO Battle League] Great League and Psychic Cup: Great League Editi
  on | Adventures Abound
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -47,7 +47,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-adventures_abound-ultra_league-sunshine_cup_great_league_edition
-DTSTAMP:20230919T001856Z
+DTSTAMP:20230920T001845Z
 SUMMARY:[GO Battle League] Ultra League and Sunshine Cup: Great League Edit
  ion | Adventures Abound
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -65,7 +65,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-adventures_abound-great_league-ultra_league-master-league
-DTSTAMP:20230919T001856Z
+DTSTAMP:20230920T001845Z
 SUMMARY:[GO Battle League] Great League\, Ultra League\, and Master League 
  | Adventures Abound
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -83,7 +83,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-adventures_abound-great_league-sunshine_cup_great_league_edition
-DTSTAMP:20230919T001856Z
+DTSTAMP:20230920T001845Z
 SUMMARY:[GO Battle League] Great League and Sunshine Cup: Great League Edit
  ion | Adventures Abound
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -101,7 +101,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-adventures_abound-ultra_league-halloween_cup_great_league_edition
-DTSTAMP:20230919T001856Z
+DTSTAMP:20230920T001845Z
 SUMMARY:[GO Battle League] Ultra League and Halloween Cup: Great League Edi
  tion | Adventures Abound
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -119,7 +119,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-adventures_abound-master_league-halloween_cup_great_league_edition
-DTSTAMP:20230919T001856Z
+DTSTAMP:20230920T001845Z
 SUMMARY:[GO Battle League] Master League and Halloween Cup: Great League Ed
  ition | Adventures Abound
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -137,7 +137,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-adventures_abound-great_league-electric_cup_great_league_edition
-DTSTAMP:20230919T001856Z
+DTSTAMP:20230920T001845Z
 SUMMARY:[GO Battle League] Great League and Electric Cup: Great League Edit
  ion | Adventures Abound
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -155,7 +155,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-adventures_abound-ultra_league-electric_cup_great_league_edition
-DTSTAMP:20230919T001856Z
+DTSTAMP:20230920T001845Z
 SUMMARY:[GO Battle League] Ultra League and Electric Cup: Great League Edit
  ion | Adventures Abound
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -173,7 +173,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-adventures_abound-catch_cup_adventures_abound_edition
-DTSTAMP:20230919T001856Z
+DTSTAMP:20230920T001845Z
 SUMMARY:[GO Battle League] Catch Cup: Adventures Abound Edition | Adventure
  s Abound
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -191,7 +191,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-adventures_abound-great_league-ultra_league-master-league-2
-DTSTAMP:20230919T001856Z
+DTSTAMP:20230920T001845Z
 SUMMARY:[GO Battle League] Great League\, Ultra League\, and Master League 
  | Adventures Abound
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
