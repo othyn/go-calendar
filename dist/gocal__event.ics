@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:psychic-spectacular-2023
-DTSTAMP:20230922T001826Z
+DTSTAMP:20230923T001749Z
 SUMMARY:[Event] Psychic Spectacular
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /psychic-spectacular-2023/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:azurill-hatch-day
-DTSTAMP:20230922T001826Z
+DTSTAMP:20230923T001749Z
 SUMMARY:[Event] Azurill Hatch Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /azurill-hatch-day/
@@ -43,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:out-to-play
-DTSTAMP:20230922T001826Z
+DTSTAMP:20230923T001749Z
 SUMMARY:[Event] Out to Play
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /out-to-play/
@@ -59,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-event-october-07-season-12
-DTSTAMP:20230922T001826Z
+DTSTAMP:20230923T001749Z
 SUMMARY:[Event] Unannounced Event - October 7-8
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /unannounced-event-october-07-season-12/
@@ -74,12 +74,28 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:unannounced-event-october-21-season-12
-DTSTAMP:20230922T001826Z
-SUMMARY:[Event] Unannounced Event - October 21
+UID:harvest-festival
+DTSTAMP:20230923T001749Z
+SUMMARY:[Event] Harvest Festival
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /harvest-festival/
+URL:https://leekduck.com/events/harvest-festival/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART;VALUE=DATE:20231012
+DTEND;VALUE=DATE:20231017
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:incense-day-october-21-season-12
+DTSTAMP:20230923T001749Z
+SUMMARY:[Event] Incense Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /unannounced-event-october-21-season-12/
-URL:https://leekduck.com/events/unannounced-event-october-21-season-12/
+ /incense-day-october-21-season-12/
+URL:https://leekduck.com/events/incense-day-october-21-season-12/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
  pg
 DTSTART:20231021T140000
@@ -90,8 +106,40 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemon-go-halloween-2023-part-1
+DTSTAMP:20230923T001749Z
+SUMMARY:[Event] Pokémon GO Halloween 2023 - Part I
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-go-halloween-2023-part-1/
+URL:https://leekduck.com/events/pokemon-go-halloween-2023-part-1/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART;VALUE=DATE:20231019
+DTEND;VALUE=DATE:20231026
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-go-halloween-2023-part-2
+DTSTAMP:20230923T001749Z
+SUMMARY:[Event] Pokémon GO Halloween 2023 - Part II
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-go-halloween-2023-part-2/
+URL:https://leekduck.com/events/pokemon-go-halloween-2023-part-2/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART;VALUE=DATE:20231026
+DTEND;VALUE=DATE:20231031
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:unannounced-event-november-11-season-12
-DTSTAMP:20230922T001826Z
+DTSTAMP:20230923T001749Z
 SUMMARY:[Event] Unannounced Event - November 11
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-event-november-11-season-12/

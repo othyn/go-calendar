@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:september-communityday2023
-DTSTAMP:20230922T001826Z
+DTSTAMP:20230923T001749Z
 SUMMARY:[Community Day] Grubbin Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /september-communityday2023/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:october-communityday2023
-DTSTAMP:20230922T001826Z
+DTSTAMP:20230923T001749Z
 SUMMARY:[Community Day] October Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /october-communityday2023/
@@ -42,7 +42,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:november-communityday2023
-DTSTAMP:20230922T001826Z
+DTSTAMP:20230923T001749Z
 SUMMARY:[Community Day] November Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /november-communityday2023/
@@ -57,7 +57,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:november-communitydayclassic2023
-DTSTAMP:20230922T001826Z
+DTSTAMP:20230923T001749Z
 SUMMARY:[Community Day] November Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /november-communitydayclassic2023/

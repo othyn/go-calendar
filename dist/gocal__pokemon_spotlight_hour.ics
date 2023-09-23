@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-09-26
-DTSTAMP:20230922T001826Z
+DTSTAMP:20230923T001749Z
 SUMMARY:[Pokémon Spotlight Hour] Growlithe Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-09-26/
@@ -20,6 +20,86 @@ IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
  .jpg
 DTSTART:20230926T180000
 DTEND:20230926T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2023-10-03
+DTSTAMP:20230923T001749Z
+SUMMARY:[Pokémon Spotlight Hour] Slowpoke Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2023-10-03/
+URL:https://leekduck.com/events/pokemonspotlighthour2023-10-03/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20231003T180000
+DTEND:20231003T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2023-10-10
+DTSTAMP:20230923T001749Z
+SUMMARY:[Pokémon Spotlight Hour] Shroomish Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2023-10-10/
+URL:https://leekduck.com/events/pokemonspotlighthour2023-10-10/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20231010T180000
+DTEND:20231010T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2023-10-17
+DTSTAMP:20230923T001749Z
+SUMMARY:[Pokémon Spotlight Hour] Pumpkaboo Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2023-10-17/
+URL:https://leekduck.com/events/pokemonspotlighthour2023-10-17/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20231017T180000
+DTEND:20231017T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2023-10-24
+DTSTAMP:20230923T001749Z
+SUMMARY:[Pokémon Spotlight Hour] Phantump Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2023-10-24/
+URL:https://leekduck.com/events/pokemonspotlighthour2023-10-24/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20231024T180000
+DTEND:20231024T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2023-10-31
+DTSTAMP:20230923T001749Z
+SUMMARY:[Pokémon Spotlight Hour] Yamask Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2023-10-31/
+URL:https://leekduck.com/events/pokemonspotlighthour2023-10-31/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20231031T180000
+DTEND:20231031T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M

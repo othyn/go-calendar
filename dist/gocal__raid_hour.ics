@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:raidhour20230927
-DTSTAMP:20230922T001826Z
+DTSTAMP:20230923T001749Z
 SUMMARY:[Raid Hour] Raikou\, Entei\, and Suicune Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20230927/
@@ -26,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20231004
-DTSTAMP:20230922T001826Z
+DTSTAMP:20230923T001749Z
 SUMMARY:[Raid Hour] Raikou\, Entei\, and Suicune Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20231004/
@@ -34,6 +34,51 @@ URL:https://leekduck.com/events/raidhour20231004/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
 DTSTART:20231004T180000
 DTEND:20231004T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20231011
+DTSTAMP:20230923T001749Z
+SUMMARY:[Raid Hour] Guzzlord Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20231011/
+URL:https://leekduck.com/events/raidhour20231011/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20231011T180000
+DTEND:20231011T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20231018
+DTSTAMP:20230923T001749Z
+SUMMARY:[Raid Hour] Guzzlord Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20231018/
+URL:https://leekduck.com/events/raidhour20231018/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20231018T180000
+DTEND:20231018T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20231025
+DTSTAMP:20230923T001749Z
+SUMMARY:[Raid Hour] Darkrai Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20231025/
+URL:https://leekduck.com/events/raidhour20231025/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20231025T180000
+DTEND:20231025T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
