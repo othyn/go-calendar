@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:go-battle-weekend-adventures-abound
-DTSTAMP:20230923T001749Z
+DTSTAMP:20230924T001954Z
 SUMMARY:[Research] GO Battle Weekend: Adventures Abound
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-weekend-adventures-abound/
