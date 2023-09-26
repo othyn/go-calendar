@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-grubbin-vikavolt-2023-09-23
-DTSTAMP:20230925T001900Z
-SUMMARY:[PokéStop Showcase] Grubbin and Vikavolt PokéStop Showcases
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-grubbin-vikavolt-2023-09-23/
-URL:https://leekduck.com/events/pokemon-showcase-grubbin-vikavolt-2023-09-2
- 3/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
- efault.jpg
-DTSTART:20230923T140000
-DTEND:20230923T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-showcase-growlithe-hisuian-growlithe-2023-09-27
-DTSTAMP:20230925T001900Z
+DTSTAMP:20230926T001839Z
 SUMMARY:[PokéStop Showcase] Growlithe and Hisuian Growlithe PokéStop Show
  cases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -46,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-growlithe-hisuian-growlithe-2023-09-29
-DTSTAMP:20230925T001900Z
+DTSTAMP:20230926T001839Z
 SUMMARY:[PokéStop Showcase] Growlithe and Hisuian Growlithe PokéStop Show
  cases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -64,7 +47,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-unannounced-2023-10-05
-DTSTAMP:20230925T001900Z
+DTSTAMP:20230926T001839Z
 SUMMARY:[PokéStop Showcase] Unannounced PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-unannounced-2023-10-05/
@@ -80,7 +63,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-unannounced-2023-10-12
-DTSTAMP:20230925T001900Z
+DTSTAMP:20230926T001839Z
 SUMMARY:[PokéStop Showcase] Unannounced PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-unannounced-2023-10-12/
@@ -96,7 +79,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-timburr-conkeldurr-2023-10-15
-DTSTAMP:20230925T001900Z
+DTSTAMP:20230926T001839Z
 SUMMARY:[PokéStop Showcase] Timburr and Conkeldurr PokéStop Showcases
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-timburr-conkeldurr-2023-10-15/
@@ -113,7 +96,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-pumpkaboo-gourgeist-2023-10-16
-DTSTAMP:20230925T001900Z
+DTSTAMP:20230926T001839Z
 SUMMARY:[PokéStop Showcase] Pumpkaboo and Gourgeist PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-pumpkaboo-gourgeist-2023-10-16/
@@ -130,7 +113,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-shuppet-banette-2023-10-20
-DTSTAMP:20230925T001900Z
+DTSTAMP:20230926T001839Z
 SUMMARY:[PokéStop Showcase] Shuppet and Banette PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-shuppet-banette-2023-10-20/
@@ -147,7 +130,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-unannounced-2023-10-23
-DTSTAMP:20230925T001900Z
+DTSTAMP:20230926T001839Z
 SUMMARY:[PokéStop Showcase] Unannounced PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-unannounced-2023-10-23/
@@ -163,7 +146,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-phantump-2023-10-26
-DTSTAMP:20230925T001900Z
+DTSTAMP:20230926T001839Z
 SUMMARY:[PokéStop Showcase] Phantump PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-phantump-2023-10-26/
@@ -179,7 +162,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-gastly-gengar-2023-10-29
-DTSTAMP:20230925T001900Z
+DTSTAMP:20230926T001839Z
 SUMMARY:[PokéStop Showcase] Gastly and Gengar PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-gastly-gengar-2023-10-29/
