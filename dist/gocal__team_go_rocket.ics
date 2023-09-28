@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:team-go-rocket-takeover-october-2023
-DTSTAMP:20230927T001840Z
+DTSTAMP:20230928T001843Z
 SUMMARY:[Team GO Rocket] Team GO Rocket Takeover
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /team-go-rocket-takeover-october-2023/
