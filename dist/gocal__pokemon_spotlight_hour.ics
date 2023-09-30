@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-10-03
-DTSTAMP:20230929T001841Z
+DTSTAMP:20230930T001812Z
 SUMMARY:[Pokémon Spotlight Hour] Slowpoke Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-10-03/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-10-10
-DTSTAMP:20230929T001841Z
+DTSTAMP:20230930T001812Z
 SUMMARY:[Pokémon Spotlight Hour] Shroomish Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-10-10/
@@ -43,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-10-17
-DTSTAMP:20230929T001841Z
+DTSTAMP:20230930T001812Z
 SUMMARY:[Pokémon Spotlight Hour] Pumpkaboo Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-10-17/
@@ -59,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-10-24
-DTSTAMP:20230929T001841Z
+DTSTAMP:20230930T001812Z
 SUMMARY:[Pokémon Spotlight Hour] Phantump Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-10-24/
@@ -75,7 +75,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-10-31
-DTSTAMP:20230929T001841Z
+DTSTAMP:20230930T001812Z
 SUMMARY:[Pokémon Spotlight Hour] Yamask Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-10-31/
