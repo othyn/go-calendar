@@ -10,26 +10,8 @@ X-WR-CALDESC:All Pokémon GO events\, in your local time\, auto-updated and
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:gbl-adventures_abound-great_league-psychic_cup_great_league_edition
-DTSTAMP:20230930T001812Z
-SUMMARY:[GO Battle League] Great League and Psychic Cup: Great League Editi
- on | Adventures Abound
-DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /gbl-adventures_abound-great_league-psychic_cup_great_league_edition/
-URL:https://leekduck.com/events/gbl-adventures_abound-great_league-psychic_
- cup_great_league_edition/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattle-greatleague
- -key.jpg
-DTSTART;VALUE=DATE:20230922
-DTEND;VALUE=DATE:20230929
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-showcase-growlithe-hisuian-growlithe-2023-09-27
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[PokéStop Showcase] Growlithe and Hisuian Growlithe PokéStop Show
  cases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -47,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:azurill-hatch-day
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[Event] Azurill Hatch Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /azurill-hatch-day/
@@ -63,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-zapdos-in-shadow-raids-adventures-abound
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[Raid Battles] Shadow Zapdos in Shadow Raids
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /shadow-zapdos-in-shadow-raids-adventures-abound/
@@ -80,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-growlithe-hisuian-growlithe-2023-09-29
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[PokéStop Showcase] Growlithe and Hisuian Growlithe PokéStop Show
  cases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -98,7 +80,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:out-to-play
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[Event] Out to Play
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /out-to-play/
@@ -114,7 +96,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-10-03
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[Pokémon Spotlight Hour] Slowpoke Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-10-03/
@@ -130,7 +112,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20231004
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[Raid Hour] Raikou\, Entei\, and Suicune Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20231004/
@@ -145,7 +127,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-gardevoir-in-mega-raids-september-2023
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[Raid Battles] Mega Gardevoir in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-gardevoir-in-mega-raids-september-2023/
@@ -161,7 +143,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raikou-entei-suicune-in-5-star-raid-battles-september-2023-swap
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[Raid Battles] Raikou\, Entei\, and Suicune in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /raikou-entei-suicune-in-5-star-raid-battles-september-2023-swap/
@@ -177,7 +159,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-adventures_abound-ultra_league-sunshine_cup_great_league_edition
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[GO Battle League] Ultra League and Sunshine Cup: Great League Edit
  ion | Adventures Abound
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -195,7 +177,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citysafari-seoul-2023
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[City Safari] Seoul\, South Korea - Pokémon GO City Safari
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /citysafari-seoul-2023/
@@ -210,7 +192,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-weekend-adventures-abound
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[Event] GO Battle Weekend: Geeta
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-weekend-adventures-abound/
@@ -226,7 +208,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-unannounced-2023-10-05
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[PokéStop Showcase] Unannounced PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-unannounced-2023-10-05/
@@ -242,7 +224,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:detective-pikachu-returns-event
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[Event] Detective Pikachu Returns
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /detective-pikachu-returns-event/
@@ -258,7 +240,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-10-10
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[Pokémon Spotlight Hour] Shroomish Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-10-10/
@@ -274,7 +256,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20231011
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[Raid Hour] Guzzlord Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20231011/
@@ -289,7 +271,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-adventures_abound-great_league-ultra_league-master-league
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[GO Battle League] Great League\, Ultra League\, and Master League 
  | Adventures Abound
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -307,7 +289,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-unannounced-2023-10-12
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[PokéStop Showcase] Unannounced PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-unannounced-2023-10-12/
@@ -323,7 +305,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citysafari-barcelona-2023
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[City Safari] Barcelona\, Spain - Pokémon GO City Safari
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /citysafari-barcelona-2023/
@@ -339,7 +321,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:october-communityday2023
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[Community Day] Timburr Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /october-communityday2023/
@@ -355,7 +337,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-timburr-conkeldurr-2023-10-15
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[PokéStop Showcase] Timburr and Conkeldurr PokéStop Showcases
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-timburr-conkeldurr-2023-10-15/
@@ -372,7 +354,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-10-17
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[Pokémon Spotlight Hour] Pumpkaboo Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-10-17/
@@ -388,7 +370,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-pumpkaboo-gourgeist-2023-10-16
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[PokéStop Showcase] Pumpkaboo and Gourgeist PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-pumpkaboo-gourgeist-2023-10-16/
@@ -405,7 +387,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:harvest-festival
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[Event] Harvest Festival
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /harvest-festival/
@@ -421,7 +403,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20231018
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[Raid Hour] Guzzlord Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20231018/
@@ -436,7 +418,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-gengar-in-mega-raids-october-2023
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[Raid Battles] Mega Gengar in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-gengar-in-mega-raids-october-2023/
@@ -451,7 +433,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:guzzlord-in-5-star-raid-battles-october-2023
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[Raid Battles] Guzzlord in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /guzzlord-in-5-star-raid-battles-october-2023/
@@ -467,7 +449,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-adventures_abound-great_league-sunshine_cup_great_league_edition
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[GO Battle League] Great League and Sunshine Cup: Great League Edit
  ion | Adventures Abound
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -485,7 +467,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:incense-day-october-21-season-12
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[Event] Incense Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /incense-day-october-21-season-12/
@@ -501,7 +483,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-shuppet-banette-2023-10-20
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[PokéStop Showcase] Shuppet and Banette PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-shuppet-banette-2023-10-20/
@@ -518,7 +500,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-10-24
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[Pokémon Spotlight Hour] Phantump Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-10-24/
@@ -534,7 +516,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20231025
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[Raid Hour] Darkrai Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20231025/
@@ -549,7 +531,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-unannounced-2023-10-23
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[PokéStop Showcase] Unannounced PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-unannounced-2023-10-23/
@@ -565,7 +547,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-halloween-2023-part-1
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[Event] Pokémon GO Halloween 2023 - Part I
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-go-halloween-2023-part-1/
@@ -581,7 +563,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-adventures_abound-ultra_league-halloween_cup_great_league_edition
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[GO Battle League] Ultra League and Halloween Cup: Great League Edi
  tion | Adventures Abound
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -599,7 +581,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-phantump-2023-10-26
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[PokéStop Showcase] Phantump PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-phantump-2023-10-26/
@@ -615,7 +597,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-moltres-in-shadow-raids-adventures-abound
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[Raid Battles] Shadow Moltres in Shadow Raids
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /shadow-moltres-in-shadow-raids-adventures-abound/
@@ -632,7 +614,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-10-31
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[Pokémon Spotlight Hour] Yamask Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-10-31/
@@ -648,7 +630,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-gastly-gengar-2023-10-29
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[PokéStop Showcase] Gastly and Gengar PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-gastly-gengar-2023-10-29/
@@ -664,7 +646,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-halloween-2023-part-2
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[Event] Pokémon GO Halloween 2023 - Part II
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-go-halloween-2023-part-2/
@@ -680,7 +662,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:team-go-rocket-takeover-october-2023
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[Team GO Rocket] Team GO Rocket Takeover
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /team-go-rocket-takeover-october-2023/
@@ -696,7 +678,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ticket-of-treats
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[Ticketed Event] Ticket of Treats
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /ticket-of-treats/
@@ -711,7 +693,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-banette-in-mega-raids-october-2023
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[Raid Battles] Mega Banette in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-banette-in-mega-raids-october-2023/
@@ -726,7 +708,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darkrai-in-5-star-raid-battles-october-2023
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[Raid Battles] Darkrai in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /darkrai-in-5-star-raid-battles-october-2023/
@@ -742,7 +724,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-adventures_abound-master_league-halloween_cup_great_league_edition
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[GO Battle League] Master League and Halloween Cup: Great League Ed
  ition | Adventures Abound
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -760,7 +742,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citysafari-mexico-city-2023
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[City Safari] Mexico City\, Mexico - Pokémon GO City Safari
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /citysafari-mexico-city-2023/
@@ -776,7 +758,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:november-communityday2023
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[Community Day] November Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /november-communityday2023/
@@ -791,7 +773,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-adventures_abound-great_league-electric_cup_great_league_edition
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[GO Battle League] Great League and Electric Cup: Great League Edit
  ion | Adventures Abound
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -809,7 +791,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-event-november-11-season-12
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[Event] Unannounced Event - November 11
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-event-november-11-season-12/
@@ -825,7 +807,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-adventures_abound-ultra_league-electric_cup_great_league_edition
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[GO Battle League] Ultra League and Electric Cup: Great League Edit
  ion | Adventures Abound
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -843,7 +825,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-adventures_abound-catch_cup_adventures_abound_edition
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[GO Battle League] Catch Cup: Adventures Abound Edition | Adventure
  s Abound
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -861,7 +843,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:november-communitydayclassic2023
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[Community Day] November Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /november-communitydayclassic2023/
@@ -876,7 +858,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-12-adventures-abound
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[Season] Adventures Abound
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-12-adventures-abound/
@@ -892,7 +874,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-12-adventures-abound-research-breakthrough
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[Research Breakthrough] Adventures Abound Research Breakthrough
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /season-12-adventures-abound-research-breakthrough/
@@ -909,7 +891,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-adventures_abound-great_league-ultra_league-master-league-2
-DTSTAMP:20230930T001812Z
+DTSTAMP:20231001T002154Z
 SUMMARY:[GO Battle League] Great League\, Ultra League\, and Master League 
  | Adventures Abound
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
