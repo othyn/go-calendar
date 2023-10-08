@@ -11,14 +11,14 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:citysafari-seoul-2023
-DTSTAMP:20231007T001826Z
+DTSTAMP:20231008T002036Z
 SUMMARY:[City Safari] Seoul\, South Korea - Pokémon GO City Safari
-DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
+DESCRIPTION:Starts at 01:00\, ends at 09:00.\n\nhttps://leekduck.com/events
  /citysafari-seoul-2023/
 URL:https://leekduck.com/events/citysafari-seoul-2023/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/citysafari-seoul.jpg
-DTSTART:20231007T100000
-DTEND:20231008T180000
+DTSTART:20231007T010000
+DTEND:20231008T090000
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
@@ -26,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citysafari-barcelona-2023
-DTSTAMP:20231007T001826Z
+DTSTAMP:20231008T002036Z
 SUMMARY:[City Safari] Barcelona\, Spain - Pokémon GO City Safari
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /citysafari-barcelona-2023/
@@ -42,7 +42,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:citysafari-mexico-city-2023
-DTSTAMP:20231007T001826Z
+DTSTAMP:20231008T002036Z
 SUMMARY:[City Safari] Mexico City\, Mexico - Pokémon GO City Safari
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /citysafari-mexico-city-2023/
