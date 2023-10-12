@@ -10,40 +10,8 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:go-battle-weekend-adventures-abound
-DTSTAMP:20231011T001904Z
-SUMMARY:[Event] GO Battle Weekend: Geeta
-DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
- /go-battle-weekend-adventures-abound/
-URL:https://leekduck.com/events/go-battle-weekend-adventures-abound/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-weekend-ge
- eta.jpg
-DTSTART:20231007T000000
-DTEND:20231008T235959
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:detective-pikachu-returns-event
-DTSTAMP:20231011T001904Z
-SUMMARY:[Event] Detective Pikachu Returns
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /detective-pikachu-returns-event/
-URL:https://leekduck.com/events/detective-pikachu-returns-event/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/detective-pikachu-re
- turns.jpg
-DTSTART;VALUE=DATE:20231005
-DTEND;VALUE=DATE:20231009
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:harvest-festival
-DTSTAMP:20231011T001904Z
+DTSTAMP:20231012T001734Z
 SUMMARY:[Event] Harvest Festival
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /harvest-festival/
@@ -59,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:incense-day-october-21-season-12
-DTSTAMP:20231011T001904Z
+DTSTAMP:20231012T001734Z
 SUMMARY:[Event] Incense Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /incense-day-october-21-season-12/
@@ -75,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-halloween-2023-part-1
-DTSTAMP:20231011T001904Z
+DTSTAMP:20231012T001734Z
 SUMMARY:[Event] Pokémon GO Halloween 2023 - Part I
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-go-halloween-2023-part-1/
@@ -91,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-halloween-2023-part-2
-DTSTAMP:20231011T001904Z
+DTSTAMP:20231012T001734Z
 SUMMARY:[Event] Pokémon GO Halloween 2023 - Part II
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-go-halloween-2023-part-2/
@@ -107,7 +75,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-event-november-11-season-12
-DTSTAMP:20231011T001904Z
+DTSTAMP:20231012T001734Z
 SUMMARY:[Event] Unannounced Event - November 11
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-event-november-11-season-12/
