@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:harvest-festival
-DTSTAMP:20231013T001924Z
+DTSTAMP:20231014T001815Z
 SUMMARY:[Event] Harvest Festival
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /harvest-festival/
@@ -26,15 +26,15 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:incense-day-october-21-season-12
-DTSTAMP:20231013T001924Z
-SUMMARY:[Event] Incense Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /incense-day-october-21-season-12/
-URL:https://leekduck.com/events/incense-day-october-21-season-12/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
-DTSTART:20231021T140000
+UID:incense-day-skorupi
+DTSTAMP:20231014T001815Z
+SUMMARY:[Event] Incense Day: Skorupi
+DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /incense-day-skorupi/
+URL:https://leekduck.com/events/incense-day-skorupi/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/incense-day-bug-and-
+ poison.jpg
+DTSTART:20231021T110000
 DTEND:20231021T170000
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -43,13 +43,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-halloween-2023-part-1
-DTSTAMP:20231013T001924Z
+DTSTAMP:20231014T001815Z
 SUMMARY:[Event] Pokémon GO Halloween 2023 - Part I
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /pokemon-go-halloween-2023-part-1/
 URL:https://leekduck.com/events/pokemon-go-halloween-2023-part-1/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemon-go-halloween
+ -2023-part1.jpg
 DTSTART;VALUE=DATE:20231019
 DTEND;VALUE=DATE:20231026
 BEGIN:VALARM
@@ -59,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-halloween-2023-part-2
-DTSTAMP:20231013T001924Z
+DTSTAMP:20231014T001815Z
 SUMMARY:[Event] Pokémon GO Halloween 2023 - Part II
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-go-halloween-2023-part-2/
@@ -75,7 +75,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-event-november-11-season-12
-DTSTAMP:20231013T001924Z
+DTSTAMP:20231014T001815Z
 SUMMARY:[Event] Unannounced Event - November 11
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-event-november-11-season-12/
