@@ -50,5 +50,9 @@
     "ticketed_event": {
         "name": "Ticketed Event",
         "url": "https:\/\/github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__ticketed_event.ics"
+    },
+    "update": {
+        "name": "Update",
+        "url": "https:\/\/github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__update.ics"
     }
 }

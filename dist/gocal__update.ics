@@ -10,16 +10,16 @@ X-WR-CALDESC:All Pokémon GO Update events\, in your local time\, auto-upda
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:august-2023-streak-bonus
-DTSTAMP:20230902T001742Z
-SUMMARY:[Update] Daily Streak Bonus - Hidden Gems
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /august-2023-streak-bonus/
-URL:https://leekduck.com/events/august-2023-streak-bonus/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/season-11-hidden-gem
- s.jpg
-DTSTART;VALUE=DATE:20230801
-DTEND;VALUE=DATE:20230901
+UID:party-play-feature
+DTSTAMP:20231017T001918Z
+SUMMARY:[Update] Party Play New Feature
+DESCRIPTION:Starts at 09:00\, ends at 23:59.\n\nhttps://leekduck.com/events
+ /party-play-feature/
+URL:https://leekduck.com/events/party-play-feature/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/party-play-feature.j
+ pg
+DTSTART;VALUE=DATE:20231017
+DTEND;VALUE=DATE:20231031
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
