@@ -10,16 +10,17 @@ X-WR-CALDESC:All Pokémon GO Research events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:go-battle-weekend-adventures-abound
-DTSTAMP:20230928T001843Z
-SUMMARY:[Research] GO Battle Weekend: Adventures Abound
-DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
- /go-battle-weekend-adventures-abound/
-URL:https://leekduck.com/events/go-battle-weekend-adventures-abound/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-sea
- son-16-adventures-abound.jpg
-DTSTART:20231007T000000
-DTEND:20231008T235959
+UID:amazon-prime-partner-research-adventures-abound
+DTSTAMP:20231018T001909Z
+SUMMARY:[Research] Limited-time Partner Research: Amazon Prime Gaming
+DESCRIPTION:Starts at 18:00\, ends at 17:59.\n\nhttps://leekduck.com/events
+ /amazon-prime-partner-research-adventures-abound/
+URL:https://leekduck.com/events/amazon-prime-partner-research-adventures-ab
+ ound/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/amazon-prime-greavar
+ d-wig.jpg
+DTSTART;VALUE=DATE:20231016
+DTEND;VALUE=DATE:20231113
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M

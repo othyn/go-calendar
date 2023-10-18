@@ -35,6 +35,10 @@
         "name": "Raid Hour",
         "url": "https:\/\/github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__raid_hour.ics"
     },
+    "research": {
+        "name": "Research",
+        "url": "https:\/\/github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__research.ics"
+    },
     "research_breakthrough": {
         "name": "Research Breakthrough",
         "url": "https:\/\/github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__research_breakthrough.ics"
