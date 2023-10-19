@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:party-play-feature
-DTSTAMP:20231018T001909Z
+DTSTAMP:20231019T001909Z
 SUMMARY:[Update] Party Play New Feature
 DESCRIPTION:Starts at 09:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /party-play-feature/
