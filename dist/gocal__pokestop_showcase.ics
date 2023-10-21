@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-shuppet-banette-2023-10-20
-DTSTAMP:20231020T001858Z
+DTSTAMP:20231021T001814Z
 SUMMARY:[PokéStop Showcase] Shuppet and Banette PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-shuppet-banette-2023-10-20/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-greavard-2023-10-23
-DTSTAMP:20231020T001858Z
+DTSTAMP:20231021T001814Z
 SUMMARY:[PokéStop Showcase] Greavard PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-greavard-2023-10-23/
@@ -44,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-phantump-2023-10-26
-DTSTAMP:20231020T001858Z
+DTSTAMP:20231021T001814Z
 SUMMARY:[PokéStop Showcase] Phantump PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-phantump-2023-10-26/
@@ -60,7 +60,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-gastly-gengar-2023-10-29
-DTSTAMP:20231020T001858Z
+DTSTAMP:20231021T001814Z
 SUMMARY:[PokéStop Showcase] Drifloon PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-gastly-gengar-2023-10-29/
@@ -75,8 +75,24 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemon-showcase-duskull-2023-11-01
+DTSTAMP:20231021T001814Z
+SUMMARY:[PokéStop Showcase] Duskull PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-duskull-2023-11-01/
+URL:https://leekduck.com/events/pokemon-showcase-duskull-2023-11-01/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART:20231101T100000
+DTEND:20231102T200000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:pokemon-showcase-gothita-mareanie-2023-11-15
-DTSTAMP:20231020T001858Z
+DTSTAMP:20231021T001814Z
 SUMMARY:[PokéStop Showcase] Gothita and Mareanie PokéStop Showcases
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-gothita-mareanie-2023-11-15/

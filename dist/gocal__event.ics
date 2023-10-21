@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:incense-day-skorupi
-DTSTAMP:20231020T001858Z
+DTSTAMP:20231021T001814Z
 SUMMARY:[Event] Incense Day: Skorupi
 DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /incense-day-skorupi/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-halloween-2023-part-1
-DTSTAMP:20231020T001858Z
+DTSTAMP:20231021T001814Z
 SUMMARY:[Event] Pokémon GO Halloween 2023 - Part I
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /pokemon-go-halloween-2023-part-1/
@@ -43,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-halloween-2023-part-2
-DTSTAMP:20231020T001858Z
+DTSTAMP:20231021T001814Z
 SUMMARY:[Event] Pokémon GO Halloween 2023 - Part II
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-go-halloween-2023-part-2/
@@ -58,8 +58,24 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:dia-de-muertos-2023
+DTSTAMP:20231021T001814Z
+SUMMARY:[Event] Día de Muertos 2023
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /dia-de-muertos-2023/
+URL:https://leekduck.com/events/dia-de-muertos-2023/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/dias-de-muertos-2023
+ .jpg
+DTSTART:20231101T100000
+DTEND:20231102T200000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:unannounced-event-november-11-season-12
-DTSTAMP:20231020T001858Z
+DTSTAMP:20231021T001814Z
 SUMMARY:[Event] Unannounced Event - November 11
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-event-november-11-season-12/

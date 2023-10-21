@@ -10,39 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Battles events\, in your local time\, aut
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:mega-gengar-in-mega-raids-october-2023
-DTSTAMP:20231020T001858Z
-SUMMARY:[Raid Battles] Mega Gengar in Mega Raids
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /mega-gengar-in-mega-raids-october-2023/
-URL:https://leekduck.com/events/mega-gengar-in-mega-raids-october-2023/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;VALUE=DATE:20231006
-DTEND;VALUE=DATE:20231020
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:guzzlord-in-5-star-raid-battles-october-2023
-DTSTAMP:20231020T001858Z
-SUMMARY:[Raid Battles] Guzzlord in 5-star Raid Battles
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /guzzlord-in-5-star-raid-battles-october-2023/
-URL:https://leekduck.com/events/guzzlord-in-5-star-raid-battles-october-202
- 3/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/guzzlord.jpg
-DTSTART;VALUE=DATE:20231006
-DTEND;VALUE=DATE:20231020
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:shadow-moltres-in-shadow-raids-adventures-abound
-DTSTAMP:20231020T001858Z
+DTSTAMP:20231021T001814Z
 SUMMARY:[Raid Battles] Shadow Moltres in Shadow Raids
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /shadow-moltres-in-shadow-raids-adventures-abound/
@@ -59,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-banette-in-mega-raids-october-2023
-DTSTAMP:20231020T001858Z
+DTSTAMP:20231021T001814Z
 SUMMARY:[Raid Battles] Mega Banette in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-banette-in-mega-raids-october-2023/
@@ -74,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darkrai-in-5-star-raid-battles-october-2023
-DTSTAMP:20231020T001858Z
+DTSTAMP:20231021T001814Z
 SUMMARY:[Raid Battles] Darkrai in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /darkrai-in-5-star-raid-battles-october-2023/
