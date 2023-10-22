@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:shadow-moltres-in-shadow-raids-adventures-abound
-DTSTAMP:20231021T001814Z
+DTSTAMP:20231022T002106Z
 SUMMARY:[Raid Battles] Shadow Moltres in Shadow Raids
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /shadow-moltres-in-shadow-raids-adventures-abound/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-banette-in-mega-raids-october-2023
-DTSTAMP:20231021T001814Z
+DTSTAMP:20231022T002106Z
 SUMMARY:[Raid Battles] Mega Banette in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-banette-in-mega-raids-october-2023/
@@ -43,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darkrai-in-5-star-raid-battles-october-2023
-DTSTAMP:20231021T001814Z
+DTSTAMP:20231022T002106Z
 SUMMARY:[Raid Battles] Darkrai in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /darkrai-in-5-star-raid-battles-october-2023/
