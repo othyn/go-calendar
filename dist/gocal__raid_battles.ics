@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:shadow-moltres-in-shadow-raids-adventures-abound
-DTSTAMP:20231022T002106Z
+DTSTAMP:20231023T001918Z
 SUMMARY:[Raid Battles] Shadow Moltres in Shadow Raids
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /shadow-moltres-in-shadow-raids-adventures-abound/
@@ -20,7 +20,24 @@ URL:https://leekduck.com/events/shadow-moltres-in-shadow-raids-adventures-a
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
  pg
 DTSTART;VALUE=DATE:20231001
-DTEND;VALUE=DATE:20231029
+DTEND;VALUE=DATE:20231022
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shadow-lugia-in-shadow-raids-adventures-abound
+DTSTAMP:20231023T001918Z
+SUMMARY:[Raid Battles] Shadow Lugia in Shadow Raids
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /shadow-lugia-in-shadow-raids-adventures-abound/
+URL:https://leekduck.com/events/shadow-lugia-in-shadow-raids-adventures-abo
+ und/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART:20231028T100000
+DTEND:20231029T200000
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
@@ -28,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-banette-in-mega-raids-october-2023
-DTSTAMP:20231022T002106Z
+DTSTAMP:20231023T001918Z
 SUMMARY:[Raid Battles] Mega Banette in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-banette-in-mega-raids-october-2023/
@@ -43,7 +60,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darkrai-in-5-star-raid-battles-october-2023
-DTSTAMP:20231022T002106Z
+DTSTAMP:20231023T001918Z
 SUMMARY:[Raid Battles] Darkrai in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /darkrai-in-5-star-raid-battles-october-2023/
