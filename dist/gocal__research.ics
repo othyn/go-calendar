@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:amazon-prime-partner-research-adventures-abound
-DTSTAMP:20231023T001918Z
+DTSTAMP:20231024T001902Z
 SUMMARY:[Research] Limited-time Partner Research: Amazon Prime Gaming
 DESCRIPTION:Starts at 18:00\, ends at 17:59.\n\nhttps://leekduck.com/events
  /amazon-prime-partner-research-adventures-abound/
