@@ -10,24 +10,8 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-go-halloween-2023-part-1
-DTSTAMP:20231026T001827Z
-SUMMARY:[Event] Pokémon GO Halloween 2023 - Part I
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /pokemon-go-halloween-2023-part-1/
-URL:https://leekduck.com/events/pokemon-go-halloween-2023-part-1/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemon-go-halloween
- -2023-part1.jpg
-DTSTART;VALUE=DATE:20231019
-DTEND;VALUE=DATE:20231026
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-go-halloween-2023-part-2
-DTSTAMP:20231026T001827Z
+DTSTAMP:20231027T001830Z
 SUMMARY:[Event] Pokémon GO Halloween 2023 - Part II
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-go-halloween-2023-part-2/
@@ -43,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dia-de-muertos-2023
-DTSTAMP:20231026T001827Z
+DTSTAMP:20231027T001830Z
 SUMMARY:[Event] Día de Muertos 2023
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /dia-de-muertos-2023/
@@ -59,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:festival-of-lights-2023
-DTSTAMP:20231026T001827Z
+DTSTAMP:20231027T001830Z
 SUMMARY:[Event] Festival of Lights
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /festival-of-lights-2023/
@@ -75,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fashion-week-2023
-DTSTAMP:20231026T001827Z
+DTSTAMP:20231027T001830Z
 SUMMARY:[Event] Fashion Week
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /fashion-week-2023/
@@ -91,7 +75,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:party-up-event
-DTSTAMP:20231026T001827Z
+DTSTAMP:20231027T001830Z
 SUMMARY:[Event] Party Up!
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /party-up-event/
