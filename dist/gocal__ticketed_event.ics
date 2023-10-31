@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:ticket-of-treats
-DTSTAMP:20231030T001924Z
+DTSTAMP:20231031T001906Z
 SUMMARY:[Ticketed Event] Ticket of Treats
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /ticket-of-treats/
