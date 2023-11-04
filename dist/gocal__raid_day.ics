@@ -10,15 +10,13 @@ X-WR-CALDESC:All Pokémon GO Raid Day events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:unannounced-raid-day-event-november-11-season-12
-DTSTAMP:20231103T001908Z
-SUMMARY:[Raid Day] Raid Day
+UID:mega-garchomp-raid-day-event
+DTSTAMP:20231104T001838Z
+SUMMARY:[Raid Day] Mega Garchomp Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /unannounced-raid-day-event-november-11-season-12/
-URL:https://leekduck.com/events/unannounced-raid-day-event-november-11-seas
- on-12/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+ /mega-garchomp-raid-day-event/
+URL:https://leekduck.com/events/mega-garchomp-raid-day-event/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-garchomp.jpg
 DTSTART:20231111T140000
 DTEND:20231111T170000
 BEGIN:VALARM
