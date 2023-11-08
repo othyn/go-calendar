@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:mega-garchomp-raid-day-event
-DTSTAMP:20231107T001928Z
+DTSTAMP:20231108T001908Z
 SUMMARY:[Raid Day] Mega Garchomp Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /mega-garchomp-raid-day-event/

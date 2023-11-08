@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:november-communitydayclassic2023
-DTSTAMP:20231107T001928Z
+DTSTAMP:20231108T001909Z
 SUMMARY:[Community Day] Mareep Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /november-communitydayclassic2023/

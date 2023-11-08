@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-11-07
-DTSTAMP:20231107T001928Z
+DTSTAMP:20231108T001908Z
 SUMMARY:[Pokémon Spotlight Hour] Chinchou Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-11-07/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-11-14
-DTSTAMP:20231107T001928Z
+DTSTAMP:20231108T001908Z
 SUMMARY:[Pokémon Spotlight Hour] Buneary Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-11-14/
@@ -43,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-11-21
-DTSTAMP:20231107T001928Z
+DTSTAMP:20231108T001909Z
 SUMMARY:[Pokémon Spotlight Hour] Dunsparce Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-11-21/
@@ -59,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-11-28
-DTSTAMP:20231107T001928Z
+DTSTAMP:20231108T001909Z
 SUMMARY:[Pokémon Spotlight Hour] Lechonk Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-11-28/

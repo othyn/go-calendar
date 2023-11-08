@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-litwick-2023-11-07
-DTSTAMP:20231107T001928Z
+DTSTAMP:20231108T001908Z
 SUMMARY:[PokéStop Showcase] Litwick PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-litwick-2023-11-07/
@@ -26,12 +26,12 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:pokemon-showcase-unannounced-2023-11-12
-DTSTAMP:20231107T001928Z
-SUMMARY:[PokéStop Showcase] Unannounced PokéStop Showcases
+UID:pokemon-showcase-tadbulb-2023-11-12
+DTSTAMP:20231108T001908Z
+SUMMARY:[PokéStop Showcase] Tadbulb PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-unannounced-2023-11-12/
-URL:https://leekduck.com/events/pokemon-showcase-unannounced-2023-11-12/
+ /pokemon-showcase-tadbulb-2023-11-12/
+URL:https://leekduck.com/events/pokemon-showcase-tadbulb-2023-11-12/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
  efault.jpg
 DTSTART:20231111T100000
@@ -43,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-gothita-mareanie-2023-11-15
-DTSTAMP:20231107T001928Z
+DTSTAMP:20231108T001908Z
 SUMMARY:[PokéStop Showcase] Gothita and Mareanie PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-gothita-mareanie-2023-11-15/
@@ -60,7 +60,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-sprigatito-fuecoco-quaxly-2023-11-22
-DTSTAMP:20231107T001928Z
+DTSTAMP:20231108T001909Z
 SUMMARY:[PokéStop Showcase] Sprigatito\, Fuecoco\, and Quaxly PokéStop Sh
  owcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -78,7 +78,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-mareep-ampharos-2023-11-25
-DTSTAMP:20231107T001928Z
+DTSTAMP:20231108T001909Z
 SUMMARY:[PokéStop Showcase] Mareep and Ampharos PokéStop Showcases
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-mareep-ampharos-2023-11-25/
@@ -95,7 +95,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-sprigatito-fuecoco-quaxly-2023-11-26
-DTSTAMP:20231107T001928Z
+DTSTAMP:20231108T001909Z
 SUMMARY:[PokéStop Showcase] Sprigatito\, Fuecoco\, and Quaxly PokéStop Sh
  owcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -113,7 +113,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-lechonk-2023-11-28
-DTSTAMP:20231107T001928Z
+DTSTAMP:20231108T001909Z
 SUMMARY:[PokéStop Showcase] Lechonk PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-lechonk-2023-11-28/
