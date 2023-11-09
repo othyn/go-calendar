@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:festival-of-lights-2023
-DTSTAMP:20231108T001908Z
+DTSTAMP:20231109T002014Z
 SUMMARY:[Event] Festival of Lights
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /festival-of-lights-2023/
@@ -27,13 +27,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fashion-week-2023
-DTSTAMP:20231108T001909Z
+DTSTAMP:20231109T002014Z
 SUMMARY:[Event] Fashion Week
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /fashion-week-2023/
 URL:https://leekduck.com/events/fashion-week-2023/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/fashion-week-2023.jp
+ g
 DTSTART;VALUE=DATE:20231115
 DTEND;VALUE=DATE:20231119
 BEGIN:VALARM
@@ -43,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:party-up-event
-DTSTAMP:20231108T001909Z
+DTSTAMP:20231109T002014Z
 SUMMARY:[Event] Party Up!
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /party-up-event/
