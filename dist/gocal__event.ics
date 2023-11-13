@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:festival-of-lights-2023
-DTSTAMP:20231112T002100Z
+DTSTAMP:20231113T001955Z
 SUMMARY:[Event] Festival of Lights
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /festival-of-lights-2023/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fashion-week-2023
-DTSTAMP:20231112T002100Z
+DTSTAMP:20231113T001955Z
 SUMMARY:[Event] Fashion Week
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /fashion-week-2023/
@@ -43,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:party-up-event
-DTSTAMP:20231112T002100Z
+DTSTAMP:20231113T001955Z
 SUMMARY:[Event] Party Up!
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /party-up-event/
@@ -52,6 +52,102 @@ IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
  pg
 DTSTART;VALUE=DATE:20231122
 DTEND;VALUE=DATE:20231127
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:unannounced-december-3-season-17
+DTSTAMP:20231113T001955Z
+SUMMARY:[Event] Unannounced Event - December 3
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /unannounced-december-3-season-17/
+URL:https://leekduck.com/events/unannounced-december-3-season-17/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART:20231203T140000
+DTEND:20231203T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:unannounced-december-9-season-17
+DTSTAMP:20231113T001955Z
+SUMMARY:[Event] Unannounced Event - December 9
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /unannounced-december-9-season-17/
+URL:https://leekduck.com/events/unannounced-december-9-season-17/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART:20231209T140000
+DTEND:20231209T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:unannounced-december-23-season-17-copy
+DTSTAMP:20231113T001955Z
+SUMMARY:[Event] Unannounced Event - December 9
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /unannounced-december-23-season-17-copy/
+URL:https://leekduck.com/events/unannounced-december-23-season-17-copy/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART:20231209T140000
+DTEND:20231209T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:unannounced-january-14-season-17
+DTSTAMP:20231113T001955Z
+SUMMARY:[Event] Unannounced Event - January 14
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /unannounced-january-14-season-17/
+URL:https://leekduck.com/events/unannounced-january-14-season-17/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART:20240114T140000
+DTEND:20240114T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:unannounced-february-11-season-17
+DTSTAMP:20231113T001955Z
+SUMMARY:[Event] Unannounced Event - January 14
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /unannounced-february-11-season-17/
+URL:https://leekduck.com/events/unannounced-february-11-season-17/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART:20240114T140000
+DTEND:20240114T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:unannounced-january-27-28-season-17
+DTSTAMP:20231113T001955Z
+SUMMARY:[Event] Unannounced Event - January 27-28
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /unannounced-january-27-28-season-17/
+URL:https://leekduck.com/events/unannounced-january-27-28-season-17/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART:20240127T100000
+DTEND:20240128T200000
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M

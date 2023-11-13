@@ -10,73 +10,8 @@ X-WR-CALDESC:All Pokémon GO events\, in your local time\, auto-updated and
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:genesect-douse-drive-in-5-star-raid-battles-november-2023
-DTSTAMP:20231112T002100Z
-SUMMARY:[Raid Battles] Genesect with a Douse Drive in 5-star Raid Battles
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /genesect-douse-drive-in-5-star-raid-battles-november-2023/
-URL:https://leekduck.com/events/genesect-douse-drive-in-5-star-raid-battles
- -november-2023/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/genesect.jpg
-DTSTART;VALUE=DATE:20231103
-DTEND;VALUE=DATE:20231109
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:gbl-adventures_abound-great_league-electric_cup_great_league_edition
-DTSTAMP:20231112T002100Z
-SUMMARY:[GO Battle League] Great League and Electric Cup: Great League Edit
- ion | Adventures Abound
-DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /gbl-adventures_abound-great_league-electric_cup_great_league_edition/
-URL:https://leekduck.com/events/gbl-adventures_abound-great_league-electric
- _cup_great_league_edition/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattle-greatleague
- -key.jpg
-DTSTART;VALUE=DATE:20231103
-DTEND;VALUE=DATE:20231110
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pokemon-showcase-litwick-2023-11-07
-DTSTAMP:20231112T002100Z
-SUMMARY:[PokéStop Showcase] Litwick PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-litwick-2023-11-07/
-URL:https://leekduck.com/events/pokemon-showcase-litwick-2023-11-07/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
- efault.jpg
-DTSTART;VALUE=DATE:20231107
-DTEND;VALUE=DATE:20231110
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:mega-garchomp-raid-day-event
-DTSTAMP:20231112T002100Z
-SUMMARY:[Raid Day] Mega Garchomp Raid Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /mega-garchomp-raid-day-event/
-URL:https://leekduck.com/events/mega-garchomp-raid-day-event/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-garchomp.jpg
-DTSTART:20231111T140000
-DTEND:20231111T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:mega-houndoom-in-mega-raids-november-2023
-DTSTAMP:20231112T002100Z
+DTSTAMP:20231113T001955Z
 SUMMARY:[Raid Battles] Mega Houndoom in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-houndoom-in-mega-raids-november-2023/
@@ -91,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-tadbulb-2023-11-12
-DTSTAMP:20231112T002100Z
+DTSTAMP:20231113T001955Z
 SUMMARY:[PokéStop Showcase] Tadbulb PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-tadbulb-2023-11-12/
@@ -107,7 +42,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:festival-of-lights-2023
-DTSTAMP:20231112T002100Z
+DTSTAMP:20231113T001955Z
 SUMMARY:[Event] Festival of Lights
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /festival-of-lights-2023/
@@ -123,7 +58,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:amazon-prime-partner-research-adventures-abound
-DTSTAMP:20231112T002100Z
+DTSTAMP:20231113T001955Z
 SUMMARY:[Research] Limited-time Partner Research: Amazon Prime Gaming
 DESCRIPTION:Starts at 18:00\, ends at 17:59.\n\nhttps://leekduck.com/events
  /amazon-prime-partner-research-adventures-abound/
@@ -140,7 +75,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-11-14
-DTSTAMP:20231112T002100Z
+DTSTAMP:20231113T001955Z
 SUMMARY:[Pokémon Spotlight Hour] Buneary Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-11-14/
@@ -156,7 +91,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20231115
-DTSTAMP:20231112T002100Z
+DTSTAMP:20231113T001955Z
 SUMMARY:[Raid Hour] Virizion Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20231115/
@@ -171,7 +106,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-garchomp-in-mega-raids-november-2023
-DTSTAMP:20231112T002100Z
+DTSTAMP:20231113T001955Z
 SUMMARY:[Raid Battles] Mega Garchomp in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-garchomp-in-mega-raids-november-2023/
@@ -186,7 +121,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:virizion-in-5-star-raid-battles-november-2023
-DTSTAMP:20231112T002100Z
+DTSTAMP:20231113T001955Z
 SUMMARY:[Raid Battles] Virizion in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /virizion-in-5-star-raid-battles-november-2023/
@@ -202,7 +137,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-adventures_abound-ultra_league-electric_cup_great_league_edition
-DTSTAMP:20231112T002100Z
+DTSTAMP:20231113T001955Z
 SUMMARY:[GO Battle League] Ultra League and Electric Cup: Great League Edit
  ion | Adventures Abound
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -220,7 +155,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-gothita-mareanie-2023-11-15
-DTSTAMP:20231112T002100Z
+DTSTAMP:20231113T001955Z
 SUMMARY:[PokéStop Showcase] Gothita and Mareanie PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-gothita-mareanie-2023-11-15/
@@ -237,7 +172,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fashion-week-2023
-DTSTAMP:20231112T002100Z
+DTSTAMP:20231113T001955Z
 SUMMARY:[Event] Fashion Week
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /fashion-week-2023/
@@ -253,7 +188,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-11-21
-DTSTAMP:20231112T002100Z
+DTSTAMP:20231113T001955Z
 SUMMARY:[Pokémon Spotlight Hour] Dunsparce Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-11-21/
@@ -269,7 +204,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20231122
-DTSTAMP:20231112T002100Z
+DTSTAMP:20231113T001955Z
 SUMMARY:[Raid Hour] Cobalion Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20231122/
@@ -284,7 +219,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cobalion-in-5-star-raid-battles-november-2023
-DTSTAMP:20231112T002100Z
+DTSTAMP:20231113T001955Z
 SUMMARY:[Raid Battles] Cobalion in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /cobalion-in-5-star-raid-battles-november-2023/
@@ -301,7 +236,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-adventures_abound-catch_cup_adventures_abound_edition
-DTSTAMP:20231112T002100Z
+DTSTAMP:20231113T001955Z
 SUMMARY:[GO Battle League] Catch Cup: Adventures Abound Edition | Adventure
  s Abound
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -319,7 +254,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-sprigatito-fuecoco-quaxly-2023-11-22
-DTSTAMP:20231112T002100Z
+DTSTAMP:20231113T001955Z
 SUMMARY:[PokéStop Showcase] Sprigatito\, Fuecoco\, and Quaxly PokéStop Sh
  owcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -337,7 +272,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:november-communitydayclassic2023
-DTSTAMP:20231112T002100Z
+DTSTAMP:20231113T001955Z
 SUMMARY:[Community Day] Mareep Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /november-communitydayclassic2023/
@@ -353,7 +288,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-mareep-ampharos-2023-11-25
-DTSTAMP:20231112T002100Z
+DTSTAMP:20231113T001955Z
 SUMMARY:[PokéStop Showcase] Mareep and Ampharos PokéStop Showcases
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-mareep-ampharos-2023-11-25/
@@ -370,7 +305,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-articuno-in-shadow-raids-november-2023-copy
-DTSTAMP:20231112T002100Z
+DTSTAMP:20231113T001955Z
 SUMMARY:[Raid Battles] Shadow Articuno in Shadow Raids
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /shadow-articuno-in-shadow-raids-november-2023-copy/
@@ -387,7 +322,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-sprigatito-fuecoco-quaxly-2023-11-26
-DTSTAMP:20231112T002100Z
+DTSTAMP:20231113T001955Z
 SUMMARY:[PokéStop Showcase] Sprigatito\, Fuecoco\, and Quaxly PokéStop Sh
  owcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -405,7 +340,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:party-up-event
-DTSTAMP:20231112T002100Z
+DTSTAMP:20231113T001955Z
 SUMMARY:[Event] Party Up!
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /party-up-event/
@@ -421,7 +356,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-11-28
-DTSTAMP:20231112T002100Z
+DTSTAMP:20231113T001955Z
 SUMMARY:[Pokémon Spotlight Hour] Lechonk Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-11-28/
@@ -437,7 +372,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-lechonk-2023-11-28
-DTSTAMP:20231112T002100Z
+DTSTAMP:20231113T001955Z
 SUMMARY:[PokéStop Showcase] Lechonk PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-lechonk-2023-11-28/
@@ -453,7 +388,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20231129
-DTSTAMP:20231112T002100Z
+DTSTAMP:20231113T001955Z
 SUMMARY:[Raid Hour] Terrakion Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20231129/
@@ -468,7 +403,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-kangaskhan-in-mega-raids-november-2023
-DTSTAMP:20231112T002100Z
+DTSTAMP:20231113T001955Z
 SUMMARY:[Raid Battles] Mega Kangaskhan in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-kangaskhan-in-mega-raids-november-2023/
@@ -484,7 +419,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:terrakion-in-5-star-raid-battles-november-2023
-DTSTAMP:20231112T002100Z
+DTSTAMP:20231113T001955Z
 SUMMARY:[Raid Battles] Terrakion in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /terrakion-in-5-star-raid-battles-november-2023/
@@ -500,7 +435,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-12-adventures-abound
-DTSTAMP:20231112T002100Z
+DTSTAMP:20231113T001955Z
 SUMMARY:[Season] Adventures Abound
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-12-adventures-abound/
@@ -516,7 +451,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-12-adventures-abound-research-breakthrough
-DTSTAMP:20231112T002100Z
+DTSTAMP:20231113T001955Z
 SUMMARY:[Research Breakthrough] Adventures Abound Research Breakthrough
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /season-12-adventures-abound-research-breakthrough/
@@ -533,7 +468,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-adventures_abound-great_league-ultra_league-master-league-2
-DTSTAMP:20231112T002100Z
+DTSTAMP:20231113T001955Z
 SUMMARY:[GO Battle League] Great League\, Ultra League\, and Master League 
  | Adventures Abound
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -544,6 +479,162 @@ IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-sea
  son-16-adventures-abound.jpg
 DTSTART;VALUE=DATE:20231124
 DTEND;VALUE=DATE:20231201
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:unannounced-december-3-season-17
+DTSTAMP:20231113T001955Z
+SUMMARY:[Event] Unannounced Event - December 3
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /unannounced-december-3-season-17/
+URL:https://leekduck.com/events/unannounced-december-3-season-17/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART:20231203T140000
+DTEND:20231203T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:unannounced-december-9-season-17
+DTSTAMP:20231113T001955Z
+SUMMARY:[Event] Unannounced Event - December 9
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /unannounced-december-9-season-17/
+URL:https://leekduck.com/events/unannounced-december-9-season-17/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART:20231209T140000
+DTEND:20231209T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:unannounced-december-23-season-17-copy
+DTSTAMP:20231113T001955Z
+SUMMARY:[Event] Unannounced Event - December 9
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /unannounced-december-23-season-17-copy/
+URL:https://leekduck.com/events/unannounced-december-23-season-17-copy/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART:20231209T140000
+DTEND:20231209T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:december-communityday2023
+DTSTAMP:20231113T001955Z
+SUMMARY:[Community Day] December Community Day
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /december-communityday2023/
+URL:https://leekduck.com/events/december-communityday2023/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
+DTSTART:20231216T100000
+DTEND:20231217T200000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:january-communityday2024
+DTSTAMP:20231113T001955Z
+SUMMARY:[Community Day] January Community Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /january-communityday2024/
+URL:https://leekduck.com/events/january-communityday2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
+DTSTART:20240106T140000
+DTEND:20240106T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:unannounced-january-14-season-17
+DTSTAMP:20231113T001955Z
+SUMMARY:[Event] Unannounced Event - January 14
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /unannounced-january-14-season-17/
+URL:https://leekduck.com/events/unannounced-january-14-season-17/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART:20240114T140000
+DTEND:20240114T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:unannounced-february-11-season-17
+DTSTAMP:20231113T001955Z
+SUMMARY:[Event] Unannounced Event - January 14
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /unannounced-february-11-season-17/
+URL:https://leekduck.com/events/unannounced-february-11-season-17/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART:20240114T140000
+DTEND:20240114T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:january-communitydayclassic2024
+DTSTAMP:20231113T001955Z
+SUMMARY:[Community Day] January Community Day Classic
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /january-communitydayclassic2024/
+URL:https://leekduck.com/events/january-communitydayclassic2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
+DTSTART:20240120T140000
+DTEND:20240120T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:unannounced-january-27-28-season-17
+DTSTAMP:20231113T001955Z
+SUMMARY:[Event] Unannounced Event - January 27-28
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /unannounced-january-27-28-season-17/
+URL:https://leekduck.com/events/unannounced-january-27-28-season-17/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART:20240127T100000
+DTEND:20240128T200000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:february-communityday2024
+DTSTAMP:20231113T001955Z
+SUMMARY:[Community Day] February Community Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /february-communityday2024/
+URL:https://leekduck.com/events/february-communityday2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
+DTSTART:20240204T140000
+DTEND:20240204T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
