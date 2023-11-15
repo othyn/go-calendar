@@ -10,23 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Battles events\, in your local time\, aut
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:mega-houndoom-in-mega-raids-november-2023
-DTSTAMP:20231114T001926Z
-SUMMARY:[Raid Battles] Mega Houndoom in Mega Raids
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /mega-houndoom-in-mega-raids-november-2023/
-URL:https://leekduck.com/events/mega-houndoom-in-mega-raids-november-2023/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;VALUE=DATE:20231102
-DTEND;VALUE=DATE:20231112
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:mega-garchomp-in-mega-raids-november-2023
-DTSTAMP:20231114T001926Z
+DTSTAMP:20231115T001929Z
 SUMMARY:[Raid Battles] Mega Garchomp in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-garchomp-in-mega-raids-november-2023/
@@ -41,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:virizion-in-5-star-raid-battles-november-2023
-DTSTAMP:20231114T001926Z
+DTSTAMP:20231115T001929Z
 SUMMARY:[Raid Battles] Virizion in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /virizion-in-5-star-raid-battles-november-2023/
@@ -57,7 +42,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cobalion-in-5-star-raid-battles-november-2023
-DTSTAMP:20231114T001926Z
+DTSTAMP:20231115T001929Z
 SUMMARY:[Raid Battles] Cobalion in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /cobalion-in-5-star-raid-battles-november-2023/
@@ -74,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-articuno-in-shadow-raids-november-2023-copy
-DTSTAMP:20231114T001926Z
+DTSTAMP:20231115T001929Z
 SUMMARY:[Raid Battles] Shadow Articuno in Shadow Raids
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /shadow-articuno-in-shadow-raids-november-2023-copy/
@@ -91,7 +76,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-kangaskhan-in-mega-raids-november-2023
-DTSTAMP:20231114T001926Z
+DTSTAMP:20231115T001929Z
 SUMMARY:[Raid Battles] Mega Kangaskhan in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-kangaskhan-in-mega-raids-november-2023/
@@ -107,7 +92,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:terrakion-in-5-star-raid-battles-november-2023
-DTSTAMP:20231114T001926Z
+DTSTAMP:20231115T001929Z
 SUMMARY:[Raid Battles] Terrakion in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /terrakion-in-5-star-raid-battles-november-2023/
