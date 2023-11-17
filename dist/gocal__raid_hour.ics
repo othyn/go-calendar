@@ -10,23 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Hour events\, in your local time\, auto-u
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:raidhour20231115
-DTSTAMP:20231116T001951Z
-SUMMARY:[Raid Hour] Virizion Raid Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /raidhour20231115/
-URL:https://leekduck.com/events/raidhour20231115/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
-DTSTART:20231115T180000
-DTEND:20231115T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raidhour20231122
-DTSTAMP:20231116T001951Z
+DTSTAMP:20231117T001938Z
 SUMMARY:[Raid Hour] Cobalion Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20231122/
@@ -41,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20231129
-DTSTAMP:20231116T001951Z
+DTSTAMP:20231117T001938Z
 SUMMARY:[Raid Hour] Terrakion Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20231129/
