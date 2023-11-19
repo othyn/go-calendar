@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:fashion-week-2023
-DTSTAMP:20231118T001926Z
+DTSTAMP:20231119T002129Z
 SUMMARY:[Event] Fashion Week
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /fashion-week-2023/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:party-up-event
-DTSTAMP:20231118T001926Z
+DTSTAMP:20231119T002129Z
 SUMMARY:[Event] Party Up!
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /party-up-event/
@@ -42,7 +42,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-december-3-season-17
-DTSTAMP:20231118T001926Z
+DTSTAMP:20231119T002129Z
 SUMMARY:[Event] Unannounced Event - December 3
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-december-3-season-17/
@@ -58,7 +58,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-december-9-season-17
-DTSTAMP:20231118T001926Z
+DTSTAMP:20231119T002129Z
 SUMMARY:[Event] Unannounced Event - December 9
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-december-9-season-17/
@@ -74,7 +74,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-december-23-season-17-copy
-DTSTAMP:20231118T001926Z
+DTSTAMP:20231119T002129Z
 SUMMARY:[Event] Unannounced Event - December 9
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-december-23-season-17-copy/
@@ -90,7 +90,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-january-14-season-17
-DTSTAMP:20231118T001926Z
+DTSTAMP:20231119T002129Z
 SUMMARY:[Event] Unannounced Event - January 14
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-january-14-season-17/
@@ -106,7 +106,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-february-11-season-17
-DTSTAMP:20231118T001926Z
+DTSTAMP:20231119T002129Z
 SUMMARY:[Event] Unannounced Event - January 14
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-february-11-season-17/
@@ -122,7 +122,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-january-27-28-season-17
-DTSTAMP:20231118T001926Z
+DTSTAMP:20231119T002129Z
 SUMMARY:[Event] Unannounced Event - January 27-28
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /unannounced-january-27-28-season-17/
