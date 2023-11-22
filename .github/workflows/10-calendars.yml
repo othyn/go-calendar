@@ -2,7 +2,7 @@ name: Generate Calendars
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: '0 0 * * *'
 
   push:
     branches:
@@ -19,7 +19,7 @@ jobs:
   build:
     name: Generate Calendars
     runs-on: ubuntu-latest
-    timeout-minutes: 2
+    timeout-minutes: 5
 
     steps:
       - name: Checkout code

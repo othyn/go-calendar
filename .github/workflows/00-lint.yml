@@ -17,7 +17,7 @@ jobs:
   lint:
     name: Lint
     runs-on: ubuntu-latest
-    timeout-minutes: 2
+    timeout-minutes: 5
 
     steps:
       - name: Checkout code
@@ -43,5 +43,5 @@ jobs:
       - name: Commit any changes back to the repo
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "[GitHub Actions Bot: Linting]"
+          commit_message: '[GitHub Actions Bot: Linting]'
           commit_author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>

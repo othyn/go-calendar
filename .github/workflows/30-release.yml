@@ -2,7 +2,7 @@ name: Automated Release
 
 on:
   workflow_run:
-    workflows: ["Deploy Site"]
+    workflows: ['Deploy Site']
     branches: [main]
     types:
       - completed
@@ -18,7 +18,7 @@ jobs:
   build:
     name: Automated Release
     runs-on: ubuntu-latest
-    timeout-minutes: 2
+    timeout-minutes: 5
     if: ${{ github.event.workflow_run.conclusion == 'success' }}
 
     steps:
@@ -43,4 +43,4 @@ jobs:
           tag_name: ${{ steps.version.outputs.v-version }}
           files: dist/*
           fail_on_unmatched_files: true
-          body: "🕒 This release was [automatically generated and released](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}) at ${{ steps.date.outputs.date }}."
+          body: '🕒 This release was [automatically generated and released](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}) at ${{ steps.date.outputs.date }}.'

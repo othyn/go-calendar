@@ -2,7 +2,7 @@ name: Deploy Site
 
 on:
   workflow_run:
-    workflows: ["Generate Calendars"]
+    workflows: ['Generate Calendars']
     branches: [main]
     types:
       - completed
@@ -24,7 +24,7 @@ jobs:
   deploy:
     name: Deploy Site
     runs-on: ubuntu-latest
-    timeout-minutes: 2
+    timeout-minutes: 5
     if: ${{ github.event.workflow_run.conclusion == 'success' }}
 
     environment:
@@ -55,7 +55,7 @@ jobs:
       - name: Commit any changes back to the repo
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "[GitHub Actions Bot: Publish Site Update]"
+          commit_message: '[GitHub Actions Bot: Publish Site Update]'
           commit_author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
 
       - name: Setup Pages
@@ -64,7 +64,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          path: "./pages/dist"
+          path: './pages/dist'
 
       - name: Deploy to GitHub Pages
         id: deployment
