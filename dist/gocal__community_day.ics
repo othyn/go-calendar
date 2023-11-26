@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:november-communitydayclassic2023
-DTSTAMP:20231125T001901Z
+DTSTAMP:20231126T002133Z
 SUMMARY:[Community Day] Mareep Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /november-communitydayclassic2023/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:december-communityday2023
-DTSTAMP:20231125T001901Z
+DTSTAMP:20231126T002133Z
 SUMMARY:[Community Day] December Community Day
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /december-communityday2023/
@@ -42,7 +42,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:january-communityday2024
-DTSTAMP:20231125T001901Z
+DTSTAMP:20231126T002133Z
 SUMMARY:[Community Day] January Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /january-communityday2024/
@@ -57,7 +57,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:january-communitydayclassic2024
-DTSTAMP:20231125T001901Z
+DTSTAMP:20231126T002133Z
 SUMMARY:[Community Day] January Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /january-communitydayclassic2024/
@@ -72,7 +72,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:february-communityday2024
-DTSTAMP:20231125T001901Z
+DTSTAMP:20231126T002133Z
 SUMMARY:[Community Day] February Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /february-communityday2024/
