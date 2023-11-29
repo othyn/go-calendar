@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:mega-kangaskhan-in-mega-raids-november-2023
-DTSTAMP:20231128T002002Z
+DTSTAMP:20231129T002012Z
 SUMMARY:[Raid Battles] Mega Kangaskhan in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-kangaskhan-in-mega-raids-november-2023/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:terrakion-in-5-star-raid-battles-november-2023
-DTSTAMP:20231128T002002Z
+DTSTAMP:20231129T002012Z
 SUMMARY:[Raid Battles] Terrakion in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /terrakion-in-5-star-raid-battles-november-2023/

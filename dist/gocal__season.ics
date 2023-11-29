@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:season-12-adventures-abound
-DTSTAMP:20231128T002002Z
+DTSTAMP:20231129T002012Z
 SUMMARY:[Season] Adventures Abound
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-12-adventures-abound/
@@ -20,6 +20,22 @@ IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/season-12-adventures
  -abound-2.jpg
 DTSTART;VALUE=DATE:20230901
 DTEND;VALUE=DATE:20231201
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:season-13-timeless-travels
+DTSTAMP:20231129T002012Z
+SUMMARY:[Season] Timeless Travels
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /season-13-timeless-travels/
+URL:https://leekduck.com/events/season-13-timeless-travels/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/season-13-timeless-t
+ ravels.jpg
+DTSTART;VALUE=DATE:20231201
+DTEND;VALUE=DATE:20240301
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M

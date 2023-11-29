@@ -10,29 +10,14 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:party-up-event
-DTSTAMP:20231128T002002Z
-SUMMARY:[Event] Party Up!
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /party-up-event/
-URL:https://leekduck.com/events/party-up-event/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/party-up-event.jpg
-DTSTART;VALUE=DATE:20231122
-DTEND;VALUE=DATE:20231127
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:unannounced-december-3-season-17
-DTSTAMP:20231128T002002Z
-SUMMARY:[Event] Unannounced Event - December 3
+UID:hisuian-samurott-raid-day
+DTSTAMP:20231129T002012Z
+SUMMARY:[Event] Hisuian Samurott Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /unannounced-december-3-season-17/
-URL:https://leekduck.com/events/unannounced-december-3-season-17/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+ /hisuian-samurott-raid-day/
+URL:https://leekduck.com/events/hisuian-samurott-raid-day/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/hisuian-samurott-rai
+ d-day.jpg
 DTSTART:20231203T140000
 DTEND:20231203T170000
 BEGIN:VALARM
@@ -42,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-december-9-season-17
-DTSTAMP:20231128T002002Z
+DTSTAMP:20231129T002012Z
 SUMMARY:[Event] Unannounced Event - December 9
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-december-9-season-17/
@@ -58,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-december-23-season-17
-DTSTAMP:20231128T002002Z
+DTSTAMP:20231129T002012Z
 SUMMARY:[Event] Unannounced Event - December 23
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-december-23-season-17/
@@ -74,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-january-14-season-17
-DTSTAMP:20231128T002002Z
+DTSTAMP:20231129T002012Z
 SUMMARY:[Event] Unannounced Event - January 14
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-january-14-season-17/
@@ -90,7 +75,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-january-27-28-season-17
-DTSTAMP:20231128T002002Z
+DTSTAMP:20231129T002012Z
 SUMMARY:[Event] Unannounced Event - January 27-28
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /unannounced-january-27-28-season-17/
@@ -106,7 +91,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-february-11-season-17
-DTSTAMP:20231128T002002Z
+DTSTAMP:20231129T002012Z
 SUMMARY:[Event] Unannounced Event - February 11
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-february-11-season-17/

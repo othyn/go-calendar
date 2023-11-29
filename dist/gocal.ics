@@ -10,41 +10,8 @@ X-WR-CALDESC:All Pokémon GO events\, in your local time\, auto-updated and
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-sprigatito-fuecoco-quaxly-2023-11-26
-DTSTAMP:20231128T002002Z
-SUMMARY:[PokéStop Showcase] Sprigatito\, Fuecoco\, and Quaxly PokéStop Sh
- owcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-sprigatito-fuecoco-quaxly-2023-11-26/
-URL:https://leekduck.com/events/pokemon-showcase-sprigatito-fuecoco-quaxly-
- 2023-11-26/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
- efault.jpg
-DTSTART:20231126T100000
-DTEND:20231127T200000
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:party-up-event
-DTSTAMP:20231128T002002Z
-SUMMARY:[Event] Party Up!
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /party-up-event/
-URL:https://leekduck.com/events/party-up-event/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/party-up-event.jpg
-DTSTART;VALUE=DATE:20231122
-DTEND;VALUE=DATE:20231127
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemonspotlighthour2023-11-28
-DTSTAMP:20231128T002002Z
+DTSTAMP:20231129T002012Z
 SUMMARY:[Pokémon Spotlight Hour] Lechonk Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-11-28/
@@ -60,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-lechonk-2023-11-28
-DTSTAMP:20231128T002002Z
+DTSTAMP:20231129T002012Z
 SUMMARY:[PokéStop Showcase] Lechonk PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-lechonk-2023-11-28/
@@ -76,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20231129
-DTSTAMP:20231128T002002Z
+DTSTAMP:20231129T002012Z
 SUMMARY:[Raid Hour] Terrakion Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20231129/
@@ -91,7 +58,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-kangaskhan-in-mega-raids-november-2023
-DTSTAMP:20231128T002002Z
+DTSTAMP:20231129T002012Z
 SUMMARY:[Raid Battles] Mega Kangaskhan in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-kangaskhan-in-mega-raids-november-2023/
@@ -107,7 +74,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:terrakion-in-5-star-raid-battles-november-2023
-DTSTAMP:20231128T002002Z
+DTSTAMP:20231129T002012Z
 SUMMARY:[Raid Battles] Terrakion in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /terrakion-in-5-star-raid-battles-november-2023/
@@ -123,7 +90,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-12-adventures-abound
-DTSTAMP:20231128T002002Z
+DTSTAMP:20231129T002012Z
 SUMMARY:[Season] Adventures Abound
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-12-adventures-abound/
@@ -139,7 +106,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-12-adventures-abound-research-breakthrough
-DTSTAMP:20231128T002002Z
+DTSTAMP:20231129T002012Z
 SUMMARY:[Research Breakthrough] Adventures Abound Research Breakthrough
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /season-12-adventures-abound-research-breakthrough/
@@ -156,7 +123,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-adventures_abound-great_league-ultra_league-master-league-2
-DTSTAMP:20231128T002002Z
+DTSTAMP:20231129T002012Z
 SUMMARY:[GO Battle League] Great League\, Ultra League\, and Master League 
  | Adventures Abound
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -173,14 +140,14 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:unannounced-december-3-season-17
-DTSTAMP:20231128T002002Z
-SUMMARY:[Event] Unannounced Event - December 3
+UID:hisuian-samurott-raid-day
+DTSTAMP:20231129T002012Z
+SUMMARY:[Event] Hisuian Samurott Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /unannounced-december-3-season-17/
-URL:https://leekduck.com/events/unannounced-december-3-season-17/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+ /hisuian-samurott-raid-day/
+URL:https://leekduck.com/events/hisuian-samurott-raid-day/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/hisuian-samurott-rai
+ d-day.jpg
 DTSTART:20231203T140000
 DTEND:20231203T170000
 BEGIN:VALARM
@@ -190,7 +157,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-december-9-season-17
-DTSTAMP:20231128T002002Z
+DTSTAMP:20231129T002012Z
 SUMMARY:[Event] Unannounced Event - December 9
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-december-9-season-17/
@@ -206,14 +173,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:december-communityday2023
-DTSTAMP:20231128T002002Z
+DTSTAMP:20231129T002012Z
 SUMMARY:[Community Day] December Community Day
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+DESCRIPTION:Starts at 09:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /december-communityday2023/
 URL:https://leekduck.com/events/december-communityday2023/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
-DTSTART:20231216T100000
-DTEND:20231217T200000
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-2023-12-december-
+ recap.jpg
+DTSTART:20231216T090000
+DTEND:20231217T210000
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
@@ -221,7 +189,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-december-23-season-17
-DTSTAMP:20231128T002002Z
+DTSTAMP:20231129T002012Z
 SUMMARY:[Event] Unannounced Event - December 23
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-december-23-season-17/
@@ -237,7 +205,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:january-communityday2024
-DTSTAMP:20231128T002002Z
+DTSTAMP:20231129T002012Z
 SUMMARY:[Community Day] January Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /january-communityday2024/
@@ -252,7 +220,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-january-14-season-17
-DTSTAMP:20231128T002002Z
+DTSTAMP:20231129T002012Z
 SUMMARY:[Event] Unannounced Event - January 14
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-january-14-season-17/
@@ -268,7 +236,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:january-communitydayclassic2024
-DTSTAMP:20231128T002002Z
+DTSTAMP:20231129T002012Z
 SUMMARY:[Community Day] January Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /january-communitydayclassic2024/
@@ -283,7 +251,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-january-27-28-season-17
-DTSTAMP:20231128T002002Z
+DTSTAMP:20231129T002012Z
 SUMMARY:[Event] Unannounced Event - January 27-28
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /unannounced-january-27-28-season-17/
@@ -299,7 +267,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:february-communityday2024
-DTSTAMP:20231128T002002Z
+DTSTAMP:20231129T002012Z
 SUMMARY:[Community Day] February Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /february-communityday2024/
@@ -314,7 +282,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-february-11-season-17
-DTSTAMP:20231128T002002Z
+DTSTAMP:20231129T002012Z
 SUMMARY:[Event] Unannounced Event - February 11
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-february-11-season-17/
@@ -323,6 +291,38 @@ IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
  pg
 DTSTART:20240211T140000
 DTEND:20240211T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:season-13-timeless-travels
+DTSTAMP:20231129T002012Z
+SUMMARY:[Season] Timeless Travels
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /season-13-timeless-travels/
+URL:https://leekduck.com/events/season-13-timeless-travels/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/season-13-timeless-t
+ ravels.jpg
+DTSTART;VALUE=DATE:20231201
+DTEND;VALUE=DATE:20240301
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:season-13-timeless-travels-research-breakthrough
+DTSTAMP:20231129T002012Z
+SUMMARY:[Research Breakthrough] Timeless Travels Research Breakthrough
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /season-13-timeless-travels-research-breakthrough/
+URL:https://leekduck.com/events/season-13-timeless-travels-research-breakth
+ rough/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/researchWinter.jpg
+DTSTART;VALUE=DATE:20231201
+DTEND;VALUE=DATE:20240301
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
