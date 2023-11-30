@@ -19,7 +19,7 @@ jobs:
   build:
     name: Generate Calendars
     runs-on: ubuntu-latest
-    timeout-minutes: 1
+    timeout-minutes: 2
 
     steps:
       - name: Checkout code
