@@ -10,15 +10,32 @@ X-WR-CALDESC:All Pokémon GO Raid Day events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:mega-garchomp-raid-day-event
-DTSTAMP:20231112T002100Z
-SUMMARY:[Raid Day] Mega Garchomp Raid Day
+UID:hisuian-samurott-raid-day
+DTSTAMP:20231130T002054Z
+SUMMARY:[Raid Day] Hisuian Samurott Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /mega-garchomp-raid-day-event/
-URL:https://leekduck.com/events/mega-garchomp-raid-day-event/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-garchomp.jpg
-DTSTART:20231111T140000
-DTEND:20231111T170000
+ /hisuian-samurott-raid-day/
+URL:https://leekduck.com/events/hisuian-samurott-raid-day/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/hisuian-samurott-rai
+ d-day.jpg
+DTSTART:20231203T140000
+DTEND:20231203T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raid-day-wyrdeer
+DTSTAMP:20231130T002054Z
+SUMMARY:[Raid Day] Raid Day: Wyrdeer
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /raid-day-wyrdeer/
+URL:https://leekduck.com/events/raid-day-wyrdeer/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART:20231223T140000
+DTEND:20231223T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M

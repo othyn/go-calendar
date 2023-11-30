@@ -10,28 +10,28 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:hisuian-samurott-raid-day
-DTSTAMP:20231129T002012Z
-SUMMARY:[Event] Hisuian Samurott Raid Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /hisuian-samurott-raid-day/
-URL:https://leekduck.com/events/hisuian-samurott-raid-day/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/hisuian-samurott-rai
- d-day.jpg
-DTSTART:20231203T140000
-DTEND:20231203T170000
+UID:along-the-routes
+DTSTAMP:20231130T002054Z
+SUMMARY:[Event] Along the Routes
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /along-the-routes/
+URL:https://leekduck.com/events/along-the-routes/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART;VALUE=DATE:20231205
+DTEND;VALUE=DATE:20231208
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:unannounced-december-9-season-17
-DTSTAMP:20231129T002012Z
-SUMMARY:[Event] Unannounced Event - December 9
+UID:catch-mastery-ice
+DTSTAMP:20231130T002054Z
+SUMMARY:[Event] Catch Mastery: Ice
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /unannounced-december-9-season-17/
-URL:https://leekduck.com/events/unannounced-december-9-season-17/
+ /catch-mastery-ice/
+URL:https://leekduck.com/events/catch-mastery-ice/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
  pg
 DTSTART:20231209T140000
@@ -42,16 +42,64 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:unannounced-december-23-season-17
-DTSTAMP:20231129T002012Z
-SUMMARY:[Event] Unannounced Event - December 23
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /unannounced-december-23-season-17/
-URL:https://leekduck.com/events/unannounced-december-23-season-17/
+UID:adamant-time
+DTSTAMP:20231130T002054Z
+SUMMARY:[Event] Adamant Time
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /adamant-time/
+URL:https://leekduck.com/events/adamant-time/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
  pg
-DTSTART:20231223T140000
-DTEND:20231223T170000
+DTSTART;VALUE=DATE:20231211
+DTEND;VALUE=DATE:20231215
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:winter-wonderland-2023
+DTSTAMP:20231130T002054Z
+SUMMARY:[Event] Winter Wonderland
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /winter-wonderland-2023/
+URL:https://leekduck.com/events/winter-wonderland-2023/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART:20231223T100000
+DTEND:20231224T200000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:winter-holiday-2023-part-1
+DTSTAMP:20231130T002054Z
+SUMMARY:[Event] Winter Holiday: Part 1
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /winter-holiday-2023-part-1/
+URL:https://leekduck.com/events/winter-holiday-2023-part-1/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART;VALUE=DATE:20231218
+DTEND;VALUE=DATE:20231225
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:winter-holiday-2023-part-2
+DTSTAMP:20231130T002054Z
+SUMMARY:[Event] Winter Holiday: Part 2
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /winter-holiday-2023-part-2/
+URL:https://leekduck.com/events/winter-holiday-2023-part-2/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART;VALUE=DATE:20231225
+DTEND;VALUE=DATE:20231231
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
@@ -59,7 +107,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-january-14-season-17
-DTSTAMP:20231129T002012Z
+DTSTAMP:20231130T002054Z
 SUMMARY:[Event] Unannounced Event - January 14
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-january-14-season-17/
@@ -75,7 +123,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-january-27-28-season-17
-DTSTAMP:20231129T002012Z
+DTSTAMP:20231130T002054Z
 SUMMARY:[Event] Unannounced Event - January 27-28
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /unannounced-january-27-28-season-17/
@@ -91,7 +139,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-february-11-season-17
-DTSTAMP:20231129T002012Z
+DTSTAMP:20231130T002054Z
 SUMMARY:[Event] Unannounced Event - February 11
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-february-11-season-17/

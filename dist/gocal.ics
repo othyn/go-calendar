@@ -10,40 +10,8 @@ X-WR-CALDESC:All Pokémon GO events\, in your local time\, auto-updated and
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemonspotlighthour2023-11-28
-DTSTAMP:20231129T002012Z
-SUMMARY:[Pokémon Spotlight Hour] Lechonk Spotlight Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2023-11-28/
-URL:https://leekduck.com/events/pokemonspotlighthour2023-11-28/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
- .jpg
-DTSTART:20231128T180000
-DTEND:20231128T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pokemon-showcase-lechonk-2023-11-28
-DTSTAMP:20231129T002012Z
-SUMMARY:[PokéStop Showcase] Lechonk PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-lechonk-2023-11-28/
-URL:https://leekduck.com/events/pokemon-showcase-lechonk-2023-11-28/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
- efault.jpg
-DTSTART:20231128T100000
-DTEND:20231128T200000
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raidhour20231129
-DTSTAMP:20231129T002012Z
+DTSTAMP:20231130T002054Z
 SUMMARY:[Raid Hour] Terrakion Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20231129/
@@ -58,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-kangaskhan-in-mega-raids-november-2023
-DTSTAMP:20231129T002012Z
+DTSTAMP:20231130T002054Z
 SUMMARY:[Raid Battles] Mega Kangaskhan in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-kangaskhan-in-mega-raids-november-2023/
@@ -74,7 +42,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:terrakion-in-5-star-raid-battles-november-2023
-DTSTAMP:20231129T002012Z
+DTSTAMP:20231130T002054Z
 SUMMARY:[Raid Battles] Terrakion in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /terrakion-in-5-star-raid-battles-november-2023/
@@ -90,7 +58,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-12-adventures-abound
-DTSTAMP:20231129T002012Z
+DTSTAMP:20231130T002054Z
 SUMMARY:[Season] Adventures Abound
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-12-adventures-abound/
@@ -106,7 +74,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-12-adventures-abound-research-breakthrough
-DTSTAMP:20231129T002012Z
+DTSTAMP:20231130T002054Z
 SUMMARY:[Research Breakthrough] Adventures Abound Research Breakthrough
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /season-12-adventures-abound-research-breakthrough/
@@ -123,7 +91,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-adventures_abound-great_league-ultra_league-master-league-2
-DTSTAMP:20231129T002012Z
+DTSTAMP:20231130T002054Z
 SUMMARY:[GO Battle League] Great League\, Ultra League\, and Master League 
  | Adventures Abound
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -141,8 +109,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hisuian-samurott-raid-day
-DTSTAMP:20231129T002012Z
-SUMMARY:[Event] Hisuian Samurott Raid Day
+DTSTAMP:20231130T002054Z
+SUMMARY:[Raid Day] Hisuian Samurott Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hisuian-samurott-raid-day/
 URL:https://leekduck.com/events/hisuian-samurott-raid-day/
@@ -156,12 +124,90 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:unannounced-december-9-season-17
-DTSTAMP:20231129T002012Z
-SUMMARY:[Event] Unannounced Event - December 9
+UID:pokemonspotlighthour2023-12-05
+DTSTAMP:20231130T002054Z
+SUMMARY:[Pokémon Spotlight Hour] Feebas Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2023-12-05/
+URL:https://leekduck.com/events/pokemonspotlighthour2023-12-05/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20231205T180000
+DTEND:20231205T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20231106
+DTSTAMP:20231130T002054Z
+SUMMARY:[Raid Hour] Reshiram Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20231106/
+URL:https://leekduck.com/events/raidhour20231106/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20231206T180000
+DTEND:20231206T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:along-the-routes
+DTSTAMP:20231130T002054Z
+SUMMARY:[Event] Along the Routes
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /along-the-routes/
+URL:https://leekduck.com/events/along-the-routes/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART;VALUE=DATE:20231205
+DTEND;VALUE=DATE:20231208
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-scizor-in-mega-raids-december-2023
+DTSTAMP:20231130T002054Z
+SUMMARY:[Raid Battles] Mega Scizor in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-scizor-in-mega-raids-december-2023/
+URL:https://leekduck.com/events/mega-scizor-in-mega-raids-december-2023/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20231201
+DTEND;VALUE=DATE:20231209
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:reshiram-in-5-star-raid-battles-december-2023
+DTSTAMP:20231130T002054Z
+SUMMARY:[Raid Battles] Reshiram in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /reshiram-in-5-star-raid-battles-december-2023/
+URL:https://leekduck.com/events/reshiram-in-5-star-raid-battles-december-20
+ 23/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/reshiram.jpg
+DTSTART;VALUE=DATE:20231201
+DTEND;VALUE=DATE:20231209
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:catch-mastery-ice
+DTSTAMP:20231130T002054Z
+SUMMARY:[Event] Catch Mastery: Ice
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /unannounced-december-9-season-17/
-URL:https://leekduck.com/events/unannounced-december-9-season-17/
+ /catch-mastery-ice/
+URL:https://leekduck.com/events/catch-mastery-ice/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
  pg
 DTSTART:20231209T140000
@@ -172,8 +218,86 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemonspotlighthour2023-12-12
+DTSTAMP:20231130T002054Z
+SUMMARY:[Pokémon Spotlight Hour] Seel Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2023-12-12/
+URL:https://leekduck.com/events/pokemonspotlighthour2023-12-12/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20231212T180000
+DTEND:20231212T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20231113
+DTSTAMP:20231130T002054Z
+SUMMARY:[Raid Hour] Zekrom Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20231113/
+URL:https://leekduck.com/events/raidhour20231113/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20231213T180000
+DTEND:20231213T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:adamant-time
+DTSTAMP:20231130T002054Z
+SUMMARY:[Event] Adamant Time
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /adamant-time/
+URL:https://leekduck.com/events/adamant-time/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART;VALUE=DATE:20231211
+DTEND;VALUE=DATE:20231215
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-altaria-in-mega-raids-december-2023
+DTSTAMP:20231130T002054Z
+SUMMARY:[Raid Battles] Mega Altaria in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-altaria-in-mega-raids-december-2023/
+URL:https://leekduck.com/events/mega-altaria-in-mega-raids-december-2023/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20231209
+DTEND;VALUE=DATE:20231216
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:zekrom-in-5-star-raid-battles-december-2023
+DTSTAMP:20231130T002054Z
+SUMMARY:[Raid Battles] Zekrom in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /zekrom-in-5-star-raid-battles-december-2023/
+URL:https://leekduck.com/events/zekrom-in-5-star-raid-battles-december-2023
+ /
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/zekrom2.jpg
+DTSTART;VALUE=DATE:20231209
+DTEND;VALUE=DATE:20231216
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:december-communityday2023
-DTSTAMP:20231129T002012Z
+DTSTAMP:20231130T002054Z
 SUMMARY:[Community Day] December Community Day
 DESCRIPTION:Starts at 09:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /december-communityday2023/
@@ -188,12 +312,74 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:unannounced-december-23-season-17
-DTSTAMP:20231129T002012Z
-SUMMARY:[Event] Unannounced Event - December 23
+UID:pokemonspotlighthour2023-12-19
+DTSTAMP:20231130T002054Z
+SUMMARY:[Pokémon Spotlight Hour] Snorunt Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2023-12-19/
+URL:https://leekduck.com/events/pokemonspotlighthour2023-12-19/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20231219T180000
+DTEND:20231219T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20231120
+DTSTAMP:20231130T002054Z
+SUMMARY:[Raid Hour] Kyurem Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20231120/
+URL:https://leekduck.com/events/raidhour20231120/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20231220T180000
+DTEND:20231220T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kyurem-in-5-star-raid-battles-december-2023
+DTSTAMP:20231130T002054Z
+SUMMARY:[Raid Battles] Kyurem in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /kyurem-in-5-star-raid-battles-december-2023/
+URL:https://leekduck.com/events/kyurem-in-5-star-raid-battles-december-2023
+ /
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/kyurem.jpg
+DTSTART;VALUE=DATE:20231216
+DTEND;VALUE=DATE:20231223
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-abomasnow-in-mega-raids-december-2023
+DTSTAMP:20231130T002054Z
+SUMMARY:[Raid Battles] Mega Abomasnow in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-abomasnow-in-mega-raids-december-2023/
+URL:https://leekduck.com/events/mega-abomasnow-in-mega-raids-december-2023/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20231216
+DTEND;VALUE=DATE:20231223
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raid-day-wyrdeer
+DTSTAMP:20231130T002054Z
+SUMMARY:[Raid Day] Raid Day: Wyrdeer
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /unannounced-december-23-season-17/
-URL:https://leekduck.com/events/unannounced-december-23-season-17/
+ /raid-day-wyrdeer/
+URL:https://leekduck.com/events/raid-day-wyrdeer/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
  pg
 DTSTART:20231223T140000
@@ -204,8 +390,135 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:winter-wonderland-2023
+DTSTAMP:20231130T002054Z
+SUMMARY:[Event] Winter Wonderland
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /winter-wonderland-2023/
+URL:https://leekduck.com/events/winter-wonderland-2023/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART:20231223T100000
+DTEND:20231224T200000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:winter-holiday-2023-part-1
+DTSTAMP:20231130T002054Z
+SUMMARY:[Event] Winter Holiday: Part 1
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /winter-holiday-2023-part-1/
+URL:https://leekduck.com/events/winter-holiday-2023-part-1/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART;VALUE=DATE:20231218
+DTEND;VALUE=DATE:20231225
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2023-12-26
+DTSTAMP:20231130T002054Z
+SUMMARY:[Pokémon Spotlight Hour] Vanillite Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2023-12-26/
+URL:https://leekduck.com/events/pokemonspotlighthour2023-12-26/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20231226T180000
+DTEND:20231226T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20231127
+DTSTAMP:20231130T002054Z
+SUMMARY:[Raid Hour] Regigigas Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20231127/
+URL:https://leekduck.com/events/raidhour20231127/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20231227T180000
+DTEND:20231227T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shadow-zapdos-in-shadow-raids-timeless-travels
+DTSTAMP:20231130T002054Z
+SUMMARY:[Raid Battles] Shadow Zapdos in Shadow Raids
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /shadow-zapdos-in-shadow-raids-timeless-travels/
+URL:https://leekduck.com/events/shadow-zapdos-in-shadow-raids-timeless-trav
+ els/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART;VALUE=DATE:20231202
+DTEND;VALUE=DATE:20231231
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:winter-holiday-2023-part-2
+DTSTAMP:20231130T002054Z
+SUMMARY:[Event] Winter Holiday: Part 2
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /winter-holiday-2023-part-2/
+URL:https://leekduck.com/events/winter-holiday-2023-part-2/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART;VALUE=DATE:20231225
+DTEND;VALUE=DATE:20231231
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:regigigas-in-5-star-raid-battles-december-2023
+DTSTAMP:20231130T002054Z
+SUMMARY:[Raid Battles] Regigigas in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /regigigas-in-5-star-raid-battles-december-2023/
+URL:https://leekduck.com/events/regigigas-in-5-star-raid-battles-december-2
+ 023/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/regigigas.jpg
+DTSTART;VALUE=DATE:20231223
+DTEND;VALUE=DATE:20240101
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-glalie-in-mega-raids-december-2023
+DTSTAMP:20231130T002054Z
+SUMMARY:[Raid Battles] Mega Glalie in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-glalie-in-mega-raids-december-2023/
+URL:https://leekduck.com/events/mega-glalie-in-mega-raids-december-2023/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20231223
+DTEND;VALUE=DATE:20240101
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:january-communityday2024
-DTSTAMP:20231129T002012Z
+DTSTAMP:20231130T002054Z
 SUMMARY:[Community Day] January Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /january-communityday2024/
@@ -220,7 +533,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-january-14-season-17
-DTSTAMP:20231129T002012Z
+DTSTAMP:20231130T002054Z
 SUMMARY:[Event] Unannounced Event - January 14
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-january-14-season-17/
@@ -236,7 +549,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:january-communitydayclassic2024
-DTSTAMP:20231129T002012Z
+DTSTAMP:20231130T002054Z
 SUMMARY:[Community Day] January Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /january-communitydayclassic2024/
@@ -251,7 +564,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-january-27-28-season-17
-DTSTAMP:20231129T002012Z
+DTSTAMP:20231130T002054Z
 SUMMARY:[Event] Unannounced Event - January 27-28
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /unannounced-january-27-28-season-17/
@@ -267,7 +580,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:february-communityday2024
-DTSTAMP:20231129T002012Z
+DTSTAMP:20231130T002054Z
 SUMMARY:[Community Day] February Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /february-communityday2024/
@@ -282,7 +595,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-february-11-season-17
-DTSTAMP:20231129T002012Z
+DTSTAMP:20231130T002054Z
 SUMMARY:[Event] Unannounced Event - February 11
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-february-11-season-17/
@@ -297,8 +610,40 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemon-go-tour-sinnoh-los-angeles
+DTSTAMP:20231130T002054Z
+SUMMARY:[Pokémon GO Tour] Pokémon GO Tour: Sinnoh - Los Angeles
+DESCRIPTION:Starts at 17:00\, ends at 01:00.\n\nhttps://leekduck.com/events
+ /pokemon-go-tour-sinnoh-los-angeles/
+URL:https://leekduck.com/events/pokemon-go-tour-sinnoh-los-angeles/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemon-go-tour-sinn
+ oh-los-angeles.jpg
+DTSTART:20240217T170000
+DTEND:20240218T010000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-go-tour-sinnoh-global
+DTSTAMP:20231130T002054Z
+SUMMARY:[Pokémon GO Tour] Pokémon GO Tour: Sinnoh - Global
+DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
+ /pokemon-go-tour-sinnoh-global/
+URL:https://leekduck.com/events/pokemon-go-tour-sinnoh-global/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemon-go-tour-sinn
+ oh-global.jpg
+DTSTART:20240224T100000
+DTEND:20240225T180000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:season-13-timeless-travels
-DTSTAMP:20231129T002012Z
+DTSTAMP:20231130T002054Z
 SUMMARY:[Season] Timeless Travels
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-13-timeless-travels/
@@ -314,7 +659,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-13-timeless-travels-research-breakthrough
-DTSTAMP:20231129T002012Z
+DTSTAMP:20231130T002054Z
 SUMMARY:[Research Breakthrough] Timeless Travels Research Breakthrough
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /season-13-timeless-travels-research-breakthrough/

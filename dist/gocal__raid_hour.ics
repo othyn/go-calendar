@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:raidhour20231129
-DTSTAMP:20231129T002012Z
+DTSTAMP:20231130T002054Z
 SUMMARY:[Raid Hour] Terrakion Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20231129/
@@ -19,6 +19,66 @@ URL:https://leekduck.com/events/raidhour20231129/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
 DTSTART:20231129T180000
 DTEND:20231129T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20231106
+DTSTAMP:20231130T002054Z
+SUMMARY:[Raid Hour] Reshiram Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20231106/
+URL:https://leekduck.com/events/raidhour20231106/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20231206T180000
+DTEND:20231206T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20231113
+DTSTAMP:20231130T002054Z
+SUMMARY:[Raid Hour] Zekrom Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20231113/
+URL:https://leekduck.com/events/raidhour20231113/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20231213T180000
+DTEND:20231213T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20231120
+DTSTAMP:20231130T002054Z
+SUMMARY:[Raid Hour] Kyurem Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20231120/
+URL:https://leekduck.com/events/raidhour20231120/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20231220T180000
+DTEND:20231220T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20231127
+DTSTAMP:20231130T002054Z
+SUMMARY:[Raid Hour] Regigigas Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20231127/
+URL:https://leekduck.com/events/raidhour20231127/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20231227T180000
+DTEND:20231227T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
