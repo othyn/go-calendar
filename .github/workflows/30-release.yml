@@ -18,7 +18,7 @@ jobs:
   build:
     name: Automated Release
     runs-on: ubuntu-latest
-    timeout-minutes: 1
+    timeout-minutes: 2
     if: ${{ github.event.workflow_run.conclusion == 'success' }}
 
     steps:
