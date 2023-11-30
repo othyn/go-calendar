@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:gbl-adventures_abound-great_league-ultra_league-master-league-2
-DTSTAMP:20231130T002054Z
+DTSTAMP:20231130T175434Z
 SUMMARY:[GO Battle League] Great League\, Ultra League\, and Master League 
  | Adventures Abound
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -22,6 +22,242 @@ IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-sea
  son-16-adventures-abound.jpg
 DTSTART;VALUE=DATE:20231124
 DTEND;VALUE=DATE:20231201
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-timeless-travels_great-league_retro-cup-great-league-edition
+DTSTAMP:20231130T175434Z
+SUMMARY:[GO Battle League] Great League and Retro Cup: Great League Edition
+  | Timeless Travels
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-timeless-travels_great-league_retro-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-timeless-travels_great-league_retro-cup
+ -great-league-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattle-greatleague
+ -key.jpg
+DTSTART;VALUE=DATE:20231201
+DTEND;VALUE=DATE:20231208
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-timeless-travels_ultra-league_retro-cup-great-league-edition
+DTSTAMP:20231130T175434Z
+SUMMARY:[GO Battle League] Ultra League and Retro Cup: Great League Edition
+  | Timeless Travels
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-timeless-travels_ultra-league_retro-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-timeless-travels_ultra-league_retro-cup
+ -great-league-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-ult
+ ra-league-machamp-swampert.jpg
+DTSTART;VALUE=DATE:20231208
+DTEND;VALUE=DATE:20231215
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-timeless-travels_master-league_holiday-cup-great-league-edition
+DTSTAMP:20231130T175434Z
+SUMMARY:[GO Battle League] Master League and Holiday Cup: Great League Edit
+ ion | Timeless Travels
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-timeless-travels_master-league_holiday-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-timeless-travels_master-league_holiday-
+ cup-great-league-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattleleague-maste
+ r-key.jpg
+DTSTART;VALUE=DATE:20231215
+DTEND;VALUE=DATE:20231222
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-timeless-travels_great-league_ultra-league_master-league
+DTSTAMP:20231130T175434Z
+SUMMARY:[GO Battle League] Great League\, Ultra League and Master League | 
+ Timeless Travels
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-timeless-travels_great-league_ultra-league_master-league/
+URL:https://leekduck.com/events/gbl-timeless-travels_great-league_ultra-lea
+ gue_master-league/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-sea
+ son-17-timeless-travels.jpg
+DTSTART;VALUE=DATE:20231222
+DTEND;VALUE=DATE:20231229
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-timeless-travels_great-league_holiday-cup-little-edition
+DTSTAMP:20231130T175434Z
+SUMMARY:[GO Battle League] Great League and Holiday Cup: Little Edition | T
+ imeless Travels
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-timeless-travels_great-league_holiday-cup-little-edition/
+URL:https://leekduck.com/events/gbl-timeless-travels_great-league_holiday-c
+ up-little-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattle-greatleague
+ -key.jpg
+DTSTART;VALUE=DATE:20231229
+DTEND;VALUE=DATE:20240105
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-timeless-travels_ultra-league_great-league-remix
+DTSTAMP:20231130T175434Z
+SUMMARY:[GO Battle League] Ultra League and Great League Remix | Timeless T
+ ravels
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-timeless-travels_ultra-league_great-league-remix/
+URL:https://leekduck.com/events/gbl-timeless-travels_ultra-league_great-lea
+ gue-remix/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-ult
+ ra-league-machamp-swampert.jpg
+DTSTART;VALUE=DATE:20240105
+DTEND;VALUE=DATE:20240112
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-timeless-travels_master-league_fantasy-cup-great-league-edition
+DTSTAMP:20231130T175434Z
+SUMMARY:[GO Battle League] Master League and Fantasy Cup: Great League Edit
+ ion | Timeless Travels
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-timeless-travels_master-league_fantasy-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-timeless-travels_master-league_fantasy-
+ cup-great-league-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattleleague-maste
+ r-key.jpg
+DTSTART;VALUE=DATE:20240112
+DTEND;VALUE=DATE:20240119
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-timeless-travels_great-league_ultra-league_master-league-2
+DTSTAMP:20231130T175434Z
+SUMMARY:[GO Battle League] Great League\, Ultra League and Master League | 
+ Timeless Travels
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-timeless-travels_great-league_ultra-league_master-league-2/
+URL:https://leekduck.com/events/gbl-timeless-travels_great-league_ultra-lea
+ gue_master-league-2/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-sea
+ son-17-timeless-travels.jpg
+DTSTART;VALUE=DATE:20240119
+DTEND;VALUE=DATE:20240126
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-timeless-travels_great-league_hisui-cup-great-league-edition
+DTSTAMP:20231130T175434Z
+SUMMARY:[GO Battle League] Great League and Hisui Cup: Great League Edition
+  | Timeless Travels
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-timeless-travels_great-league_hisui-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-timeless-travels_great-league_hisui-cup
+ -great-league-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattle-greatleague
+ -key.jpg
+DTSTART;VALUE=DATE:20240126
+DTEND;VALUE=DATE:20240202
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-timeless-travels_ultra-league_hisui-cup-great-league-edition
+DTSTAMP:20231130T175434Z
+SUMMARY:[GO Battle League] Ultra League and Hisui Cup: Great League Edition
+  | Timeless Travels
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-timeless-travels_ultra-league_hisui-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-timeless-travels_ultra-league_hisui-cup
+ -great-league-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-ult
+ ra-league-machamp-swampert.jpg
+DTSTART;VALUE=DATE:20240202
+DTEND;VALUE=DATE:20240209
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-timeless-travels_master-league_evolution-cup-great-league-edition
+DTSTAMP:20231130T175434Z
+SUMMARY:[GO Battle League] Master League and Evolution Cup: Great League Ed
+ ition | Timeless Travels
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-timeless-travels_master-league_evolution-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-timeless-travels_master-league_evolutio
+ n-cup-great-league-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattleleague-maste
+ r-key.jpg
+DTSTART;VALUE=DATE:20240209
+DTEND;VALUE=DATE:20240216
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-timeless-travels_catch-cup-little-edition_catch-cup-great-league-ed
+ ition
+DTSTAMP:20231130T175434Z
+SUMMARY:[GO Battle League] Catch Cup: Little Edition and Catch Cup: Great L
+ eague Edition | Timeless Travels
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-timeless-travels_catch-cup-little-edition_catch-cup-great-league-edit
+ ion/
+URL:https://leekduck.com/events/gbl-timeless-travels_catch-cup-little-editi
+ on_catch-cup-great-league-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-sea
+ son-17-timeless-travels.jpg
+DTSTART;VALUE=DATE:20240216
+DTEND;VALUE=DATE:20240223
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-timeless-travels_great-league_ultra-league_master-league-3
+DTSTAMP:20231130T175434Z
+SUMMARY:[GO Battle League] Great League\, Ultra League and Master League | 
+ Timeless Travels
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-timeless-travels_great-league_ultra-league_master-league-3/
+URL:https://leekduck.com/events/gbl-timeless-travels_great-league_ultra-lea
+ gue_master-league-3/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-sea
+ son-17-timeless-travels.jpg
+DTSTART;VALUE=DATE:20240223
+DTEND;VALUE=DATE:20240301
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M

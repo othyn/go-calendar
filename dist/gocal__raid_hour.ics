@@ -10,23 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Hour events\, in your local time\, auto-u
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:raidhour20231129
-DTSTAMP:20231130T002054Z
-SUMMARY:[Raid Hour] Terrakion Raid Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /raidhour20231129/
-URL:https://leekduck.com/events/raidhour20231129/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
-DTSTART:20231129T180000
-DTEND:20231129T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raidhour20231106
-DTSTAMP:20231130T002054Z
+DTSTAMP:20231130T175434Z
 SUMMARY:[Raid Hour] Reshiram Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20231106/
@@ -41,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20231113
-DTSTAMP:20231130T002054Z
+DTSTAMP:20231130T175434Z
 SUMMARY:[Raid Hour] Zekrom Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20231113/
@@ -56,7 +41,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20231120
-DTSTAMP:20231130T002054Z
+DTSTAMP:20231130T175434Z
 SUMMARY:[Raid Hour] Kyurem Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20231120/
@@ -71,7 +56,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20231127
-DTSTAMP:20231130T002054Z
+DTSTAMP:20231130T175434Z
 SUMMARY:[Raid Hour] Regigigas Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20231127/
