@@ -10,15 +10,16 @@ X-WR-CALDESC:All Pokémon GO Ticketed Event events\, in your local time\, a
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:ticket-of-treats
-DTSTAMP:20231101T002007Z
-SUMMARY:[Ticketed Event] Ticket of Treats
-DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
- /ticket-of-treats/
-URL:https://leekduck.com/events/ticket-of-treats/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/ticket-of-treats.jpg
-DTSTART;VALUE=DATE:20231001
-DTEND;VALUE=DATE:20231031
+UID:eggspedition-access-december-ticket
+DTSTAMP:20231202T001912Z
+SUMMARY:[Ticketed Event] Eggs-pedition Access: December
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /eggspedition-access-december-ticket/
+URL:https://leekduck.com/events/eggspedition-access-december-ticket/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/eggspedition-access-
+ december.jpg
+DTSTART;VALUE=DATE:20231201
+DTEND;VALUE=DATE:20231231
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
