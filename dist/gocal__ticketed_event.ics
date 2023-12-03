@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:eggspedition-access-december-ticket
-DTSTAMP:20231202T001912Z
+DTSTAMP:20231203T002137Z
 SUMMARY:[Ticketed Event] Eggs-pedition Access: December
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /eggspedition-access-december-ticket/
