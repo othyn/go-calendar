@@ -11,15 +11,15 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:hisuian-samurott-raid-day
-DTSTAMP:20231203T002137Z
+DTSTAMP:20231204T002036Z
 SUMMARY:[Raid Day] Hisuian Samurott Raid Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+DESCRIPTION:Starts at 14:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /hisuian-samurott-raid-day/
 URL:https://leekduck.com/events/hisuian-samurott-raid-day/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/hisuian-samurott-rai
  d-day.jpg
 DTSTART:20231203T140000
-DTEND:20231203T170000
+DTEND:20231203T180000
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-wyrdeer
-DTSTAMP:20231203T002137Z
+DTSTAMP:20231204T002036Z
 SUMMARY:[Raid Day] Raid Day: Wyrdeer
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-wyrdeer/
