@@ -19,7 +19,7 @@ jobs:
   build:
     name: Generate Calendars
     runs-on: ubuntu-latest
-    timeout-minutes: 2
+    timeout-minutes: 10
 
     steps:
       - name: Checkout code
@@ -43,7 +43,7 @@ jobs:
         run: git checkout -- composer.json
 
       - name: Commit any changes back to the repo
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "[GitHub Actions Bot: Publish iCal's Update]"
           commit_author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
