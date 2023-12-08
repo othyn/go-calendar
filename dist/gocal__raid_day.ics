@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:raid-day-wyrdeer
-DTSTAMP:20231207T002137Z
+DTSTAMP:20231208T002026Z
 SUMMARY:[Raid Day] Raid Day: Wyrdeer
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-wyrdeer/
