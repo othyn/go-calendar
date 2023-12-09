@@ -10,16 +10,16 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-lechonk-2023-11-28
-DTSTAMP:20231129T002012Z
-SUMMARY:[PokéStop Showcase] Lechonk PokéStop Showcases
+UID:pokemon-showcase-cryogonal-2023-12-09
+DTSTAMP:20231209T001956Z
+SUMMARY:[PokéStop Showcase] Cryogonal PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-lechonk-2023-11-28/
-URL:https://leekduck.com/events/pokemon-showcase-lechonk-2023-11-28/
+ /pokemon-showcase-cryogonal-2023-12-09/
+URL:https://leekduck.com/events/pokemon-showcase-cryogonal-2023-12-09/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
  efault.jpg
-DTSTART:20231128T100000
-DTEND:20231128T200000
+DTSTART:20231209T100000
+DTEND:20231209T200000
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
