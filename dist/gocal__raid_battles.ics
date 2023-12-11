@@ -10,39 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Battles events\, in your local time\, aut
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:mega-scizor-in-mega-raids-december-2023
-DTSTAMP:20231210T002229Z
-SUMMARY:[Raid Battles] Mega Scizor in Mega Raids
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /mega-scizor-in-mega-raids-december-2023/
-URL:https://leekduck.com/events/mega-scizor-in-mega-raids-december-2023/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;VALUE=DATE:20231201
-DTEND;VALUE=DATE:20231209
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:reshiram-in-5-star-raid-battles-december-2023
-DTSTAMP:20231210T002229Z
-SUMMARY:[Raid Battles] Reshiram in 5-star Raid Battles
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /reshiram-in-5-star-raid-battles-december-2023/
-URL:https://leekduck.com/events/reshiram-in-5-star-raid-battles-december-20
- 23/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/reshiram.jpg
-DTSTART;VALUE=DATE:20231201
-DTEND;VALUE=DATE:20231209
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:mega-altaria-in-mega-raids-december-2023
-DTSTAMP:20231210T002229Z
+DTSTAMP:20231211T002059Z
 SUMMARY:[Raid Battles] Mega Altaria in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-altaria-in-mega-raids-december-2023/
@@ -57,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:zekrom-in-5-star-raid-battles-december-2023
-DTSTAMP:20231210T002229Z
+DTSTAMP:20231211T002059Z
 SUMMARY:[Raid Battles] Zekrom in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /zekrom-in-5-star-raid-battles-december-2023/
@@ -73,7 +42,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:kyurem-in-5-star-raid-battles-december-2023
-DTSTAMP:20231210T002229Z
+DTSTAMP:20231211T002059Z
 SUMMARY:[Raid Battles] Kyurem in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /kyurem-in-5-star-raid-battles-december-2023/
@@ -89,7 +58,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-abomasnow-in-mega-raids-december-2023
-DTSTAMP:20231210T002229Z
+DTSTAMP:20231211T002059Z
 SUMMARY:[Raid Battles] Mega Abomasnow in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-abomasnow-in-mega-raids-december-2023/
@@ -104,7 +73,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-zapdos-in-shadow-raids-timeless-travels
-DTSTAMP:20231210T002229Z
+DTSTAMP:20231211T002059Z
 SUMMARY:[Raid Battles] Shadow Zapdos in Shadow Raids
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /shadow-zapdos-in-shadow-raids-timeless-travels/
@@ -121,7 +90,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:regigigas-in-5-star-raid-battles-december-2023
-DTSTAMP:20231210T002229Z
+DTSTAMP:20231211T002059Z
 SUMMARY:[Raid Battles] Regigigas in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /regigigas-in-5-star-raid-battles-december-2023/
@@ -137,7 +106,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-glalie-in-mega-raids-december-2023
-DTSTAMP:20231210T002229Z
+DTSTAMP:20231211T002059Z
 SUMMARY:[Raid Battles] Mega Glalie in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-glalie-in-mega-raids-december-2023/

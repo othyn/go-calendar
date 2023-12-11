@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:gbl-timeless-travels_ultra-league_retro-cup-great-league-edition
-DTSTAMP:20231210T002229Z
+DTSTAMP:20231211T002059Z
 SUMMARY:[GO Battle League] Ultra League and Retro Cup: Great League Edition
   | Timeless Travels
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -29,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-timeless-travels_master-league_holiday-cup-great-league-edition
-DTSTAMP:20231210T002229Z
+DTSTAMP:20231211T002059Z
 SUMMARY:[GO Battle League] Master League and Holiday Cup: Great League Edit
  ion | Timeless Travels
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -47,7 +47,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-timeless-travels_great-league_ultra-league_master-league
-DTSTAMP:20231210T002229Z
+DTSTAMP:20231211T002059Z
 SUMMARY:[GO Battle League] Great League\, Ultra League and Master League | 
  Timeless Travels
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -65,7 +65,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-timeless-travels_great-league_holiday-cup-little-edition
-DTSTAMP:20231210T002229Z
+DTSTAMP:20231211T002059Z
 SUMMARY:[GO Battle League] Great League and Holiday Cup: Little Edition | T
  imeless Travels
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -83,7 +83,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-timeless-travels_ultra-league_great-league-remix
-DTSTAMP:20231210T002229Z
+DTSTAMP:20231211T002059Z
 SUMMARY:[GO Battle League] Ultra League and Great League Remix | Timeless T
  ravels
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -101,7 +101,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-timeless-travels_master-league_fantasy-cup-great-league-edition
-DTSTAMP:20231210T002229Z
+DTSTAMP:20231211T002059Z
 SUMMARY:[GO Battle League] Master League and Fantasy Cup: Great League Edit
  ion | Timeless Travels
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -119,7 +119,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-timeless-travels_great-league_ultra-league_master-league-2
-DTSTAMP:20231210T002229Z
+DTSTAMP:20231211T002059Z
 SUMMARY:[GO Battle League] Great League\, Ultra League and Master League | 
  Timeless Travels
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -137,7 +137,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-timeless-travels_great-league_hisui-cup-great-league-edition
-DTSTAMP:20231210T002229Z
+DTSTAMP:20231211T002059Z
 SUMMARY:[GO Battle League] Great League and Hisui Cup: Great League Edition
   | Timeless Travels
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -155,7 +155,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-timeless-travels_ultra-league_hisui-cup-great-league-edition
-DTSTAMP:20231210T002229Z
+DTSTAMP:20231211T002059Z
 SUMMARY:[GO Battle League] Ultra League and Hisui Cup: Great League Edition
   | Timeless Travels
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -173,7 +173,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-timeless-travels_master-league_evolution-cup-great-league-edition
-DTSTAMP:20231210T002229Z
+DTSTAMP:20231211T002059Z
 SUMMARY:[GO Battle League] Master League and Evolution Cup: Great League Ed
  ition | Timeless Travels
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -192,7 +192,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-timeless-travels_catch-cup-little-edition_catch-cup-great-league-ed
  ition
-DTSTAMP:20231210T002229Z
+DTSTAMP:20231211T002059Z
 SUMMARY:[GO Battle League] Catch Cup: Little Edition and Catch Cup: Great L
  eague Edition | Timeless Travels
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -211,7 +211,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-timeless-travels_great-league_ultra-league_master-league-3
-DTSTAMP:20231210T002229Z
+DTSTAMP:20231211T002059Z
 SUMMARY:[GO Battle League] Great League\, Ultra League and Master League | 
  Timeless Travels
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
