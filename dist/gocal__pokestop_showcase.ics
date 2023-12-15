@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-december-communityday-2023-12-16
-DTSTAMP:20231214T070413Z
+DTSTAMP:20231215T002037Z
 SUMMARY:[PokéStop Showcase] December Communtiy Day PokéStop Showcases
 DESCRIPTION:Starts at 09:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-december-communityday-2023-12-16/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-december-communityday-2023-12-17
-DTSTAMP:20231214T070413Z
+DTSTAMP:20231215T002037Z
 SUMMARY:[PokéStop Showcase] December Communtiy Day PokéStop Showcases
 DESCRIPTION:Starts at 09:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-december-communityday-2023-12-17/
