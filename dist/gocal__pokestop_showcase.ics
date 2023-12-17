@@ -11,16 +11,16 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-december-communityday-2023-12-16
-DTSTAMP:20231216T001957Z
-SUMMARY:[PokéStop Showcase] December Communtiy Day PokéStop Showcases
-DESCRIPTION:Starts at 09:00\, ends at 18:00.\n\nhttps://leekduck.com/events
+DTSTAMP:20231217T002209Z
+SUMMARY:[PokéStop Showcase] December Community Day PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-december-communityday-2023-12-16/
 URL:https://leekduck.com/events/pokemon-showcase-december-communityday-2023
  -12-16/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
  efault.jpg
-DTSTART:20231216T090000
-DTEND:20231216T180000
+DTSTART:20231216T100000
+DTEND:20231216T200000
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
@@ -28,16 +28,16 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-december-communityday-2023-12-17
-DTSTAMP:20231216T001957Z
-SUMMARY:[PokéStop Showcase] December Communtiy Day PokéStop Showcases
-DESCRIPTION:Starts at 09:00\, ends at 18:00.\n\nhttps://leekduck.com/events
+DTSTAMP:20231217T002209Z
+SUMMARY:[PokéStop Showcase] December Community Day PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-december-communityday-2023-12-17/
 URL:https://leekduck.com/events/pokemon-showcase-december-communityday-2023
  -12-17/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
  efault.jpg
-DTSTART:20231217T090000
-DTEND:20231217T180000
+DTSTART:20231217T100000
+DTEND:20231217T200000
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
