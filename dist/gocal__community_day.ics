@@ -10,29 +10,14 @@ X-WR-CALDESC:All Pokémon GO Community Day events\, in your local time\, au
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:december-communityday2023
-DTSTAMP:20231218T002100Z
-SUMMARY:[Community Day] December Community Day
-DESCRIPTION:Starts at 09:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /december-communityday2023/
-URL:https://leekduck.com/events/december-communityday2023/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-2023-12-december-
- recap.jpg
-DTSTART:20231216T090000
-DTEND:20231217T210000
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:january-communityday2024
-DTSTAMP:20231218T002100Z
+DTSTAMP:20231219T002102Z
 SUMMARY:[Community Day] Rowlet Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /january-communityday2024/
 URL:https://leekduck.com/events/january-communityday2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-2024-01-rowlet.jp
+ g
 DTSTART:20240106T140000
 DTEND:20240106T170000
 BEGIN:VALARM
@@ -42,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:january-communitydayclassic2024
-DTSTAMP:20231218T002100Z
+DTSTAMP:20231219T002102Z
 SUMMARY:[Community Day] Porygon Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /january-communitydayclassic2024/
@@ -57,7 +42,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:february-communityday2024
-DTSTAMP:20231218T002100Z
+DTSTAMP:20231219T002102Z
 SUMMARY:[Community Day] Chansey Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /february-communityday2024/

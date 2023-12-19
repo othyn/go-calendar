@@ -10,17 +10,16 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-december-communityday-2023-12-17
-DTSTAMP:20231218T002100Z
-SUMMARY:[PokéStop Showcase] December Community Day PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-december-communityday-2023-12-17/
-URL:https://leekduck.com/events/pokemon-showcase-december-communityday-2023
- -12-17/
+UID:pokemon-showcase-kecleon-2023-12-18
+DTSTAMP:20231219T002102Z
+SUMMARY:[PokéStop Showcase] Kecleon PokéStop Showcases
+DESCRIPTION:Starts at 17:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-kecleon-2023-12-18/
+URL:https://leekduck.com/events/pokemon-showcase-kecleon-2023-12-18/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
  efault.jpg
-DTSTART:20231217T100000
-DTEND:20231217T200000
+DTSTART:20231218T170000
+DTEND:20231218T200000
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
