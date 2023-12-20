@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-12-19
-DTSTAMP:20231219T002102Z
+DTSTAMP:20231220T001700Z
 SUMMARY:[Pokémon Spotlight Hour] Snorunt Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-12-19/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2023-12-26
-DTSTAMP:20231219T002102Z
+DTSTAMP:20231220T001700Z
 SUMMARY:[Pokémon Spotlight Hour] Vanillite Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2023-12-26/

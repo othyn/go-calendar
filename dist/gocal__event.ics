@@ -10,24 +10,8 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:hidden-surprise-kecleon-event
-DTSTAMP:20231219T002102Z
-SUMMARY:[Event] Hidden Surprise: Kecleon
-DESCRIPTION:Starts at 17:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /hidden-surprise-kecleon-event/
-URL:https://leekduck.com/events/hidden-surprise-kecleon-event/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/hidden-surprise-kecl
- eon.jpg
-DTSTART:20231218T170000
-DTEND:20231218T200000
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:winter-wonderland-2023
-DTSTAMP:20231219T002102Z
+DTSTAMP:20231220T001700Z
 SUMMARY:[Event] Winter Wonderland
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /winter-wonderland-2023/
@@ -42,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:winter-holiday-2023-part-1
-DTSTAMP:20231219T002102Z
+DTSTAMP:20231220T001700Z
 SUMMARY:[Event] Winter Holiday: Part 1
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /winter-holiday-2023-part-1/
@@ -58,7 +42,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:winter-holiday-2023-part-2
-DTSTAMP:20231219T002102Z
+DTSTAMP:20231220T001700Z
 SUMMARY:[Event] Winter Holiday: Part 2
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /winter-holiday-2023-part-2/
@@ -74,7 +58,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-january-14-season-17
-DTSTAMP:20231219T002102Z
+DTSTAMP:20231220T001700Z
 SUMMARY:[Event] Unannounced Event - January 14
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-january-14-season-17/
@@ -90,7 +74,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-week-timeless-travels
-DTSTAMP:20231219T002102Z
+DTSTAMP:20231220T001700Z
 SUMMARY:[Event] GO Battle Week: Timeless Travels
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /go-battle-week-timeless-travels/
@@ -106,7 +90,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-january-27-28-season-17
-DTSTAMP:20231219T002102Z
+DTSTAMP:20231220T001700Z
 SUMMARY:[Event] Unannounced Event - January 27-28
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /unannounced-january-27-28-season-17/
@@ -122,7 +106,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-day-timeless-travels
-DTSTAMP:20231219T002102Z
+DTSTAMP:20231220T001700Z
 SUMMARY:[Event] Timeless Travels: GO Battle Day
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-day-timeless-travels/
@@ -138,7 +122,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-february-11-season-17
-DTSTAMP:20231219T002102Z
+DTSTAMP:20231220T001700Z
 SUMMARY:[Event] Unannounced Event - February 11
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-february-11-season-17/
