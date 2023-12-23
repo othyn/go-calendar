@@ -11,14 +11,30 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:raid-day-wyrdeer
-DTSTAMP:20231222T001948Z
-SUMMARY:[Raid Day] Raid Day: Wyrdeer
+DTSTAMP:20231223T001904Z
+SUMMARY:[Raid Day] Wyrdeer Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-wyrdeer/
 URL:https://leekduck.com/events/raid-day-wyrdeer/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raid-day-wyrdeer.jpg
 DTSTART:20231223T140000
 DTEND:20231223T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hisuian-typhlosion-raid-day
+DTSTAMP:20231223T001904Z
+SUMMARY:[Raid Day] Hisuian Typhlosion Raid Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /hisuian-typhlosion-raid-day/
+URL:https://leekduck.com/events/hisuian-typhlosion-raid-day/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART:20240114T140000
+DTEND:20240114T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M

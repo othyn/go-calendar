@@ -10,16 +10,16 @@ X-WR-CALDESC:All Pokémon GO Research events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:eggspedition-access-december-ticket
-DTSTAMP:20231201T002223Z
-SUMMARY:[Research] Eggs-pedition Access: December
+UID:exampleevent
+DTSTAMP:20231223T001904Z
+SUMMARY:[Research] EVENT TITLE
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /eggspedition-access-december-ticket/
-URL:https://leekduck.com/events/eggspedition-access-december-ticket/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/eggspedition-access-
- december.jpg
-DTSTART;VALUE=DATE:20231201
-DTEND;VALUE=DATE:20231231
+ /exampleevent/
+URL:https://leekduck.com/events/exampleevent/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART:20240101T100000
+DTEND:20240101T200000
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
