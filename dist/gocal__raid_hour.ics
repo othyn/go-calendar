@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:raidhour20231227
-DTSTAMP:20231223T001904Z
+DTSTAMP:20231224T002142Z
 SUMMARY:[Raid Hour] Regigigas Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20231227/
@@ -26,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240103
-DTSTAMP:20231223T001904Z
+DTSTAMP:20231224T002142Z
 SUMMARY:[Raid Hour] Buzzwole\, Xurkitree\, and Pheromosa Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240103/
@@ -41,7 +41,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240110
-DTSTAMP:20231223T001904Z
+DTSTAMP:20231224T002142Z
 SUMMARY:[Raid Hour] Thundurus (Therian Forme) Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240110/
@@ -56,7 +56,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240117
-DTSTAMP:20231223T001904Z
+DTSTAMP:20231224T002142Z
 SUMMARY:[Raid Hour] Thundurus (Therian Forme) Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240117/
@@ -71,7 +71,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240124
-DTSTAMP:20231223T001904Z
+DTSTAMP:20231224T002142Z
 SUMMARY:[Raid Hour] Landorus (Therian Forme) Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240124/

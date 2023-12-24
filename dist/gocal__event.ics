@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:winter-wonderland-2023
-DTSTAMP:20231223T001904Z
+DTSTAMP:20231224T002142Z
 SUMMARY:[Event] Winter Wonderland
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /winter-wonderland-2023/
@@ -26,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:winter-holiday-2023-part-1
-DTSTAMP:20231223T001904Z
+DTSTAMP:20231224T002142Z
 SUMMARY:[Event] Winter Holiday: Part 1
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /winter-holiday-2023-part-1/
@@ -42,7 +42,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:winter-holiday-2023-part-2
-DTSTAMP:20231223T001904Z
+DTSTAMP:20231224T002142Z
 SUMMARY:[Event] Winter Holiday: Part 2
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /winter-holiday-2023-part-2/
@@ -58,7 +58,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:new-years-2024
-DTSTAMP:20231223T001904Z
+DTSTAMP:20231224T002142Z
 SUMMARY:[Event] Pokémon GO New Year's 2024
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /new-years-2024/
@@ -73,7 +73,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lustrous-odyssey
-DTSTAMP:20231223T001904Z
+DTSTAMP:20231224T002142Z
 SUMMARY:[Event] Lustrous Odyssey
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /lustrous-odyssey/
@@ -89,7 +89,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dazzling-dream
-DTSTAMP:20231223T001904Z
+DTSTAMP:20231224T002142Z
 SUMMARY:[Event] Dazzling Dream
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /dazzling-dream/
@@ -105,7 +105,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-week-timeless-travels
-DTSTAMP:20231223T001904Z
+DTSTAMP:20231224T002142Z
 SUMMARY:[Event] GO Battle Week: Timeless Travels
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /go-battle-week-timeless-travels/
@@ -121,7 +121,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raging-battles
-DTSTAMP:20231223T001904Z
+DTSTAMP:20231224T002142Z
 SUMMARY:[Event] Raging Battles
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /raging-battles/
@@ -137,7 +137,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-january-27-28-season-17
-DTSTAMP:20231223T001904Z
+DTSTAMP:20231224T002142Z
 SUMMARY:[Event] Unannounced Event - January 27-28
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /unannounced-january-27-28-season-17/
@@ -153,7 +153,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:taken-treasure
-DTSTAMP:20231223T001904Z
+DTSTAMP:20231224T002142Z
 SUMMARY:[Event] Taken Treasure
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /taken-treasure/
@@ -169,7 +169,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-day-timeless-travels
-DTSTAMP:20231223T001904Z
+DTSTAMP:20231224T002142Z
 SUMMARY:[Event] Timeless Travels: GO Battle Day
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-day-timeless-travels/
@@ -185,7 +185,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-february-11-season-17
-DTSTAMP:20231223T001904Z
+DTSTAMP:20231224T002142Z
 SUMMARY:[Event] Unannounced Event - February 11
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-february-11-season-17/
