@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-delibird-cetoddle-2023-12-19
-DTSTAMP:20231224T002142Z
-SUMMARY:[PokéStop Showcase] Delibird and Cetoddle PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 12:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-delibird-cetoddle-2023-12-19/
-URL:https://leekduck.com/events/pokemon-showcase-delibird-cetoddle-2023-12-
- 19/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
- efault.jpg
-DTSTART;VALUE=DATE:20231219
-DTEND;VALUE=DATE:20231223
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-showcase-wyrdeer-2023-12-23
-DTSTAMP:20231224T002142Z
+DTSTAMP:20231225T002042Z
 SUMMARY:[PokéStop Showcase] Wyrdeer PokéStop Showcases
 DESCRIPTION:Starts at 14:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-wyrdeer-2023-12-23/
@@ -37,6 +20,24 @@ IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
  efault.jpg
 DTSTART:20231223T140000
 DTEND:20231224T200000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-psyduck-vanillite-cetoddle-2023-12-25
+DTSTAMP:20231225T002042Z
+SUMMARY:[PokéStop Showcase] Psyduck\, Vanillite and Cetoddle PokéStop Sho
+ wcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-psyduck-vanillite-cetoddle-2023-12-25/
+URL:https://leekduck.com/events/pokemon-showcase-psyduck-vanillite-cetoddle
+ -2023-12-25/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART;VALUE=DATE:20231225
+DTEND;VALUE=DATE:20231231
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
