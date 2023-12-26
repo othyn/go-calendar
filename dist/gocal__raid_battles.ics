@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:shadow-zapdos-in-shadow-raids-timeless-travels
-DTSTAMP:20231225T002042Z
+DTSTAMP:20231226T001932Z
 SUMMARY:[Raid Battles] Shadow Zapdos in Shadow Raids
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /shadow-zapdos-in-shadow-raids-timeless-travels/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:regigigas-in-5-star-raid-battles-december-2023
-DTSTAMP:20231225T002042Z
+DTSTAMP:20231226T001932Z
 SUMMARY:[Raid Battles] Regigigas in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /regigigas-in-5-star-raid-battles-december-2023/
@@ -44,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-glalie-in-mega-raids-december-2023
-DTSTAMP:20231225T002042Z
+DTSTAMP:20231226T001932Z
 SUMMARY:[Raid Battles] Mega Glalie in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-glalie-in-mega-raids-december-2023/
@@ -59,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-ampharos-in-mega-raids-january-2024
-DTSTAMP:20231225T002042Z
+DTSTAMP:20231226T001932Z
 SUMMARY:[Raid Battles] Mega Ampharos in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-ampharos-in-mega-raids-january-2024/
@@ -74,7 +74,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:buzzswole-xurkitree-pheromosa-in-5-star-raid-battles-january-2024
-DTSTAMP:20231225T002042Z
+DTSTAMP:20231226T001932Z
 SUMMARY:[Raid Battles] Buzzwole\, Xurkitree\, and Pheromosa in 5-star Raid 
  Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
@@ -92,7 +92,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tornadius-therian-forme-in-5-star-raid-battles-january-2024
-DTSTAMP:20231225T002042Z
+DTSTAMP:20231226T001932Z
 SUMMARY:[Raid Battles] Tornadus (Therian Forme) in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /tornadius-therian-forme-in-5-star-raid-battles-january-2024/
@@ -109,7 +109,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-moltre-in-shadow-raids-timeless-travels
-DTSTAMP:20231225T002042Z
+DTSTAMP:20231226T001932Z
 SUMMARY:[Raid Battles] Shadow Moltres in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-moltre-in-shadow-raids-timeless-travels/
@@ -126,7 +126,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-medicham-in-mega-raids-january-2024
-DTSTAMP:20231225T002042Z
+DTSTAMP:20231226T001932Z
 SUMMARY:[Raid Battles] Mega Medicham in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-medicham-in-mega-raids-january-2024/
@@ -141,7 +141,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-steelix-in-mega-raids-january-2024
-DTSTAMP:20231225T002042Z
+DTSTAMP:20231226T001932Z
 SUMMARY:[Raid Battles] Mega Steelix in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-steelix-in-mega-raids-january-2024/
@@ -156,7 +156,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:thundurus-therian-forme-in-5-star-raid-battles-january-2024-copy
-DTSTAMP:20231225T002042Z
+DTSTAMP:20231226T001932Z
 SUMMARY:[Raid Battles] Thundurus (Therian Forme) in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /thundurus-therian-forme-in-5-star-raid-battles-january-2024-copy/
@@ -173,7 +173,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-ho-oh-in-shadow-raids-timeless-travels
-DTSTAMP:20231225T002042Z
+DTSTAMP:20231226T001932Z
 SUMMARY:[Raid Battles] Shadow Ho-Oh in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-ho-oh-in-shadow-raids-timeless-travels/
@@ -190,7 +190,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:landorus-therian-forme-in-5-star-raid-battles-january-2024
-DTSTAMP:20231225T002042Z
+DTSTAMP:20231226T001932Z
 SUMMARY:[Raid Battles] Landorus (Therian Forme) in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /landorus-therian-forme-in-5-star-raid-battles-january-2024/
