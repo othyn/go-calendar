@@ -10,24 +10,8 @@ X-WR-CALDESC:All Pokémon GO Pokémon Spotlight Hour events\, in your local
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemonspotlighthour2023-12-26
-DTSTAMP:20231228T001951Z
-SUMMARY:[Pokémon Spotlight Hour] Vanillite Spotlight Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2023-12-26/
-URL:https://leekduck.com/events/pokemonspotlighthour2023-12-26/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
- .jpg
-DTSTART:20231226T180000
-DTEND:20231226T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemonspotlighthour2024-01-02
-DTSTAMP:20231228T001951Z
+DTSTAMP:20231229T001647Z
 SUMMARY:[Pokémon Spotlight Hour] Castform Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-01-02/
@@ -43,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-01-09
-DTSTAMP:20231228T001951Z
+DTSTAMP:20231229T001647Z
 SUMMARY:[Pokémon Spotlight Hour] Eevee Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-01-09/
@@ -59,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-01-16
-DTSTAMP:20231228T001951Z
+DTSTAMP:20231229T001647Z
 SUMMARY:[Pokémon Spotlight Hour] Ralts Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-01-16/
@@ -75,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-01-23
-DTSTAMP:20231228T001951Z
+DTSTAMP:20231229T001647Z
 SUMMARY:[Pokémon Spotlight Hour] Barboach Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-01-23/
@@ -91,7 +75,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-01-30
-DTSTAMP:20231228T001951Z
+DTSTAMP:20231229T001647Z
 SUMMARY:[Pokémon Spotlight Hour] Foongus Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-01-30/

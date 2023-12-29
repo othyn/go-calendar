@@ -10,23 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Hour events\, in your local time\, auto-u
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:raidhour20231227
-DTSTAMP:20231228T001951Z
-SUMMARY:[Raid Hour] Regigigas Raid Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /raidhour20231227/
-URL:https://leekduck.com/events/raidhour20231227/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
-DTSTART:20231227T180000
-DTEND:20231227T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raidhour20240103
-DTSTAMP:20231228T001951Z
+DTSTAMP:20231229T001647Z
 SUMMARY:[Raid Hour] Buzzwole\, Xurkitree\, and Pheromosa Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240103/
@@ -41,8 +26,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240110
-DTSTAMP:20231228T001951Z
-SUMMARY:[Raid Hour] Thundurus (Therian Forme) Raid Hour
+DTSTAMP:20231229T001647Z
+SUMMARY:[Raid Hour] Tornadus (Therian Forme) Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240110/
 URL:https://leekduck.com/events/raidhour20240110/
@@ -56,7 +41,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240117
-DTSTAMP:20231228T001951Z
+DTSTAMP:20231229T001647Z
 SUMMARY:[Raid Hour] Thundurus (Therian Forme) Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240117/
@@ -71,7 +56,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240124
-DTSTAMP:20231228T001951Z
+DTSTAMP:20231229T001647Z
 SUMMARY:[Raid Hour] Landorus (Therian Forme) Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240124/
