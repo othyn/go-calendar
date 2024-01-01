@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-01-02
-DTSTAMP:20231231T002208Z
+DTSTAMP:20240101T002249Z
 SUMMARY:[Pokémon Spotlight Hour] Castform Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-01-02/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-01-09
-DTSTAMP:20231231T002208Z
+DTSTAMP:20240101T002249Z
 SUMMARY:[Pokémon Spotlight Hour] Eevee Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-01-09/
@@ -43,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-01-16
-DTSTAMP:20231231T002208Z
+DTSTAMP:20240101T002249Z
 SUMMARY:[Pokémon Spotlight Hour] Ralts Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-01-16/
@@ -59,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-01-23
-DTSTAMP:20231231T002208Z
+DTSTAMP:20240101T002249Z
 SUMMARY:[Pokémon Spotlight Hour] Barboach Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-01-23/
@@ -75,7 +75,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-01-30
-DTSTAMP:20231231T002208Z
+DTSTAMP:20240101T002249Z
 SUMMARY:[Pokémon Spotlight Hour] Foongus Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-01-30/
