@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:january-communityday2024
-DTSTAMP:20240102T002151Z
+DTSTAMP:20240103T001954Z
 SUMMARY:[Community Day] Rowlet Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /january-communityday2024/
@@ -27,12 +27,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:january-communitydayclassic2024
-DTSTAMP:20240102T002151Z
+DTSTAMP:20240103T001954Z
 SUMMARY:[Community Day] Porygon Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /january-communitydayclassic2024/
 URL:https://leekduck.com/events/january-communitydayclassic2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-2024-01-classic-p
+ orygon.jpg
 DTSTART:20240120T140000
 DTEND:20240120T170000
 BEGIN:VALARM
@@ -42,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:february-communityday2024
-DTSTAMP:20240102T002151Z
+DTSTAMP:20240103T001954Z
 SUMMARY:[Community Day] Chansey Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /february-communityday2024/
