@@ -11,13 +11,13 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:hisuian-typhlosion-raid-day
-DTSTAMP:20240103T001954Z
+DTSTAMP:20240104T002021Z
 SUMMARY:[Raid Day] Hisuian Typhlosion Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hisuian-typhlosion-raid-day/
 URL:https://leekduck.com/events/hisuian-typhlosion-raid-day/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raid-day-hisuian-typ
+ hlosion.jpg
 DTSTART:20240114T140000
 DTEND:20240114T170000
 BEGIN:VALARM

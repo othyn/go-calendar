@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-jigglypuff-2024-01-01
-DTSTAMP:20240103T001954Z
+DTSTAMP:20240104T002021Z
 SUMMARY:[PokéStop Showcase] Jigglypuff PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-jigglypuff-2024-01-01/
