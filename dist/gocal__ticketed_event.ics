@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:eggspedition-access-january-ticket
-DTSTAMP:20240106T002002Z
+DTSTAMP:20240107T002244Z
 SUMMARY:[Ticketed Event] Eggs-pedition Access: January
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /eggspedition-access-january-ticket/
