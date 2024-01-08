@@ -10,16 +10,17 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-jigglypuff-2024-01-01
-DTSTAMP:20240104T002021Z
-SUMMARY:[PokéStop Showcase] Jigglypuff PokéStop Showcases
+UID:pokemon-showcase-rockruff-lycanroc-2024-01-07
+DTSTAMP:20240108T002132Z
+SUMMARY:[PokéStop Showcase] Rockruff and Lycanroc PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-jigglypuff-2024-01-01/
-URL:https://leekduck.com/events/pokemon-showcase-jigglypuff-2024-01-01/
+ /pokemon-showcase-rockruff-lycanroc-2024-01-07/
+URL:https://leekduck.com/events/pokemon-showcase-rockruff-lycanroc-2024-01-
+ 07/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
  efault.jpg
-DTSTART;VALUE=DATE:20240101
-DTEND;VALUE=DATE:20240103
+DTSTART;VALUE=DATE:20240107
+DTEND;VALUE=DATE:20240110
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
