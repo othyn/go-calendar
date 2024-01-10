@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-rockruff-lycanroc-2024-01-07
-DTSTAMP:20240109T002111Z
+DTSTAMP:20240110T002026Z
 SUMMARY:[PokéStop Showcase] Rockruff and Lycanroc PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-rockruff-lycanroc-2024-01-07/
@@ -21,6 +21,23 @@ IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
  efault.jpg
 DTSTART;VALUE=DATE:20240107
 DTEND;VALUE=DATE:20240110
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-chansey-blissey-2024-02-04
+DTSTAMP:20240110T002026Z
+SUMMARY:[PokéStop Showcase] Chansey and Blissey PokéStop Showcases
+DESCRIPTION:Starts at 14:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-chansey-blissey-2024-02-04/
+URL:https://leekduck.com/events/pokemon-showcase-chansey-blissey-2024-02-04
+ /
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART:20240204T140000
+DTEND:20240204T200000
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
