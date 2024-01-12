@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:tornadius-therian-forme-in-5-star-raid-battles-january-2024
-DTSTAMP:20240111T002025Z
+DTSTAMP:20240112T002023Z
 SUMMARY:[Raid Battles] Tornadus (Therian Forme) in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /tornadius-therian-forme-in-5-star-raid-battles-january-2024/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-moltre-in-shadow-raids-timeless-travels
-DTSTAMP:20240111T002025Z
+DTSTAMP:20240112T002023Z
 SUMMARY:[Raid Battles] Shadow Moltres in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-moltre-in-shadow-raids-timeless-travels/
@@ -45,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-medicham-in-mega-raids-january-2024
-DTSTAMP:20240111T002025Z
+DTSTAMP:20240112T002023Z
 SUMMARY:[Raid Battles] Mega Medicham in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-medicham-in-mega-raids-january-2024/
@@ -60,7 +60,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:thundurus-therian-forme-in-5-star-raid-battles-january-2024-copy
-DTSTAMP:20240111T002025Z
+DTSTAMP:20240112T002023Z
 SUMMARY:[Raid Battles] Thundurus (Therian Forme) in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /thundurus-therian-forme-in-5-star-raid-battles-january-2024-copy/
@@ -77,7 +77,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-ho-oh-in-shadow-raids-timeless-travels
-DTSTAMP:20240111T002025Z
+DTSTAMP:20240112T002023Z
 SUMMARY:[Raid Battles] Shadow Ho-Oh in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-ho-oh-in-shadow-raids-timeless-travels/
@@ -94,7 +94,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-steelix-in-mega-raids-january-2024
-DTSTAMP:20240111T002025Z
+DTSTAMP:20240112T002023Z
 SUMMARY:[Raid Battles] Mega Steelix in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-steelix-in-mega-raids-january-2024/
@@ -109,14 +109,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:landorus-therian-forme-in-5-star-raid-battles-january-2024
-DTSTAMP:20240111T002025Z
+DTSTAMP:20240112T002023Z
 SUMMARY:[Raid Battles] Landorus (Therian Forme) in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /landorus-therian-forme-in-5-star-raid-battles-january-2024/
 URL:https://leekduck.com/events/landorus-therian-forme-in-5-star-raid-battl
  es-january-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/therian-forme-thundu
- rus.jpg
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/therian-forme-tornad
+ us.jpg
 DTSTART;VALUE=DATE:20240124
 DTEND;VALUE=DATE:20240131
 BEGIN:VALARM
