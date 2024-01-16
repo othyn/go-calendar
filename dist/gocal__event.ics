@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:dazzling-dream
-DTSTAMP:20240115T002137Z
+DTSTAMP:20240116T002034Z
 SUMMARY:[Event] Dazzling Dream
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /dazzling-dream/
@@ -26,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-week-timeless-travels
-DTSTAMP:20240115T002137Z
+DTSTAMP:20240116T002034Z
 SUMMARY:[Event] GO Battle Week: Timeless Travels
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /go-battle-week-timeless-travels/
@@ -42,7 +42,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raging-battles
-DTSTAMP:20240115T002137Z
+DTSTAMP:20240116T002034Z
 SUMMARY:[Event] Raging Battles
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /raging-battles/
@@ -58,7 +58,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-january-27-28-season-17
-DTSTAMP:20240115T002137Z
+DTSTAMP:20240116T002034Z
 SUMMARY:[Event] Unannounced Event - January 27-28
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /unannounced-january-27-28-season-17/
@@ -74,7 +74,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:taken-treasure
-DTSTAMP:20240115T002137Z
+DTSTAMP:20240116T002034Z
 SUMMARY:[Event] Taken Treasure
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /taken-treasure/
@@ -90,7 +90,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-day-timeless-travels
-DTSTAMP:20240115T002137Z
+DTSTAMP:20240116T002034Z
 SUMMARY:[Event] Timeless Travels: GO Battle Day
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-day-timeless-travels/
@@ -106,7 +106,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-february-11-season-17
-DTSTAMP:20240115T002137Z
+DTSTAMP:20240116T002034Z
 SUMMARY:[Event] Unannounced Event - February 11
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-february-11-season-17/
