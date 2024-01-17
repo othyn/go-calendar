@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-fairy-types-2024-01-13
-DTSTAMP:20240116T002034Z
+DTSTAMP:20240117T002036Z
 SUMMARY:[PokéStop Showcase] Fairy-type PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-fairy-types-2024-01-13/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-chansey-blissey-2024-02-04
-DTSTAMP:20240116T002034Z
+DTSTAMP:20240117T002036Z
 SUMMARY:[PokéStop Showcase] Chansey and Blissey PokéStop Showcases
 DESCRIPTION:Starts at 14:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-chansey-blissey-2024-02-04/
