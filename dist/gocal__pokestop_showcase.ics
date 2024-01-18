@@ -10,24 +10,8 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-fairy-types-2024-01-13
-DTSTAMP:20240117T002036Z
-SUMMARY:[PokéStop Showcase] Fairy-type PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-fairy-types-2024-01-13/
-URL:https://leekduck.com/events/pokemon-showcase-fairy-types-2024-01-13/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
- efault.jpg
-DTSTART;VALUE=DATE:20240113
-DTEND;VALUE=DATE:20240116
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-showcase-chansey-blissey-2024-02-04
-DTSTAMP:20240117T002036Z
+DTSTAMP:20240118T002033Z
 SUMMARY:[PokéStop Showcase] Chansey and Blissey PokéStop Showcases
 DESCRIPTION:Starts at 14:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-chansey-blissey-2024-02-04/
