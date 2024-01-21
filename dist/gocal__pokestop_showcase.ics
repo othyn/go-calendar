@@ -10,8 +10,26 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
+UID:pokemon-showcase-mankey-primeape-annihilape-2024-01-21
+DTSTAMP:20240121T002239Z
+SUMMARY:[PokéStop Showcase] Mankey\, Primeape\, and Annihilape PokéStop S
+ howcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-mankey-primeape-annihilape-2024-01-21/
+URL:https://leekduck.com/events/pokemon-showcase-mankey-primeape-annihilape
+ -2024-01-21/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART;VALUE=DATE:20240121
+DTEND;VALUE=DATE:20240124
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:pokemon-showcase-chansey-blissey-2024-02-04
-DTSTAMP:20240120T001948Z
+DTSTAMP:20240121T002239Z
 SUMMARY:[PokéStop Showcase] Chansey and Blissey PokéStop Showcases
 DESCRIPTION:Starts at 14:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-chansey-blissey-2024-02-04/
