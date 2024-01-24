@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:go-battle-week-timeless-travels
-DTSTAMP:20240123T002104Z
+DTSTAMP:20240124T002057Z
 SUMMARY:[Event] GO Battle Week: Timeless Travels
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /go-battle-week-timeless-travels/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raging-battles
-DTSTAMP:20240123T002104Z
+DTSTAMP:20240124T002057Z
 SUMMARY:[Event] Raging Battles
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /raging-battles/
@@ -43,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:taken-treasure
-DTSTAMP:20240123T002104Z
+DTSTAMP:20240124T002057Z
 SUMMARY:[Event] Taken Treasure
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /taken-treasure/
@@ -58,7 +58,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-day-timeless-travels
-DTSTAMP:20240123T002104Z
+DTSTAMP:20240124T002057Z
 SUMMARY:[Event] Timeless Travels: GO Battle Day
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-day-timeless-travels/
@@ -74,7 +74,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-february-11-season-17
-DTSTAMP:20240123T002104Z
+DTSTAMP:20240124T002057Z
 SUMMARY:[Event] Unannounced Event - February 11
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-february-11-season-17/
@@ -83,6 +83,22 @@ IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
  pg
 DTSTART:20240211T140000
 DTEND:20240211T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:road-to-sinnoh
+DTSTAMP:20240124T002057Z
+SUMMARY:[Event] Road to Sinnoh
+DESCRIPTION:Starts at 10:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /road-to-sinnoh/
+URL:https://leekduck.com/events/road-to-sinnoh/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemon-go-tour-sinn
+ oh-global.jpg
+DTSTART;VALUE=DATE:20240219
+DTEND;VALUE=DATE:20240223
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
