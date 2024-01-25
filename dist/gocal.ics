@@ -10,56 +10,8 @@ X-WR-CALDESC:All Pokémon GO events\, in your local time\, auto-updated and
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemonspotlighthour2024-01-23
-DTSTAMP:20240124T002057Z
-SUMMARY:[Pokémon Spotlight Hour] Barboach Spotlight Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2024-01-23/
-URL:https://leekduck.com/events/pokemonspotlighthour2024-01-23/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
- .jpg
-DTSTART:20240123T180000
-DTEND:20240123T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:mega-medicham-in-mega-raids-january-2024
-DTSTAMP:20240124T002057Z
-SUMMARY:[Raid Battles] Mega Medicham in Mega Raids
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /mega-medicham-in-mega-raids-january-2024/
-URL:https://leekduck.com/events/mega-medicham-in-mega-raids-january-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;VALUE=DATE:20240110
-DTEND;VALUE=DATE:20240124
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:thundurus-therian-forme-in-5-star-raid-battles-january-2024
-DTSTAMP:20240124T002057Z
-SUMMARY:[Raid Battles] Thundurus (Therian Forme) in 5-star Raid Battles
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /thundurus-therian-forme-in-5-star-raid-battles-january-2024/
-URL:https://leekduck.com/events/thundurus-therian-forme-in-5-star-raid-batt
- les-january-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/therian-forme-thundu
- rus.jpg
-DTSTART;VALUE=DATE:20240117
-DTEND;VALUE=DATE:20240124
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raidhour20240124
-DTSTAMP:20240124T002057Z
+DTSTAMP:20240125T002100Z
 SUMMARY:[Raid Hour] Landorus (Therian Forme) Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240124/
@@ -74,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-mankey-primeape-annihilape-2024-01-21
-DTSTAMP:20240124T002057Z
+DTSTAMP:20240125T002100Z
 SUMMARY:[PokéStop Showcase] Mankey\, Primeape\, and Annihilape PokéStop S
  howcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -92,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-week-timeless-travels
-DTSTAMP:20240124T002057Z
+DTSTAMP:20240125T002100Z
 SUMMARY:[Event] GO Battle Week: Timeless Travels
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /go-battle-week-timeless-travels/
@@ -108,7 +60,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raging-battles
-DTSTAMP:20240124T002057Z
+DTSTAMP:20240125T002100Z
 SUMMARY:[Event] Raging Battles
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /raging-battles/
@@ -124,7 +76,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-timeless-travels_great-league_ultra-league_master-league-2
-DTSTAMP:20240124T002057Z
+DTSTAMP:20240125T002100Z
 SUMMARY:[GO Battle League] Great League\, Ultra League and Master League | 
  Timeless Travels
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -142,7 +94,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-ho-oh-in-shadow-raids-timeless-travels
-DTSTAMP:20240124T002057Z
+DTSTAMP:20240125T002100Z
 SUMMARY:[Raid Battles] Shadow Ho-Oh in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-ho-oh-in-shadow-raids-timeless-travels/
@@ -159,7 +111,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-01-30
-DTSTAMP:20240124T002057Z
+DTSTAMP:20240125T002100Z
 SUMMARY:[Pokémon Spotlight Hour] Foongus Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-01-30/
@@ -175,7 +127,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-steelix-in-mega-raids-january-2024
-DTSTAMP:20240124T002057Z
+DTSTAMP:20240125T002100Z
 SUMMARY:[Raid Battles] Mega Steelix in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-steelix-in-mega-raids-january-2024/
@@ -190,7 +142,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:landorus-therian-forme-in-5-star-raid-battles-january-2024
-DTSTAMP:20240124T002057Z
+DTSTAMP:20240125T002100Z
 SUMMARY:[Raid Battles] Landorus (Therian Forme) in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /landorus-therian-forme-in-5-star-raid-battles-january-2024/
@@ -207,7 +159,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eggspedition-access-january-ticket
-DTSTAMP:20240124T002057Z
+DTSTAMP:20240125T002100Z
 SUMMARY:[Ticketed Event] Eggs-pedition Access: January
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /eggspedition-access-january-ticket/
@@ -223,7 +175,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:taken-treasure
-DTSTAMP:20240124T002057Z
+DTSTAMP:20240125T002100Z
 SUMMARY:[Event] Taken Treasure
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /taken-treasure/
@@ -238,7 +190,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-timeless-travels_great-league_hisui-cup-great-league-edition
-DTSTAMP:20240124T002057Z
+DTSTAMP:20240125T002100Z
 SUMMARY:[GO Battle League] Great League and Hisui Cup: Great League Edition
   | Timeless Travels
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -256,7 +208,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:february-communityday2024
-DTSTAMP:20240124T002057Z
+DTSTAMP:20240125T002100Z
 SUMMARY:[Community Day] Chansey Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /february-communityday2024/
@@ -272,7 +224,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-chansey-blissey-2024-02-04
-DTSTAMP:20240124T002057Z
+DTSTAMP:20240125T002100Z
 SUMMARY:[PokéStop Showcase] Chansey and Blissey PokéStop Showcases
 DESCRIPTION:Starts at 14:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-chansey-blissey-2024-02-04/
@@ -289,7 +241,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-timeless-travels_ultra-league_hisui-cup-great-league-edition
-DTSTAMP:20240124T002057Z
+DTSTAMP:20240125T002100Z
 SUMMARY:[GO Battle League] Ultra League and Hisui Cup: Great League Edition
   | Timeless Travels
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -307,7 +259,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-day-timeless-travels
-DTSTAMP:20240124T002057Z
+DTSTAMP:20240125T002100Z
 SUMMARY:[Event] Timeless Travels: GO Battle Day
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-day-timeless-travels/
@@ -323,7 +275,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-february-11-season-17
-DTSTAMP:20240124T002057Z
+DTSTAMP:20240125T002100Z
 SUMMARY:[Event] Unannounced Event - February 11
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-february-11-season-17/
@@ -339,7 +291,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-timeless-travels_master-league_evolution-cup-great-league-edition
-DTSTAMP:20240124T002057Z
+DTSTAMP:20240125T002100Z
 SUMMARY:[GO Battle League] Master League and Evolution Cup: Great League Ed
  ition | Timeless Travels
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -357,7 +309,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-sinnoh-los-angeles
-DTSTAMP:20240124T002057Z
+DTSTAMP:20240125T002100Z
 SUMMARY:[Pokémon GO Tour] Pokémon GO Tour: Sinnoh - Los Angeles
 DESCRIPTION:Starts at 17:00\, ends at 01:00.\n\nhttps://leekduck.com/events
  /pokemon-go-tour-sinnoh-los-angeles/
@@ -374,7 +326,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-timeless-travels_catch-cup-little-edition_catch-cup-great-league-ed
  ition
-DTSTAMP:20240124T002057Z
+DTSTAMP:20240125T002100Z
 SUMMARY:[GO Battle League] Catch Cup: Little Edition and Catch Cup: Great L
  eague Edition | Timeless Travels
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -393,7 +345,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:road-to-sinnoh
-DTSTAMP:20240124T002057Z
+DTSTAMP:20240125T002100Z
 SUMMARY:[Event] Road to Sinnoh
 DESCRIPTION:Starts at 10:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /road-to-sinnoh/
@@ -409,7 +361,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-sinnoh-global
-DTSTAMP:20240124T002057Z
+DTSTAMP:20240125T002100Z
 SUMMARY:[Pokémon GO Tour] Pokémon GO Tour: Sinnoh - Global
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-tour-sinnoh-global/
@@ -425,7 +377,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-13-timeless-travels-research-breakthrough
-DTSTAMP:20240124T002057Z
+DTSTAMP:20240125T002100Z
 SUMMARY:[Research Breakthrough] Timeless Travels Research Breakthrough
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-13-timeless-travels-research-breakthrough/
@@ -441,7 +393,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-13-timeless-travels
-DTSTAMP:20240124T002057Z
+DTSTAMP:20240125T002100Z
 SUMMARY:[Season] Timeless Travels
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-13-timeless-travels/
@@ -457,7 +409,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-timeless-travels_great-league_ultra-league_master-league-3
-DTSTAMP:20240124T002057Z
+DTSTAMP:20240125T002100Z
 SUMMARY:[GO Battle League] Great League\, Ultra League and Master League | 
  Timeless Travels
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
