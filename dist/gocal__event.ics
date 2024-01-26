@@ -10,40 +10,8 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:go-battle-week-timeless-travels
-DTSTAMP:20240125T002100Z
-SUMMARY:[Event] GO Battle Week: Timeless Travels
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /go-battle-week-timeless-travels/
-URL:https://leekduck.com/events/go-battle-week-timeless-travels/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-sea
- son-17-timeless-travels.jpg
-DTSTART;VALUE=DATE:20240119
-DTEND;VALUE=DATE:20240124
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:raging-battles
-DTSTAMP:20240125T002100Z
-SUMMARY:[Event] Raging Battles
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /raging-battles/
-URL:https://leekduck.com/events/raging-battles/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raging-battles-annih
- ilape.jpg
-DTSTART;VALUE=DATE:20240119
-DTEND;VALUE=DATE:20240124
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:taken-treasure
-DTSTAMP:20240125T002100Z
+DTSTAMP:20240126T001942Z
 SUMMARY:[Event] Taken Treasure
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /taken-treasure/
@@ -58,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-day-timeless-travels
-DTSTAMP:20240125T002100Z
+DTSTAMP:20240126T001942Z
 SUMMARY:[Event] Timeless Travels: GO Battle Day
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-day-timeless-travels/
@@ -74,7 +42,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-february-11-season-17
-DTSTAMP:20240125T002100Z
+DTSTAMP:20240126T001942Z
 SUMMARY:[Event] Unannounced Event - February 11
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-february-11-season-17/
@@ -89,8 +57,24 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:lunar-new-year-2024
+DTSTAMP:20240126T001942Z
+SUMMARY:[Event] Lunar New Year: Dragons Unleashed
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /lunar-new-year-2024/
+URL:https://leekduck.com/events/lunar-new-year-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/lunar-new-year-2024.
+ jpg
+DTSTART;VALUE=DATE:20240205
+DTEND;VALUE=DATE:20240211
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:road-to-sinnoh
-DTSTAMP:20240125T002100Z
+DTSTAMP:20240126T001942Z
 SUMMARY:[Event] Road to Sinnoh
 DESCRIPTION:Starts at 10:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /road-to-sinnoh/
