@@ -10,24 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Battles events\, in your local time\, aut
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:shadow-ho-oh-in-shadow-raids-timeless-travels
-DTSTAMP:20240129T001957Z
-SUMMARY:[Raid Battles] Shadow Ho-Oh in Shadow Raids
-DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
- /shadow-ho-oh-in-shadow-raids-timeless-travels/
-URL:https://leekduck.com/events/shadow-ho-oh-in-shadow-raids-timeless-trave
- ls/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/shadow-ho-oh.jpg
-DTSTART:20240127T060000
-DTEND:20240128T220000
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:mega-steelix-in-mega-raids-january-2024
-DTSTAMP:20240129T001957Z
+DTSTAMP:20240130T001909Z
 SUMMARY:[Raid Battles] Mega Steelix in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-steelix-in-mega-raids-january-2024/
@@ -42,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:landorus-therian-forme-in-5-star-raid-battles-january-2024
-DTSTAMP:20240129T001957Z
+DTSTAMP:20240130T001909Z
 SUMMARY:[Raid Battles] Landorus (Therian Forme) in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /landorus-therian-forme-in-5-star-raid-battles-january-2024/

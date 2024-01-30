@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:eggspedition-access-january-ticket
-DTSTAMP:20240129T001957Z
+DTSTAMP:20240130T001909Z
 SUMMARY:[Ticketed Event] Eggs-pedition Access: January
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /eggspedition-access-january-ticket/
@@ -20,6 +20,22 @@ IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/eggspedition-access-
  january.jpg
 DTSTART;VALUE=DATE:20240101
 DTEND;VALUE=DATE:20240131
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eggspedition-access-february-ticket
+DTSTAMP:20240130T001909Z
+SUMMARY:[Ticketed Event] Eggs-pedition Access: February
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /eggspedition-access-february-ticket/
+URL:https://leekduck.com/events/eggspedition-access-february-ticket/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/eggspedition-access-
+ february.jpg
+DTSTART;VALUE=DATE:20240201
+DTEND;VALUE=DATE:20240229
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
