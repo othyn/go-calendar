@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-01-30
-DTSTAMP:20240130T001909Z
+DTSTAMP:20240131T001936Z
 SUMMARY:[Pokémon Spotlight Hour] Foongus Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-01-30/
@@ -20,6 +20,55 @@ IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
  .jpg
 DTSTART:20240130T180000
 DTEND:20240130T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-02-06
+DTSTAMP:20240131T001936Z
+SUMMARY:[Pokémon Spotlight Hour] Dratini Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-02-06/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-02-06/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20240206T180000
+DTEND:20240206T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-02-13
+DTSTAMP:20240131T001936Z
+SUMMARY:[Pokémon Spotlight Hour] Munna Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-02-13/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-02-13/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20240213T180000
+DTEND:20240213T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-02-27
+DTSTAMP:20240131T001936Z
+SUMMARY:[Pokémon Spotlight Hour] Sandshrew and Alolan Sandshrew Spotlight 
+ Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-02-27/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-02-27/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20240227T180000
+DTEND:20240227T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M

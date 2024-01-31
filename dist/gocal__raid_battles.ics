@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:mega-steelix-in-mega-raids-january-2024
-DTSTAMP:20240130T001909Z
+DTSTAMP:20240131T001936Z
 SUMMARY:[Raid Battles] Mega Steelix in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-steelix-in-mega-raids-january-2024/
@@ -26,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:landorus-therian-forme-in-5-star-raid-battles-january-2024
-DTSTAMP:20240130T001909Z
+DTSTAMP:20240131T001936Z
 SUMMARY:[Raid Battles] Landorus (Therian Forme) in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /landorus-therian-forme-in-5-star-raid-battles-january-2024/
@@ -36,6 +36,189 @@ IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/therian-forme-tornad
  us.jpg
 DTSTART;VALUE=DATE:20240124
 DTEND;VALUE=DATE:20240131
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-latias-mega-latios-in-mega-raid-battles-january-2024
+DTSTAMP:20240131T001936Z
+SUMMARY:[Raid Battles] Mega Latias and Mega Latios in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-latias-mega-latios-in-mega-raid-battles-january-2024/
+URL:https://leekduck.com/events/mega-latias-mega-latios-in-mega-raid-battle
+ s-january-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-latios-mega-lat
+ ias.jpg
+DTSTART;VALUE=DATE:20240131
+DTEND;VALUE=DATE:20240215
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:darkrai-in-5-star-raid-battles-february-2024y
+DTSTAMP:20240131T001936Z
+SUMMARY:[Raid Battles] Darkrai in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /darkrai-in-5-star-raid-battles-february-2024y/
+URL:https://leekduck.com/events/darkrai-in-5-star-raid-battles-february-202
+ 4y/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/darkrai.jpg
+DTSTART;VALUE=DATE:20240215
+DTEND;VALUE=DATE:20240220
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cresselia-in-5-star-raid-battles-february-2024
+DTSTAMP:20240131T001936Z
+SUMMARY:[Raid Battles] Cresselia in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /cresselia-in-5-star-raid-battles-february-2024/
+URL:https://leekduck.com/events/cresselia-in-5-star-raid-battles-february-2
+ 024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/legendary-cresselia.
+ jpg
+DTSTART:20240220T100000
+DTEND:20240221T100000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-absol-in-mega-raids-february-2024
+DTSTAMP:20240131T001936Z
+SUMMARY:[Raid Battles] Mega Absol in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-absol-in-mega-raids-february-2024/
+URL:https://leekduck.com/events/mega-absol-in-mega-raids-february-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20240215
+DTEND;VALUE=DATE:20240222
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uxie-mesprit-azelf-in-5-star-raid-battles-february-2024
+DTSTAMP:20240131T001936Z
+SUMMARY:[Raid Battles] Uxie\, Mesprit\, and Azelf in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /uxie-mesprit-azelf-in-5-star-raid-battles-february-2024/
+URL:https://leekduck.com/events/uxie-mesprit-azelf-in-5-star-raid-battles-f
+ ebruary-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/lakeguardians.jpg
+DTSTART:20240221T100000
+DTEND:20240222T100000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:heatran-in-5-star-raid-battles-february-2024
+DTSTAMP:20240131T001936Z
+SUMMARY:[Raid Battles] Heatran in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /heatran-in-5-star-raid-battles-february-2024/
+URL:https://leekduck.com/events/heatran-in-5-star-raid-battles-february-202
+ 4/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/heatran-raids.jpg
+DTSTART:20240222T100000
+DTEND:20240223T100000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:origin-forme-giratina-in-5-star-raid-battles-february-2024
+DTSTAMP:20240131T001936Z
+SUMMARY:[Raid Battles] Origin Forme Giratina in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /origin-forme-giratina-in-5-star-raid-battles-february-2024/
+URL:https://leekduck.com/events/origin-forme-giratina-in-5-star-raid-battle
+ s-february-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/giratinaoriginforme.
+ jpg
+DTSTART:20240223T100000
+DTEND:20240224T100000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shadow-moltre-in-shadow-raids-timeless-travels
+DTSTAMP:20240131T001936Z
+SUMMARY:[Raid Battles] Shadow Articuno in Shadow Raids
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /shadow-moltre-in-shadow-raids-timeless-travels/
+URL:https://leekduck.com/events/shadow-moltre-in-shadow-raids-timeless-trav
+ els/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART;VALUE=DATE:20240203
+DTEND;VALUE=DATE:20240224
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dialga-origin-forme-dialga-palkia-origin-forme-palkia-in-5-star-raid-ba
+ ttles-february-2024
+DTSTAMP:20240131T001936Z
+SUMMARY:[Raid Battles] Dialga\, Origin Forme Dialga\, Palkia\, and Origin F
+ orme Palkia in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
+ /dialga-origin-forme-dialga-palkia-origin-forme-palkia-in-5-star-raid-batt
+ les-february-2024/
+URL:https://leekduck.com/events/dialga-origin-forme-dialga-palkia-origin-fo
+ rme-palkia-in-5-star-raid-battles-february-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/origin-forme-dialga-
+ origin-forme-palkia.jpg
+DTSTART:20240224T100000
+DTEND:20240225T180000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-garchomp-in-mega-raids-february-2024
+DTSTAMP:20240131T001936Z
+SUMMARY:[Raid Battles] Mega Garchomp in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-garchomp-in-mega-raids-february-2024/
+URL:https://leekduck.com/events/mega-garchomp-in-mega-raids-february-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20240222
+DTEND;VALUE=DATE:20240301
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cresselia-heatran-in-5-star-raid-battles-february-2024
+DTSTAMP:20240131T001936Z
+SUMMARY:[Raid Battles] Cresselia and Heatran in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /cresselia-heatran-in-5-star-raid-battles-february-2024/
+URL:https://leekduck.com/events/cresselia-heatran-in-5-star-raid-battles-fe
+ bruary-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cresselia-heatran.jp
+ g
+DTSTART;VALUE=DATE:20240226
+DTEND;VALUE=DATE:20240301
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M

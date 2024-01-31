@@ -3,6 +3,10 @@
         "name": "Community Day",
         "url": "https:\/\/github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__community_day.ics"
     },
+    "elite_raids": {
+        "name": "Elite Raids",
+        "url": "https:\/\/github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__elite_raids.ics"
+    },
     "event": {
         "name": "Event",
         "url": "https:\/\/github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__event.ics"
@@ -30,6 +34,14 @@
     "raid_battles": {
         "name": "Raid Battles",
         "url": "https:\/\/github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__raid_battles.ics"
+    },
+    "raid_day": {
+        "name": "Raid Day",
+        "url": "https:\/\/github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__raid_day.ics"
+    },
+    "raid_hour": {
+        "name": "Raid Hour",
+        "url": "https:\/\/github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__raid_hour.ics"
     },
     "research_breakthrough": {
         "name": "Research Breakthrough",
