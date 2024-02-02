@@ -10,24 +10,8 @@ X-WR-CALDESC:All Pokémon GO Ticketed Event events\, in your local time\, a
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:eggspedition-access-january-ticket
-DTSTAMP:20240201T002023Z
-SUMMARY:[Ticketed Event] Eggs-pedition Access: January
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /eggspedition-access-january-ticket/
-URL:https://leekduck.com/events/eggspedition-access-january-ticket/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/eggspedition-access-
- january.jpg
-DTSTART;VALUE=DATE:20240101
-DTEND;VALUE=DATE:20240131
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:eggspedition-access-february-ticket
-DTSTAMP:20240201T002023Z
+DTSTAMP:20240202T001913Z
 SUMMARY:[Ticketed Event] Eggs-pedition Access: February
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /eggspedition-access-february-ticket/
