@@ -10,26 +10,8 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-scraggy-pancham-varoom-2024-01-27
-DTSTAMP:20240202T001913Z
-SUMMARY:[PokéStop Showcase] Scraggy\, Pancham\, and Varoom PokéStop Showc
- ases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-scraggy-pancham-varoom-2024-01-27/
-URL:https://leekduck.com/events/pokemon-showcase-scraggy-pancham-varoom-202
- 4-01-27/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
- efault.jpg
-DTSTART;VALUE=DATE:20240127
-DTEND;VALUE=DATE:20240201
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-showcase-chansey-blissey-2024-02-04
-DTSTAMP:20240202T001913Z
+DTSTAMP:20240203T002228Z
 SUMMARY:[PokéStop Showcase] Chansey and Blissey PokéStop Showcases
 DESCRIPTION:Starts at 14:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-chansey-blissey-2024-02-04/
