@@ -24,7 +24,7 @@ class CalendarManifest
             eventType: $eventType,
             calendar: Calendar::create()
                 ->name(
-                    name: 'GO Calendar - ' . $eventType->title
+                    name: 'GO Calendar - ' . $eventType->title . ($eventType->title == CalendarService::EVERYTHING_CALENDAR_NAME ? '' : ' (' . acronymForEventType($eventType) . ')')
                 )
                 ->description(
                     description: 'All Pokémon GO ' . ($eventType->title == CalendarService::EVERYTHING_CALENDAR_NAME ? '' : "{$eventType->title} ") . 'events, in your local time, auto-updated and sourced from Leek Duck.'

@@ -51,15 +51,17 @@ class LeekDuckEvent
             date: $endDate
         );
 
+        $eventType = LeekDuckEventType::create(
+            name: $event['eventType'],
+            heading: $event['heading']
+        );
+
         return new self(
             eventId: $event['eventID'],
             name: $event['name'],
-            title: "[{$event['heading']}] {$event['name']}",
+            title: '[' . acronymForEventType($eventType) . "] {$event['name']}",
             description: 'Starts at ' . $startDate->format(format: 'H:i') . ', ends at ' . $endDate->format(format: 'H:i') . ".\n\n{$event['link']}",
-            type: LeekDuckEventType::create(
-                name: $event['eventType'],
-                heading: $event['heading']
-            ),
+            type: $eventType,
             link: $event['link'],
             imageUrl: $event['image'],
             startDateString: $event['start'],
