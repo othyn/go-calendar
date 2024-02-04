@@ -139,7 +139,8 @@ class LeekDuckEvent
                 url: $this->imageUrl
             )
             ->alertMinutesBefore(
-                minutes: 15
+                minutes: 15,
+                message: $this->title
             )
             ->startsAt(
                 starts: $this->startDate
