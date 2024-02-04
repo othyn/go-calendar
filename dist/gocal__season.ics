@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:spatie/icalendar-generator
-NAME:GO Calendar - Season
-X-WR-CALNAME:GO Calendar - Season
+NAME:GO Calendar - Season (S)
+X-WR-CALNAME:GO Calendar - Season (S)
 DESCRIPTION:All Pokémon GO Season events\, in your local time\, auto-updat
  ed and sourced from Leek Duck.
 X-WR-CALDESC:All Pokémon GO Season events\, in your local time\, auto-upda
@@ -11,8 +11,8 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:season-13-timeless-travels
-DTSTAMP:20240204T002126Z
-SUMMARY:[Season] Timeless Travels
+DTSTAMP:20240204T223640Z
+SUMMARY:[S] Timeless Travels
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-13-timeless-travels/
 URL:https://leekduck.com/events/season-13-timeless-travels/

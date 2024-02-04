@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:spatie/icalendar-generator
-NAME:GO Calendar - Raid Hour
-X-WR-CALNAME:GO Calendar - Raid Hour
+NAME:GO Calendar - Raid Hour (RH)
+X-WR-CALNAME:GO Calendar - Raid Hour (RH)
 DESCRIPTION:All Pokémon GO Raid Hour events\, in your local time\, auto-up
  dated and sourced from Leek Duck.
 X-WR-CALDESC:All Pokémon GO Raid Hour events\, in your local time\, auto-u
@@ -11,8 +11,8 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:raidhour20240207
-DTSTAMP:20240204T002126Z
-SUMMARY:[Raid Hour] Mega Latios Raid Hour
+DTSTAMP:20240204T223640Z
+SUMMARY:[RH] Mega Latios Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240207/
 URL:https://leekduck.com/events/raidhour20240207/
@@ -26,8 +26,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240219
-DTSTAMP:20240204T002126Z
-SUMMARY:[Raid Hour] Darkrai Raid Hour
+DTSTAMP:20240204T223640Z
+SUMMARY:[RH] Darkrai Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240219/
 URL:https://leekduck.com/events/raidhour20240219/
@@ -41,8 +41,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240220
-DTSTAMP:20240204T002126Z
-SUMMARY:[Raid Hour] Cresselia Raid Hour
+DTSTAMP:20240204T223640Z
+SUMMARY:[RH] Cresselia Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240220/
 URL:https://leekduck.com/events/raidhour20240220/
@@ -56,8 +56,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240221
-DTSTAMP:20240204T002126Z
-SUMMARY:[Raid Hour] Uxie\, Mesprit\, and Azelf Raid Hour
+DTSTAMP:20240204T223640Z
+SUMMARY:[RH] Uxie\, Mesprit\, and Azelf Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240221/
 URL:https://leekduck.com/events/raidhour20240221/
@@ -71,8 +71,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240222
-DTSTAMP:20240204T002126Z
-SUMMARY:[Raid Hour] Heatran Raid Hour
+DTSTAMP:20240204T223640Z
+SUMMARY:[RH] Heatran Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240222/
 URL:https://leekduck.com/events/raidhour20240222/
@@ -86,8 +86,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240223
-DTSTAMP:20240204T002126Z
-SUMMARY:[Raid Hour] Origin Forme Giratina Raid Hour
+DTSTAMP:20240204T223640Z
+SUMMARY:[RH] Origin Forme Giratina Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240223/
 URL:https://leekduck.com/events/raidhour20240223/
@@ -101,8 +101,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240228
-DTSTAMP:20240204T002126Z
-SUMMARY:[Raid Hour] Cresselia and Heatran Raid Hour
+DTSTAMP:20240204T223640Z
+SUMMARY:[RH] Cresselia and Heatran Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240228/
 URL:https://leekduck.com/events/raidhour20240228/

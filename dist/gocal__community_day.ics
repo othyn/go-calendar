@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:spatie/icalendar-generator
-NAME:GO Calendar - Community Day
-X-WR-CALNAME:GO Calendar - Community Day
+NAME:GO Calendar - Community Day (CD)
+X-WR-CALNAME:GO Calendar - Community Day (CD)
 DESCRIPTION:All Pokémon GO Community Day events\, in your local time\, aut
  o-updated and sourced from Leek Duck.
 X-WR-CALDESC:All Pokémon GO Community Day events\, in your local time\, au
@@ -11,8 +11,8 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:february-communityday2024
-DTSTAMP:20240204T002126Z
-SUMMARY:[Community Day] Chansey Community Day
+DTSTAMP:20240204T223640Z
+SUMMARY:[CD] Chansey Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /february-communityday2024/
 URL:https://leekduck.com/events/february-communityday2024/

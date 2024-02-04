@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:spatie/icalendar-generator
-NAME:GO Calendar - Pokémon GO Tour
-X-WR-CALNAME:GO Calendar - Pokémon GO Tour
+NAME:GO Calendar - Pokémon GO Tour (PGT)
+X-WR-CALNAME:GO Calendar - Pokémon GO Tour (PGT)
 DESCRIPTION:All Pokémon GO Pokémon GO Tour events\, in your local time\, 
  auto-updated and sourced from Leek Duck.
 X-WR-CALDESC:All Pokémon GO Pokémon GO Tour events\, in your local time\,
@@ -11,8 +11,8 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-go-tour-sinnoh-los-angeles
-DTSTAMP:20240204T002126Z
-SUMMARY:[Pokémon GO Tour] Pokémon GO Tour: Sinnoh - Los Angeles
+DTSTAMP:20240204T223640Z
+SUMMARY:[PGT] Pokémon GO Tour: Sinnoh - Los Angeles
 DESCRIPTION:Starts at 17:00\, ends at 01:00.\n\nhttps://leekduck.com/events
  /pokemon-go-tour-sinnoh-los-angeles/
 URL:https://leekduck.com/events/pokemon-go-tour-sinnoh-los-angeles/
@@ -27,8 +27,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-sinnoh-global
-DTSTAMP:20240204T002126Z
-SUMMARY:[Pokémon GO Tour] Pokémon GO Tour: Sinnoh - Global
+DTSTAMP:20240204T223640Z
+SUMMARY:[PGT] Pokémon GO Tour: Sinnoh - Global
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-tour-sinnoh-global/
 URL:https://leekduck.com/events/pokemon-go-tour-sinnoh-global/

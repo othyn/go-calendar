@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:spatie/icalendar-generator
-NAME:GO Calendar - Pokémon Spotlight Hour
-X-WR-CALNAME:GO Calendar - Pokémon Spotlight Hour
+NAME:GO Calendar - Pokémon Spotlight Hour (PSH)
+X-WR-CALNAME:GO Calendar - Pokémon Spotlight Hour (PSH)
 DESCRIPTION:All Pokémon GO Pokémon Spotlight Hour events\, in your local 
  time\, auto-updated and sourced from Leek Duck.
 X-WR-CALDESC:All Pokémon GO Pokémon Spotlight Hour events\, in your local
@@ -11,8 +11,8 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-02-06
-DTSTAMP:20240204T002126Z
-SUMMARY:[Pokémon Spotlight Hour] Dratini Spotlight Hour
+DTSTAMP:20240204T223640Z
+SUMMARY:[PSH] Dratini Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-02-06/
 URL:https://leekduck.com/events/pokemonspotlighthour2024-02-06/
@@ -27,8 +27,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-02-13
-DTSTAMP:20240204T002126Z
-SUMMARY:[Pokémon Spotlight Hour] Munna Spotlight Hour
+DTSTAMP:20240204T223640Z
+SUMMARY:[PSH] Munna Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-02-13/
 URL:https://leekduck.com/events/pokemonspotlighthour2024-02-13/
@@ -43,9 +43,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-02-27
-DTSTAMP:20240204T002126Z
-SUMMARY:[Pokémon Spotlight Hour] Sandshrew and Alolan Sandshrew Spotlight 
- Hour
+DTSTAMP:20240204T223640Z
+SUMMARY:[PSH] Sandshrew and Alolan Sandshrew Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-02-27/
 URL:https://leekduck.com/events/pokemonspotlighthour2024-02-27/

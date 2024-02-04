@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:spatie/icalendar-generator
-NAME:GO Calendar - Ticketed Event
-X-WR-CALNAME:GO Calendar - Ticketed Event
+NAME:GO Calendar - Ticketed Event (TE)
+X-WR-CALNAME:GO Calendar - Ticketed Event (TE)
 DESCRIPTION:All Pokémon GO Ticketed Event events\, in your local time\, au
  to-updated and sourced from Leek Duck.
 X-WR-CALDESC:All Pokémon GO Ticketed Event events\, in your local time\, a
@@ -11,8 +11,8 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:eggspedition-access-february-ticket
-DTSTAMP:20240204T002126Z
-SUMMARY:[Ticketed Event] Eggs-pedition Access: February
+DTSTAMP:20240204T223640Z
+SUMMARY:[TE] Eggs-pedition Access: February
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /eggspedition-access-february-ticket/
 URL:https://leekduck.com/events/eggspedition-access-february-ticket/

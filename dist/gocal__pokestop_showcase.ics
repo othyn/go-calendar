@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:spatie/icalendar-generator
-NAME:GO Calendar - PokéStop Showcase
-X-WR-CALNAME:GO Calendar - PokéStop Showcase
+NAME:GO Calendar - PokéStop Showcase (PS)
+X-WR-CALNAME:GO Calendar - PokéStop Showcase (PS)
 DESCRIPTION:All Pokémon GO PokéStop Showcase events\, in your local time\
  , auto-updated and sourced from Leek Duck.
 X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
@@ -11,16 +11,33 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-chansey-blissey-2024-02-04
-DTSTAMP:20240204T002126Z
-SUMMARY:[PokéStop Showcase] Chansey and Blissey PokéStop Showcases
-DESCRIPTION:Starts at 14:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+DTSTAMP:20240204T223640Z
+SUMMARY:[PS] Happiny\, Chansey and Blissey PokéStop Showcases
+DESCRIPTION:Starts at 14:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-chansey-blissey-2024-02-04/
 URL:https://leekduck.com/events/pokemon-showcase-chansey-blissey-2024-02-04
  /
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
  efault.jpg
 DTSTART:20240204T140000
-DTEND:20240204T200000
+DTEND:20240204T220000
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-druddigon-turtonator-drampa-2024-02-05
+DTSTAMP:20240204T223640Z
+SUMMARY:[PS] Druddigon\, Turtonator\, and Drampa PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-druddigon-turtonator-drampa-2024-02-05/
+URL:https://leekduck.com/events/pokemon-showcase-druddigon-turtonator-dramp
+ a-2024-02-05/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART;VALUE=DATE:20240205
+DTEND;VALUE=DATE:20240208
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M

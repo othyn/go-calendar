@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:spatie/icalendar-generator
-NAME:GO Calendar - Research Breakthrough
-X-WR-CALNAME:GO Calendar - Research Breakthrough
+NAME:GO Calendar - Research Breakthrough (RBT)
+X-WR-CALNAME:GO Calendar - Research Breakthrough (RBT)
 DESCRIPTION:All Pokémon GO Research Breakthrough events\, in your local ti
  me\, auto-updated and sourced from Leek Duck.
 X-WR-CALDESC:All Pokémon GO Research Breakthrough events\, in your local t
@@ -11,8 +11,8 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:season-13-timeless-travels-research-breakthrough
-DTSTAMP:20240204T002126Z
-SUMMARY:[Research Breakthrough] Timeless Travels Research Breakthrough
+DTSTAMP:20240204T223640Z
+SUMMARY:[RBT] Timeless Travels Research Breakthrough
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-13-timeless-travels-research-breakthrough/
 URL:https://leekduck.com/events/season-13-timeless-travels-research-breakth

@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:spatie/icalendar-generator
-NAME:GO Calendar - Event
-X-WR-CALNAME:GO Calendar - Event
+NAME:GO Calendar - Event (E)
+X-WR-CALNAME:GO Calendar - Event (E)
 DESCRIPTION:All Pokémon GO Event events\, in your local time\, auto-update
  d and sourced from Leek Duck.
 X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
@@ -11,8 +11,8 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:go-battle-day-timeless-travels
-DTSTAMP:20240204T002126Z
-SUMMARY:[Event] Timeless Travels: GO Battle Day
+DTSTAMP:20240204T223640Z
+SUMMARY:[E] Timeless Travels: GO Battle Day
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-day-timeless-travels/
 URL:https://leekduck.com/events/go-battle-day-timeless-travels/
@@ -27,8 +27,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lunar-new-year-2024
-DTSTAMP:20240204T002126Z
-SUMMARY:[Event] Lunar New Year: Dragons Unleashed
+DTSTAMP:20240204T223640Z
+SUMMARY:[E] Lunar New Year: Dragons Unleashed
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /lunar-new-year-2024/
 URL:https://leekduck.com/events/lunar-new-year-2024/
@@ -43,8 +43,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:carnival-of-love
-DTSTAMP:20240204T002126Z
-SUMMARY:[Event] Carnival of Love
+DTSTAMP:20240204T223640Z
+SUMMARY:[E] Carnival of Love
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /carnival-of-love/
 URL:https://leekduck.com/events/carnival-of-love/
@@ -58,8 +58,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:road-to-sinnoh
-DTSTAMP:20240204T002126Z
-SUMMARY:[Event] Road to Sinnoh
+DTSTAMP:20240204T223640Z
+SUMMARY:[E] Road to Sinnoh
 DESCRIPTION:Starts at 10:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /road-to-sinnoh/
 URL:https://leekduck.com/events/road-to-sinnoh/
