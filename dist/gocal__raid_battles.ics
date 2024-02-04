@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:mega-latias-mega-latios-in-mega-raid-battles-january-2024
-DTSTAMP:20240204T223640Z
+DTSTAMP:20240204T232446Z
 SUMMARY:[RB] Mega Latias and Mega Latios in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-latias-mega-latios-in-mega-raid-battles-january-2024/
@@ -23,12 +23,13 @@ DTSTART;VALUE=DATE:20240131
 DTEND;VALUE=DATE:20240215
 BEGIN:VALARM
 ACTION:DISPLAY
+DESCRIPTION:[RB] Mega Latias and Mega Latios in Mega Raids
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darkrai-in-5-star-raid-battles-february-2024y
-DTSTAMP:20240204T223640Z
+DTSTAMP:20240204T232446Z
 SUMMARY:[RB] Darkrai in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /darkrai-in-5-star-raid-battles-february-2024y/
@@ -39,12 +40,13 @@ DTSTART;VALUE=DATE:20240215
 DTEND;VALUE=DATE:20240220
 BEGIN:VALARM
 ACTION:DISPLAY
+DESCRIPTION:[RB] Darkrai in 5-star Raid Battles
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cresselia-in-5-star-raid-battles-february-2024
-DTSTAMP:20240204T223640Z
+DTSTAMP:20240204T232446Z
 SUMMARY:[RB] Cresselia in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /cresselia-in-5-star-raid-battles-february-2024/
@@ -56,12 +58,13 @@ DTSTART:20240220T100000
 DTEND:20240221T100000
 BEGIN:VALARM
 ACTION:DISPLAY
+DESCRIPTION:[RB] Cresselia in 5-star Raid Battles
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-absol-in-mega-raids-february-2024
-DTSTAMP:20240204T223640Z
+DTSTAMP:20240204T232446Z
 SUMMARY:[RB] Mega Absol in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-absol-in-mega-raids-february-2024/
@@ -71,12 +74,13 @@ DTSTART;VALUE=DATE:20240215
 DTEND;VALUE=DATE:20240222
 BEGIN:VALARM
 ACTION:DISPLAY
+DESCRIPTION:[RB] Mega Absol in Mega Raids
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:uxie-mesprit-azelf-in-5-star-raid-battles-february-2024
-DTSTAMP:20240204T223640Z
+DTSTAMP:20240204T232446Z
 SUMMARY:[RB] Uxie\, Mesprit\, and Azelf in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /uxie-mesprit-azelf-in-5-star-raid-battles-february-2024/
@@ -87,12 +91,13 @@ DTSTART:20240221T100000
 DTEND:20240222T100000
 BEGIN:VALARM
 ACTION:DISPLAY
+DESCRIPTION:[RB] Uxie\, Mesprit\, and Azelf in 5-star Raid Battles
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:heatran-in-5-star-raid-battles-february-2024
-DTSTAMP:20240204T223640Z
+DTSTAMP:20240204T232446Z
 SUMMARY:[RB] Heatran in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /heatran-in-5-star-raid-battles-february-2024/
@@ -103,12 +108,13 @@ DTSTART:20240222T100000
 DTEND:20240223T100000
 BEGIN:VALARM
 ACTION:DISPLAY
+DESCRIPTION:[RB] Heatran in 5-star Raid Battles
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:origin-forme-giratina-in-5-star-raid-battles-february-2024
-DTSTAMP:20240204T223640Z
+DTSTAMP:20240204T232446Z
 SUMMARY:[RB] Origin Forme Giratina in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /origin-forme-giratina-in-5-star-raid-battles-february-2024/
@@ -120,12 +126,13 @@ DTSTART:20240223T100000
 DTEND:20240224T100000
 BEGIN:VALARM
 ACTION:DISPLAY
+DESCRIPTION:[RB] Origin Forme Giratina in 5-star Raid Battles
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-moltre-in-shadow-raids-timeless-travels
-DTSTAMP:20240204T223640Z
+DTSTAMP:20240204T232446Z
 SUMMARY:[RB] Shadow Articuno in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-moltre-in-shadow-raids-timeless-travels/
@@ -137,13 +144,14 @@ DTSTART;VALUE=DATE:20240203
 DTEND;VALUE=DATE:20240224
 BEGIN:VALARM
 ACTION:DISPLAY
+DESCRIPTION:[RB] Shadow Articuno in Shadow Raids
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dialga-origin-forme-dialga-palkia-origin-forme-palkia-in-5-star-raid-ba
  ttles-february-2024
-DTSTAMP:20240204T223640Z
+DTSTAMP:20240204T232446Z
 SUMMARY:[RB] Dialga\, Origin Forme Dialga\, Palkia\, and Origin Forme Palki
  a in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
@@ -157,12 +165,14 @@ DTSTART:20240224T100000
 DTEND:20240225T180000
 BEGIN:VALARM
 ACTION:DISPLAY
+DESCRIPTION:[RB] Dialga\, Origin Forme Dialga\, Palkia\, and Origin Forme P
+ alkia in 5-star Raid Battles
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-garchomp-in-mega-raids-february-2024
-DTSTAMP:20240204T223640Z
+DTSTAMP:20240204T232446Z
 SUMMARY:[RB] Mega Garchomp in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-garchomp-in-mega-raids-february-2024/
@@ -172,12 +182,13 @@ DTSTART;VALUE=DATE:20240222
 DTEND;VALUE=DATE:20240301
 BEGIN:VALARM
 ACTION:DISPLAY
+DESCRIPTION:[RB] Mega Garchomp in Mega Raids
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cresselia-heatran-in-5-star-raid-battles-february-2024
-DTSTAMP:20240204T223640Z
+DTSTAMP:20240204T232446Z
 SUMMARY:[RB] Cresselia and Heatran in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /cresselia-heatran-in-5-star-raid-battles-february-2024/
@@ -189,6 +200,7 @@ DTSTART;VALUE=DATE:20240226
 DTEND;VALUE=DATE:20240301
 BEGIN:VALARM
 ACTION:DISPLAY
+DESCRIPTION:[RB] Cresselia and Heatran in 5-star Raid Battles
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

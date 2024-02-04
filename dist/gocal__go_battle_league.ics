@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:gbl-timeless-travels_ultra-league_hisui-cup-great-league-edition
-DTSTAMP:20240204T223640Z
+DTSTAMP:20240204T232446Z
 SUMMARY:[GBL] Ultra League and Hisui Cup: Great League Edition | Timeless T
  ravels
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -24,12 +24,14 @@ DTSTART;VALUE=DATE:20240202
 DTEND;VALUE=DATE:20240209
 BEGIN:VALARM
 ACTION:DISPLAY
+DESCRIPTION:[GBL] Ultra League and Hisui Cup: Great League Edition | Timele
+ ss Travels
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-timeless-travels_master-league_evolution-cup-great-league-edition
-DTSTAMP:20240204T223640Z
+DTSTAMP:20240204T232446Z
 SUMMARY:[GBL] Master League and Evolution Cup: Great League Edition | Timel
  ess Travels
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -42,13 +44,15 @@ DTSTART;VALUE=DATE:20240209
 DTEND;VALUE=DATE:20240216
 BEGIN:VALARM
 ACTION:DISPLAY
+DESCRIPTION:[GBL] Master League and Evolution Cup: Great League Edition | T
+ imeless Travels
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-timeless-travels_catch-cup-little-edition_catch-cup-great-league-ed
  ition
-DTSTAMP:20240204T223640Z
+DTSTAMP:20240204T232446Z
 SUMMARY:[GBL] Catch Cup: Little Edition and Catch Cup: Great League Edition
   | Timeless Travels
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -62,12 +66,14 @@ DTSTART;VALUE=DATE:20240216
 DTEND;VALUE=DATE:20240223
 BEGIN:VALARM
 ACTION:DISPLAY
+DESCRIPTION:[GBL] Catch Cup: Little Edition and Catch Cup: Great League Edi
+ tion | Timeless Travels
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-timeless-travels_great-league_ultra-league_master-league-3
-DTSTAMP:20240204T223640Z
+DTSTAMP:20240204T232446Z
 SUMMARY:[GBL] Great League\, Ultra League and Master League | Timeless Trav
  els
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -80,6 +86,8 @@ DTSTART;VALUE=DATE:20240223
 DTEND;VALUE=DATE:20240301
 BEGIN:VALARM
 ACTION:DISPLAY
+DESCRIPTION:[GBL] Great League\, Ultra League and Master League | Timeless 
+ Travels
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

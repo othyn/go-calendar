@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-chansey-blissey-2024-02-04
-DTSTAMP:20240204T223640Z
+DTSTAMP:20240204T232446Z
 SUMMARY:[PS] Happiny\, Chansey and Blissey PokéStop Showcases
 DESCRIPTION:Starts at 14:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-chansey-blissey-2024-02-04/
@@ -23,12 +23,13 @@ DTSTART:20240204T140000
 DTEND:20240204T220000
 BEGIN:VALARM
 ACTION:DISPLAY
+DESCRIPTION:[PS] Happiny\, Chansey and Blissey PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-druddigon-turtonator-drampa-2024-02-05
-DTSTAMP:20240204T223640Z
+DTSTAMP:20240204T232446Z
 SUMMARY:[PS] Druddigon\, Turtonator\, and Drampa PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-druddigon-turtonator-drampa-2024-02-05/
@@ -40,6 +41,7 @@ DTSTART;VALUE=DATE:20240205
 DTEND;VALUE=DATE:20240208
 BEGIN:VALARM
 ACTION:DISPLAY
+DESCRIPTION:[PS] Druddigon\, Turtonator\, and Drampa PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

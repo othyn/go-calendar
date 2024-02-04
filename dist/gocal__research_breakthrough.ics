@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:season-13-timeless-travels-research-breakthrough
-DTSTAMP:20240204T223640Z
+DTSTAMP:20240204T232446Z
 SUMMARY:[RBT] Timeless Travels Research Breakthrough
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-13-timeless-travels-research-breakthrough/
@@ -22,6 +22,7 @@ DTSTART;VALUE=DATE:20231201
 DTEND;VALUE=DATE:20240301
 BEGIN:VALARM
 ACTION:DISPLAY
+DESCRIPTION:[RBT] Timeless Travels Research Breakthrough
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
