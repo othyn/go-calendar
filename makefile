@@ -32,3 +32,6 @@ gen: up
 .PHONY: site
 site: up
 	$(call gocal,site)
+
+.PHONY: all
+all: gen site

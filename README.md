@@ -38,7 +38,7 @@ make build
 # Bring up/define in waiting the Docker containers for the project in detached mode
 make up
 
-# Tear down the running containers 
+# Tear down the running containers
 make down
 
 # Tear down and bring back up the containers for the project, shortcut for:
@@ -51,11 +51,14 @@ make install
 # Lint the projects code via the project container
 make lint
 
-# Generate the calendar file into dist/gocal.ics via the project container 
+# Generate the calendar file into dist/gocal.ics via the project container
 make gen
 
-# Build the pages site into a static HTML file in pages/dist 
+# Build the pages site into a static HTML file in pages/dist
 make site
+
+# Generate the calendar then build the pages site
+make all
 ```
 
 As for the code itself, `bin/gocal` is the entrypoint of this CLI tool. It will bootstrap the Symfony console library
