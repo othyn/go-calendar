@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-druddigon-turtonator-drampa-2024-02-05
-DTSTAMP:20240208T001914Z
+DTSTAMP:20240209T001858Z
 SUMMARY:[PS] Druddigon\, Turtonator\, and Drampa PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-druddigon-turtonator-drampa-2024-02-05/
@@ -24,6 +24,23 @@ DTEND;VALUE=DATE:20240208
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[PS] Druddigon\, Turtonator\, and Drampa PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-dragon-type-2024-02-08
+DTSTAMP:20240209T001858Z
+SUMMARY:[PS] Dragon-type PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-dragon-type-2024-02-08/
+URL:https://leekduck.com/events/pokemon-showcase-dragon-type-2024-02-08/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART;VALUE=DATE:20240209
+DTEND;VALUE=DATE:20240211
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PS] Dragon-type PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
