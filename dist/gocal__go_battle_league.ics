@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:gbl-timeless-travels_ultra-league_hisui-cup-great-league-edition
-DTSTAMP:20240209T001858Z
+DTSTAMP:20240210T001843Z
 SUMMARY:[GBL] Ultra League and Hisui Cup: Great League Edition | Timeless T
  ravels
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -31,7 +31,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-timeless-travels_master-league_evolution-cup-great-league-edition
-DTSTAMP:20240209T001858Z
+DTSTAMP:20240210T001843Z
 SUMMARY:[GBL] Master League and Evolution Cup: Great League Edition | Timel
  ess Travels
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -52,7 +52,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-timeless-travels_catch-cup-little-edition_catch-cup-great-league-ed
  ition
-DTSTAMP:20240209T001858Z
+DTSTAMP:20240210T001843Z
 SUMMARY:[GBL] Catch Cup: Little Edition and Catch Cup: Great League Edition
   | Timeless Travels
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -73,7 +73,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-timeless-travels_great-league_ultra-league_master-league-3
-DTSTAMP:20240209T001858Z
+DTSTAMP:20240210T001843Z
 SUMMARY:[GBL] Great League\, Ultra League and Master League | Timeless Trav
  els
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events

@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:hisuian-decidueye-raid-day
-DTSTAMP:20240209T001858Z
+DTSTAMP:20240210T001843Z
 SUMMARY:[RD] Hisuian Decidueye Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hisuian-decidueye-raid-day/
