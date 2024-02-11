@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:elite-raids-enamorus-february-2024
-DTSTAMP:20240210T001843Z
+DTSTAMP:20240211T002132Z
 SUMMARY:[ER] Enamorus in Elite Raids
 DESCRIPTION:Starts at 12:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /elite-raids-enamorus-february-2024/
