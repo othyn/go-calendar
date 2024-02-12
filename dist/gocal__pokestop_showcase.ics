@@ -11,18 +11,36 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-dragon-type-2024-02-08
-DTSTAMP:20240211T002132Z
+DTSTAMP:20240212T002028Z
 SUMMARY:[PS] Dragon-type PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-dragon-type-2024-02-08/
 URL:https://leekduck.com/events/pokemon-showcase-dragon-type-2024-02-08/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
  efault.jpg
-DTSTART;VALUE=DATE:20240209
-DTEND;VALUE=DATE:20240211
+DTSTART:20240209T100000
+DTEND:20240210T200000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[PS] Dragon-type PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-hisuian-decidueye-2024-02-11
+DTSTAMP:20240212T002028Z
+SUMMARY:[PS] Hisuian Decidueye PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-hisuian-decidueye-2024-02-11/
+URL:https://leekduck.com/events/pokemon-showcase-hisuian-decidueye-2024-02-
+ 11/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART:20240211T100000
+DTEND:20240211T200000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PS] Hisuian Decidueye PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
