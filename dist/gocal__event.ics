@@ -10,42 +10,8 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:go-battle-day-timeless-travels
-DTSTAMP:20240212T002028Z
-SUMMARY:[E] Timeless Travels: GO Battle Day
-DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
- /go-battle-day-timeless-travels/
-URL:https://leekduck.com/events/go-battle-day-timeless-travels/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-sea
- son-17-timeless-travels.jpg
-DTSTART:20240210T000000
-DTEND:20240210T235959
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Timeless Travels: GO Battle Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:lunar-new-year-2024
-DTSTAMP:20240212T002028Z
-SUMMARY:[E] Lunar New Year: Dragons Unleashed
-DESCRIPTION:Starts at 18:00\, ends at 07:59.\n\nhttps://leekduck.com/events
- /lunar-new-year-2024/
-URL:https://leekduck.com/events/lunar-new-year-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/lunar-new-year-2024.
- jpg
-DTSTART;VALUE=DATE:20240205
-DTEND;VALUE=DATE:20240212
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Lunar New Year: Dragons Unleashed
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:carnival-of-love
-DTSTAMP:20240212T002028Z
+DTSTAMP:20240213T002004Z
 SUMMARY:[E] Carnival of Love
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /carnival-of-love/
@@ -61,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:road-to-sinnoh
-DTSTAMP:20240212T002028Z
+DTSTAMP:20240213T002004Z
 SUMMARY:[E] Road to Sinnoh
 DESCRIPTION:Starts at 10:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /road-to-sinnoh/
@@ -78,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-season18-event-april-13
-DTSTAMP:20240212T002028Z
+DTSTAMP:20240213T002004Z
 SUMMARY:[E] Unannounced Event on April 13
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-season18-event-april-13/
@@ -95,7 +61,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-season18-event-april-28
-DTSTAMP:20240212T002028Z
+DTSTAMP:20240213T002004Z
 SUMMARY:[E] Unannounced Event on April 28
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-season18-event-april-28/
@@ -112,7 +78,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-season18-event-may-11
-DTSTAMP:20240212T002028Z
+DTSTAMP:20240213T002004Z
 SUMMARY:[E] Unannounced Event on May 11
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-season18-event-may-11/
