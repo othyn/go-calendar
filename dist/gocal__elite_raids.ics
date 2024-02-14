@@ -11,14 +11,14 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:elite-raids-enamorus-february-2024
-DTSTAMP:20240213T002004Z
+DTSTAMP:20240214T001951Z
 SUMMARY:[ER] Enamorus in Elite Raids
-DESCRIPTION:Starts at 12:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+DESCRIPTION:Starts at 12:00\, ends at 18:45.\n\nhttps://leekduck.com/events
  /elite-raids-enamorus-february-2024/
 URL:https://leekduck.com/events/elite-raids-enamorus-february-2024/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/enamorus-key.jpg
 DTSTART:20240214T120000
-DTEND:20240214T190000
+DTEND:20240214T184500
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[ER] Enamorus in Elite Raids
