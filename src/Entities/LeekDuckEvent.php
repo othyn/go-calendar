@@ -22,7 +22,7 @@ class LeekDuckEvent
         public string $endDateString,
         public Carbon $startDate,
         public Carbon $endDate,
-        public int $durationInDays,
+        public float $durationInDays,
         public bool $isFullDay,
         public ?array $extraData
     ) {
@@ -35,14 +35,14 @@ class LeekDuckEvent
     {
         $startDate = Carbon::parse(
             time: $event['start'],
-            tz: new \DateTimeZone(
+            timezone: new \DateTimeZone(
                 timezone: $timezone
             )
         );
 
         $endDate = Carbon::parse(
             time: $event['end'],
-            tz: new \DateTimeZone(
+            timezone: new \DateTimeZone(
                 timezone: $timezone
             )
         );
@@ -100,14 +100,14 @@ class LeekDuckEvent
     {
         $this->startDate = Carbon::parse(
             time: $this->startDateString,
-            tz: new \DateTimeZone(
+            timezone: new \DateTimeZone(
                 timezone: $timezone
             )
         );
 
         $this->endDate = Carbon::parse(
             time: $this->endDateString,
-            tz: new \DateTimeZone(
+            timezone: new \DateTimeZone(
                 timezone: $timezone
             )
         );
