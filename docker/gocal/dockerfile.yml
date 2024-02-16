@@ -1,6 +1,6 @@
-FROM php:8.1.13-cli-alpine
+FROM php:8.2.15-cli-alpine
 
-COPY --from=composer:2.4.4 /usr/bin/composer /usr/local/bin/composer
+COPY --from=composer:2.7.1 /usr/bin/composer /usr/local/bin/composer
 
 COPY . /gocal
 
