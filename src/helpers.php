@@ -23,7 +23,7 @@ if (! function_exists(function: 'acronym')) {
         $acronym = '';
 
         foreach (preg_split('/[^\p{L}]+/u', $string) as $word) {
-            if (!empty($word)) {
+            if (! empty($word)) {
                 $first_letter = mb_substr($word, 0, 1);
                 $acronym .= $first_letter . $delimiter;
             }
