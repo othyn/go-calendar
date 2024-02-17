@@ -11,15 +11,15 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-go-tour-sinnoh-los-angeles
-DTSTAMP:20240216T113132Z
+DTSTAMP:20240217T001907Z
 SUMMARY:[PGT] Pokémon GO Tour: Sinnoh - Los Angeles
 DESCRIPTION:Starts at 17:00\, ends at 01:00.\n\nhttps://leekduck.com/events
  /pokemon-go-tour-sinnoh-los-angeles/
 URL:https://leekduck.com/events/pokemon-go-tour-sinnoh-los-angeles/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemon-go-tour-sinn
  oh-los-angeles.jpg
-DTSTART:20240217T170000
-DTEND:20240218T010000
+DTSTART;VALUE=DATE:20240217
+DTEND;VALUE=DATE:20240219
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[PGT] Pokémon GO Tour: Sinnoh - Los Angeles
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-sinnoh-global
-DTSTAMP:20240216T113132Z
+DTSTAMP:20240217T001907Z
 SUMMARY:[PGT] Pokémon GO Tour: Sinnoh - Global
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-tour-sinnoh-global/
