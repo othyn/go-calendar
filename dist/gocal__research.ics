@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:go-tour-2024-road-to-sinnoh-special-research
-DTSTAMP:20240217T001907Z
+DTSTAMP:20240218T002127Z
 SUMMARY:[R] GO Tour 2024: Road to Sinnoh
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /go-tour-2024-road-to-sinnoh-special-research/

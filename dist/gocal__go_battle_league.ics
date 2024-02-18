@@ -10,29 +10,9 @@ X-WR-CALDESC:All Pokémon GO GO Battle League events\, in your local time\,
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:gbl-timeless-travels_master-league_evolution-cup-great-league-edition
-DTSTAMP:20240217T001907Z
-SUMMARY:[GBL] Master League and Evolution Cup: Great League Edition | Timel
- ess Travels
-DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /gbl-timeless-travels_master-league_evolution-cup-great-league-edition/
-URL:https://leekduck.com/events/gbl-timeless-travels_master-league_evolutio
- n-cup-great-league-edition/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattleleague-maste
- r-key.jpg
-DTSTART;VALUE=DATE:20240209
-DTEND;VALUE=DATE:20240216
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[GBL] Master League and Evolution Cup: Great League Edition | T
- imeless Travels
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:gbl-timeless-travels_catch-cup-little-edition_catch-cup-great-league-ed
  ition
-DTSTAMP:20240217T001907Z
+DTSTAMP:20240218T002127Z
 SUMMARY:[GBL] Catch Cup: Little Edition and Catch Cup: Great League Edition
   | Timeless Travels
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -53,7 +33,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-timeless-travels_great-league_ultra-league_master-league-3
-DTSTAMP:20240217T001907Z
+DTSTAMP:20240218T002127Z
 SUMMARY:[GBL] Great League\, Ultra League and Master League | Timeless Trav
  els
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
