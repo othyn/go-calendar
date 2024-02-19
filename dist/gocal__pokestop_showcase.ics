@@ -10,20 +10,19 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-luvdisc-oricorio-2024-02-15
-DTSTAMP:20240216T113132Z
-SUMMARY:[PS] Luvdisc and Oricorio PokéStop Showcases
+UID:pokemon-showcase-mantyke-2024-02-18
+DTSTAMP:20240219T002019Z
+SUMMARY:[PS] Mantyke PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-luvdisc-oricorio-2024-02-15/
-URL:https://leekduck.com/events/pokemon-showcase-luvdisc-oricorio-2024-02-1
- 5/
+ /pokemon-showcase-mantyke-2024-02-18/
+URL:https://leekduck.com/events/pokemon-showcase-mantyke-2024-02-18/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
  efault.jpg
-DTSTART:20240215T100000
-DTEND:20240215T200000
+DTSTART:20240218T100000
+DTEND:20240218T200000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Luvdisc and Oricorio PokéStop Showcases
+DESCRIPTION:[PS] Mantyke PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
