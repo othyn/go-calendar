@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:go-tour-2024-road-to-sinnoh-special-research
-DTSTAMP:20240219T002019Z
+DTSTAMP:20240220T001858Z
 SUMMARY:[R] GO Tour 2024: Road to Sinnoh
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /go-tour-2024-road-to-sinnoh-special-research/
@@ -24,6 +24,22 @@ DTEND;VALUE=DATE:20240225
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[R] GO Tour 2024: Road to Sinnoh
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:masterwork-research-glimmers-of-gratitude
+DTSTAMP:20240220T001858Z
+SUMMARY:[R] Masterwork Research: Glimmers of Gratitude (Global)
+DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
+ /masterwork-research-glimmers-of-gratitude/
+URL:https://leekduck.com/events/masterwork-research-glimmers-of-gratitude/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/shiny-shaymin.jpg
+DTSTART;VALUE=DATE:20240219
+DTEND;VALUE=DATE:20240225
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[R] Masterwork Research: Glimmers of Gratitude (Global)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

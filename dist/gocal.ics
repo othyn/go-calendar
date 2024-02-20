@@ -10,42 +10,8 @@ X-WR-CALDESC:All Pokémon GO events\, in your local time\, auto-updated and
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-go-tour-sinnoh-los-angeles
-DTSTAMP:20240219T002019Z
-SUMMARY:[PGT] Pokémon GO Tour: Sinnoh - Los Angeles
-DESCRIPTION:Starts at 17:00\, ends at 01:00.\n\nhttps://leekduck.com/events
- /pokemon-go-tour-sinnoh-los-angeles/
-URL:https://leekduck.com/events/pokemon-go-tour-sinnoh-los-angeles/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemon-go-tour-sinn
- oh-los-angeles.jpg
-DTSTART;VALUE=DATE:20240217
-DTEND;VALUE=DATE:20240219
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PGT] Pokémon GO Tour: Sinnoh - Los Angeles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pokemon-showcase-mantyke-2024-02-18
-DTSTAMP:20240219T002019Z
-SUMMARY:[PS] Mantyke PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-mantyke-2024-02-18/
-URL:https://leekduck.com/events/pokemon-showcase-mantyke-2024-02-18/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
- efault.jpg
-DTSTART:20240218T100000
-DTEND:20240218T200000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PS] Mantyke PokéStop Showcases
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raidhour20240219
-DTSTAMP:20240219T002019Z
+DTSTAMP:20240220T001858Z
 SUMMARY:[RH] Darkrai Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240219/
@@ -60,8 +26,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemon-showcase-mantyke-2024-02-19
+DTSTAMP:20240220T001858Z
+SUMMARY:[PS] Mantyke PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-mantyke-2024-02-19/
+URL:https://leekduck.com/events/pokemon-showcase-mantyke-2024-02-19/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART:20240219T100000
+DTEND:20240219T200000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PS] Mantyke PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:darkrai-in-5-star-raid-battles-february-2024y
-DTSTAMP:20240219T002019Z
+DTSTAMP:20240220T001858Z
 SUMMARY:[RB] Darkrai in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /darkrai-in-5-star-raid-battles-february-2024y/
@@ -78,7 +61,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240220
-DTSTAMP:20240219T002019Z
+DTSTAMP:20240220T001858Z
 SUMMARY:[RH] Cresselia Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240220/
@@ -93,8 +76,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemon-showcase-bonsly-2024-02-20
+DTSTAMP:20240220T001858Z
+SUMMARY:[PS] Bonsly PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-bonsly-2024-02-20/
+URL:https://leekduck.com/events/pokemon-showcase-bonsly-2024-02-20/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART:20240220T100000
+DTEND:20240220T200000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PS] Bonsly PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:cresselia-in-5-star-raid-battles-february-2024
-DTSTAMP:20240219T002019Z
+DTSTAMP:20240220T001858Z
 SUMMARY:[RB] Cresselia in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /cresselia-in-5-star-raid-battles-february-2024/
@@ -112,7 +112,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240221
-DTSTAMP:20240219T002019Z
+DTSTAMP:20240220T001858Z
 SUMMARY:[RH] Uxie\, Mesprit\, and Azelf Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240221/
@@ -128,7 +128,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-absol-in-mega-raids-february-2024
-DTSTAMP:20240219T002019Z
+DTSTAMP:20240220T001858Z
 SUMMARY:[RB] Mega Absol in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-absol-in-mega-raids-february-2024/
@@ -144,7 +144,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:uxie-mesprit-azelf-in-5-star-raid-battles-february-2024
-DTSTAMP:20240219T002019Z
+DTSTAMP:20240220T001858Z
 SUMMARY:[RB] Uxie\, Mesprit\, and Azelf in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /uxie-mesprit-azelf-in-5-star-raid-battles-february-2024/
@@ -161,7 +161,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240222
-DTSTAMP:20240219T002019Z
+DTSTAMP:20240220T001858Z
 SUMMARY:[RH] Heatran Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240222/
@@ -177,7 +177,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:heatran-in-5-star-raid-battles-february-2024
-DTSTAMP:20240219T002019Z
+DTSTAMP:20240220T001858Z
 SUMMARY:[RB] Heatran in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /heatran-in-5-star-raid-battles-february-2024/
@@ -195,7 +195,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-timeless-travels_catch-cup-little-edition_catch-cup-great-league-ed
  ition
-DTSTAMP:20240219T002019Z
+DTSTAMP:20240220T001858Z
 SUMMARY:[GBL] Catch Cup: Little Edition and Catch Cup: Great League Edition
   | Timeless Travels
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -216,7 +216,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240223
-DTSTAMP:20240219T002019Z
+DTSTAMP:20240220T001858Z
 SUMMARY:[RH] Origin Forme Giratina Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240223/
@@ -232,7 +232,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:road-to-sinnoh
-DTSTAMP:20240219T002019Z
+DTSTAMP:20240220T001858Z
 SUMMARY:[E] Road to Sinnoh
 DESCRIPTION:Starts at 10:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /road-to-sinnoh/
@@ -249,7 +249,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:origin-forme-giratina-in-5-star-raid-battles-february-2024
-DTSTAMP:20240219T002019Z
+DTSTAMP:20240220T001858Z
 SUMMARY:[RB] Origin Forme Giratina in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /origin-forme-giratina-in-5-star-raid-battles-february-2024/
@@ -267,7 +267,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-moltre-in-shadow-raids-timeless-travels
-DTSTAMP:20240219T002019Z
+DTSTAMP:20240220T001858Z
 SUMMARY:[RB] Shadow Articuno in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-moltre-in-shadow-raids-timeless-travels/
@@ -285,7 +285,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-tour-2024-road-to-sinnoh-special-research
-DTSTAMP:20240219T002019Z
+DTSTAMP:20240220T001858Z
 SUMMARY:[R] GO Tour 2024: Road to Sinnoh
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /go-tour-2024-road-to-sinnoh-special-research/
@@ -302,8 +302,24 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:masterwork-research-glimmers-of-gratitude
+DTSTAMP:20240220T001858Z
+SUMMARY:[R] Masterwork Research: Glimmers of Gratitude (Global)
+DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
+ /masterwork-research-glimmers-of-gratitude/
+URL:https://leekduck.com/events/masterwork-research-glimmers-of-gratitude/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/shiny-shaymin.jpg
+DTSTART;VALUE=DATE:20240219
+DTEND;VALUE=DATE:20240225
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[R] Masterwork Research: Glimmers of Gratitude (Global)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:pokemon-go-tour-sinnoh-global
-DTSTAMP:20240219T002019Z
+DTSTAMP:20240220T001858Z
 SUMMARY:[PGT] Pokémon GO Tour: Sinnoh - Global
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-tour-sinnoh-global/
@@ -321,7 +337,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dialga-origin-forme-dialga-palkia-origin-forme-palkia-in-5-star-raid-ba
  ttles-february-2024
-DTSTAMP:20240219T002019Z
+DTSTAMP:20240220T001858Z
 SUMMARY:[RB] Dialga\, Origin Forme Dialga\, Palkia\, and Origin Forme Palki
  a in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
@@ -342,7 +358,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-02-27
-DTSTAMP:20240219T002019Z
+DTSTAMP:20240220T001858Z
 SUMMARY:[PSH] Sandshrew and Alolan Sandshrew Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-02-27/
@@ -359,7 +375,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240228
-DTSTAMP:20240219T002019Z
+DTSTAMP:20240220T001858Z
 SUMMARY:[RH] Cresselia and Heatran Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240228/
@@ -375,7 +391,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eggspedition-access-february-ticket
-DTSTAMP:20240219T002019Z
+DTSTAMP:20240220T001858Z
 SUMMARY:[TE] Eggs-pedition Access: February
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /eggspedition-access-february-ticket/
@@ -392,7 +408,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-13-timeless-travels-research-breakthrough
-DTSTAMP:20240219T002019Z
+DTSTAMP:20240220T001858Z
 SUMMARY:[RBT] Timeless Travels Research Breakthrough
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-13-timeless-travels-research-breakthrough/
@@ -409,7 +425,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-13-timeless-travels
-DTSTAMP:20240219T002019Z
+DTSTAMP:20240220T001858Z
 SUMMARY:[S] Timeless Travels
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-13-timeless-travels/
@@ -426,7 +442,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-garchomp-in-mega-raids-february-2024
-DTSTAMP:20240219T002019Z
+DTSTAMP:20240220T001858Z
 SUMMARY:[RB] Mega Garchomp in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-garchomp-in-mega-raids-february-2024/
@@ -442,7 +458,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cresselia-heatran-in-5-star-raid-battles-february-2024
-DTSTAMP:20240219T002019Z
+DTSTAMP:20240220T001858Z
 SUMMARY:[RB] Cresselia and Heatran in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /cresselia-heatran-in-5-star-raid-battles-february-2024/
@@ -460,7 +476,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-timeless-travels_great-league_ultra-league_master-league-3
-DTSTAMP:20240219T002019Z
+DTSTAMP:20240220T001858Z
 SUMMARY:[GBL] Great League\, Ultra League and Master League | Timeless Trav
  els
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -480,7 +496,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-season18-event-march-3
-DTSTAMP:20240219T002019Z
+DTSTAMP:20240220T001858Z
 SUMMARY:[E] Unannounced Event on March 3
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-season18-event-march-3/
@@ -497,7 +513,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:march-communityday2024
-DTSTAMP:20240219T002019Z
+DTSTAMP:20240220T001858Z
 SUMMARY:[CD] March Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /march-communityday2024/
@@ -513,7 +529,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:april-communitydayclassic2024
-DTSTAMP:20240219T002019Z
+DTSTAMP:20240220T001858Z
 SUMMARY:[CD] April Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /april-communitydayclassic2024/
@@ -529,7 +545,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-season18-event-april-13
-DTSTAMP:20240219T002019Z
+DTSTAMP:20240220T001858Z
 SUMMARY:[E] Unannounced Event on April 13
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-season18-event-april-13/
@@ -546,7 +562,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:april-communityday2024
-DTSTAMP:20240219T002019Z
+DTSTAMP:20240220T001858Z
 SUMMARY:[CD] April Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /april-communityday2024/
@@ -562,7 +578,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-season18-event-april-28
-DTSTAMP:20240219T002019Z
+DTSTAMP:20240220T001858Z
 SUMMARY:[E] Unannounced Event on April 28
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-season18-event-april-28/
@@ -579,7 +595,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-season18-event-may-11
-DTSTAMP:20240219T002019Z
+DTSTAMP:20240220T001858Z
 SUMMARY:[E] Unannounced Event on May 11
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-season18-event-may-11/
@@ -596,7 +612,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communityday2024
-DTSTAMP:20240219T002019Z
+DTSTAMP:20240220T001858Z
 SUMMARY:[CD] May Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /may-communityday2024/

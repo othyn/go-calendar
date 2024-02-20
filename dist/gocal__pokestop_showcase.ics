@@ -10,19 +10,36 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-mantyke-2024-02-18
-DTSTAMP:20240219T002019Z
+UID:pokemon-showcase-mantyke-2024-02-19
+DTSTAMP:20240220T001858Z
 SUMMARY:[PS] Mantyke PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-mantyke-2024-02-18/
-URL:https://leekduck.com/events/pokemon-showcase-mantyke-2024-02-18/
+ /pokemon-showcase-mantyke-2024-02-19/
+URL:https://leekduck.com/events/pokemon-showcase-mantyke-2024-02-19/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
  efault.jpg
-DTSTART:20240218T100000
-DTEND:20240218T200000
+DTSTART:20240219T100000
+DTEND:20240219T200000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[PS] Mantyke PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-bonsly-2024-02-20
+DTSTAMP:20240220T001858Z
+SUMMARY:[PS] Bonsly PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-bonsly-2024-02-20/
+URL:https://leekduck.com/events/pokemon-showcase-bonsly-2024-02-20/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART:20240220T100000
+DTEND:20240220T200000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PS] Bonsly PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
