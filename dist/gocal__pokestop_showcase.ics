@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-bonsly-2024-02-20
-DTSTAMP:20240221T001914Z
-SUMMARY:[PS] Bonsly PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-bonsly-2024-02-20/
-URL:https://leekduck.com/events/pokemon-showcase-bonsly-2024-02-20/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
- efault.jpg
-DTSTART:20240220T100000
-DTEND:20240220T200000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PS] Bonsly PokéStop Showcases
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-showcase-riolu-2024-02-21
-DTSTAMP:20240221T001914Z
+DTSTAMP:20240222T001928Z
 SUMMARY:[PS] Riolu PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-riolu-2024-02-21/
@@ -40,6 +23,23 @@ DTEND:20240221T200000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[PS] Riolu PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-munchlax-2024-02-22
+DTSTAMP:20240222T001928Z
+SUMMARY:[PS] Munchlax PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-munchlax-2024-02-22/
+URL:https://leekduck.com/events/pokemon-showcase-munchlax-2024-02-22/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART:20240222T100000
+DTEND:20240222T200000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PS] Munchlax PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
