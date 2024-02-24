@@ -10,36 +10,22 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-chingling-2024-02-23
-DTSTAMP:20240223T001901Z
-SUMMARY:[PS] Chingling PokéStop Showcases
+UID:pokemon-showcase-origin-forme-dialga-origin-forme-palkia-2024-02-24
+DTSTAMP:20240224T001816Z
+SUMMARY:[PS] Origin Forme Dialga and Origin Forme Palkia PokéStop Showcase
+ s
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-chingling-2024-02-23/
-URL:https://leekduck.com/events/pokemon-showcase-chingling-2024-02-23/
+ /pokemon-showcase-origin-forme-dialga-origin-forme-palkia-2024-02-24/
+URL:https://leekduck.com/events/pokemon-showcase-origin-forme-dialga-origin
+ -forme-palkia-2024-02-24/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
  efault.jpg
-DTSTART:20240222T100000
-DTEND:20240222T200000
+DTSTART:20240224T100000
+DTEND:20240224T200000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Chingling PokéStop Showcases
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pokemon-showcase-munchlax-2024-02-22
-DTSTAMP:20240223T001901Z
-SUMMARY:[PS] Munchlax PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-munchlax-2024-02-22/
-URL:https://leekduck.com/events/pokemon-showcase-munchlax-2024-02-22/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
- efault.jpg
-DTSTART:20240222T100000
-DTEND:20240222T200000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PS] Munchlax PokéStop Showcases
+DESCRIPTION:[PS] Origin Forme Dialga and Origin Forme Palkia PokéStop Show
+ cases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
