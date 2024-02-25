@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:road-to-sinnoh
-DTSTAMP:20240224T001816Z
-SUMMARY:[E] Road to Sinnoh
-DESCRIPTION:Starts at 10:00\, ends at 22:00.\n\nhttps://leekduck.com/events
- /road-to-sinnoh/
-URL:https://leekduck.com/events/road-to-sinnoh/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemon-go-tour-sinn
- oh-global.jpg
-DTSTART;VALUE=DATE:20240219
-DTEND;VALUE=DATE:20240223
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Road to Sinnoh
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:unannounced-season18-event-march-3
-DTSTAMP:20240224T001816Z
+DTSTAMP:20240225T002109Z
 SUMMARY:[E] Unannounced Event on March 3
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-season18-event-march-3/
@@ -45,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-season18-event-april-13
-DTSTAMP:20240224T001816Z
+DTSTAMP:20240225T002109Z
 SUMMARY:[E] Unannounced Event on April 13
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-season18-event-april-13/
@@ -62,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-season18-event-april-28
-DTSTAMP:20240224T001816Z
+DTSTAMP:20240225T002109Z
 SUMMARY:[E] Unannounced Event on April 28
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-season18-event-april-28/
@@ -79,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-season18-event-may-11
-DTSTAMP:20240224T001816Z
+DTSTAMP:20240225T002109Z
 SUMMARY:[E] Unannounced Event on May 11
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-season18-event-may-11/

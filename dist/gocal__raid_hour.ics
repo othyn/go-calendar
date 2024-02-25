@@ -10,24 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Hour events\, in your local time\, auto-u
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:raidhour20240223
-DTSTAMP:20240224T001816Z
-SUMMARY:[RH] Origin Forme Giratina Raid Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /raidhour20240223/
-URL:https://leekduck.com/events/raidhour20240223/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
-DTSTART:20240223T180000
-DTEND:20240223T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RH] Origin Forme Giratina Raid Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raidhour20240228
-DTSTAMP:20240224T001816Z
+DTSTAMP:20240225T002109Z
 SUMMARY:[RH] Cresselia and Heatran Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240228/
