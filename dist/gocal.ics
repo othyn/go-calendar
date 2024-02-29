@@ -10,41 +10,8 @@ X-WR-CALDESC:All Pokémon GO events\, in your local time\, auto-updated and
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemonspotlighthour2024-02-27
-DTSTAMP:20240228T001844Z
-SUMMARY:[PSH] Sandshrew and Alolan Sandshrew Spotlight Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2024-02-27/
-URL:https://leekduck.com/events/pokemonspotlighthour2024-02-27/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
- .jpg
-DTSTART:20240227T180000
-DTEND:20240227T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PSH] Sandshrew and Alolan Sandshrew Spotlight Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pokemon-day-2024
-DTSTAMP:20240228T001844Z
-SUMMARY:[E] Pokémon Day 2024
-DESCRIPTION:Starts at 14:00\, ends at 14:00.\n\nhttps://leekduck.com/events
- /pokemon-day-2024/
-URL:https://leekduck.com/events/pokemon-day-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemon-day-2024.jpg
-DTSTART:20240227T140000
-DTEND:20240228T140000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Pokémon Day 2024
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raidhour20240228
-DTSTAMP:20240228T001844Z
+DTSTAMP:20240229T001919Z
 SUMMARY:[RH] Cresselia and Heatran Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240228/
@@ -59,8 +26,24 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemon-day-2024
+DTSTAMP:20240229T001919Z
+SUMMARY:[E] Pokémon Day 2024
+DESCRIPTION:Starts at 06:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /pokemon-day-2024/
+URL:https://leekduck.com/events/pokemon-day-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemon-day-2024.jpg
+DTSTART;VALUE=DATE:20240227
+DTEND;VALUE=DATE:20240229
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Pokémon Day 2024
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:eggspedition-access-february-ticket
-DTSTAMP:20240228T001844Z
+DTSTAMP:20240229T001919Z
 SUMMARY:[TE] Eggs-pedition Access: February
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /eggspedition-access-february-ticket/
@@ -77,7 +60,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-13-timeless-travels-research-breakthrough
-DTSTAMP:20240228T001844Z
+DTSTAMP:20240229T001919Z
 SUMMARY:[RBT] Timeless Travels Research Breakthrough
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-13-timeless-travels-research-breakthrough/
@@ -94,7 +77,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-13-timeless-travels
-DTSTAMP:20240228T001844Z
+DTSTAMP:20240229T001919Z
 SUMMARY:[S] Timeless Travels
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-13-timeless-travels/
@@ -111,7 +94,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-garchomp-in-mega-raids-february-2024
-DTSTAMP:20240228T001844Z
+DTSTAMP:20240229T001919Z
 SUMMARY:[RB] Mega Garchomp in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-garchomp-in-mega-raids-february-2024/
@@ -127,7 +110,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cresselia-heatran-in-5-star-raid-battles-february-2024
-DTSTAMP:20240228T001844Z
+DTSTAMP:20240229T001919Z
 SUMMARY:[RB] Cresselia and Heatran in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /cresselia-heatran-in-5-star-raid-battles-february-2024/
@@ -144,8 +127,26 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:season-14-world-of-wonder-research-breakthrough
+DTSTAMP:20240229T001919Z
+SUMMARY:[RBT] World of Wonder Research Breakthrough
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /season-14-world-of-wonder-research-breakthrough/
+URL:https://leekduck.com/events/season-14-world-of-wonder-research-breakthr
+ ough/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/SpringResearchBreakt
+ hrough.jpg
+DTSTART;VALUE=DATE:20231201
+DTEND;VALUE=DATE:20240301
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RBT] World of Wonder Research Breakthrough
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:gbl-timeless-travels_great-league_ultra-league_master-league-3
-DTSTAMP:20240228T001844Z
+DTSTAMP:20240229T001919Z
 SUMMARY:[GBL] Great League\, Ultra League and Master League | Timeless Trav
  els
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -164,25 +165,42 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:unannounced-season18-event-march-3
-DTSTAMP:20240228T001844Z
-SUMMARY:[E] Unannounced Event on March 3
+UID:charged-up-research-day
+DTSTAMP:20240229T001919Z
+SUMMARY:[E] Charged-Up Research Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /unannounced-season18-event-march-3/
-URL:https://leekduck.com/events/unannounced-season18-event-march-3/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+ /charged-up-research-day/
+URL:https://leekduck.com/events/charged-up-research-day/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/charged-up-research-
+ day.jpg
 DTSTART:20240303T140000
 DTEND:20240303T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Unannounced Event on March 3
+DESCRIPTION:[E] Charged-Up Research Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-03-05
+DTSTAMP:20240229T001919Z
+SUMMARY:[PSH] Pawmi Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-03-05/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-03-05/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20240305T180000
+DTEND:20240305T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Pawmi Spotlight Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-horizons-the-series-celebration-event
-DTSTAMP:20240228T001844Z
+DTSTAMP:20240229T001919Z
 SUMMARY:[E] Pokémon Horizons: The Series Celebration Event
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-horizons-the-series-celebration-event/
@@ -198,8 +216,42 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemonspotlighthour2024-03-12
+DTSTAMP:20240229T001919Z
+SUMMARY:[PSH] Nidoran♀ Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-03-12/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-03-12/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20240312T180000
+DTEND:20240312T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Nidoran♀ Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tapu-koko-in-5-star-raid-battles-march-2024y
+DTSTAMP:20240229T001919Z
+SUMMARY:[RB] Tapu Koko in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /tapu-koko-in-5-star-raid-battles-march-2024y/
+URL:https://leekduck.com/events/tapu-koko-in-5-star-raid-battles-march-2024
+ y/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/tapu-koko.jpg
+DTSTART;VALUE=DATE:20240301
+DTEND;VALUE=DATE:20240314
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Tapu Koko in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:march-communityday2024
-DTSTAMP:20240228T001844Z
+DTSTAMP:20240229T001919Z
 SUMMARY:[CD] March Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /march-communityday2024/
@@ -214,8 +266,43 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemonspotlighthour2024-03-19
+DTSTAMP:20240229T001919Z
+SUMMARY:[PSH] Vulpix\, Poliwag\, Snorunt\, and Hippopotas Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-03-19/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-03-19/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20240319T180000
+DTEND:20240319T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Vulpix\, Poliwag\, Snorunt\, and Hippopotas Spotlight Hou
+ r
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-03-26
+DTSTAMP:20240229T001919Z
+SUMMARY:[PSH] Hoppip Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-03-26/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-03-26/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20240326T180000
+DTEND:20240326T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Hoppip Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:april-communitydayclassic2024
-DTSTAMP:20240228T001844Z
+DTSTAMP:20240229T001919Z
 SUMMARY:[CD] April Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /april-communitydayclassic2024/
@@ -231,7 +318,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-season18-event-april-13
-DTSTAMP:20240228T001844Z
+DTSTAMP:20240229T001919Z
 SUMMARY:[E] Unannounced Event on April 13
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-season18-event-april-13/
@@ -248,7 +335,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:april-communityday2024
-DTSTAMP:20240228T001844Z
+DTSTAMP:20240229T001919Z
 SUMMARY:[CD] April Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /april-communityday2024/
@@ -264,7 +351,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-season18-event-april-28
-DTSTAMP:20240228T001844Z
+DTSTAMP:20240229T001919Z
 SUMMARY:[E] Unannounced Event on April 28
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-season18-event-april-28/
@@ -281,7 +368,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-season18-event-may-11
-DTSTAMP:20240228T001844Z
+DTSTAMP:20240229T001919Z
 SUMMARY:[E] Unannounced Event on May 11
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-season18-event-may-11/
@@ -298,7 +385,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communityday2024
-DTSTAMP:20240228T001844Z
+DTSTAMP:20240229T001919Z
 SUMMARY:[CD] May Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /may-communityday2024/
@@ -309,6 +396,23 @@ DTEND:20240519T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[CD] May Community Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:season-14-world-of-wonder
+DTSTAMP:20240229T001919Z
+SUMMARY:[S] World of Wonder
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /season-14-world-of-wonder/
+URL:https://leekduck.com/events/season-14-world-of-wonder/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/season-14-world-of-w
+ onder.jpg
+DTSTART;VALUE=DATE:20240301
+DTEND;VALUE=DATE:20240601
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[S] World of Wonder
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

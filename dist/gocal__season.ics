@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:season-13-timeless-travels
-DTSTAMP:20240228T001844Z
+DTSTAMP:20240229T001919Z
 SUMMARY:[S] Timeless Travels
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-13-timeless-travels/
@@ -23,6 +23,23 @@ DTEND;VALUE=DATE:20240301
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[S] Timeless Travels
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:season-14-world-of-wonder
+DTSTAMP:20240229T001919Z
+SUMMARY:[S] World of Wonder
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /season-14-world-of-wonder/
+URL:https://leekduck.com/events/season-14-world-of-wonder/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/season-14-world-of-w
+ onder.jpg
+DTSTART;VALUE=DATE:20240301
+DTEND;VALUE=DATE:20240601
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[S] World of Wonder
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

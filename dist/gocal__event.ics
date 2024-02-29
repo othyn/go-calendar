@@ -11,14 +11,14 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-day-2024
-DTSTAMP:20240228T001844Z
+DTSTAMP:20240229T001919Z
 SUMMARY:[E] Pokémon Day 2024
-DESCRIPTION:Starts at 14:00\, ends at 14:00.\n\nhttps://leekduck.com/events
+DESCRIPTION:Starts at 06:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /pokemon-day-2024/
 URL:https://leekduck.com/events/pokemon-day-2024/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemon-day-2024.jpg
-DTSTART:20240227T140000
-DTEND:20240228T140000
+DTSTART;VALUE=DATE:20240227
+DTEND;VALUE=DATE:20240229
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[E] Pokémon Day 2024
@@ -26,25 +26,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:unannounced-season18-event-march-3
-DTSTAMP:20240228T001844Z
-SUMMARY:[E] Unannounced Event on March 3
+UID:charged-up-research-day
+DTSTAMP:20240229T001919Z
+SUMMARY:[E] Charged-Up Research Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /unannounced-season18-event-march-3/
-URL:https://leekduck.com/events/unannounced-season18-event-march-3/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+ /charged-up-research-day/
+URL:https://leekduck.com/events/charged-up-research-day/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/charged-up-research-
+ day.jpg
 DTSTART:20240303T140000
 DTEND:20240303T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Unannounced Event on March 3
+DESCRIPTION:[E] Charged-Up Research Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-horizons-the-series-celebration-event
-DTSTAMP:20240228T001844Z
+DTSTAMP:20240229T001919Z
 SUMMARY:[E] Pokémon Horizons: The Series Celebration Event
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-horizons-the-series-celebration-event/
@@ -61,7 +61,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-season18-event-april-13
-DTSTAMP:20240228T001844Z
+DTSTAMP:20240229T001919Z
 SUMMARY:[E] Unannounced Event on April 13
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-season18-event-april-13/
@@ -78,7 +78,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-season18-event-april-28
-DTSTAMP:20240228T001844Z
+DTSTAMP:20240229T001919Z
 SUMMARY:[E] Unannounced Event on April 28
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-season18-event-april-28/
@@ -95,7 +95,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-season18-event-may-11
-DTSTAMP:20240228T001844Z
+DTSTAMP:20240229T001919Z
 SUMMARY:[E] Unannounced Event on May 11
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-season18-event-may-11/

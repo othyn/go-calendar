@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:mega-garchomp-in-mega-raids-february-2024
-DTSTAMP:20240228T001844Z
+DTSTAMP:20240229T001919Z
 SUMMARY:[RB] Mega Garchomp in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-garchomp-in-mega-raids-february-2024/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cresselia-heatran-in-5-star-raid-battles-february-2024
-DTSTAMP:20240228T001844Z
+DTSTAMP:20240229T001919Z
 SUMMARY:[RB] Cresselia and Heatran in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /cresselia-heatran-in-5-star-raid-battles-february-2024/
@@ -40,6 +40,23 @@ DTEND;VALUE=DATE:20240301
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RB] Cresselia and Heatran in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tapu-koko-in-5-star-raid-battles-march-2024y
+DTSTAMP:20240229T001919Z
+SUMMARY:[RB] Tapu Koko in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /tapu-koko-in-5-star-raid-battles-march-2024y/
+URL:https://leekduck.com/events/tapu-koko-in-5-star-raid-battles-march-2024
+ y/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/tapu-koko.jpg
+DTSTART;VALUE=DATE:20240301
+DTEND;VALUE=DATE:20240314
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Tapu Koko in 5-star Raid Battles
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
