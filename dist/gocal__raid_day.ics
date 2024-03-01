@@ -10,19 +10,36 @@ X-WR-CALDESC:All Pokémon GO Raid Day events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:hisuian-decidueye-raid-day
-DTSTAMP:20240212T002028Z
-SUMMARY:[RD] Hisuian Decidueye Raid Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /hisuian-decidueye-raid-day/
-URL:https://leekduck.com/events/hisuian-decidueye-raid-day/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/hisuian-decidueye.jp
- g
-DTSTART:20240211T140000
-DTEND:20240211T170000
+UID:primal-kyogre-raid-day
+DTSTAMP:20240301T002249Z
+SUMMARY:[RD] Primal Kyogre Raid Day
+DESCRIPTION:Starts at 12:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /primal-kyogre-raid-day/
+URL:https://leekduck.com/events/primal-kyogre-raid-day/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART:20240317T120000
+DTEND:20240317T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RD] Hisuian Decidueye Raid Day
+DESCRIPTION:[RD] Primal Kyogre Raid Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:primal-groudon-raid-day
+DTSTAMP:20240301T002249Z
+SUMMARY:[RD] Primal Groudon Raid Day
+DESCRIPTION:Starts at 12:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /primal-groudon-raid-day/
+URL:https://leekduck.com/events/primal-groudon-raid-day/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART:20240323T120000
+DTEND:20240323T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RD] Primal Groudon Raid Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

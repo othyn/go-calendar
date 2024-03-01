@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:spatie/icalendar-generator
+NAME:GO Calendar - Ticketed (T)
+X-WR-CALNAME:GO Calendar - Ticketed (T)
+DESCRIPTION:All Pokémon GO Ticketed events\, in your local time\, auto-upd
+ ated and sourced from Leek Duck.
+X-WR-CALDESC:All Pokémon GO Ticketed events\, in your local time\, auto-up
+ dated and sourced from Leek Duck.
+REFRESH-INTERVAL;VALUE=DURATION:PT1440M
+X-PUBLISHED-TTL:PT1440M
+BEGIN:VEVENT
+UID:the-wonder-ticket
+DTSTAMP:20240301T002249Z
+SUMMARY:[T] The Wonder Ticket
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /the-wonder-ticket/
+URL:https://leekduck.com/events/the-wonder-ticket/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/wonder-ticket.jpg
+DTSTART;VALUE=DATE:20240301
+DTEND;VALUE=DATE:20240614
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[T] The Wonder Ticket
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

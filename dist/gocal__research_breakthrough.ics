@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:season-13-timeless-travels-research-breakthrough
-DTSTAMP:20240229T001919Z
+DTSTAMP:20240301T002249Z
 SUMMARY:[RBT] Timeless Travels Research Breakthrough
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-13-timeless-travels-research-breakthrough/
@@ -27,20 +27,20 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:season-14-world-of-wonder-research-breakthrough
-DTSTAMP:20240229T001919Z
-SUMMARY:[RBT] World of Wonder Research Breakthrough
+UID:season-14-world-of-wonders-research-breakthrough
+DTSTAMP:20240301T002249Z
+SUMMARY:[RBT] World of Wonders Research Breakthrough
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /season-14-world-of-wonder-research-breakthrough/
-URL:https://leekduck.com/events/season-14-world-of-wonder-research-breakthr
- ough/
+ /season-14-world-of-wonders-research-breakthrough/
+URL:https://leekduck.com/events/season-14-world-of-wonders-research-breakth
+ rough/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/SpringResearchBreakt
  hrough.jpg
-DTSTART;VALUE=DATE:20231201
-DTEND;VALUE=DATE:20240301
+DTSTART;VALUE=DATE:20240301
+DTEND;VALUE=DATE:20240601
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RBT] World of Wonder Research Breakthrough
+DESCRIPTION:[RBT] World of Wonders Research Breakthrough
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

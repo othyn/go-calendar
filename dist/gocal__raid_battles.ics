@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:mega-garchomp-in-mega-raids-february-2024
-DTSTAMP:20240229T001919Z
+DTSTAMP:20240301T002249Z
 SUMMARY:[RB] Mega Garchomp in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-garchomp-in-mega-raids-february-2024/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cresselia-heatran-in-5-star-raid-battles-february-2024
-DTSTAMP:20240229T001919Z
+DTSTAMP:20240301T002249Z
 SUMMARY:[RB] Cresselia and Heatran in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /cresselia-heatran-in-5-star-raid-battles-february-2024/
@@ -44,19 +44,136 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:tapu-koko-in-5-star-raid-battles-march-2024y
-DTSTAMP:20240229T001919Z
+UID:mega-sceptile-in-mega-raids-march-2024
+DTSTAMP:20240301T002249Z
+SUMMARY:[RB] Mega Sceptile in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-sceptile-in-mega-raids-march-2024/
+URL:https://leekduck.com/events/mega-sceptile-in-mega-raids-march-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20240301
+DTEND;VALUE=DATE:20240314
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Mega Sceptile in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tapu-koko-in-5-star-raid-battles-march-2024
+DTSTAMP:20240301T002249Z
 SUMMARY:[RB] Tapu Koko in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /tapu-koko-in-5-star-raid-battles-march-2024y/
+ /tapu-koko-in-5-star-raid-battles-march-2024/
 URL:https://leekduck.com/events/tapu-koko-in-5-star-raid-battles-march-2024
- y/
+ /
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/tapu-koko.jpg
 DTSTART;VALUE=DATE:20240301
 DTEND;VALUE=DATE:20240314
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RB] Tapu Koko in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-tyranitar-in-mega-raids-march-2024
+DTSTAMP:20240301T002249Z
+SUMMARY:[RB] Mega Tyranitar in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-tyranitar-in-mega-raids-march-2024/
+URL:https://leekduck.com/events/mega-tyranitar-in-mega-raids-march-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20240314
+DTEND;VALUE=DATE:20240321
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Mega Tyranitar in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:regice-in-5-star-raid-battles-march-2024
+DTSTAMP:20240301T002249Z
+SUMMARY:[RB] Regice in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /regice-in-5-star-raid-battles-march-2024/
+URL:https://leekduck.com/events/regice-in-5-star-raid-battles-march-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/regice.jpg
+DTSTART;VALUE=DATE:20240314
+DTEND;VALUE=DATE:20240321
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Regice in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shadow-raikou-in-shadow-raids-world-of-wonder
+DTSTAMP:20240301T002249Z
+SUMMARY:[RB] Shadow Raikou in Shadow Raids
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /shadow-raikou-in-shadow-raids-world-of-wonder/
+URL:https://leekduck.com/events/shadow-raikou-in-shadow-raids-world-of-wond
+ er/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART;VALUE=DATE:20240302
+DTEND;VALUE=DATE:20240324
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Shadow Raikou in Shadow Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shadow-mewtwo-in-shadow-raids-world-of-wonder
+DTSTAMP:20240301T002249Z
+SUMMARY:[RB] Shadow Mewtwo in Shadow Raids
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /shadow-mewtwo-in-shadow-raids-world-of-wonder/
+URL:https://leekduck.com/events/shadow-mewtwo-in-shadow-raids-world-of-wond
+ er/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/rising-shadows-event
+ .jpg
+DTSTART;VALUE=DATE:20240330
+DTEND;VALUE=DATE:20240331
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Shadow Mewtwo in Shadow Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-venusaur-in-mega-raids-march-2024
+DTSTAMP:20240301T002249Z
+SUMMARY:[RB] Mega Tyranitar in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-venusaur-in-mega-raids-march-2024/
+URL:https://leekduck.com/events/mega-venusaur-in-mega-raids-march-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20240321
+DTEND;VALUE=DATE:20240404
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Mega Tyranitar in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tapu-lele-in-5-star-raid-battles-march-2024
+DTSTAMP:20240301T002249Z
+SUMMARY:[RB] Tapu Lele in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /tapu-lele-in-5-star-raid-battles-march-2024/
+URL:https://leekduck.com/events/tapu-lele-in-5-star-raid-battles-march-2024
+ /
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/tapu-koko.jpg
+DTSTART;VALUE=DATE:20240321
+DTEND;VALUE=DATE:20240404
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Tapu Lele in 5-star Raid Battles
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
