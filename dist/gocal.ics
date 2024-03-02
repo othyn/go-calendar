@@ -10,93 +10,8 @@ X-WR-CALDESC:All Pokémon GO events\, in your local time\, auto-updated and
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:eggspedition-access-february-ticket
-DTSTAMP:20240301T002249Z
-SUMMARY:[TE] Eggs-pedition Access: February
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /eggspedition-access-february-ticket/
-URL:https://leekduck.com/events/eggspedition-access-february-ticket/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/eggspedition-access-
- february.jpg
-DTSTART;VALUE=DATE:20240201
-DTEND;VALUE=DATE:20240229
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[TE] Eggs-pedition Access: February
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:season-13-timeless-travels-research-breakthrough
-DTSTAMP:20240301T002249Z
-SUMMARY:[RBT] Timeless Travels Research Breakthrough
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /season-13-timeless-travels-research-breakthrough/
-URL:https://leekduck.com/events/season-13-timeless-travels-research-breakth
- rough/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/researchWinter.jpg
-DTSTART;VALUE=DATE:20231201
-DTEND;VALUE=DATE:20240301
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RBT] Timeless Travels Research Breakthrough
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:season-13-timeless-travels
-DTSTAMP:20240301T002249Z
-SUMMARY:[S] Timeless Travels
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /season-13-timeless-travels/
-URL:https://leekduck.com/events/season-13-timeless-travels/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/season-13-timeless-t
- ravels.jpg
-DTSTART;VALUE=DATE:20231201
-DTEND;VALUE=DATE:20240301
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[S] Timeless Travels
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:mega-garchomp-in-mega-raids-february-2024
-DTSTAMP:20240301T002249Z
-SUMMARY:[RB] Mega Garchomp in Mega Raids
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /mega-garchomp-in-mega-raids-february-2024/
-URL:https://leekduck.com/events/mega-garchomp-in-mega-raids-february-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;VALUE=DATE:20240220
-DTEND;VALUE=DATE:20240301
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Mega Garchomp in Mega Raids
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:cresselia-heatran-in-5-star-raid-battles-february-2024
-DTSTAMP:20240301T002249Z
-SUMMARY:[RB] Cresselia and Heatran in 5-star Raid Battles
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /cresselia-heatran-in-5-star-raid-battles-february-2024/
-URL:https://leekduck.com/events/cresselia-heatran-in-5-star-raid-battles-fe
- bruary-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cresselia-heatran.jp
- g
-DTSTART;VALUE=DATE:20240226
-DTEND;VALUE=DATE:20240301
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Cresselia and Heatran in 5-star Raid Battles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:gbl-timeless-travels_great-league_ultra-league_master-league-3
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[GBL] Great League\, Ultra League and Master League | Timeless Trav
  els
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -116,7 +31,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:charged-up-research-day
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[E] Charged-Up Research Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /charged-up-research-day/
@@ -132,8 +47,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemon-showcase-electric-type-2024-03-02
+DTSTAMP:20240302T001923Z
+SUMMARY:[PS] Electric-type PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-electric-type-2024-03-02/
+URL:https://leekduck.com/events/pokemon-showcase-electric-type-2024-03-02/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART;VALUE=DATE:20240302
+DTEND;VALUE=DATE:20240303
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PS] Electric-type PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:pokemonspotlighthour2024-03-05
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[PSH] Pawmi Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-03-05/
@@ -150,7 +82,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240306
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[RH] Tapu Koko Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240306/
@@ -165,8 +97,28 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:gbl-world-of-wonders_great-league_electric-cup-great-league-edition
+DTSTAMP:20240302T001923Z
+SUMMARY:[GBL] Great League and Electric: Great League Edition | World of Wo
+ nders
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-world-of-wonders_great-league_electric-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-world-of-wonders_great-league_electric-
+ cup-great-league-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattle-greatleague
+ -key.jpg
+DTSTART;VALUE=DATE:20240301
+DTEND;VALUE=DATE:20240308
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Great League and Electric: Great League Edition | World o
+ f Wonders
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:pokemon-horizons-the-series-celebration-event
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[E] Pokémon Horizons: The Series Celebration Event
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-horizons-the-series-celebration-event/
@@ -183,7 +135,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-03-12
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[PSH] Nidoran♀ Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-03-12/
@@ -200,7 +152,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240313
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[RH] Tapu Koko Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240313/
@@ -216,7 +168,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-sceptile-in-mega-raids-march-2024
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[RB] Mega Sceptile in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-sceptile-in-mega-raids-march-2024/
@@ -232,7 +184,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tapu-koko-in-5-star-raid-battles-march-2024
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[RB] Tapu Koko in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /tapu-koko-in-5-star-raid-battles-march-2024/
@@ -249,7 +201,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:march-communityday2024
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[CD] Litten Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /march-communityday2024/
@@ -266,7 +218,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:primal-kyogre-raid-day
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[RD] Primal Kyogre Raid Day
 DESCRIPTION:Starts at 12:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /primal-kyogre-raid-day/
@@ -283,7 +235,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:weather-week-2024
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[E] Weather Week
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /weather-week-2024/
@@ -300,7 +252,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-03-19
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[PSH] Vulpix\, Poliwag\, Snorunt\, and Hippopotas Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-03-19/
@@ -318,7 +270,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240320
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[RH] Regice Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240320/
@@ -334,7 +286,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-tyranitar-in-mega-raids-march-2024
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[RB] Mega Tyranitar in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-tyranitar-in-mega-raids-march-2024/
@@ -350,7 +302,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:regice-in-5-star-raid-battles-march-2024
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[RB] Regice in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /regice-in-5-star-raid-battles-march-2024/
@@ -366,7 +318,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:primal-groudon-raid-day
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[RD] Primal Groudon Raid Day
 DESCRIPTION:Starts at 12:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /primal-groudon-raid-day/
@@ -383,7 +335,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-raikou-in-shadow-raids-world-of-wonder
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[RB] Shadow Raikou in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-raikou-in-shadow-raids-world-of-wonder/
@@ -401,7 +353,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:verdant-wonders-zarude-ticketed-event
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[E] Verdant Wonders &amp\; Zarude Ticketed Event
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /verdant-wonders-zarude-ticketed-event/
@@ -418,7 +370,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-03-26
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[PSH] Hoppip Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-03-26/
@@ -435,7 +387,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240327
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[RH] Tapu Lele Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240327/
@@ -451,7 +403,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-of-wonders-taken-over
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[E] World of Wonders: Taken Over
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /world-of-wonders-taken-over/
@@ -468,7 +420,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-mewtwo-in-shadow-raids-world-of-wonder
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[RB] Shadow Mewtwo in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-mewtwo-in-shadow-raids-world-of-wonder/
@@ -486,7 +438,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240403
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[RH] Tapu Lele Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240403/
@@ -502,7 +454,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-venusaur-in-mega-raids-march-2024
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[RB] Mega Tyranitar in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-venusaur-in-mega-raids-march-2024/
@@ -518,7 +470,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tapu-lele-in-5-star-raid-battles-march-2024
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[RB] Tapu Lele in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /tapu-lele-in-5-star-raid-battles-march-2024/
@@ -535,7 +487,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:april-communitydayclassic2024
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[CD] April Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /april-communitydayclassic2024/
@@ -551,7 +503,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-season18-event-april-13
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[E] Unannounced Event on April 13
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-season18-event-april-13/
@@ -568,7 +520,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:april-communityday2024
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[CD] April Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /april-communityday2024/
@@ -584,7 +536,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-season18-event-april-28
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[E] Unannounced Event on April 28
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-season18-event-april-28/
@@ -601,7 +553,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-season18-event-may-11
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[E] Unannounced Event on May 11
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-season18-event-may-11/
@@ -618,7 +570,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communityday2024
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[CD] May Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /may-communityday2024/
@@ -634,7 +586,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-14-world-of-wonders
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[S] World of Wonders
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-14-world-of-wonders/
@@ -651,7 +603,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-14-world-of-wonders-research-breakthrough
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[RBT] World of Wonders Research Breakthrough
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-14-world-of-wonders-research-breakthrough/
@@ -669,7 +621,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:the-wonder-ticket
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[T] The Wonder Ticket
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /the-wonder-ticket/

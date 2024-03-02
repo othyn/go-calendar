@@ -10,22 +10,19 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-origin-forme-dialga-origin-forme-palkia-2024-02-24
-DTSTAMP:20240226T001951Z
-SUMMARY:[PS] Origin Forme Dialga and Origin Forme Palkia PokéStop Showcase
- s
+UID:pokemon-showcase-electric-type-2024-03-02
+DTSTAMP:20240302T001923Z
+SUMMARY:[PS] Electric-type PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-origin-forme-dialga-origin-forme-palkia-2024-02-24/
-URL:https://leekduck.com/events/pokemon-showcase-origin-forme-dialga-origin
- -forme-palkia-2024-02-24/
+ /pokemon-showcase-electric-type-2024-03-02/
+URL:https://leekduck.com/events/pokemon-showcase-electric-type-2024-03-02/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
  efault.jpg
-DTSTART:20240224T100000
-DTEND:20240224T200000
+DTSTART;VALUE=DATE:20240302
+DTEND;VALUE=DATE:20240303
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Origin Forme Dialga and Origin Forme Palkia PokéStop Show
- cases
+DESCRIPTION:[PS] Electric-type PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

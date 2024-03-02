@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Season events\, in your local time\, auto-upda
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:season-13-timeless-travels
-DTSTAMP:20240301T002249Z
-SUMMARY:[S] Timeless Travels
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /season-13-timeless-travels/
-URL:https://leekduck.com/events/season-13-timeless-travels/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/season-13-timeless-t
- ravels.jpg
-DTSTART;VALUE=DATE:20231201
-DTEND;VALUE=DATE:20240301
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[S] Timeless Travels
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:season-14-world-of-wonders
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[S] World of Wonders
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-14-world-of-wonders/

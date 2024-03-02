@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:charged-up-research-day
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[E] Charged-Up Research Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /charged-up-research-day/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-horizons-the-series-celebration-event
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[E] Pokémon Horizons: The Series Celebration Event
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-horizons-the-series-celebration-event/
@@ -45,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:weather-week-2024
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[E] Weather Week
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /weather-week-2024/
@@ -62,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:verdant-wonders-zarude-ticketed-event
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[E] Verdant Wonders &amp\; Zarude Ticketed Event
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /verdant-wonders-zarude-ticketed-event/
@@ -79,7 +79,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-of-wonders-taken-over
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[E] World of Wonders: Taken Over
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /world-of-wonders-taken-over/
@@ -96,7 +96,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-season18-event-april-13
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[E] Unannounced Event on April 13
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-season18-event-april-13/
@@ -113,7 +113,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-season18-event-april-28
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[E] Unannounced Event on April 28
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-season18-event-april-28/
@@ -130,7 +130,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-season18-event-may-11
-DTSTAMP:20240301T002249Z
+DTSTAMP:20240302T001923Z
 SUMMARY:[E] Unannounced Event on May 11
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-season18-event-may-11/
