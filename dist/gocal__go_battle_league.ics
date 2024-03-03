@@ -10,28 +10,8 @@ X-WR-CALDESC:All Pokémon GO GO Battle League events\, in your local time\,
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:gbl-timeless-travels_great-league_ultra-league_master-league-3
-DTSTAMP:20240302T001923Z
-SUMMARY:[GBL] Great League\, Ultra League and Master League | Timeless Trav
- els
-DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /gbl-timeless-travels_great-league_ultra-league_master-league-3/
-URL:https://leekduck.com/events/gbl-timeless-travels_great-league_ultra-lea
- gue_master-league-3/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-sea
- son-17-timeless-travels.jpg
-DTSTART;VALUE=DATE:20240223
-DTEND;VALUE=DATE:20240301
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[GBL] Great League\, Ultra League and Master League | Timeless 
- Travels
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:gbl-world-of-wonders_great-league_electric-cup-great-league-edition
-DTSTAMP:20240302T001923Z
+DTSTAMP:20240303T002102Z
 SUMMARY:[GBL] Great League and Electric: Great League Edition | World of Wo
  nders
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
