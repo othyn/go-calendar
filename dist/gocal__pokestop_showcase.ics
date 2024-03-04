@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-electric-type-2024-03-02
-DTSTAMP:20240303T002102Z
+DTSTAMP:20240304T002008Z
 SUMMARY:[PS] Electric-type PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-electric-type-2024-03-02/
