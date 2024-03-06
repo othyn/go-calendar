@@ -10,19 +10,20 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-electric-type-2024-03-02
-DTSTAMP:20240304T002008Z
-SUMMARY:[PS] Electric-type PokéStop Showcases
+UID:pokemon-showcase-sprigatito-fuecoco-quaxly-2024-02-21
+DTSTAMP:20240306T001950Z
+SUMMARY:[PS] Sprigatito\, Fuecoco\, and Quaxly PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-electric-type-2024-03-02/
-URL:https://leekduck.com/events/pokemon-showcase-electric-type-2024-03-02/
+ /pokemon-showcase-sprigatito-fuecoco-quaxly-2024-02-21/
+URL:https://leekduck.com/events/pokemon-showcase-sprigatito-fuecoco-quaxly-
+ 2024-02-21/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
  efault.jpg
-DTSTART;VALUE=DATE:20240302
-DTEND;VALUE=DATE:20240303
+DTSTART;VALUE=DATE:20240306
+DTEND;VALUE=DATE:20240308
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Electric-type PokéStop Showcases
+DESCRIPTION:[PS] Sprigatito\, Fuecoco\, and Quaxly PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
