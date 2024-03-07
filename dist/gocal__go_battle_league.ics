@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:gbl-world-of-wonders_great-league_electric-cup-great-league-edition
-DTSTAMP:20240306T001950Z
+DTSTAMP:20240307T001544Z
 SUMMARY:[GBL] Great League and Electric: Great League Edition | World of Wo
  nders
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -25,6 +25,238 @@ DTEND;VALUE=DATE:20240308
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[GBL] Great League and Electric: Great League Edition | World o
+ f Wonders
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-world-of-wonders_ultra-league_spring-cup-great-league-edition
+DTSTAMP:20240307T001544Z
+SUMMARY:[GBL] Ultra League and Spring Cup: Great League Edition | World of 
+ Wonders
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-world-of-wonders_ultra-league_spring-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-world-of-wonders_ultra-league_spring-cu
+ p-great-league-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-ult
+ ra-league-machamp-swampert.jpg
+DTSTART;VALUE=DATE:20240308
+DTEND;VALUE=DATE:20240315
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Ultra League and Spring Cup: Great League Edition | World
+  of Wonders
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-world-of-wonders_master-league_spring-cup-great-league-edition
+DTSTAMP:20240307T001544Z
+SUMMARY:[GBL] Master League and Spring Cup: Great League Edition | World of
+  Wonders
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-world-of-wonders_master-league_spring-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-world-of-wonders_master-league_spring-c
+ up-great-league-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattleleague-maste
+ r-key.jpg
+DTSTART;VALUE=DATE:20240315
+DTEND;VALUE=DATE:20240322
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Master League and Spring Cup: Great League Edition | Worl
+ d of Wonders
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-world-of-wonders_great-league_ultra-league_master-league
+DTSTAMP:20240307T001544Z
+SUMMARY:[GBL] Great League\, Ultra League\, and Master League | World of Wo
+ nders
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-world-of-wonders_great-league_ultra-league_master-league/
+URL:https://leekduck.com/events/gbl-world-of-wonders_great-league_ultra-lea
+ gue_master-league/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-sea
+ son-18-world-of-wonder.jpg
+DTSTART;VALUE=DATE:20240322
+DTEND;VALUE=DATE:20240329
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Great League\, Ultra League\, and Master League | World o
+ f Wonders
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-world-of-wonders_great-league_ultra-premier
+DTSTAMP:20240307T001544Z
+SUMMARY:[GBL] Great League and Ultra Premier | World of Wonders
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-world-of-wonders_great-league_ultra-premier/
+URL:https://leekduck.com/events/gbl-world-of-wonders_great-league_ultra-pre
+ mier/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattle-greatleague
+ -key.jpg
+DTSTART;VALUE=DATE:20240329
+DTEND;VALUE=DATE:20240405
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Great League and Ultra Premier | World of Wonders
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-world-of-wonders_ultra-league_jungle-cup-great-league
+DTSTAMP:20240307T001544Z
+SUMMARY:[GBL] Ultra League and Jungle Cup: Great League | World of Wonders
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-world-of-wonders_ultra-league_jungle-cup-great-league/
+URL:https://leekduck.com/events/gbl-world-of-wonders_ultra-league_jungle-cu
+ p-great-league/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-ult
+ ra-league-machamp-swampert.jpg
+DTSTART;VALUE=DATE:20240405
+DTEND;VALUE=DATE:20240412
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Ultra League and Jungle Cup: Great League | World of Wond
+ ers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-world-of-wonders_master-league_jungle-cup-great-league
+DTSTAMP:20240307T001544Z
+SUMMARY:[GBL] Master League and Jungle Cup: Great League | World of Wonders
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-world-of-wonders_master-league_jungle-cup-great-league/
+URL:https://leekduck.com/events/gbl-world-of-wonders_master-league_jungle-c
+ up-great-league/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattleleague-maste
+ r-key.jpg
+DTSTART;VALUE=DATE:20240412
+DTEND;VALUE=DATE:20240419
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Master League and Jungle Cup: Great League | World of Won
+ ders
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-world-of-wonders_great-league_ultra-league_master-league-split-2
+DTSTAMP:20240307T001544Z
+SUMMARY:[GBL] Great League\, Ultra League\, and Master League | World of Wo
+ nders
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-world-of-wonders_great-league_ultra-league_master-league-split-2/
+URL:https://leekduck.com/events/gbl-world-of-wonders_great-league_ultra-lea
+ gue_master-league-split-2/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-sea
+ son-18-world-of-wonder.jpg
+DTSTART;VALUE=DATE:20240419
+DTEND;VALUE=DATE:20240426
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Great League\, Ultra League\, and Master League | World o
+ f Wonders
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-world-of-wonders_great-league_master-premier
+DTSTAMP:20240307T001544Z
+SUMMARY:[GBL] Great League and Master Premier | World of Wonders
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-world-of-wonders_great-league_master-premier/
+URL:https://leekduck.com/events/gbl-world-of-wonders_great-league_master-pr
+ emier/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattle-greatleague
+ -key.jpg
+DTSTART;VALUE=DATE:20240426
+DTEND;VALUE=DATE:20240503
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Great League and Master Premier | World of Wonders
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-world-of-wonders_ultra-league_great-league-remix
+DTSTAMP:20240307T001544Z
+SUMMARY:[GBL] Ultra League and Great League Remix | World of Wonders
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-world-of-wonders_ultra-league_great-league-remix/
+URL:https://leekduck.com/events/gbl-world-of-wonders_ultra-league_great-lea
+ gue-remix/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-ult
+ ra-league-machamp-swampert.jpg
+DTSTART;VALUE=DATE:20240503
+DTEND;VALUE=DATE:20240510
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Ultra League and Great League Remix | World of Wonders
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-world-of-wonders_master-league_great-league-remix-copy
+DTSTAMP:20240307T001544Z
+SUMMARY:[GBL] Master League and Great League Remix | World of Wonders
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-world-of-wonders_master-league_great-league-remix-copy/
+URL:https://leekduck.com/events/gbl-world-of-wonders_master-league_great-le
+ ague-remix-copy/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattleleague-maste
+ r-key.jpg
+DTSTART;VALUE=DATE:20240510
+DTEND;VALUE=DATE:20240517
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Master League and Great League Remix | World of Wonders
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-world-of-wonders_catch-cup-little-edition_catch-cup-great-league-ed
+ ition
+DTSTAMP:20240307T001544Z
+SUMMARY:[GBL] Catch Cup: Little Edition and Catch Cup: Great League Edition
+  | World of Wonders
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-world-of-wonders_catch-cup-little-edition_catch-cup-great-league-edit
+ ion/
+URL:https://leekduck.com/events/gbl-world-of-wonders_catch-cup-little-editi
+ on_catch-cup-great-league-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattle-greatleague
+ -key.jpg
+DTSTART;VALUE=DATE:20240517
+DTEND;VALUE=DATE:20240524
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Catch Cup: Little Edition and Catch Cup: Great League Edi
+ tion | World of Wonders
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-world-of-wonders_great-league_ultra-league_master-league-split-3
+DTSTAMP:20240307T001544Z
+SUMMARY:[GBL] Great League\, Ultra League\, and Master League | World of Wo
+ nders
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-world-of-wonders_great-league_ultra-league_master-league-split-3/
+URL:https://leekduck.com/events/gbl-world-of-wonders_great-league_ultra-lea
+ gue_master-league-split-3/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-sea
+ son-18-world-of-wonder.jpg
+DTSTART;VALUE=DATE:20240524
+DTEND;VALUE=DATE:20240531
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Great League\, Ultra League\, and Master League | World o
  f Wonders
 TRIGGER:-PT15M
 END:VALARM

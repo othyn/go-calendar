@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-sprigatito-fuecoco-quaxly-2024-02-21
-DTSTAMP:20240306T001950Z
+DTSTAMP:20240307T001544Z
 SUMMARY:[PS] Sprigatito\, Fuecoco\, and Quaxly PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-sprigatito-fuecoco-quaxly-2024-02-21/
