@@ -15,6 +15,10 @@
         "name": "GO Battle League",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__go_battle_league.ics"
     },
+    "pokemon_go_fest": {
+        "name": "Pokémon GO Fest",
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokemon_go_fest.ics"
+    },
     "pokemon_spotlight_hour": {
         "name": "Pokémon Spotlight Hour",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokemon_spotlight_hour.ics"

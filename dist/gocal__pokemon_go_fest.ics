@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:spatie/icalendar-generator
-NAME:GO Calendar - Pokémon GO Fest
-X-WR-CALNAME:GO Calendar - Pokémon GO Fest
+NAME:GO Calendar - Pokémon GO Fest (PGF)
+X-WR-CALNAME:GO Calendar - Pokémon GO Fest (PGF)
 DESCRIPTION:All Pokémon GO Pokémon GO Fest events\, in your local time\, 
  auto-updated and sourced from Leek Duck.
 X-WR-CALDESC:All Pokémon GO Pokémon GO Fest events\, in your local time\,
@@ -10,17 +10,19 @@ X-WR-CALDESC:All Pokémon GO Pokémon GO Fest events\, in your local time\,
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-go-fest-2023-global-sunday
-DTSTAMP:20230828T001844Z
-SUMMARY:[Pokémon GO Fest] Pokémon GO Fest: Global - Sunday
+UID:pokemon-go-fest-2024-global
+DTSTAMP:20240308T002027Z
+SUMMARY:[PGF] Pokémon GO Fest 2024: Global
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
- /pokemon-go-fest-2023-global-sunday/
-URL:https://leekduck.com/events/pokemon-go-fest-2023-global-sunday/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-rayquaza.jpg
-DTSTART:20230827T100000
-DTEND:20230827T180000
+ /pokemon-go-fest-2024-global/
+URL:https://leekduck.com/events/pokemon-go-fest-2024-global/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemon-go-fest-2024
+ -global-key.jpg
+DTSTART;VALUE=DATE:20240713
+DTEND;VALUE=DATE:20240714
 BEGIN:VALARM
 ACTION:DISPLAY
+DESCRIPTION:[PGF] Pokémon GO Fest 2024: Global
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
