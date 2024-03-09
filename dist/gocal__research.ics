@@ -10,8 +10,25 @@ X-WR-CALDESC:All Pokémon GO Research events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
+UID:captain-pikachus-bonus-timed-research
+DTSTAMP:20240309T001850Z
+SUMMARY:[R] Captain Pikachu's Bonus Timed Research
+DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
+ /captain-pikachus-bonus-timed-research/
+URL:https://leekduck.com/events/captain-pikachus-bonus-timed-research/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/captain-pikachu-time
+ d-research.jpg
+DTSTART;VALUE=DATE:20240308
+DTEND;VALUE=DATE:20240313
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[R] Captain Pikachu's Bonus Timed Research
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:masterwork-research-glimmers-of-gratitude
-DTSTAMP:20240308T002027Z
+DTSTAMP:20240309T001850Z
 SUMMARY:[R] Masterwork Research: Glimmers of Gratitude (Global)
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /masterwork-research-glimmers-of-gratitude/
@@ -22,6 +39,24 @@ DTEND;VALUE=DATE:20240331
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[R] Masterwork Research: Glimmers of Gratitude (Global)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:amazon-prime-partner-research-world-of-wonders
+DTSTAMP:20240309T001850Z
+SUMMARY:[R] Limited-time Partner Research: Amazon Prime Gaming
+DESCRIPTION:Starts at 16:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /amazon-prime-partner-research-world-of-wonders/
+URL:https://leekduck.com/events/amazon-prime-partner-research-world-of-wond
+ ers/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/amazon-prime-partner
+ -research-drampa.jpg
+DTSTART;VALUE=DATE:20240308
+DTEND;VALUE=DATE:20240414
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[R] Limited-time Partner Research: Amazon Prime Gaming
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
