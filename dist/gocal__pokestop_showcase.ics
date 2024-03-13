@@ -10,19 +10,19 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-pikachu-2024-03-09
-DTSTAMP:20240311T002016Z
-SUMMARY:[PS] Pikachu PokéStop Showcases
+UID:pokemon-showcase-castform-2024-03-13
+DTSTAMP:20240313T001915Z
+SUMMARY:[PS] Castform PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-pikachu-2024-03-09/
-URL:https://leekduck.com/events/pokemon-showcase-pikachu-2024-03-09/
+ /pokemon-showcase-castform-2024-03-13/
+URL:https://leekduck.com/events/pokemon-showcase-castform-2024-03-13/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
  efault.jpg
-DTSTART;VALUE=DATE:20240309
-DTEND;VALUE=DATE:20240310
+DTSTART;VALUE=DATE:20240313
+DTEND;VALUE=DATE:20240315
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Pikachu PokéStop Showcases
+DESCRIPTION:[PS] Castform PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
