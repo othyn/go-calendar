@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Pokémon Spotlight Hour events\, in your local
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemonspotlighthour2024-03-12
-DTSTAMP:20240313T001915Z
-SUMMARY:[PSH] Nidoran♀ Spotlight Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2024-03-12/
-URL:https://leekduck.com/events/pokemonspotlighthour2024-03-12/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
- .jpg
-DTSTART:20240312T180000
-DTEND:20240312T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PSH] Nidoran♀ Spotlight Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemonspotlighthour2024-03-19
-DTSTAMP:20240313T001915Z
+DTSTAMP:20240314T002010Z
 SUMMARY:[PSH] Vulpix\, Poliwag\, Snorunt\, and Hippopotas Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-03-19/
@@ -46,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-03-26
-DTSTAMP:20240313T001915Z
+DTSTAMP:20240314T002010Z
 SUMMARY:[PSH] Hoppip Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-03-26/
