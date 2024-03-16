@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-castform-2024-03-13
-DTSTAMP:20240315T001921Z
+DTSTAMP:20240316T001835Z
 SUMMARY:[PS] Castform PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-castform-2024-03-13/
@@ -23,6 +23,24 @@ DTEND;VALUE=DATE:20240315
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[PS] Castform PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-litten-incineroar-2024-03-16
+DTSTAMP:20240316T001835Z
+SUMMARY:[PS] Litten and Incineroar PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-litten-incineroar-2024-03-16/
+URL:https://leekduck.com/events/pokemon-showcase-litten-incineroar-2024-03-
+ 16/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART;VALUE=DATE:20240316
+DTEND;VALUE=DATE:20240317
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PS] Litten and Incineroar PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
