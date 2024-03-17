@@ -10,28 +10,8 @@ X-WR-CALDESC:All Pokémon GO GO Battle League events\, in your local time\,
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:gbl-world-of-wonders_ultra-league_spring-cup-great-league-edition
-DTSTAMP:20240316T001835Z
-SUMMARY:[GBL] Ultra League and Spring Cup: Great League Edition | World of 
- Wonders
-DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /gbl-world-of-wonders_ultra-league_spring-cup-great-league-edition/
-URL:https://leekduck.com/events/gbl-world-of-wonders_ultra-league_spring-cu
- p-great-league-edition/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-ult
- ra-league-machamp-swampert.jpg
-DTSTART;VALUE=DATE:20240308
-DTEND;VALUE=DATE:20240315
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[GBL] Ultra League and Spring Cup: Great League Edition | World
-  of Wonders
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:gbl-world-of-wonders_master-league_spring-cup-great-league-edition
-DTSTAMP:20240316T001835Z
+DTSTAMP:20240317T002158Z
 SUMMARY:[GBL] Master League and Spring Cup: Great League Edition | World of
   Wonders
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -51,7 +31,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-world-of-wonders_great-league_ultra-league_master-league
-DTSTAMP:20240316T001835Z
+DTSTAMP:20240317T002158Z
 SUMMARY:[GBL] Great League\, Ultra League\, and Master League | World of Wo
  nders
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -71,7 +51,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-world-of-wonders_great-league_ultra-premier
-DTSTAMP:20240316T001835Z
+DTSTAMP:20240317T002158Z
 SUMMARY:[GBL] Great League and Ultra Premier | World of Wonders
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-world-of-wonders_great-league_ultra-premier/
@@ -89,7 +69,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-world-of-wonders_ultra-league_jungle-cup-great-league
-DTSTAMP:20240316T001835Z
+DTSTAMP:20240317T002158Z
 SUMMARY:[GBL] Ultra League and Jungle Cup: Great League | World of Wonders
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-world-of-wonders_ultra-league_jungle-cup-great-league/
@@ -108,7 +88,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-world-of-wonders_master-league_jungle-cup-great-league
-DTSTAMP:20240316T001835Z
+DTSTAMP:20240317T002158Z
 SUMMARY:[GBL] Master League and Jungle Cup: Great League | World of Wonders
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-world-of-wonders_master-league_jungle-cup-great-league/
@@ -127,7 +107,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-world-of-wonders_great-league_ultra-league_master-league-split-2
-DTSTAMP:20240316T001835Z
+DTSTAMP:20240317T002158Z
 SUMMARY:[GBL] Great League\, Ultra League\, and Master League | World of Wo
  nders
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -147,7 +127,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-world-of-wonders_great-league_master-premier
-DTSTAMP:20240316T001835Z
+DTSTAMP:20240317T002158Z
 SUMMARY:[GBL] Great League and Master Premier | World of Wonders
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-world-of-wonders_great-league_master-premier/
@@ -165,7 +145,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-world-of-wonders_ultra-league_great-league-remix
-DTSTAMP:20240316T001835Z
+DTSTAMP:20240317T002158Z
 SUMMARY:[GBL] Ultra League and Great League Remix | World of Wonders
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-world-of-wonders_ultra-league_great-league-remix/
@@ -183,7 +163,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-world-of-wonders_master-league_great-league-remix-copy
-DTSTAMP:20240316T001835Z
+DTSTAMP:20240317T002158Z
 SUMMARY:[GBL] Master League and Great League Remix | World of Wonders
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-world-of-wonders_master-league_great-league-remix-copy/
@@ -202,7 +182,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-world-of-wonders_catch-cup-little-edition_catch-cup-great-league-ed
  ition
-DTSTAMP:20240316T001835Z
+DTSTAMP:20240317T002158Z
 SUMMARY:[GBL] Catch Cup: Little Edition and Catch Cup: Great League Edition
   | World of Wonders
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -223,7 +203,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-world-of-wonders_great-league_ultra-league_master-league-split-3
-DTSTAMP:20240316T001835Z
+DTSTAMP:20240317T002158Z
 SUMMARY:[GBL] Great League\, Ultra League\, and Master League | World of Wo
  nders
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
