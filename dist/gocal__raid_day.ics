@@ -11,15 +11,15 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:primal-kyogre-raid-day
-DTSTAMP:20240317T002158Z
+DTSTAMP:20240318T002029Z
 SUMMARY:[RD] Primal Kyogre Raid Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+DESCRIPTION:Starts at 14:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /primal-kyogre-raid-day/
 URL:https://leekduck.com/events/primal-kyogre-raid-day/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/primal-kyogre-groudo
  n-raid-days.jpg
 DTSTART:20240317T140000
-DTEND:20240317T170000
+DTEND:20240317T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RD] Primal Kyogre Raid Day
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:primal-groudon-raid-day
-DTSTAMP:20240317T002158Z
+DTSTAMP:20240318T002029Z
 SUMMARY:[RD] Primal Groudon Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /primal-groudon-raid-day/
