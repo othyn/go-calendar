@@ -10,20 +10,19 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-litten-incineroar-2024-03-16
-DTSTAMP:20240318T002029Z
-SUMMARY:[PS] Litten and Incineroar PokéStop Showcases
+UID:pokemon-showcase-flabebe-2024-03-20
+DTSTAMP:20240321T002017Z
+SUMMARY:[PS] Flabébé PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-litten-incineroar-2024-03-16/
-URL:https://leekduck.com/events/pokemon-showcase-litten-incineroar-2024-03-
- 16/
+ /pokemon-showcase-flabebe-2024-03-20/
+URL:https://leekduck.com/events/pokemon-showcase-flabebe-2024-03-20/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
  efault.jpg
-DTSTART;VALUE=DATE:20240316
-DTEND;VALUE=DATE:20240317
+DTSTART;VALUE=DATE:20240320
+DTEND;VALUE=DATE:20240322
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Litten and Incineroar PokéStop Showcases
+DESCRIPTION:[PS] Flabébé PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
