@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-03-26
-DTSTAMP:20240323T001916Z
+DTSTAMP:20240324T002154Z
 SUMMARY:[PSH] Hoppip Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-03-26/
@@ -23,6 +23,91 @@ DTEND:20240326T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[PSH] Hoppip Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-04-02
+DTSTAMP:20240324T002154Z
+SUMMARY:[PSH] Zubat Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-04-02/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-04-02/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20240402T180000
+DTEND:20240402T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Zubat Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-04-09
+DTSTAMP:20240324T002154Z
+SUMMARY:[PSH] Croagunk Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-04-09/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-04-09/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20240409T180000
+DTEND:20240409T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Croagunk Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-04-16
+DTSTAMP:20240324T002154Z
+SUMMARY:[PSH] Caterpie\, Weedle\, and Wurmple Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-04-16/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-04-16/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20240416T180000
+DTEND:20240416T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Caterpie\, Weedle\, and Wurmple Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-04-23
+DTSTAMP:20240324T002154Z
+SUMMARY:[PSH] Trubbish Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-04-23/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-04-23/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20240423T180000
+DTEND:20240423T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Trubbish Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-04-30
+DTSTAMP:20240324T002154Z
+SUMMARY:[PSH] Clefairy Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-04-30/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-04-30/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20240430T180000
+DTEND:20240430T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Clefairy Spotlight Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
