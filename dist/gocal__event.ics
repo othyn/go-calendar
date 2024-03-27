@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:verdant-wonders-zarude-ticketed-event
-DTSTAMP:20240326T001901Z
-SUMMARY:[E] Verdant Wonders Event &amp\; Zarude Ticketed Research
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /verdant-wonders-zarude-ticketed-event/
-URL:https://leekduck.com/events/verdant-wonders-zarude-ticketed-event/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/verdant-wonders-zaru
- de.jpg
-DTSTART;VALUE=DATE:20240321
-DTEND;VALUE=DATE:20240325
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Verdant Wonders Event &amp\; Zarude Ticketed Research
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:world-of-wonders-taken-over
-DTSTAMP:20240326T001901Z
+DTSTAMP:20240327T001911Z
 SUMMARY:[E] World of Wonders: Taken Over
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /world-of-wonders-taken-over/
@@ -45,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2024-04-03-2024-pokemon-europe-international-bonusmd
-DTSTAMP:20240326T001901Z
+DTSTAMP:20240327T001911Z
 SUMMARY:[E] 2024 Pokémon Europe International Championships Bonus
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /2024-04-03-2024-pokemon-europe-international-bonusmd/
@@ -63,7 +46,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sizeable-surprises
-DTSTAMP:20240326T001901Z
+DTSTAMP:20240327T001911Z
 SUMMARY:[E] Sizeable Surprises
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /sizeable-surprises/
@@ -80,7 +63,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-heracross-raid-day
-DTSTAMP:20240326T001901Z
+DTSTAMP:20240327T001911Z
 SUMMARY:[E] Mega Heracross Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /mega-heracross-raid-day/
@@ -97,7 +80,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bug-out-2024
-DTSTAMP:20240326T001901Z
+DTSTAMP:20240327T001911Z
 SUMMARY:[E] Bug Out 2024
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /bug-out-2024/
@@ -114,7 +97,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sustainability-week-2024
-DTSTAMP:20240326T001901Z
+DTSTAMP:20240327T001911Z
 SUMMARY:[E] Sustainability Week 2024
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /sustainability-week-2024/
@@ -131,7 +114,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-hatch-day
-DTSTAMP:20240326T001901Z
+DTSTAMP:20240327T001911Z
 SUMMARY:[E] Unannounced Hatch Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-hatch-day/
@@ -148,7 +131,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-week-world-of-wonder
-DTSTAMP:20240326T001901Z
+DTSTAMP:20240327T001911Z
 SUMMARY:[E] GO Battle Week: World of Wonder
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-week-world-of-wonder/
@@ -165,7 +148,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-season18-event-may-11
-DTSTAMP:20240326T001901Z
+DTSTAMP:20240327T001911Z
 SUMMARY:[E] Unannounced Event on May 11
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-season18-event-may-11/
