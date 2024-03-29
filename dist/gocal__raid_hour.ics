@@ -10,24 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Hour events\, in your local time\, auto-u
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:raidhour20240327
-DTSTAMP:20240328T001941Z
-SUMMARY:[RH] Tapu Lele Raid Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /raidhour20240327/
-URL:https://leekduck.com/events/raidhour20240327/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
-DTSTART:20240327T180000
-DTEND:20240327T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RH] Tapu Lele Raid Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raidhour20240403
-DTSTAMP:20240328T001941Z
+DTSTAMP:20240329T001936Z
 SUMMARY:[RH] Tapu Lele Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240403/
@@ -43,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240410
-DTSTAMP:20240328T001941Z
+DTSTAMP:20240329T001936Z
 SUMMARY:[RH] Kartana and Celesteela Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240410/
@@ -59,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240417
-DTSTAMP:20240328T001941Z
+DTSTAMP:20240329T001936Z
 SUMMARY:[RH] Tapu Bulu Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240417/
@@ -75,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour202404124
-DTSTAMP:20240328T001941Z
+DTSTAMP:20240329T001936Z
 SUMMARY:[RH] Tapu Bulu Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour202404124/
@@ -91,7 +75,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240501
-DTSTAMP:20240328T001941Z
+DTSTAMP:20240329T001936Z
 SUMMARY:[RH] Registeel Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240501/
