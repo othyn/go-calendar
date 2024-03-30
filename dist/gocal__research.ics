@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:masterwork-research-glimmers-of-gratitude
-DTSTAMP:20240329T001936Z
+DTSTAMP:20240330T001840Z
 SUMMARY:[R] Masterwork Research: Glimmers of Gratitude (Global)
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /masterwork-research-glimmers-of-gratitude/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:amazon-prime-partner-research-world-of-wonders
-DTSTAMP:20240329T001936Z
+DTSTAMP:20240330T001840Z
 SUMMARY:[R] Limited-time Partner Research: Amazon Prime Gaming
 DESCRIPTION:Starts at 16:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /amazon-prime-partner-research-world-of-wonders/

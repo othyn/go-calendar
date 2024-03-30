@@ -10,19 +10,20 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-grass-type-2024-03-23
-DTSTAMP:20240325T002053Z
-SUMMARY:[PS] Grass-type PokéStop Showcases
+UID:2024-03-01-pokemon-showcase-psychic-type-2024-03-30md
+DTSTAMP:20240330T001840Z
+SUMMARY:[PS] Psychic-type PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-grass-type-2024-03-23/
-URL:https://leekduck.com/events/pokemon-showcase-grass-type-2024-03-23/
+ /2024-03-01-pokemon-showcase-psychic-type-2024-03-30md/
+URL:https://leekduck.com/events/2024-03-01-pokemon-showcase-psychic-type-20
+ 24-03-30md/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
  efault.jpg
-DTSTART;VALUE=DATE:20240323
-DTEND;VALUE=DATE:20240324
+DTSTART;VALUE=DATE:20240330
+DTEND;VALUE=DATE:20240331
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Grass-type PokéStop Showcases
+DESCRIPTION:[PS] Psychic-type PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
