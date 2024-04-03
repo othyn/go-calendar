@@ -10,20 +10,19 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:2024-03-01-pokemon-showcase-psychic-type-2024-03-30md
-DTSTAMP:20240401T002232Z
-SUMMARY:[PS] Psychic-type PokéStop Showcases
+UID:pokemon-showcase-tynamo-wailmer-2024-04-03
+DTSTAMP:20240403T001936Z
+SUMMARY:[PS] Tynamo and Wailmer PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /2024-03-01-pokemon-showcase-psychic-type-2024-03-30md/
-URL:https://leekduck.com/events/2024-03-01-pokemon-showcase-psychic-type-20
- 24-03-30md/
+ /pokemon-showcase-tynamo-wailmer-2024-04-03/
+URL:https://leekduck.com/events/pokemon-showcase-tynamo-wailmer-2024-04-03/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
  efault.jpg
-DTSTART;VALUE=DATE:20240330
-DTEND;VALUE=DATE:20240331
+DTSTART;VALUE=DATE:20240403
+DTEND;VALUE=DATE:20240405
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Psychic-type PokéStop Showcases
+DESCRIPTION:[PS] Tynamo and Wailmer PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
