@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-europe-international-championships-2024-timed-research
-DTSTAMP:20240403T001936Z
+DTSTAMP:20240404T002021Z
 SUMMARY:[R] 2024 Pokémon Europe International Championships
 DESCRIPTION:Starts at 08:00\, ends at 15:00.\n\nhttps://leekduck.com/events
  /pokemon-europe-international-championships-2024-timed-research/
@@ -29,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:amazon-prime-partner-research-world-of-wonders
-DTSTAMP:20240403T001936Z
+DTSTAMP:20240404T002021Z
 SUMMARY:[R] Limited-time Partner Research: Amazon Prime Gaming
 DESCRIPTION:Starts at 16:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /amazon-prime-partner-research-world-of-wonders/
