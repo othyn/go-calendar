@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-tynamo-wailmer-2024-04-03
-DTSTAMP:20240406T001920Z
+DTSTAMP:20240407T002332Z
 SUMMARY:[PS] Tynamo and Wailmer PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-tynamo-wailmer-2024-04-03/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-bagon-salamence-2024-04-06
-DTSTAMP:20240406T001920Z
+DTSTAMP:20240407T002332Z
 SUMMARY:[PS] Bagon and Salamence PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-bagon-salamence-2024-04-06/
