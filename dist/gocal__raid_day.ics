@@ -10,19 +10,19 @@ X-WR-CALDESC:All Pokémon GO Raid Day events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:primal-groudon-raid-day
-DTSTAMP:20240325T002053Z
-SUMMARY:[RD] Primal Groudon Raid Day
+UID:mega-heracross-raid-day
+DTSTAMP:20240409T002015Z
+SUMMARY:[RD] Mega Heracross Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /primal-groudon-raid-day/
-URL:https://leekduck.com/events/primal-groudon-raid-day/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/primal-kyogre-groudo
- n-raid-days.jpg
-DTSTART:20240323T140000
-DTEND:20240323T170000
+ /mega-heracross-raid-day/
+URL:https://leekduck.com/events/mega-heracross-raid-day/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-heracross-raid-
+ day.jpg
+DTSTART:20240413T140000
+DTEND:20240413T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RD] Primal Groudon Raid Day
+DESCRIPTION:[RD] Mega Heracross Raid Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
