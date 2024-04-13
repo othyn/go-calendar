@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:mega-heracross-raid-day
-DTSTAMP:20240412T001932Z
+DTSTAMP:20240413T001732Z
 SUMMARY:[RD] Mega Heracross Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /mega-heracross-raid-day/
