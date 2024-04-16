@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:season-14-world-of-wonders-research-breakthrough
-DTSTAMP:20240415T023710Z
+DTSTAMP:20240416T002011Z
 SUMMARY:[RBT] World of Wonders Research Breakthrough
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-14-world-of-wonders-research-breakthrough/
