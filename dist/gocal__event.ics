@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:sustainability-week-2024
-DTSTAMP:20240421T002228Z
+DTSTAMP:20240422T002137Z
 SUMMARY:[E] Sustainability Week 2024
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /sustainability-week-2024/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cleffa-hatch-day
-DTSTAMP:20240421T002228Z
+DTSTAMP:20240422T002137Z
 SUMMARY:[E] Cleffa Hatch Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /cleffa-hatch-day/
@@ -44,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-week-world-of-wonder
-DTSTAMP:20240421T002228Z
+DTSTAMP:20240422T002137Z
 SUMMARY:[E] GO Battle Week: World of Wonder
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-week-world-of-wonder/
@@ -61,7 +61,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-season18-event-may-11
-DTSTAMP:20240421T002228Z
+DTSTAMP:20240422T002137Z
 SUMMARY:[E] Unannounced Event on May 11
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-season18-event-may-11/

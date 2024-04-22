@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Community Day events\, in your local time\, au
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:april-communityday2024
-DTSTAMP:20240421T002228Z
-SUMMARY:[CD] Bellsprout Community Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /april-communityday2024/
-URL:https://leekduck.com/events/april-communityday2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-2024-04-bellsprou
- t.jpg
-DTSTART:20240420T140000
-DTEND:20240420T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[CD] Bellsprout Community Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:may-communityday2024
-DTSTAMP:20240421T002228Z
+DTSTAMP:20240422T002137Z
 SUMMARY:[CD] May Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /may-communityday2024/
