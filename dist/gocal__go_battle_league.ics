@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:gbl-world-of-wonders_great-league_ultra-league_master-league-split-2
-DTSTAMP:20240422T002137Z
+DTSTAMP:20240423T002036Z
 SUMMARY:[GBL] Great League\, Ultra League\, and Master League | World of Wo
  nders
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -31,7 +31,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-world-of-wonders_great-league_master-premier
-DTSTAMP:20240422T002137Z
+DTSTAMP:20240423T002036Z
 SUMMARY:[GBL] Great League and Master Premier | World of Wonders
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-world-of-wonders_great-league_master-premier/
@@ -49,7 +49,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-world-of-wonders_ultra-league_great-league-remix
-DTSTAMP:20240422T002137Z
+DTSTAMP:20240423T002036Z
 SUMMARY:[GBL] Ultra League and Great League Remix | World of Wonders
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-world-of-wonders_ultra-league_great-league-remix/
@@ -67,7 +67,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-world-of-wonders_master-league_great-league-remix-copy
-DTSTAMP:20240422T002137Z
+DTSTAMP:20240423T002036Z
 SUMMARY:[GBL] Master League and Great League Remix | World of Wonders
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-world-of-wonders_master-league_great-league-remix-copy/
@@ -86,7 +86,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-world-of-wonders_catch-cup-little-edition_catch-cup-great-league-ed
  ition
-DTSTAMP:20240422T002137Z
+DTSTAMP:20240423T002036Z
 SUMMARY:[GBL] Catch Cup: Little Edition and Catch Cup: Great League Edition
   | World of Wonders
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -107,7 +107,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-world-of-wonders_great-league_ultra-league_master-league-split-3
-DTSTAMP:20240422T002137Z
+DTSTAMP:20240423T002036Z
 SUMMARY:[GBL] Great League\, Ultra League\, and Master League | World of Wo
  nders
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
