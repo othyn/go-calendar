@@ -10,20 +10,19 @@ X-WR-CALDESC:All Pokémon GO Research events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:amazon-prime-partner-research-world-of-wonders
-DTSTAMP:20240416T002011Z
-SUMMARY:[R] Limited-time Partner Research: Amazon Prime Gaming
-DESCRIPTION:Starts at 16:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /amazon-prime-partner-research-world-of-wonders/
-URL:https://leekduck.com/events/amazon-prime-partner-research-world-of-wond
- ers/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/amazon-prime-partner
- -research-drampa.jpg
-DTSTART;VALUE=DATE:20240308
-DTEND;VALUE=DATE:20240414
+UID:diancie-global-special-research
+DTSTAMP:20240426T002015Z
+SUMMARY:[R] Diancie Global Special Research
+DESCRIPTION:Starts at 10:00\, ends at 23:59.\n\nhttps://leekduck.com/events
+ /diancie-global-special-research/
+URL:https://leekduck.com/events/diancie-global-special-research/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/diancie-global-speci
+ al-research.jpg
+DTSTART;VALUE=DATE:20240501
+DTEND;VALUE=DATE:20240530
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[R] Limited-time Partner Research: Amazon Prime Gaming
+DESCRIPTION:[R] Diancie Global Special Research
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
