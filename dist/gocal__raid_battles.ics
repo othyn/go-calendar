@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:shadow-entei-in-shadow-raids-world-of-wonder
-DTSTAMP:20240428T002316Z
+DTSTAMP:20240429T002039Z
 SUMMARY:[RB] Shadow Entei in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-entei-in-shadow-raids-world-of-wonder/
@@ -29,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-aggron-in-mega-raids-april-2024
-DTSTAMP:20240428T002316Z
+DTSTAMP:20240429T002039Z
 SUMMARY:[RB] Mega Aggron in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-aggron-in-mega-raids-april-2024/
@@ -45,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:registeel-in-5-star-raid-battles-april-2024
-DTSTAMP:20240428T002316Z
+DTSTAMP:20240429T002039Z
 SUMMARY:[RB] Registeel in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /registeel-in-5-star-raid-battles-april-2024/

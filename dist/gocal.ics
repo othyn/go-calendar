@@ -10,26 +10,8 @@ X-WR-CALDESC:All Pokémon GO events\, in your local time\, auto-updated and
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-cleffa-clefairy-2024-04-27
-DTSTAMP:20240428T002316Z
-SUMMARY:[PS] Cleffa and Clefairy PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-cleffa-clefairy-2024-04-27/
-URL:https://leekduck.com/events/pokemon-showcase-cleffa-clefairy-2024-04-27
- /
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
- efault.jpg
-DTSTART;VALUE=DATE:20240426
-DTEND;VALUE=DATE:20240427
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PS] Cleffa and Clefairy PokéStop Showcases
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:cleffa-hatch-day-extended-bonuses
-DTSTAMP:20240428T002316Z
+DTSTAMP:20240429T002039Z
 SUMMARY:[E] Extended Bonuses: Cleffa Hatch Day
 DESCRIPTION:Starts at 10:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /cleffa-hatch-day-extended-bonuses/
@@ -46,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cleffa-hatch-day
-DTSTAMP:20240428T002316Z
+DTSTAMP:20240429T002039Z
 SUMMARY:[E] Cleffa Hatch Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /cleffa-hatch-day/
@@ -62,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-entei-in-shadow-raids-world-of-wonder
-DTSTAMP:20240428T002316Z
+DTSTAMP:20240429T002039Z
 SUMMARY:[RB] Shadow Entei in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-entei-in-shadow-raids-world-of-wonder/
@@ -80,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-04-30
-DTSTAMP:20240428T002316Z
+DTSTAMP:20240429T002039Z
 SUMMARY:[PSH] Clefairy Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-04-30/
@@ -97,7 +79,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240501
-DTSTAMP:20240428T002316Z
+DTSTAMP:20240429T002039Z
 SUMMARY:[RH] Registeel Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240501/
@@ -113,7 +95,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-aggron-in-mega-raids-april-2024
-DTSTAMP:20240428T002316Z
+DTSTAMP:20240429T002039Z
 SUMMARY:[RB] Mega Aggron in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-aggron-in-mega-raids-april-2024/
@@ -129,7 +111,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:registeel-in-5-star-raid-battles-april-2024
-DTSTAMP:20240428T002316Z
+DTSTAMP:20240429T002039Z
 SUMMARY:[RB] Registeel in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /registeel-in-5-star-raid-battles-april-2024/
@@ -146,7 +128,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-world-of-wonders_great-league_master-premier
-DTSTAMP:20240428T002316Z
+DTSTAMP:20240429T002039Z
 SUMMARY:[GBL] Great League and Master Premier | World of Wonders
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-world-of-wonders_great-league_master-premier/
@@ -164,7 +146,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-week-world-of-wonder
-DTSTAMP:20240428T002316Z
+DTSTAMP:20240429T002039Z
 SUMMARY:[E] GO Battle Weekend: World of Wonder
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-week-world-of-wonder/
@@ -181,7 +163,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:rediscover-kanto
-DTSTAMP:20240428T002316Z
+DTSTAMP:20240429T002039Z
 SUMMARY:[E] Rediscover Kanto
 DESCRIPTION:Starts at 17:00\, ends at 03:00.\n\nhttps://leekduck.com/events
  /rediscover-kanto/
@@ -197,7 +179,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:rivials-week-2024
-DTSTAMP:20240428T002316Z
+DTSTAMP:20240429T002039Z
 SUMMARY:[E] Rivals Week 2024
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /rivials-week-2024/
@@ -213,7 +195,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-world-of-wonders_ultra-league_great-league-remix
-DTSTAMP:20240428T002316Z
+DTSTAMP:20240429T002039Z
 SUMMARY:[GBL] Ultra League and Great League Remix | World of Wonders
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-world-of-wonders_ultra-league_great-league-remix/
@@ -231,7 +213,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-season18-event-may-11
-DTSTAMP:20240428T002316Z
+DTSTAMP:20240429T002039Z
 SUMMARY:[E] Unannounced Event on May 11
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-season18-event-may-11/
@@ -248,7 +230,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-world-of-wonders_master-league_great-league-remix-copy
-DTSTAMP:20240428T002316Z
+DTSTAMP:20240429T002039Z
 SUMMARY:[GBL] Master League and Great League Remix | World of Wonders
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-world-of-wonders_master-league_great-league-remix-copy/
@@ -266,7 +248,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communityday2024
-DTSTAMP:20240428T002316Z
+DTSTAMP:20240429T002039Z
 SUMMARY:[CD] May Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /may-communityday2024/
@@ -283,7 +265,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-world-of-wonders_catch-cup-little-edition_catch-cup-great-league-ed
  ition
-DTSTAMP:20240428T002316Z
+DTSTAMP:20240429T002039Z
 SUMMARY:[GBL] Catch Cup: Little Edition and Catch Cup: Great League Edition
   | World of Wonders
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -304,7 +286,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:diancie-global-special-research
-DTSTAMP:20240428T002316Z
+DTSTAMP:20240429T002039Z
 SUMMARY:[R] Diancie Global Special Research
 DESCRIPTION:Starts at 10:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /diancie-global-special-research/
@@ -321,7 +303,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-world-of-wonders_great-league_ultra-league_master-league-split-3
-DTSTAMP:20240428T002316Z
+DTSTAMP:20240429T002039Z
 SUMMARY:[GBL] Great League\, Ultra League\, and Master League | World of Wo
  nders
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -341,7 +323,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-14-world-of-wonders
-DTSTAMP:20240428T002316Z
+DTSTAMP:20240429T002039Z
 SUMMARY:[S] World of Wonders
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-14-world-of-wonders/
@@ -358,7 +340,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-14-world-of-wonders-research-breakthrough
-DTSTAMP:20240428T002316Z
+DTSTAMP:20240429T002039Z
 SUMMARY:[RBT] World of Wonders Research Breakthrough
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-14-world-of-wonders-research-breakthrough/
@@ -376,7 +358,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-fest-2024-sendai-japan
-DTSTAMP:20240428T002316Z
+DTSTAMP:20240429T002039Z
 SUMMARY:[PGF] Pokémon GO Fest 2024: Sendai\, Japan
 DESCRIPTION:Starts at 00:30\, ends at 09:30.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2024-sendai-japan/
@@ -393,7 +375,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:the-wonder-ticket
-DTSTAMP:20240428T002316Z
+DTSTAMP:20240429T002039Z
 SUMMARY:[T] The Wonder Ticket
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /the-wonder-ticket/
@@ -410,7 +392,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-fest-2024-madrid-spain
-DTSTAMP:20240428T002316Z
+DTSTAMP:20240429T002039Z
 SUMMARY:[PGF] Pokémon GO Fest 2024: Madrid\, Spain
 DESCRIPTION:Starts at 07:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2024-madrid-spain/
@@ -427,7 +409,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-fest-2024-new-york-city-usa
-DTSTAMP:20240428T002316Z
+DTSTAMP:20240429T002039Z
 SUMMARY:[PGF] Pokémon GO Fest 2024: New York City\, USA
 DESCRIPTION:Starts at 16:00\, ends at 02:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2024-new-york-city-usa/
@@ -444,7 +426,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-fest-2024-global
-DTSTAMP:20240428T002316Z
+DTSTAMP:20240429T002039Z
 SUMMARY:[PGF] Pokémon GO Fest 2024: Global
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2024-global/
