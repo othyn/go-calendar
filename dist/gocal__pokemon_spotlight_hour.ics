@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-04-30
-DTSTAMP:20240429T002039Z
+DTSTAMP:20240430T001937Z
 SUMMARY:[PSH] Clefairy Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-04-30/
@@ -23,6 +23,74 @@ DTEND:20240430T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[PSH] Clefairy Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-05-07
+DTSTAMP:20240430T001937Z
+SUMMARY:[PSH] Hitmonchan and Hitmonlee Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-05-07/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-05-07/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20240507T180000
+DTEND:20240507T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Hitmonchan and Hitmonlee Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-05-14
+DTSTAMP:20240430T001937Z
+SUMMARY:[PSH] Abra Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-05-14/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-05-14/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20240514T180000
+DTEND:20240514T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Abra Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-05-21
+DTSTAMP:20240430T001937Z
+SUMMARY:[PSH] Elgyem Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-05-21/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-05-21/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20240521T180000
+DTEND:20240521T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Elgyem Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-05-28
+DTSTAMP:20240430T001937Z
+SUMMARY:[PSH] Mareanie Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-05-28/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-05-28/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20240528T180000
+DTEND:20240528T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Mareanie Spotlight Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

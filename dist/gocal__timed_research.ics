@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:spatie/icalendar-generator
-NAME:GO Calendar - Timed Research
-X-WR-CALNAME:GO Calendar - Timed Research
+NAME:GO Calendar - Timed Research (TR)
+X-WR-CALNAME:GO Calendar - Timed Research (TR)
 DESCRIPTION:All Pokémon GO Timed Research events\, in your local time\, au
  to-updated and sourced from Leek Duck.
 X-WR-CALDESC:All Pokémon GO Timed Research events\, in your local time\, a
@@ -10,18 +10,18 @@ X-WR-CALDESC:All Pokémon GO Timed Research events\, in your local time\, a
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-go-tour-vegas-countdown
-DTSTAMP:20230218T002146Z
-SUMMARY:[Timed Research] Pokémon GO Tour: Vegas Countdown
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-go-tour-vegas-countdown/
-URL:https://leekduck.com/events/pokemon-go-tour-vegas-countdown/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemon-go-tour-2023
- -hoenn-las-vegas-updated.jpg
-DTSTART;VALUE=DATE:20230211
-DTEND;VALUE=DATE:20230217
+UID:a-glimpse-of-daylight-timed-research
+DTSTAMP:20240430T001937Z
+SUMMARY:[TR] A Glimpse of Daylight Timed Research
+DESCRIPTION:Starts at 10:00\, ends at 23:59.\n\nhttps://leekduck.com/events
+ /a-glimpse-of-daylight-timed-research/
+URL:https://leekduck.com/events/a-glimpse-of-daylight-timed-research/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/day-night-crowns.jpg
+DTSTART;VALUE=DATE:20240430
+DTEND;VALUE=DATE:20240506
 BEGIN:VALARM
 ACTION:DISPLAY
+DESCRIPTION:[TR] A Glimpse of Daylight Timed Research
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

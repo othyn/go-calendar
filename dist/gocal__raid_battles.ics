@@ -10,26 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Battles events\, in your local time\, aut
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:shadow-entei-in-shadow-raids-world-of-wonder
-DTSTAMP:20240429T002039Z
-SUMMARY:[RB] Shadow Entei in Shadow Raids
-DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
- /shadow-entei-in-shadow-raids-world-of-wonder/
-URL:https://leekduck.com/events/shadow-entei-in-shadow-raids-world-of-wonde
- r/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
-DTSTART;VALUE=DATE:20240406
-DTEND;VALUE=DATE:20240428
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Shadow Entei in Shadow Raids
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:mega-aggron-in-mega-raids-april-2024
-DTSTAMP:20240429T002039Z
+DTSTAMP:20240430T001937Z
 SUMMARY:[RB] Mega Aggron in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-aggron-in-mega-raids-april-2024/
@@ -45,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:registeel-in-5-star-raid-battles-april-2024
-DTSTAMP:20240429T002039Z
+DTSTAMP:20240430T001937Z
 SUMMARY:[RB] Registeel in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /registeel-in-5-star-raid-battles-april-2024/
@@ -57,6 +39,123 @@ DTEND;VALUE=DATE:20240502
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RB] Registeel in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tapu-fini-in-5-star-raid-battles-may-2024-copy
+DTSTAMP:20240430T001937Z
+SUMMARY:[RB] Tapu Fini in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /tapu-fini-in-5-star-raid-battles-may-2024-copy/
+URL:https://leekduck.com/events/tapu-fini-in-5-star-raid-battles-may-2024-c
+ opy/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/tapu-fini.jpg
+DTSTART;VALUE=DATE:20240502
+DTEND;VALUE=DATE:20240516
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Tapu Fini in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-alakazam-in-mega-raids-may-2024
+DTSTAMP:20240430T001937Z
+SUMMARY:[RB] Mega Alakazam in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-alakazam-in-mega-raids-may-2024/
+URL:https://leekduck.com/events/mega-alakazam-in-mega-raids-may-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20240502
+DTEND;VALUE=DATE:20240516
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Mega Alakazam in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:regirock-in-5-star-raid-battles-may-2024
+DTSTAMP:20240430T001937Z
+SUMMARY:[RB] Regirock in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /regirock-in-5-star-raid-battles-may-2024/
+URL:https://leekduck.com/events/regirock-in-5-star-raid-battles-may-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/regirock.jpg
+DTSTART;VALUE=DATE:20240516
+DTEND;VALUE=DATE:20240523
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Regirock in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-gyarados-in-mega-raids-may-2024
+DTSTAMP:20240430T001937Z
+SUMMARY:[RB] Mega Gyarados in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-gyarados-in-mega-raids-may-2024/
+URL:https://leekduck.com/events/mega-gyarados-in-mega-raids-may-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20240516
+DTEND;VALUE=DATE:20240523
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Mega Gyarados in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shadow-suicune-in-shadow-raids-world-of-wonder
+DTSTAMP:20240430T001937Z
+SUMMARY:[RB] Shadow Suicune in Shadow Raids
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /shadow-suicune-in-shadow-raids-world-of-wonder/
+URL:https://leekduck.com/events/shadow-suicune-in-shadow-raids-world-of-won
+ der/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART;VALUE=DATE:20240504
+DTEND;VALUE=DATE:20240526
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Shadow Suicune in Shadow Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:blacephalon-and-stakataka-in-5-star-raid-battles-may-2024
+DTSTAMP:20240430T001937Z
+SUMMARY:[RB] Blacephalon and Stakataka in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /blacephalon-and-stakataka-in-5-star-raid-battles-may-2024/
+URL:https://leekduck.com/events/blacephalon-and-stakataka-in-5-star-raid-ba
+ ttles-may-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART;VALUE=DATE:20240523
+DTEND;VALUE=DATE:20240601
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Blacephalon and Stakataka in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-pidgeot-in-mega-raids-may-2024
+DTSTAMP:20240430T001937Z
+SUMMARY:[RB] Mega Pidgeot in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-pidgeot-in-mega-raids-may-2024/
+URL:https://leekduck.com/events/mega-pidgeot-in-mega-raids-may-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20240523
+DTEND;VALUE=DATE:20240601
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Mega Pidgeot in Mega Raids
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

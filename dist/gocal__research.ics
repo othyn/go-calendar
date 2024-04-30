@@ -10,8 +10,25 @@ X-WR-CALDESC:All Pokémon GO Research events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
+UID:flock-together-research-day
+DTSTAMP:20240430T001937Z
+SUMMARY:[R] Flock Together Research Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /flock-together-research-day/
+URL:https://leekduck.com/events/flock-together-research-day/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART:20240511T140000
+DTEND:20240511T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[R] Flock Together Research Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:diancie-global-special-research
-DTSTAMP:20240429T002039Z
+DTSTAMP:20240430T001937Z
 SUMMARY:[R] Diancie Global Special Research
 DESCRIPTION:Starts at 10:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /diancie-global-special-research/
