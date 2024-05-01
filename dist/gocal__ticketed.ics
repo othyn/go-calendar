@@ -11,12 +11,12 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:the-wonder-ticket
-DTSTAMP:20240430T001937Z
+DTSTAMP:20240501T002204Z
 SUMMARY:[T] The Wonder Ticket
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /the-wonder-ticket/
 URL:https://leekduck.com/events/the-wonder-ticket/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/wonder-ticket-part2.
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/wonder-ticket-part3.
  jpg
 DTSTART;VALUE=DATE:20240301
 DTEND;VALUE=DATE:20240614

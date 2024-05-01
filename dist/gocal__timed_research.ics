@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:a-glimpse-of-daylight-timed-research
-DTSTAMP:20240430T001937Z
+DTSTAMP:20240501T002204Z
 SUMMARY:[TR] A Glimpse of Daylight Timed Research
 DESCRIPTION:Starts at 10:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /a-glimpse-of-daylight-timed-research/
