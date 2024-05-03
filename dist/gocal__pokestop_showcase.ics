@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-rock-type-2024-05-01
-DTSTAMP:20240502T002029Z
+DTSTAMP:20240503T002030Z
 SUMMARY:[PS] Rock-type PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-rock-type-2024-05-01/

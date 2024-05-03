@@ -11,13 +11,13 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:flock-together-research-day
-DTSTAMP:20240502T002029Z
+DTSTAMP:20240503T002030Z
 SUMMARY:[R] Flock Together Research Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /flock-together-research-day/
 URL:https://leekduck.com/events/flock-together-research-day/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/flock-together-resea
+ rch-day.jpg
 DTSTART:20240511T140000
 DTEND:20240511T170000
 BEGIN:VALARM
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:diancie-global-special-research
-DTSTAMP:20240502T002029Z
+DTSTAMP:20240503T002030Z
 SUMMARY:[R] Diancie Global Special Research
 DESCRIPTION:Starts at 10:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /diancie-global-special-research/
