@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-rock-type-2024-05-01
-DTSTAMP:20240503T002030Z
+DTSTAMP:20240504T001955Z
 SUMMARY:[PS] Rock-type PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-rock-type-2024-05-01/
@@ -23,6 +23,23 @@ DTEND;VALUE=DATE:20240503
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[PS] Rock-type PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-throh-sawk-2024-05-04
+DTSTAMP:20240504T001955Z
+SUMMARY:[PS] Throh and Sawk PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-throh-sawk-2024-05-04/
+URL:https://leekduck.com/events/pokemon-showcase-throh-sawk-2024-05-04/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART;VALUE=DATE:20240504
+DTEND;VALUE=DATE:20240505
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PS] Throh and Sawk PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
