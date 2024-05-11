@@ -10,40 +10,8 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:rediscover-kanto
-DTSTAMP:20240510T002022Z
-SUMMARY:[E] Rediscover Kanto
-DESCRIPTION:Starts at 17:00\, ends at 03:00.\n\nhttps://leekduck.com/events
- /rediscover-kanto/
-URL:https://leekduck.com/events/rediscover-kanto/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/rediscover-kanto.jpg
-DTSTART;VALUE=DATE:20240422
-DTEND;VALUE=DATE:20240510
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Rediscover Kanto
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:rivals-week-2024
-DTSTAMP:20240510T002022Z
-SUMMARY:[E] Rivals Week 2024
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /rivals-week-2024/
-URL:https://leekduck.com/events/rivals-week-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/rivals-week-2024.jpg
-DTSTART;VALUE=DATE:20240504
-DTEND;VALUE=DATE:20240509
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Rivals Week 2024
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:catching-wonders
-DTSTAMP:20240510T002022Z
+DTSTAMP:20240511T002019Z
 SUMMARY:[E] Catching Wonders
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /catching-wonders/
@@ -60,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-may-2024-incense-day
-DTSTAMP:20240510T002022Z
+DTSTAMP:20240511T002019Z
 SUMMARY:[E] Unannounced Incense Day
 DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-may-2024-incense-day/
@@ -77,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ultra-space-wonders
-DTSTAMP:20240510T002022Z
+DTSTAMP:20240511T002019Z
 SUMMARY:[E] Ultra Space Wonders
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /ultra-space-wonders/
