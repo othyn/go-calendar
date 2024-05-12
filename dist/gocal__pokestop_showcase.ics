@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-fighting-type-2024-05-08
-DTSTAMP:20240511T002019Z
-SUMMARY:[PS] Fighting-type PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-fighting-type-2024-05-08/
-URL:https://leekduck.com/events/pokemon-showcase-fighting-type-2024-05-08/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
- efault.jpg
-DTSTART;VALUE=DATE:20240508
-DTEND;VALUE=DATE:20240510
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PS] Fighting-type PokéStop Showcases
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-showcase-flying-type-2024-05-11
-DTSTAMP:20240511T002019Z
+DTSTAMP:20240512T002234Z
 SUMMARY:[PS] Flying-type PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-flying-type-2024-05-11/

@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:catching-wonders
-DTSTAMP:20240511T002019Z
+DTSTAMP:20240512T002234Z
 SUMMARY:[E] Catching Wonders
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /catching-wonders/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-may-2024-incense-day
-DTSTAMP:20240511T002019Z
+DTSTAMP:20240512T002234Z
 SUMMARY:[E] Unannounced Incense Day
 DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-may-2024-incense-day/
@@ -45,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ultra-space-wonders
-DTSTAMP:20240511T002019Z
+DTSTAMP:20240512T002234Z
 SUMMARY:[E] Ultra Space Wonders
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /ultra-space-wonders/
