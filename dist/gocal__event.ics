@@ -11,8 +11,8 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:catching-wonders
-DTSTAMP:20240515T002033Z
-SUMMARY:[E] Catching Wonders
+DTSTAMP:20240516T002010Z
+SUMMARY:[E] Catching Wonders - Masterball Masterwork Research
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /catching-wonders/
 URL:https://leekduck.com/events/catching-wonders/
@@ -22,13 +22,13 @@ DTSTART;VALUE=DATE:20240514
 DTEND;VALUE=DATE:20240519
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Catching Wonders
+DESCRIPTION:[E] Catching Wonders - Masterball Masterwork Research
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-may-2024-incense-day
-DTSTAMP:20240515T002033Z
+DTSTAMP:20240516T002010Z
 SUMMARY:[E] Unannounced Incense Day
 DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-may-2024-incense-day/
@@ -45,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ultra-space-wonders
-DTSTAMP:20240515T002033Z
+DTSTAMP:20240516T002010Z
 SUMMARY:[E] Ultra Space Wonders
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /ultra-space-wonders/
