@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:catching-wonders
-DTSTAMP:20240516T002010Z
+DTSTAMP:20240517T002056Z
 SUMMARY:[E] Catching Wonders - Masterball Masterwork Research
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /catching-wonders/
@@ -27,25 +27,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:unannounced-may-2024-incense-day
-DTSTAMP:20240516T002010Z
-SUMMARY:[E] Unannounced Incense Day
+UID:ferroseed-incense-day
+DTSTAMP:20240517T002056Z
+SUMMARY:[E] Ferroseed Incense Day
 DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /unannounced-may-2024-incense-day/
-URL:https://leekduck.com/events/unannounced-may-2024-incense-day/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+ /ferroseed-incense-day/
+URL:https://leekduck.com/events/ferroseed-incense-day/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/ferroseed-incense-da
+ y.jpg
 DTSTART:20240526T110000
 DTEND:20240526T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Unannounced Incense Day
+DESCRIPTION:[E] Ferroseed Incense Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ultra-space-wonders
-DTSTAMP:20240516T002010Z
+DTSTAMP:20240517T002056Z
 SUMMARY:[E] Ultra Space Wonders
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /ultra-space-wonders/
