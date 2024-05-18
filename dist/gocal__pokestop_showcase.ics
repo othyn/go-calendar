@@ -10,19 +10,20 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-flying-type-2024-05-11
-DTSTAMP:20240513T002134Z
-SUMMARY:[PS] Flying-type PokéStop Showcases
+UID:pokemon-showcase-bounsweet-tsareena-2024-05-18
+DTSTAMP:20240518T002029Z
+SUMMARY:[PS] Bounsweet and Tsareena PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-flying-type-2024-05-11/
-URL:https://leekduck.com/events/pokemon-showcase-flying-type-2024-05-11/
+ /pokemon-showcase-bounsweet-tsareena-2024-05-18/
+URL:https://leekduck.com/events/pokemon-showcase-bounsweet-tsareena-2024-05
+ -18/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
  efault.jpg
-DTSTART;VALUE=DATE:20240511
-DTEND;VALUE=DATE:20240512
+DTSTART;VALUE=DATE:20240517
+DTEND;VALUE=DATE:20240518
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Flying-type PokéStop Showcases
+DESCRIPTION:[PS] Bounsweet and Tsareena PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
