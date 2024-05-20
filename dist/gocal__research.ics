@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:diancie-global-special-research
-DTSTAMP:20240519T002303Z
+DTSTAMP:20240520T002133Z
 SUMMARY:[R] Diancie Global Special Research
 DESCRIPTION:Starts at 10:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /diancie-global-special-research/

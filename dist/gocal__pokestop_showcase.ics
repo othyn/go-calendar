@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-bounsweet-tsareena-2024-05-18
-DTSTAMP:20240519T002303Z
+DTSTAMP:20240520T002133Z
 SUMMARY:[PS] Bounsweet and Tsareena PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-bounsweet-tsareena-2024-05-18/
