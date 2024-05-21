@@ -10,19 +10,66 @@ X-WR-CALDESC:All Pokémon GO Community Day events\, in your local time\, au
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:may-communityday2024
-DTSTAMP:20240520T002133Z
-SUMMARY:[CD] Bounsweet Community Day
+UID:june-communityday2024
+DTSTAMP:20240521T002051Z
+SUMMARY:[CD] June Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /may-communityday2024/
-URL:https://leekduck.com/events/may-communityday2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-2024-05-bounsweet
- -temp.jpg
-DTSTART:20240519T140000
-DTEND:20240519T170000
+ /june-communityday2024/
+URL:https://leekduck.com/events/june-communityday2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
+DTSTART:20240609T140000
+DTEND:20240609T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[CD] Bounsweet Community Day
+DESCRIPTION:[CD] June Community Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:june-communitydayclassic2024
+DTSTAMP:20240521T002051Z
+SUMMARY:[CD] June Community Day Classic
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /june-communitydayclassic2024/
+URL:https://leekduck.com/events/june-communitydayclassic2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
+DTSTART:20240622T140000
+DTEND:20240622T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[CD] June Community Day Classic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:july-communityday2024
+DTSTAMP:20240521T002051Z
+SUMMARY:[CD] July Community Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /july-communityday2024/
+URL:https://leekduck.com/events/july-communityday2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
+DTSTART:20240721T140000
+DTEND:20240721T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[CD] July Community Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:august-communityday2024
+DTSTAMP:20240521T002051Z
+SUMMARY:[CD] August Community Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /august-communityday2024/
+URL:https://leekduck.com/events/august-communityday2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
+DTSTART:20240831T140000
+DTEND:20240831T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[CD] August Community Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

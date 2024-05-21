@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:catching-wonders
-DTSTAMP:20240520T002133Z
-SUMMARY:[E] Catching Wonders - Masterball Masterwork Research
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /catching-wonders/
-URL:https://leekduck.com/events/catching-wonders/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/catching-wonders-mas
- terball.jpg
-DTSTART;VALUE=DATE:20240514
-DTEND;VALUE=DATE:20240519
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Catching Wonders - Masterball Masterwork Research
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:ferroseed-incense-day
-DTSTAMP:20240520T002133Z
+DTSTAMP:20240521T002051Z
 SUMMARY:[E] Ferroseed Incense Day
 DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /ferroseed-incense-day/
@@ -45,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ultra-space-wonders
-DTSTAMP:20240520T002133Z
+DTSTAMP:20240521T002051Z
 SUMMARY:[E] Ultra Space Wonders
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /ultra-space-wonders/
@@ -57,6 +40,57 @@ DTEND;VALUE=DATE:20240528
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[E] Ultra Space Wonders
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:unannounced-raid-day-season15
+DTSTAMP:20240521T002051Z
+SUMMARY:[E] Unannounced Raid Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /unannounced-raid-day-season15/
+URL:https://leekduck.com/events/unannounced-raid-day-season15/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART:20240629T140000
+DTEND:20240629T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Unannounced Raid Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:unannounced-season15-event
+DTSTAMP:20240521T002051Z
+SUMMARY:[E] Unannounced Event
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /unannounced-season15-event/
+URL:https://leekduck.com/events/unannounced-season15-event/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART:20240727T100000
+DTEND:20240727T200000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Unannounced Event
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:unannounced-shadow-raid-weekend-season15
+DTSTAMP:20240521T002051Z
+SUMMARY:[E] Unannounced Shadow Raid Weekend
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /unannounced-shadow-raid-weekend-season15/
+URL:https://leekduck.com/events/unannounced-shadow-raid-weekend-season15/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART;VALUE=DATE:20240810
+DTEND;VALUE=DATE:20240811
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Unannounced Shadow Raid Weekend
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
