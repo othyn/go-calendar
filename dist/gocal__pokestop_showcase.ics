@@ -10,20 +10,19 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-bounsweet-tsareena-2024-05-18
-DTSTAMP:20240520T002133Z
-SUMMARY:[PS] Bounsweet and Tsareena PokéStop Showcases
+UID:pokemon-showcase-mareanie-2024-05-22
+DTSTAMP:20240522T002026Z
+SUMMARY:[PS] Mareanie PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-bounsweet-tsareena-2024-05-18/
-URL:https://leekduck.com/events/pokemon-showcase-bounsweet-tsareena-2024-05
- -18/
+ /pokemon-showcase-mareanie-2024-05-22/
+URL:https://leekduck.com/events/pokemon-showcase-mareanie-2024-05-22/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
  efault.jpg
-DTSTART;VALUE=DATE:20240518
-DTEND;VALUE=DATE:20240519
+DTSTART;VALUE=DATE:20240522
+DTEND;VALUE=DATE:20240524
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Bounsweet and Tsareena PokéStop Showcases
+DESCRIPTION:[PS] Mareanie PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
