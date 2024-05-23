@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:daily-pokecoin-field-research-ticket
-DTSTAMP:20240523T002143Z
+DTSTAMP:20240523T091146Z
 SUMMARY:[TE] Daily PokéCoin Field Research Ticket
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /daily-pokecoin-field-research-ticket/
