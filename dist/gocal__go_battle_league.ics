@@ -10,30 +10,8 @@ X-WR-CALDESC:All Pokémon GO GO Battle League events\, in your local time\,
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:gbl-world-of-wonders_catch-cup-little-edition_catch-cup-great-league-ed
- ition
-DTSTAMP:20240525T001954Z
-SUMMARY:[GBL] Catch Cup: Little Edition and Catch Cup: Great League Edition
-  | World of Wonders
-DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /gbl-world-of-wonders_catch-cup-little-edition_catch-cup-great-league-edit
- ion/
-URL:https://leekduck.com/events/gbl-world-of-wonders_catch-cup-little-editi
- on_catch-cup-great-league-edition/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattle-greatleague
- -key.jpg
-DTSTART;VALUE=DATE:20240517
-DTEND;VALUE=DATE:20240524
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[GBL] Catch Cup: Little Edition and Catch Cup: Great League Edi
- tion | World of Wonders
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:gbl-world-of-wonders_great-league_ultra-league_master-league-split-3
-DTSTAMP:20240525T001954Z
+DTSTAMP:20240526T002246Z
 SUMMARY:[GBL] Great League\, Ultra League\, and Master League | World of Wo
  nders
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events

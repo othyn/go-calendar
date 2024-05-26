@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-fusions-debut-during-go-fest
-DTSTAMP:20240525T001954Z
+DTSTAMP:20240526T002246Z
 SUMMARY:[U] Pokémon Fusions Debut During Pokémon GO Fest 2024
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-fusions-debut-during-go-fest/
