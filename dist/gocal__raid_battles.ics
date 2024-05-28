@@ -10,26 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Battles events\, in your local time\, aut
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:shadow-suicune-in-shadow-raids-world-of-wonder
-DTSTAMP:20240527T002148Z
-SUMMARY:[RB] Shadow Suicune in Shadow Raids
-DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
- /shadow-suicune-in-shadow-raids-world-of-wonder/
-URL:https://leekduck.com/events/shadow-suicune-in-shadow-raids-world-of-won
- der/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
-DTSTART;VALUE=DATE:20240504
-DTEND;VALUE=DATE:20240526
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Shadow Suicune in Shadow Raids
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:blacephalon-and-stakataka-in-5-star-raid-battles-may-2024
-DTSTAMP:20240527T002148Z
+DTSTAMP:20240528T002055Z
 SUMMARY:[RB] Blacephalon and Stakataka in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /blacephalon-and-stakataka-in-5-star-raid-battles-may-2024/
@@ -47,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-pidgeot-in-mega-raids-may-2024
-DTSTAMP:20240527T002148Z
+DTSTAMP:20240528T002055Z
 SUMMARY:[RB] Mega Pidgeot in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-pidgeot-in-mega-raids-may-2024/
