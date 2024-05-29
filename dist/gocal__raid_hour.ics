@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:raidhour20240529
-DTSTAMP:20240528T002055Z
+DTSTAMP:20240529T002135Z
 SUMMARY:[RH] Blacephalon and Stakataka Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240529/
@@ -22,6 +22,86 @@ DTEND:20240529T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RH] Blacephalon and Stakataka Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20240605
+DTSTAMP:20240529T002135Z
+SUMMARY:[RH] Zapdos Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20240605/
+URL:https://leekduck.com/events/raidhour20240605/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20240605T180000
+DTEND:20240605T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Zapdos Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20240612
+DTSTAMP:20240529T002135Z
+SUMMARY:[RH] Incarnate Forme Landorus Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20240612/
+URL:https://leekduck.com/events/raidhour20240612/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20240612T180000
+DTEND:20240612T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Incarnate Forme Landorus Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20240619
+DTSTAMP:20240529T002135Z
+SUMMARY:[RH] Yveltal Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20240619/
+URL:https://leekduck.com/events/raidhour20240619/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20240619T180000
+DTEND:20240619T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Yveltal Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20240626
+DTSTAMP:20240529T002135Z
+SUMMARY:[RH] Yveltal Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20240626/
+URL:https://leekduck.com/events/raidhour20240626/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20240626T180000
+DTEND:20240626T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Yveltal Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20240703
+DTSTAMP:20240529T002135Z
+SUMMARY:[RH] Ho-Oh Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20240703/
+URL:https://leekduck.com/events/raidhour20240703/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20240703T180000
+DTEND:20240703T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Ho-Oh Raid Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

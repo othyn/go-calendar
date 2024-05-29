@@ -10,18 +10,18 @@ X-WR-CALDESC:All Pokémon GO Elite Raids events\, in your local time\, auto
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:elite-raids-enamorus-february-2024
-DTSTAMP:20240214T001951Z
-SUMMARY:[ER] Enamorus in Elite Raids
-DESCRIPTION:Starts at 12:00\, ends at 18:45.\n\nhttps://leekduck.com/events
- /elite-raids-enamorus-february-2024/
-URL:https://leekduck.com/events/elite-raids-enamorus-february-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/enamorus-key.jpg
-DTSTART:20240214T120000
-DTEND:20240214T184500
+UID:elite-raid-mega-rayquaza-june
+DTSTAMP:20240529T002135Z
+SUMMARY:[ER] Mega Rayquaza in Elite Raids
+DESCRIPTION:Starts at 12:00\, ends at 18:00.\n\nhttps://leekduck.com/events
+ /elite-raid-mega-rayquaza-june/
+URL:https://leekduck.com/events/elite-raid-mega-rayquaza-june/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-rayquaza.jpg
+DTSTART:20240629T120000
+DTEND:20240629T180000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[ER] Enamorus in Elite Raids
+DESCRIPTION:[ER] Mega Rayquaza in Elite Raids
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

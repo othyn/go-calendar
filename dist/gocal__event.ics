@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:ultra-space-wonders
-DTSTAMP:20240528T002055Z
+DTSTAMP:20240529T002135Z
 SUMMARY:[E] Ultra Space Wonders
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /ultra-space-wonders/
@@ -27,25 +27,93 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:unannounced-raid-day-season15
-DTSTAMP:20240528T002055Z
-SUMMARY:[E] Unannounced Raid Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /unannounced-raid-day-season15/
-URL:https://leekduck.com/events/unannounced-raid-day-season15/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
-DTSTART:20240629T140000
-DTEND:20240629T170000
+UID:stadium-sights-pokemon-go-fest-sendai-japan-tie-in
+DTSTAMP:20240529T002135Z
+SUMMARY:[E] Stadium Sights
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /stadium-sights-pokemon-go-fest-sendai-japan-tie-in/
+URL:https://leekduck.com/events/stadium-sights-pokemon-go-fest-sendai-japan
+ -tie-in/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/stadium-sights-emolg
+ a.jpg
+DTSTART;VALUE=DATE:20240601
+DTEND;VALUE=DATE:20240604
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Unannounced Raid Day
+DESCRIPTION:[E] Stadium Sights
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:slumbering-sands
+DTSTAMP:20240529T002135Z
+SUMMARY:[E] Slumbering Sands
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /slumbering-sands/
+URL:https://leekduck.com/events/slumbering-sands/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/slumbering-sands.jpg
+DTSTART;VALUE=DATE:20240607
+DTEND;VALUE=DATE:20240612
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Slumbering Sands
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:spelunkers-cove
+DTSTAMP:20240529T002135Z
+SUMMARY:[E] Spelunker's Cove
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /spelunkers-cove/
+URL:https://leekduck.com/events/spelunkers-cove/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART;VALUE=DATE:20240615
+DTEND;VALUE=DATE:20240618
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Spelunker's Cove
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:scorching-steps
+DTSTAMP:20240529T002135Z
+SUMMARY:[E] Scorching Steps
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /scorching-steps/
+URL:https://leekduck.com/events/scorching-steps/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART;VALUE=DATE:20240621
+DTEND;VALUE=DATE:20240625
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Scorching Steps
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-go-8th-anniversary-party
+DTSTAMP:20240529T002135Z
+SUMMARY:[E] 8th Anniversary Party
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-go-8th-anniversary-party/
+URL:https://leekduck.com/events/pokemon-go-8th-anniversary-party/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART;VALUE=DATE:20240628
+DTEND;VALUE=DATE:20240703
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] 8th Anniversary Party
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-season15-event
-DTSTAMP:20240528T002055Z
+DTSTAMP:20240529T002135Z
 SUMMARY:[E] Unannounced Event
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /unannounced-season15-event/
@@ -62,7 +130,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-shadow-raid-weekend-season15
-DTSTAMP:20240528T002055Z
+DTSTAMP:20240529T002135Z
 SUMMARY:[E] Unannounced Shadow Raid Weekend
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /unannounced-shadow-raid-weekend-season15/
