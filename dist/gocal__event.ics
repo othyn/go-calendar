@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:ultra-space-wonders
-DTSTAMP:20240529T002135Z
-SUMMARY:[E] Ultra Space Wonders
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /ultra-space-wonders/
-URL:https://leekduck.com/events/ultra-space-wonders/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/ultra-space-wonders-
- event.jpg
-DTSTART;VALUE=DATE:20240523
-DTEND;VALUE=DATE:20240528
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Ultra Space Wonders
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:stadium-sights-pokemon-go-fest-sendai-japan-tie-in
-DTSTAMP:20240529T002135Z
+DTSTAMP:20240530T002109Z
 SUMMARY:[E] Stadium Sights
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /stadium-sights-pokemon-go-fest-sendai-japan-tie-in/
@@ -46,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:slumbering-sands
-DTSTAMP:20240529T002135Z
+DTSTAMP:20240530T002109Z
 SUMMARY:[E] Slumbering Sands
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /slumbering-sands/
@@ -62,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:spelunkers-cove
-DTSTAMP:20240529T002135Z
+DTSTAMP:20240530T002109Z
 SUMMARY:[E] Spelunker's Cove
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /spelunkers-cove/
@@ -79,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:scorching-steps
-DTSTAMP:20240529T002135Z
+DTSTAMP:20240530T002109Z
 SUMMARY:[E] Scorching Steps
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /scorching-steps/
@@ -96,7 +79,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-8th-anniversary-party
-DTSTAMP:20240529T002135Z
+DTSTAMP:20240530T002109Z
 SUMMARY:[E] 8th Anniversary Party
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-go-8th-anniversary-party/
@@ -113,7 +96,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-season15-event
-DTSTAMP:20240529T002135Z
+DTSTAMP:20240530T002109Z
 SUMMARY:[E] Unannounced Event
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /unannounced-season15-event/
@@ -130,7 +113,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-shadow-raid-weekend-season15
-DTSTAMP:20240529T002135Z
+DTSTAMP:20240530T002109Z
 SUMMARY:[E] Unannounced Shadow Raid Weekend
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /unannounced-shadow-raid-weekend-season15/
