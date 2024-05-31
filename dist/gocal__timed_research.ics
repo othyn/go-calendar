@@ -10,18 +10,18 @@ X-WR-CALDESC:All Pokémon GO Timed Research events\, in your local time\, a
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:a-glimpse-of-daylight-timed-research
-DTSTAMP:20240507T002025Z
-SUMMARY:[TR] A Glimpse of Daylight Timed Research
+UID:the-rise-of-moonlight-research
+DTSTAMP:20240531T002025Z
+SUMMARY:[TR] The Rise of Moonlight Timed Research
 DESCRIPTION:Starts at 10:00\, ends at 23:59.\n\nhttps://leekduck.com/events
- /a-glimpse-of-daylight-timed-research/
-URL:https://leekduck.com/events/a-glimpse-of-daylight-timed-research/
+ /the-rise-of-moonlight-research/
+URL:https://leekduck.com/events/the-rise-of-moonlight-research/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/day-night-crowns.jpg
-DTSTART;VALUE=DATE:20240430
-DTEND;VALUE=DATE:20240506
+DTSTART;VALUE=DATE:20240531
+DTEND;VALUE=DATE:20240606
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[TR] A Glimpse of Daylight Timed Research
+DESCRIPTION:[TR] The Rise of Moonlight Timed Research
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
