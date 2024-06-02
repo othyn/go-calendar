@@ -10,26 +10,8 @@ X-WR-CALDESC:All Pokémon GO Research Breakthrough events\, in your local t
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:season-14-world-of-wonders-research-breakthrough
-DTSTAMP:20240601T002301Z
-SUMMARY:[RBT] World of Wonders Research Breakthrough
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /season-14-world-of-wonders-research-breakthrough/
-URL:https://leekduck.com/events/season-14-world-of-wonders-research-breakth
- rough/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/SpringResearchBreakt
- hrough.jpg
-DTSTART;VALUE=DATE:20240301
-DTEND;VALUE=DATE:20240601
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RBT] World of Wonders Research Breakthrough
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:season-15-shared-skies-research-breakthrough
-DTSTAMP:20240601T002301Z
+DTSTAMP:20240602T002253Z
 SUMMARY:[RBT] Shared Skies Research Breakthrough
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-15-shared-skies-research-breakthrough/
