@@ -10,28 +10,8 @@ X-WR-CALDESC:All Pokémon GO GO Battle League events\, in your local time\,
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:gbl-world-of-wonders_great-league_ultra-league_master-league-split-3
-DTSTAMP:20240602T002253Z
-SUMMARY:[GBL] Great League\, Ultra League\, and Master League | World of Wo
- nders
-DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /gbl-world-of-wonders_great-league_ultra-league_master-league-split-3/
-URL:https://leekduck.com/events/gbl-world-of-wonders_great-league_ultra-lea
- gue_master-league-split-3/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-sea
- son-18-world-of-wonder.jpg
-DTSTART;VALUE=DATE:20240524
-DTEND;VALUE=DATE:20240601
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[GBL] Great League\, Ultra League\, and Master League | World o
- f Wonders
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:gbl-shared-skies_great-league_electric-cup-great-league-edition
-DTSTAMP:20240602T002253Z
+DTSTAMP:20240603T002151Z
 SUMMARY:[GBL] Great League and Ultra Premier | Shared Skies
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /gbl-shared-skies_great-league_electric-cup-great-league-edition/
