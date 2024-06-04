@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:gbl-shared-skies_great-league_electric-cup-great-league-edition
-DTSTAMP:20240603T002151Z
+DTSTAMP:20240604T002057Z
 SUMMARY:[GBL] Great League and Ultra Premier | Shared Skies
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /gbl-shared-skies_great-league_electric-cup-great-league-edition/

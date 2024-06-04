@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-emolga-2024-06-01
-DTSTAMP:20240603T002151Z
-SUMMARY:[PS] Emolga PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-emolga-2024-06-01/
-URL:https://leekduck.com/events/pokemon-showcase-emolga-2024-06-01/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
- efault.jpg
-DTSTART;VALUE=DATE:20240601
-DTEND;VALUE=DATE:20240602
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PS] Emolga PokéStop Showcases
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-showcase-flying-type-2024-06-03
-DTSTAMP:20240603T002151Z
+DTSTAMP:20240604T002057Z
 SUMMARY:[PS] Flying-type PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-flying-type-2024-06-03/
