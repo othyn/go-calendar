@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:the-rise-of-moonlight-research
-DTSTAMP:20240605T002100Z
+DTSTAMP:20240606T002055Z
 SUMMARY:[TR] The Rise of Moonlight Timed Research
 DESCRIPTION:Starts at 10:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /the-rise-of-moonlight-research/
