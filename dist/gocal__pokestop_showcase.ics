@@ -10,19 +10,19 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-flying-type-2024-06-03
-DTSTAMP:20240605T002100Z
-SUMMARY:[PS] Flying-type PokéStop Showcases
+UID:pokemon-showcase-goomy-goodra-2024-06-07
+DTSTAMP:20240608T002201Z
+SUMMARY:[PS] Goomy and Goodra PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-flying-type-2024-06-03/
-URL:https://leekduck.com/events/pokemon-showcase-flying-type-2024-06-03/
+ /pokemon-showcase-goomy-goodra-2024-06-07/
+URL:https://leekduck.com/events/pokemon-showcase-goomy-goodra-2024-06-07/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
  efault.jpg
-DTSTART;VALUE=DATE:20240603
-DTEND;VALUE=DATE:20240604
+DTSTART;VALUE=DATE:20240608
+DTEND;VALUE=DATE:20240609
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Flying-type PokéStop Showcases
+DESCRIPTION:[PS] Goomy and Goodra PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
