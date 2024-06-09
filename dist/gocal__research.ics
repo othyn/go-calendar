@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-north-america-international-championships-2024-timed-research
-DTSTAMP:20240608T002201Z
+DTSTAMP:20240609T002408Z
 SUMMARY:[R] 2024 Pokémon North American International Championships
 DESCRIPTION:Starts at 13:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /pokemon-north-america-international-championships-2024-timed-research/

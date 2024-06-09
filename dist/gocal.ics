@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:gbl-shared-skies_great-league_electric-cup-great-league-edition
-DTSTAMP:20240608T002201Z
+DTSTAMP:20240609T002408Z
 SUMMARY:[GBL] Great League and Ultra Premier | Shared Skies
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /gbl-shared-skies_great-league_electric-cup-great-league-edition/
@@ -29,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-north-america-international-championships-2024-timed-research
-DTSTAMP:20240608T002201Z
+DTSTAMP:20240609T002408Z
 SUMMARY:[R] 2024 Pokémon North American International Championships
 DESCRIPTION:Starts at 13:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /pokemon-north-america-international-championships-2024-timed-research/
@@ -47,7 +47,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:june-communityday2024
-DTSTAMP:20240608T002201Z
+DTSTAMP:20240609T002408Z
 SUMMARY:[CD] Goomy Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /june-communityday2024/
@@ -64,7 +64,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-goomy-goodra-2024-06-07
-DTSTAMP:20240608T002201Z
+DTSTAMP:20240609T002408Z
 SUMMARY:[PS] Goomy and Goodra PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-goomy-goodra-2024-06-07/
@@ -81,7 +81,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-gyrados-in-mega-raids-june-2024
-DTSTAMP:20240608T002201Z
+DTSTAMP:20240609T002408Z
 SUMMARY:[RB] Mega Gyarados in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-gyrados-in-mega-raids-june-2024/
@@ -97,7 +97,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:zapdos-in-5-star-raid-battles-june-2024
-DTSTAMP:20240608T002201Z
+DTSTAMP:20240609T002408Z
 SUMMARY:[RB] Zapdos in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /zapdos-in-5-star-raid-battles-june-2024/
@@ -113,7 +113,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-06-11
-DTSTAMP:20240608T002201Z
+DTSTAMP:20240609T002408Z
 SUMMARY:[PSH] Wingull Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-06-11/
@@ -130,7 +130,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240612
-DTSTAMP:20240608T002201Z
+DTSTAMP:20240609T002408Z
 SUMMARY:[RH] Incarnate Forme Landorus Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240612/
@@ -146,7 +146,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:slumbering-sands
-DTSTAMP:20240608T002201Z
+DTSTAMP:20240609T002408Z
 SUMMARY:[E] Slumbering Sands
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /slumbering-sands/
@@ -162,7 +162,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:the-wonder-ticket
-DTSTAMP:20240608T002201Z
+DTSTAMP:20240609T002408Z
 SUMMARY:[T] The Wonder Ticket
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /the-wonder-ticket/
@@ -179,7 +179,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-fest-2024-madrid-spain
-DTSTAMP:20240608T002201Z
+DTSTAMP:20240609T002408Z
 SUMMARY:[PGF] Pokémon GO Fest 2024: Madrid\, Spain
 DESCRIPTION:Starts at 07:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2024-madrid-spain/
@@ -196,7 +196,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-06-18
-DTSTAMP:20240608T002201Z
+DTSTAMP:20240609T002408Z
 SUMMARY:[PSH] Roggenrola Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-06-18/
@@ -213,7 +213,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:spelunkers-cove
-DTSTAMP:20240608T002201Z
+DTSTAMP:20240609T002408Z
 SUMMARY:[E] Spelunker's Cove
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /spelunkers-cove/
@@ -229,7 +229,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-alakazam-in-mega-raids-june-2024
-DTSTAMP:20240608T002201Z
+DTSTAMP:20240609T002408Z
 SUMMARY:[RB] Mega Alakazam in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-alakazam-in-mega-raids-june-2024/
@@ -245,7 +245,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:incarnate-forme-landorus-in-5-star-raid-battles-june-2024
-DTSTAMP:20240608T002201Z
+DTSTAMP:20240609T002408Z
 SUMMARY:[RB] Incarnate Forme Landorus in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /incarnate-forme-landorus-in-5-star-raid-battles-june-2024/
@@ -263,7 +263,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240619
-DTSTAMP:20240608T002201Z
+DTSTAMP:20240609T002408Z
 SUMMARY:[RH] Yveltal Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240619/
@@ -279,7 +279,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:june-communitydayclassic2024
-DTSTAMP:20240608T002201Z
+DTSTAMP:20240609T002408Z
 SUMMARY:[CD] Cyndaquil Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /june-communitydayclassic2024/
@@ -296,7 +296,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-06-25
-DTSTAMP:20240608T002201Z
+DTSTAMP:20240609T002408Z
 SUMMARY:[PSH] Morelull Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-06-25/
@@ -313,7 +313,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:scorching-steps
-DTSTAMP:20240608T002201Z
+DTSTAMP:20240609T002408Z
 SUMMARY:[E] Scorching Steps
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /scorching-steps/
@@ -329,7 +329,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240626
-DTSTAMP:20240608T002201Z
+DTSTAMP:20240609T002408Z
 SUMMARY:[RH] Yveltal Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240626/
@@ -345,7 +345,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-charizard-y-in-mega-raids-june-2024
-DTSTAMP:20240608T002201Z
+DTSTAMP:20240609T002408Z
 SUMMARY:[RB] Mega Charizard Y in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-charizard-y-in-mega-raids-june-2024/
@@ -361,7 +361,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:yveltal-in-5-star-raid-battles-june-2024
-DTSTAMP:20240608T002201Z
+DTSTAMP:20240609T002408Z
 SUMMARY:[RB] Yveltal in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /yveltal-in-5-star-raid-battles-june-2024/
@@ -377,7 +377,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:elite-raid-mega-rayquaza-june
-DTSTAMP:20240608T002201Z
+DTSTAMP:20240609T002408Z
 SUMMARY:[ER] Mega Rayquaza in Elite Raids
 DESCRIPTION:Starts at 12:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /elite-raid-mega-rayquaza-june/
@@ -393,7 +393,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-raikou-in-shadow-raids-shared-skies
-DTSTAMP:20240608T002201Z
+DTSTAMP:20240609T002408Z
 SUMMARY:[RB] Shadow Raikou in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-raikou-in-shadow-raids-shared-skies/
@@ -410,7 +410,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240703
-DTSTAMP:20240608T002201Z
+DTSTAMP:20240609T002408Z
 SUMMARY:[RH] Ho-Oh Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240703/
@@ -426,7 +426,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-8th-anniversary-party
-DTSTAMP:20240608T002201Z
+DTSTAMP:20240609T002408Z
 SUMMARY:[E] 8th Anniversary Party
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-go-8th-anniversary-party/
@@ -443,7 +443,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-fest-2024-new-york-city-usa
-DTSTAMP:20240608T002201Z
+DTSTAMP:20240609T002408Z
 SUMMARY:[PGF] Pokémon GO Fest 2024: New York City\, USA
 DESCRIPTION:Starts at 16:00\, ends at 02:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2024-new-york-city-usa/
@@ -460,7 +460,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-tyranitar-in-mega-raids-june-2024
-DTSTAMP:20240608T002201Z
+DTSTAMP:20240609T002408Z
 SUMMARY:[RB] Mega Tyranitar in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-tyranitar-in-mega-raids-june-2024/
@@ -476,7 +476,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ho-oh-in-5-star-raid-battles-june-2024
-DTSTAMP:20240608T002201Z
+DTSTAMP:20240609T002408Z
 SUMMARY:[RB] Ho-Oh in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /ho-oh-in-5-star-raid-battles-june-2024/
@@ -492,7 +492,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-fest-2024-global
-DTSTAMP:20240608T002201Z
+DTSTAMP:20240609T002408Z
 SUMMARY:[PGF] Pokémon GO Fest 2024: Global
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2024-global/
@@ -509,7 +509,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:july-communityday2024
-DTSTAMP:20240608T002201Z
+DTSTAMP:20240609T002408Z
 SUMMARY:[CD] July Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /july-communityday2024/
@@ -525,7 +525,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-season15-event
-DTSTAMP:20240608T002201Z
+DTSTAMP:20240609T002408Z
 SUMMARY:[E] Unannounced Event
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /unannounced-season15-event/
@@ -542,7 +542,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-shadow-raid-weekend-season15
-DTSTAMP:20240608T002201Z
+DTSTAMP:20240609T002408Z
 SUMMARY:[E] Unannounced Shadow Raid Weekend
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /unannounced-shadow-raid-weekend-season15/
@@ -559,7 +559,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:august-communityday2024
-DTSTAMP:20240608T002201Z
+DTSTAMP:20240609T002408Z
 SUMMARY:[CD] August Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /august-communityday2024/
@@ -575,7 +575,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-15-shared-skies-research-breakthrough
-DTSTAMP:20240608T002201Z
+DTSTAMP:20240609T002408Z
 SUMMARY:[RBT] Shared Skies Research Breakthrough
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-15-shared-skies-research-breakthrough/
@@ -593,7 +593,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-15-shared-skies
-DTSTAMP:20240608T002201Z
+DTSTAMP:20240609T002408Z
 SUMMARY:[S] Shared Skies
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-15-shared-skies/
