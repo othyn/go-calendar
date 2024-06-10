@@ -15,10 +15,6 @@
         "name": "Everything",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal.ics"
     },
-    "go_battle_league": {
-        "name": "GO Battle League",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__go_battle_league.ics"
-    },
     "pokemon_go_fest": {
         "name": "Pokémon GO Fest",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokemon_go_fest.ics"
