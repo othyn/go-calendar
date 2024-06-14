@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:elite-raid-mega-rayquaza-june
-DTSTAMP:20240613T002119Z
+DTSTAMP:20240614T002055Z
 SUMMARY:[ER] Mega Rayquaza in Elite Raids
 DESCRIPTION:Starts at 12:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /elite-raid-mega-rayquaza-june/

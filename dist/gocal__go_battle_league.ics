@@ -10,20 +10,22 @@ X-WR-CALDESC:All Pokémon GO GO Battle League events\, in your local time\,
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:gbl-shared-skies_great-league_electric-cup-great-league-edition
-DTSTAMP:20240609T002408Z
-SUMMARY:[GBL] Great League and Ultra Premier | Shared Skies
+UID:gbl-shared-skies_ultra-league_summer-cup-great-league-edition
+DTSTAMP:20240614T002055Z
+SUMMARY:[GBL] Ultra League and Summer Cup: Great League Edition | Shared Sk
+ ies
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /gbl-shared-skies_great-league_electric-cup-great-league-edition/
-URL:https://leekduck.com/events/gbl-shared-skies_great-league_electric-cup-
- great-league-edition/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattle-greatleague
- -key.jpg
-DTSTART;VALUE=DATE:20240601
-DTEND;VALUE=DATE:20240607
+ /gbl-shared-skies_ultra-league_summer-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-shared-skies_ultra-league_summer-cup-gr
+ eat-league-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-ult
+ ra-league-machamp-swampert.jpg
+DTSTART;VALUE=DATE:20240607
+DTEND;VALUE=DATE:20240614
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[GBL] Great League and Ultra Premier | Shared Skies
+DESCRIPTION:[GBL] Ultra League and Summer Cup: Great League Edition | Share
+ d Skies
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
