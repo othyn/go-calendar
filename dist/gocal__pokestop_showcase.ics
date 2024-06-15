@@ -10,19 +10,19 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-komala-2024-06-010
-DTSTAMP:20240613T002119Z
-SUMMARY:[PS] Komala PokéStop Showcases
+UID:pokemon-showcase-crabrawler-2024-06-015
+DTSTAMP:20240615T002059Z
+SUMMARY:[PS] Crabrawler PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-komala-2024-06-010/
-URL:https://leekduck.com/events/pokemon-showcase-komala-2024-06-010/
+ /pokemon-showcase-crabrawler-2024-06-015/
+URL:https://leekduck.com/events/pokemon-showcase-crabrawler-2024-06-015/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
  efault.jpg
-DTSTART;VALUE=DATE:20240610
-DTEND;VALUE=DATE:20240611
+DTSTART;VALUE=DATE:20240615
+DTEND;VALUE=DATE:20240616
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Komala PokéStop Showcases
+DESCRIPTION:[PS] Crabrawler PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
