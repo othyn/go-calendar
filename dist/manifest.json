@@ -46,9 +46,5 @@
     "season": {
         "name": "Season",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__season.ics"
-    },
-    "ticketed": {
-        "name": "Ticketed",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__ticketed.ics"
     }
 }
