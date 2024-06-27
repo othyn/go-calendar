@@ -10,19 +10,87 @@ X-WR-CALDESC:All Pokémon GO Pokémon Spotlight Hour events\, in your local
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemonspotlighthour2024-06-25
-DTSTAMP:20240626T002113Z
-SUMMARY:[PSH] Morelull Spotlight Hour
+UID:pokemonspotlighthour2024-07-02
+DTSTAMP:20240627T002122Z
+SUMMARY:[PSH] Cake Hat Pikachu Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2024-06-25/
-URL:https://leekduck.com/events/pokemonspotlighthour2024-06-25/
+ /pokemonspotlighthour2024-07-02/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-07-02/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
  .jpg
-DTSTART:20240625T180000
-DTEND:20240625T190000
+DTSTART:20240702T180000
+DTEND:20240702T190000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PSH] Morelull Spotlight Hour
+DESCRIPTION:[PSH] Cake Hat Pikachu Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-07-09
+DTSTAMP:20240627T002122Z
+SUMMARY:[PSH] Spheal Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-07-09/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-07-09/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20240709T180000
+DTEND:20240709T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Spheal Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-07-16
+DTSTAMP:20240627T002122Z
+SUMMARY:[PSH] Binacle Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-07-16/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-07-16/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20240716T180000
+DTEND:20240716T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Binacle Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-07-23
+DTSTAMP:20240627T002122Z
+SUMMARY:[PSH] Diglett and Alolan Diglett Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-07-23/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-07-23/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20240723T180000
+DTEND:20240723T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Diglett and Alolan Diglett Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-07-30
+DTSTAMP:20240627T002122Z
+SUMMARY:[PSH] Togedemaru Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-07-30/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-07-30/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20240730T180000
+DTEND:20240730T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Togedemaru Spotlight Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
