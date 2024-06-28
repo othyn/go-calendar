@@ -10,20 +10,19 @@ X-WR-CALDESC:All Pokémon GO Research events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-north-america-international-championships-2024-timed-research
-DTSTAMP:20240610T002220Z
-SUMMARY:[R] 2024 Pokémon North American International Championships
-DESCRIPTION:Starts at 13:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /pokemon-north-america-international-championships-2024-timed-research/
-URL:https://leekduck.com/events/pokemon-north-america-international-champio
- nships-2024-timed-research/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/north-america-intern
- ational-championships-2024.jpg
-DTSTART;VALUE=DATE:20240607
-DTEND;VALUE=DATE:20240609
+UID:whispers-in-the-woods-shiny-celebi-masterwork-research
+DTSTAMP:20240628T002124Z
+SUMMARY:[R] Whispers in the Woods
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /whispers-in-the-woods-shiny-celebi-masterwork-research/
+URL:https://leekduck.com/events/whispers-in-the-woods-shiny-celebi-masterwo
+ rk-research/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/shiny-celebi.jpg
+DTSTART;VALUE=DATE:20240628
+DTEND;VALUE=DATE:20240703
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[R] 2024 Pokémon North American International Championships
+DESCRIPTION:[R] Whispers in the Woods
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
