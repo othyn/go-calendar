@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:whispers-in-the-woods-shiny-celebi-masterwork-research
-DTSTAMP:20240701T002529Z
+DTSTAMP:20240702T002153Z
 SUMMARY:[R] Whispers in the Woods
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /whispers-in-the-woods-shiny-celebi-masterwork-research/

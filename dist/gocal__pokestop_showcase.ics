@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-bulbasaur-charmander-squirtle-meltan-2024-06-28
-DTSTAMP:20240701T002529Z
+DTSTAMP:20240702T002153Z
 SUMMARY:[PS] Bulbasaur\, Charmander\, Squirtle\, and Meltan PokéStop Showc
  ases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -31,7 +31,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-grimer-meltan-2024-06-30
-DTSTAMP:20240701T002529Z
+DTSTAMP:20240702T002153Z
 SUMMARY:[PS] Grimer and Meltan PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-grimer-meltan-2024-06-30/
