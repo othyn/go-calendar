@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:whispers-in-the-woods-shiny-celebi-masterwork-research
-DTSTAMP:20240703T002152Z
+DTSTAMP:20240704T002128Z
 SUMMARY:[R] Whispers in the Woods
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /whispers-in-the-woods-shiny-celebi-masterwork-research/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:google-play-partner-research-2024-go-fest
-DTSTAMP:20240703T002152Z
+DTSTAMP:20240704T002128Z
 SUMMARY:[R] Google Play Partner Research
 DESCRIPTION:Starts at 10:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /google-play-partner-research-2024-go-fest/
