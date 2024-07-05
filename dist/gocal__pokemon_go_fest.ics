@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-go-fest-2024-new-york-city-usa
-DTSTAMP:20240704T002128Z
+DTSTAMP:20240705T002132Z
 SUMMARY:[PGF] Pokémon GO Fest 2024: New York City\, USA
 DESCRIPTION:Starts at 13:00\, ends at 23:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2024-new-york-city-usa/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-fest-2024-global
-DTSTAMP:20240704T002128Z
+DTSTAMP:20240705T002132Z
 SUMMARY:[PGF] Pokémon GO Fest 2024: Global
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2024-global/

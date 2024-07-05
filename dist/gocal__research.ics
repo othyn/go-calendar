@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Research events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:whispers-in-the-woods-shiny-celebi-masterwork-research
-DTSTAMP:20240704T002128Z
-SUMMARY:[R] Whispers in the Woods
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /whispers-in-the-woods-shiny-celebi-masterwork-research/
-URL:https://leekduck.com/events/whispers-in-the-woods-shiny-celebi-masterwo
- rk-research/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/shiny-celebi.jpg
-DTSTART;VALUE=DATE:20240628
-DTEND;VALUE=DATE:20240703
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[R] Whispers in the Woods
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:google-play-partner-research-2024-go-fest
-DTSTAMP:20240704T002128Z
+DTSTAMP:20240705T002132Z
 SUMMARY:[R] Google Play Partner Research
 DESCRIPTION:Starts at 10:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /google-play-partner-research-2024-go-fest/
