@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:gbl-shared-skies_great-league_master-premier
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[GBL] Great League and Master Premier | Shared Skies
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-shared-skies_great-league_master-premier/
@@ -29,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-fest-2024-new-york-city-usa
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[PGF] Pokémon GO Fest 2024: New York City\, USA
 DESCRIPTION:Starts at 13:00\, ends at 23:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2024-new-york-city-usa/
@@ -45,8 +45,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemon-showcase-ducklett-2024-07-06
+DTSTAMP:20240706T002055Z
+SUMMARY:[PS] Ducklett PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-ducklett-2024-07-06/
+URL:https://leekduck.com/events/pokemon-showcase-ducklett-2024-07-06/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART;VALUE=DATE:20240706
+DTEND;VALUE=DATE:20240707
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PS] Ducklett PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:mega-tyranitar-in-mega-raids-june-2024
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[RB] Mega Tyranitar in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-tyranitar-in-mega-raids-june-2024/
@@ -62,7 +79,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ho-oh-in-5-star-raid-battles-june-2024
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[RB] Ho-Oh in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /ho-oh-in-5-star-raid-battles-june-2024/
@@ -78,7 +95,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240708
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[RH] Guzzlord Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240708/
@@ -94,7 +111,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:guzzlord-in-5-star-raid-battles-july-2024
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[RB] Guzzlord in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /guzzlord-in-5-star-raid-battles-july-2024/
@@ -110,7 +127,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240709
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[RH] Nihilego Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240709/
@@ -126,7 +143,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:aquatic-paradise
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[E] Aquatic Paradise
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /aquatic-paradise/
@@ -142,7 +159,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-07-09
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[PSH] Spheal Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-07-09/
@@ -159,7 +176,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:nihilego-in-5-star-raid-battles-july-2024
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[RB] Nihilego in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /nihilego-in-5-star-raid-battles-july-2024/
@@ -176,7 +193,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240710
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[RH] Celesteela and Kartana Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240710/
@@ -192,7 +209,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:celesteela-kartana-in-5-star-raid-battles-july-2024
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[RB] Celesteela and Kartana in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /celesteela-kartana-in-5-star-raid-battles-july-2024/
@@ -210,7 +227,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240711
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[RH] Stakataka and Blacephalon Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240711/
@@ -226,7 +243,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:stakataka-blacephalon-in-5-star-raid-battles-july-2024
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[RB] Stakataka and Blacephalon in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /stakataka-blacephalon-in-5-star-raid-battles-july-2024/
@@ -244,7 +261,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-shared-skies_ultra-league_great-league-remix
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[GBL] Ultra League and Great League Remix | Shared Skies
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-shared-skies_ultra-league_great-league-remix/
@@ -262,7 +279,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240712
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[RH] Buzzwole\, Pheromosa\, and Xurkitree Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240712/
@@ -278,7 +295,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:inbound-from-ultra-space
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[E] Inbound from Ultra Space
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /inbound-from-ultra-space/
@@ -295,7 +312,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-fest-2024-global
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[PGF] Pokémon GO Fest 2024: Global
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2024-global/
@@ -312,7 +329,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:buzzwole-pheromosa-xurkitree-in-5-star-raid-battles-july-2024
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[RB] Buzzwole\, Pheromosa\, and Xurkitree in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /buzzwole-pheromosa-xurkitree-in-5-star-raid-battles-july-2024/
@@ -331,7 +348,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:google-play-partner-research-2024-go-fest
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[R] Google Play Partner Research
 DESCRIPTION:Starts at 10:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /google-play-partner-research-2024-go-fest/
@@ -348,7 +365,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-07-16
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[PSH] Binacle Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-07-16/
@@ -365,7 +382,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240717
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[RH] Articuno Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240717/
@@ -381,7 +398,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-shared-skies_master-league_great-league-remix
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[GBL] Master League and Great League Remix | Shared Skies
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-shared-skies_master-league_great-league-remix/
@@ -399,7 +416,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:july-communityday2024
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[CD] Tynamo Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /july-communityday2024/
@@ -416,7 +433,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ultra-unlock-part-1-better-together
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[E] Ultra Unlock Part 1: Better Together
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /ultra-unlock-part-1-better-together/
@@ -433,7 +450,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:articuno-in-5-star-raid-battles-july-2024
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[RB] Articuno in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /articuno-in-5-star-raid-battles-july-2024/
@@ -450,7 +467,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-swampert-in-mega-raids-july-2024
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[RB] Mega Swampert in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-swampert-in-mega-raids-july-2024/
@@ -466,7 +483,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-07-23
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[PSH] Diglett and Alolan Diglett Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-07-23/
@@ -483,7 +500,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240724
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[RH] Incarnate Forme Tornadus Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240724/
@@ -499,7 +516,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-shared-skies_great-league_ultra-league_master-league-split-2
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[GBL] Great League\, Ultra League\, and Master League | Shared Skie
  s
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -519,7 +536,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ultra-unlock-part-3-mega-raid-day
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[E] Ultra Unlock Part 2: Strength of Steel
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /ultra-unlock-part-3-mega-raid-day/
@@ -536,7 +553,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-entei-in-shadow-raids-shared-skies
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[RB] Shadow Entei in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-entei-in-shadow-raids-shared-skies/
@@ -553,7 +570,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-07-30
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[PSH] Togedemaru Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-07-30/
@@ -570,7 +587,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ultra-unlock-part-2-better-together
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[E] Ultra Unlock Part 2: Strength of Steel
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /ultra-unlock-part-2-better-together/
@@ -587,7 +604,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240731
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[RH] Incarnate Forme Tornadus Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240731/
@@ -603,7 +620,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-shared-skies_great-league_fantasy-cup-great-league-edition
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[GBL] Great League and Fantasy Cup: Great League Edition | Shared S
  kies
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -623,7 +640,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tornadus-incarnate-forme-in-5-star-raid-battles-july-2024
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[RB] Incarnate Forme Tornadus in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /tornadus-incarnate-forme-in-5-star-raid-battles-july-2024/
@@ -640,7 +657,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-aggron-in-mega-raids-july-2024
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[RB] Mega Aggron in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-aggron-in-mega-raids-july-2024/
@@ -656,7 +673,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-shared-skies_ultra-league_fossil-cup-great-league-edition
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[GBL] Ultra League and Fossil Cup: Great League Edition | Shared Sk
  ies
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -676,7 +693,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-shadow-raid-weekend-season15
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[E] Unannounced Shadow Raid Weekend
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /unannounced-shadow-raid-weekend-season15/
@@ -693,7 +710,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-shared-skies_master-league_fossil-cup-great-league-edition
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[GBL] Master League and Fossil Cup: Great League Edition | Shared S
  kies
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -713,7 +730,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-week-shared-skies
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[E] GO Battle Weekend: Shared Skies
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-week-shared-skies/
@@ -731,7 +748,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-shared-skies_great-league_ultra-league-master-league_catch-cup-grea
  t-league-edition
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[GBL] Great League\, Ultra League\, Master League\, and the Catch C
  up: Great League Edition | Shared Skies
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -752,7 +769,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:august-communityday2024
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[CD] August Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /august-communityday2024/
@@ -768,7 +785,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-15-shared-skies-research-breakthrough
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[RBT] Shared Skies Research Breakthrough
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-15-shared-skies-research-breakthrough/
@@ -786,7 +803,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-15-shared-skies
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[S] Shared Skies
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-15-shared-skies/
@@ -803,7 +820,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-shared-skies_great-league_ultra-league_master-league-split-3
-DTSTAMP:20240705T002132Z
+DTSTAMP:20240706T002055Z
 SUMMARY:[GBL] Great League\, Ultra League\, and Master League | Shared Skie
  s
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
