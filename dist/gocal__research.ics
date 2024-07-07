@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:google-play-partner-research-2024-go-fest
-DTSTAMP:20240706T002055Z
+DTSTAMP:20240707T002417Z
 SUMMARY:[R] Google Play Partner Research
 DESCRIPTION:Starts at 10:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /google-play-partner-research-2024-go-fest/
