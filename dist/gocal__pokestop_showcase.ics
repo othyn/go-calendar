@@ -10,19 +10,19 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-ducklett-2024-07-06
-DTSTAMP:20240708T002248Z
-SUMMARY:[PS] Ducklett PokéStop Showcases
+UID:pokemon-showcase-water-type-2024-07-08
+DTSTAMP:20240709T002143Z
+SUMMARY:[PS] Water-type PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-ducklett-2024-07-06/
-URL:https://leekduck.com/events/pokemon-showcase-ducklett-2024-07-06/
+ /pokemon-showcase-water-type-2024-07-08/
+URL:https://leekduck.com/events/pokemon-showcase-water-type-2024-07-08/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
  efault.jpg
-DTSTART;VALUE=DATE:20240706
-DTEND;VALUE=DATE:20240707
+DTSTART;VALUE=DATE:20240708
+DTEND;VALUE=DATE:20240709
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Ducklett PokéStop Showcases
+DESCRIPTION:[PS] Water-type PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

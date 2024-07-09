@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:aquatic-paradise
-DTSTAMP:20240708T002248Z
+DTSTAMP:20240709T002143Z
 SUMMARY:[E] Aquatic Paradise
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /aquatic-paradise/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:inbound-from-ultra-space
-DTSTAMP:20240708T002248Z
+DTSTAMP:20240709T002143Z
 SUMMARY:[E] Inbound from Ultra Space
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /inbound-from-ultra-space/
@@ -44,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:special-7km-eggs-go-fest-2024
-DTSTAMP:20240708T002248Z
+DTSTAMP:20240709T002143Z
 SUMMARY:[E] Early Access Eggs-travaganza for Pokémon GO Fest 2024: Global
 DESCRIPTION:Starts at 10:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /special-7km-eggs-go-fest-2024/
@@ -62,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ultra-unlock-part-1-better-together
-DTSTAMP:20240708T002248Z
+DTSTAMP:20240709T002143Z
 SUMMARY:[E] Ultra Unlock Part 1: Better Together
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /ultra-unlock-part-1-better-together/
@@ -79,7 +79,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ultra-unlock-part-3-mega-raid-day
-DTSTAMP:20240708T002248Z
+DTSTAMP:20240709T002143Z
 SUMMARY:[E] Ultra Unlock Part 2: Strength of Steel
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /ultra-unlock-part-3-mega-raid-day/
@@ -96,7 +96,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ultra-unlock-part-2-better-together
-DTSTAMP:20240708T002248Z
+DTSTAMP:20240709T002143Z
 SUMMARY:[E] Ultra Unlock Part 2: Strength of Steel
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /ultra-unlock-part-2-better-together/
@@ -113,7 +113,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-shadow-raid-weekend-season15
-DTSTAMP:20240708T002248Z
+DTSTAMP:20240709T002143Z
 SUMMARY:[E] Unannounced Shadow Raid Weekend
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /unannounced-shadow-raid-weekend-season15/
@@ -130,7 +130,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-week-shared-skies
-DTSTAMP:20240708T002248Z
+DTSTAMP:20240709T002143Z
 SUMMARY:[E] GO Battle Weekend: Shared Skies
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-week-shared-skies/
