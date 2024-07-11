@@ -10,19 +10,18 @@ X-WR-CALDESC:All Pokémon GO Update events\, in your local time\, auto-upda
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-fusions-debut-during-go-fest
-DTSTAMP:20240602T002253Z
-SUMMARY:[U] Pokémon Fusions Debut During Pokémon GO Fest 2024
+UID:fusion-adventure-effects-necrozma
+DTSTAMP:20240711T002220Z
+SUMMARY:[U] New Adventure Effects: Sunsteel Strike and Moongeist Beam
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-fusions-debut-during-go-fest/
-URL:https://leekduck.com/events/pokemon-fusions-debut-during-go-fest/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemon-fusions-debu
- t.jpg
-DTSTART;VALUE=DATE:20240513
-DTEND;VALUE=DATE:20240601
+ /fusion-adventure-effects-necrozma/
+URL:https://leekduck.com/events/fusion-adventure-effects-necrozma/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/necrozma-fusion.jpg
+DTSTART;VALUE=DATE:20240709
+DTEND;VALUE=DATE:20240715
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[U] Pokémon Fusions Debut During Pokémon GO Fest 2024
+DESCRIPTION:[U] New Adventure Effects: Sunsteel Strike and Moongeist Beam
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

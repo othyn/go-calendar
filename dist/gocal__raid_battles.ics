@@ -10,24 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Battles events\, in your local time\, aut
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:guzzlord-in-5-star-raid-battles-july-2024
-DTSTAMP:20240710T002227Z
-SUMMARY:[RB] Guzzlord in 5-star Raid Battles
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /guzzlord-in-5-star-raid-battles-july-2024/
-URL:https://leekduck.com/events/guzzlord-in-5-star-raid-battles-july-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/guzzlord.jpg
-DTSTART:20240708T100000
-DTEND:20240709T100000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Guzzlord in 5-star Raid Battles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:nihilego-in-5-star-raid-battles-july-2024
-DTSTAMP:20240710T002227Z
+DTSTAMP:20240711T002220Z
 SUMMARY:[RB] Nihilego in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /nihilego-in-5-star-raid-battles-july-2024/
@@ -44,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:celesteela-kartana-in-5-star-raid-battles-july-2024
-DTSTAMP:20240710T002227Z
+DTSTAMP:20240711T002220Z
 SUMMARY:[RB] Celesteela and Kartana in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /celesteela-kartana-in-5-star-raid-battles-july-2024/
@@ -62,7 +46,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:stakataka-blacephalon-in-5-star-raid-battles-july-2024
-DTSTAMP:20240710T002227Z
+DTSTAMP:20240711T002220Z
 SUMMARY:[RB] Stakataka and Blacephalon in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /stakataka-blacephalon-in-5-star-raid-battles-july-2024/
@@ -80,7 +64,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:buzzwole-pheromosa-xurkitree-in-5-star-raid-battles-july-2024
-DTSTAMP:20240710T002227Z
+DTSTAMP:20240711T002220Z
 SUMMARY:[RB] Buzzwole\, Pheromosa\, and Xurkitree in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /buzzwole-pheromosa-xurkitree-in-5-star-raid-battles-july-2024/
@@ -99,7 +83,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:articuno-in-5-star-raid-battles-july-2024
-DTSTAMP:20240710T002227Z
+DTSTAMP:20240711T002220Z
 SUMMARY:[RB] Articuno in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /articuno-in-5-star-raid-battles-july-2024/
@@ -116,7 +100,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-swampert-in-mega-raids-july-2024
-DTSTAMP:20240710T002227Z
+DTSTAMP:20240711T002220Z
 SUMMARY:[RB] Mega Swampert in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-swampert-in-mega-raids-july-2024/
@@ -132,7 +116,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-entei-in-shadow-raids-shared-skies
-DTSTAMP:20240710T002227Z
+DTSTAMP:20240711T002220Z
 SUMMARY:[RB] Shadow Entei in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-entei-in-shadow-raids-shared-skies/
@@ -149,7 +133,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tornadus-incarnate-forme-in-5-star-raid-battles-july-2024
-DTSTAMP:20240710T002227Z
+DTSTAMP:20240711T002220Z
 SUMMARY:[RB] Incarnate Forme Tornadus in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /tornadus-incarnate-forme-in-5-star-raid-battles-july-2024/
@@ -166,7 +150,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-aggron-in-mega-raids-july-2024
-DTSTAMP:20240710T002227Z
+DTSTAMP:20240711T002220Z
 SUMMARY:[RB] Mega Aggron in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-aggron-in-mega-raids-july-2024/

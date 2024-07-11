@@ -10,24 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Hour events\, in your local time\, auto-u
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:raidhour20240709
-DTSTAMP:20240710T002227Z
-SUMMARY:[RH] Nihilego Raid Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /raidhour20240709/
-URL:https://leekduck.com/events/raidhour20240709/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
-DTSTART:20240709T180000
-DTEND:20240709T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RH] Nihilego Raid Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raidhour20240710
-DTSTAMP:20240710T002227Z
+DTSTAMP:20240711T002220Z
 SUMMARY:[RH] Celesteela and Kartana Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240710/
@@ -43,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240711
-DTSTAMP:20240710T002227Z
+DTSTAMP:20240711T002220Z
 SUMMARY:[RH] Stakataka and Blacephalon Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240711/
@@ -59,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240712
-DTSTAMP:20240710T002227Z
+DTSTAMP:20240711T002220Z
 SUMMARY:[RH] Buzzwole\, Pheromosa\, and Xurkitree Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240712/
@@ -75,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240717
-DTSTAMP:20240710T002227Z
+DTSTAMP:20240711T002220Z
 SUMMARY:[RH] Articuno Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240717/
@@ -91,7 +75,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240724
-DTSTAMP:20240710T002227Z
+DTSTAMP:20240711T002220Z
 SUMMARY:[RH] Incarnate Forme Tornadus Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240724/
@@ -107,7 +91,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240731
-DTSTAMP:20240710T002227Z
+DTSTAMP:20240711T002220Z
 SUMMARY:[RH] Incarnate Forme Tornadus Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240731/
