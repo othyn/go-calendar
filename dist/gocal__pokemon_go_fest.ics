@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-go-fest-2024-global
-DTSTAMP:20240713T002219Z
+DTSTAMP:20240714T002445Z
 SUMMARY:[PGF] Pokémon GO Fest 2024: Global - Saturday
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2024-global/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-fest-2024-global-sunday
-DTSTAMP:20240713T002219Z
+DTSTAMP:20240714T002445Z
 SUMMARY:[PGF] Pokémon GO Fest 2024: Global - Sunday
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2024-global-sunday/
