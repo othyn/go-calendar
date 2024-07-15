@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Pokémon GO Fest events\, in your local time\,
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-go-fest-2024-global
-DTSTAMP:20240714T002445Z
-SUMMARY:[PGF] Pokémon GO Fest 2024: Global - Saturday
-DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
- /pokemon-go-fest-2024-global/
-URL:https://leekduck.com/events/pokemon-go-fest-2024-global/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemon-go-fest-2024
- -global-key.jpg
-DTSTART:20240713T100000
-DTEND:20240713T180000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PGF] Pokémon GO Fest 2024: Global - Saturday
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-go-fest-2024-global-sunday
-DTSTAMP:20240714T002445Z
+DTSTAMP:20240715T002317Z
 SUMMARY:[PGF] Pokémon GO Fest 2024: Global - Sunday
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2024-global-sunday/
