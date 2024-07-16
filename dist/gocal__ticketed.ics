@@ -10,19 +10,19 @@ X-WR-CALDESC:All Pokémon GO Ticketed events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:the-wonder-ticket
-DTSTAMP:20240617T002239Z
-SUMMARY:[T] The Wonder Ticket
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /the-wonder-ticket/
-URL:https://leekduck.com/events/the-wonder-ticket/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/wonder-ticket-part3.
- jpg
-DTSTART;VALUE=DATE:20240301
-DTEND;VALUE=DATE:20240614
+UID:grow-together-ticket
+DTSTAMP:20240716T002215Z
+SUMMARY:[T] Grow Together Ticket
+DESCRIPTION:Starts at 10:00\, ends at 19:59.\n\nhttps://leekduck.com/events
+ /grow-together-ticket/
+URL:https://leekduck.com/events/grow-together-ticket/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/grow-together-ticket
+ .jpg
+DTSTART;VALUE=DATE:20240717
+DTEND;VALUE=DATE:20240801
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[T] The Wonder Ticket
+DESCRIPTION:[T] Grow Together Ticket
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

@@ -10,77 +10,58 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:special-7km-eggs-go-fest-2024
-DTSTAMP:20240715T002317Z
-SUMMARY:[E] Early Access Eggs-travaganza for Pokémon GO Fest 2024: Global
-DESCRIPTION:Starts at 10:00\, ends at 23:59.\n\nhttps://leekduck.com/events
- /special-7km-eggs-go-fest-2024/
-URL:https://leekduck.com/events/special-7km-eggs-go-fest-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-fest-2024-special
- -7km-eggs.jpg
-DTSTART;VALUE=DATE:20240708
-DTEND;VALUE=DATE:20240714
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Early Access Eggs-travaganza for Pokémon GO Fest 2024: Glo
- bal
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:ultra-unlock-part-1-better-together
-DTSTAMP:20240715T002317Z
-SUMMARY:[E] Ultra Unlock Part 1: Better Together
+DTSTAMP:20240716T002215Z
+SUMMARY:[E] Better Together (Ultra Unlock Part 1)
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /ultra-unlock-part-1-better-together/
 URL:https://leekduck.com/events/ultra-unlock-part-1-better-together/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/better-together.jpg
 DTSTART;VALUE=DATE:20240717
 DTEND;VALUE=DATE:20240722
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Ultra Unlock Part 1: Better Together
+DESCRIPTION:[E] Better Together (Ultra Unlock Part 1)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ultra-unlock-part-3-mega-raid-day
-DTSTAMP:20240715T002317Z
-SUMMARY:[E] Ultra Unlock Part 2: Strength of Steel
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /ultra-unlock-part-3-mega-raid-day/
-URL:https://leekduck.com/events/ultra-unlock-part-3-mega-raid-day/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
-DTSTART:20240727T100000
-DTEND:20240727T200000
+UID:ultra-unlock-part-3-mega-lucario-raid-day
+DTSTAMP:20240716T002215Z
+SUMMARY:[E] Mega Lucario Raid Day (Ultra Unlock Part 3)
+DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /ultra-unlock-part-3-mega-lucario-raid-day/
+URL:https://leekduck.com/events/ultra-unlock-part-3-mega-lucario-raid-day/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/ultra-unlock-mega-lu
+ cario-raid-day.jpg
+DTSTART:20240727T110000
+DTEND:20240727T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Ultra Unlock Part 2: Strength of Steel
+DESCRIPTION:[E] Mega Lucario Raid Day (Ultra Unlock Part 3)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ultra-unlock-part-2-better-together
-DTSTAMP:20240715T002317Z
-SUMMARY:[E] Ultra Unlock Part 2: Strength of Steel
+UID:ultra-unlock-part-2-strength-of-steel
+DTSTAMP:20240716T002215Z
+SUMMARY:[E] Strength of Steel (Ultra Unlock Part 2)
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /ultra-unlock-part-2-better-together/
-URL:https://leekduck.com/events/ultra-unlock-part-2-better-together/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+ /ultra-unlock-part-2-strength-of-steel/
+URL:https://leekduck.com/events/ultra-unlock-part-2-strength-of-steel/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/ultra-unlock-strengt
+ h-of-steel.jpg
 DTSTART;VALUE=DATE:20240725
 DTEND;VALUE=DATE:20240730
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Ultra Unlock Part 2: Strength of Steel
+DESCRIPTION:[E] Strength of Steel (Ultra Unlock Part 2)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-shadow-raid-weekend-season15
-DTSTAMP:20240715T002317Z
+DTSTAMP:20240716T002215Z
 SUMMARY:[E] Unannounced Shadow Raid Weekend
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /unannounced-shadow-raid-weekend-season15/
@@ -97,7 +78,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-week-shared-skies
-DTSTAMP:20240715T002317Z
+DTSTAMP:20240716T002215Z
 SUMMARY:[E] GO Battle Weekend: Shared Skies
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-week-shared-skies/
