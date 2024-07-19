@@ -10,19 +10,19 @@ X-WR-CALDESC:All Pokémon GO Raid Day events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:mega-heracross-raid-day
-DTSTAMP:20240414T002401Z
-SUMMARY:[RD] Mega Heracross Raid Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /mega-heracross-raid-day/
-URL:https://leekduck.com/events/mega-heracross-raid-day/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-heracross-raid-
- day.jpg
-DTSTART:20240413T140000
-DTEND:20240413T170000
+UID:ultra-unlock-part-3-mega-lucario-raid-day
+DTSTAMP:20240719T094613Z
+SUMMARY:[RD] Mega Lucario Raid Day (Ultra Unlock Part 3)
+DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /ultra-unlock-part-3-mega-lucario-raid-day/
+URL:https://leekduck.com/events/ultra-unlock-part-3-mega-lucario-raid-day/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-lucario-raid-da
+ y.jpg
+DTSTART:20240727T110000
+DTEND:20240727T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RD] Mega Heracross Raid Day
+DESCRIPTION:[RD] Mega Lucario Raid Day (Ultra Unlock Part 3)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
