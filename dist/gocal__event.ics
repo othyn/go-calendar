@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:ultra-unlock-part-1-better-together
-DTSTAMP:20240720T002147Z
+DTSTAMP:20240721T002432Z
 SUMMARY:[E] Better Together (Ultra Unlock Part 1)
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /ultra-unlock-part-1-better-together/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ultra-unlock-part-2-strength-of-steel
-DTSTAMP:20240720T002147Z
+DTSTAMP:20240721T002432Z
 SUMMARY:[E] Strength of Steel (Ultra Unlock Part 2)
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /ultra-unlock-part-2-strength-of-steel/
@@ -44,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-shadow-raid-weekend-season15
-DTSTAMP:20240720T002147Z
+DTSTAMP:20240721T002432Z
 SUMMARY:[E] Unannounced Shadow Raid Weekend
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /unannounced-shadow-raid-weekend-season15/
@@ -61,7 +61,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-week-shared-skies
-DTSTAMP:20240720T002147Z
+DTSTAMP:20240721T002432Z
 SUMMARY:[E] GO Battle Weekend: Shared Skies
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-week-shared-skies/
