@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Community Day events\, in your local time\, au
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:july-communityday2024
-DTSTAMP:20240722T002319Z
-SUMMARY:[CD] Tynamo Community Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /july-communityday2024/
-URL:https://leekduck.com/events/july-communityday2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-2024-07-tynamo.jp
- g
-DTSTART:20240721T140000
-DTEND:20240721T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[CD] Tynamo Community Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:august-communityday2024
-DTSTAMP:20240722T002319Z
+DTSTAMP:20240723T002226Z
 SUMMARY:[CD] August Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /august-communityday2024/

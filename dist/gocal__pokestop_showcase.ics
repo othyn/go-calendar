@@ -10,26 +10,8 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-tynamo-eelektross-2024-07-20
-DTSTAMP:20240722T002319Z
-SUMMARY:[PS] Tynamo and Eelektross PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-tynamo-eelektross-2024-07-20/
-URL:https://leekduck.com/events/pokemon-showcase-tynamo-eelektross-2024-07-
- 20/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
- efault.jpg
-DTSTART;VALUE=DATE:20240720
-DTEND;VALUE=DATE:20240721
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PS] Tynamo and Eelektross PokéStop Showcases
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-showcase-ultra-buddy-or-higher-2024-07-22
-DTSTAMP:20240722T002319Z
+DTSTAMP:20240723T002226Z
 SUMMARY:[PS] Ultra Buddy and Best Buddy PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-ultra-buddy-or-higher-2024-07-22/
