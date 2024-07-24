@@ -1,4 +1,8 @@
 {
+    "city_safari": {
+        "name": "City Safari",
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__city_safari.ics"
+    },
     "community_day": {
         "name": "Community Day",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__community_day.ics"
@@ -42,6 +46,10 @@
     "research_breakthrough": {
         "name": "Research Breakthrough",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__research_breakthrough.ics"
+    },
+    "safari_zone": {
+        "name": "Safari Zone",
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__safari_zone.ics"
     },
     "season": {
         "name": "Season",

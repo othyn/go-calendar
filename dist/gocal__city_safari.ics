@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:spatie/icalendar-generator
-NAME:GO Calendar - City Safari
-X-WR-CALNAME:GO Calendar - City Safari
+NAME:GO Calendar - City Safari (CS)
+X-WR-CALNAME:GO Calendar - City Safari (CS)
 DESCRIPTION:All Pokémon GO City Safari events\, in your local time\, auto-
  updated and sourced from Leek Duck.
 X-WR-CALDESC:All Pokémon GO City Safari events\, in your local time\, auto
@@ -10,18 +10,19 @@ X-WR-CALDESC:All Pokémon GO City Safari events\, in your local time\, auto
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:citysafari-mexico-city-2023
-DTSTAMP:20231106T001948Z
-SUMMARY:[City Safari] Mexico City\, Mexico - Pokémon GO City Safari
+UID:pokemon-go-city-safari-jakarta-2024
+DTSTAMP:20240724T002301Z
+SUMMARY:[CS] Jakarta\, Indonesia - Pokémon GO City Safari
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
- /citysafari-mexico-city-2023/
-URL:https://leekduck.com/events/citysafari-mexico-city-2023/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/citysafari-mexico-ci
- ty.jpg
-DTSTART:20231104T100000
-DTEND:20231105T180000
+ /pokemon-go-city-safari-jakarta-2024/
+URL:https://leekduck.com/events/pokemon-go-city-safari-jakarta-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/city-safari-jakarta-
+ 2024.jpg
+DTSTART;VALUE=DATE:20240921
+DTEND;VALUE=DATE:20240922
 BEGIN:VALARM
 ACTION:DISPLAY
+DESCRIPTION:[CS] Jakarta\, Indonesia - Pokémon GO City Safari
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

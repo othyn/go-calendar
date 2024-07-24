@@ -11,17 +11,18 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:august-communityday2024
-DTSTAMP:20240723T002226Z
-SUMMARY:[CD] August Community Day
+DTSTAMP:20240724T002301Z
+SUMMARY:[CD] Popplio Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /august-communityday2024/
 URL:https://leekduck.com/events/august-communityday2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-2024-08-popplio.j
+ pg
 DTSTART:20240831T140000
 DTEND:20240831T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[CD] August Community Day
+DESCRIPTION:[CD] Popplio Community Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
