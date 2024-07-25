@@ -10,41 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Battles events\, in your local time\, aut
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:articuno-in-5-star-raid-battles-july-2024
-DTSTAMP:20240724T002301Z
-SUMMARY:[RB] Articuno in 5-star Raid Battles
-DESCRIPTION:Starts at 06:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /articuno-in-5-star-raid-battles-july-2024/
-URL:https://leekduck.com/events/articuno-in-5-star-raid-battles-july-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/legendary_articuno.j
- pg
-DTSTART;VALUE=DATE:20240715
-DTEND;VALUE=DATE:20240723
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Articuno in 5-star Raid Battles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:mega-swampert-in-mega-raids-july-2024
-DTSTAMP:20240724T002301Z
-SUMMARY:[RB] Mega Swampert in Mega Raids
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /mega-swampert-in-mega-raids-july-2024/
-URL:https://leekduck.com/events/mega-swampert-in-mega-raids-july-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;VALUE=DATE:20240708
-DTEND;VALUE=DATE:20240723
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Mega Swampert in Mega Raids
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:shadow-entei-in-shadow-raids-shared-skies
-DTSTAMP:20240724T002301Z
+DTSTAMP:20240725T002205Z
 SUMMARY:[RB] Shadow Entei in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-entei-in-shadow-raids-shared-skies/
@@ -61,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tornadus-incarnate-forme-in-5-star-raid-battles-july-2024
-DTSTAMP:20240724T002301Z
+DTSTAMP:20240725T002205Z
 SUMMARY:[RB] Incarnate Forme Tornadus in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /tornadus-incarnate-forme-in-5-star-raid-battles-july-2024/
@@ -78,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-aggron-in-mega-raids-july-2024
-DTSTAMP:20240724T002301Z
+DTSTAMP:20240725T002205Z
 SUMMARY:[RB] Mega Aggron in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-aggron-in-mega-raids-july-2024/
@@ -89,6 +56,56 @@ DTEND;VALUE=DATE:20240803
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RB] Mega Aggron in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moltres-in-5-star-raid-battles-august-2024
+DTSTAMP:20240725T002205Z
+SUMMARY:[RB] Moltres in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /moltres-in-5-star-raid-battles-august-2024/
+URL:https://leekduck.com/events/moltres-in-5-star-raid-battles-august-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/yokosuka_unlocks_mol
+ tres_1024x512nologo.jpg
+DTSTART;VALUE=DATE:20240803
+DTEND;VALUE=DATE:20240812
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Moltres in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:thundurus-in-5-star-raid-battles-august-2024
+DTSTAMP:20240725T002205Z
+SUMMARY:[RB] Incarnate Forme Thundurus in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /thundurus-in-5-star-raid-battles-august-2024/
+URL:https://leekduck.com/events/thundurus-in-5-star-raid-battles-august-202
+ 4/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/thundurus.jpg
+DTSTART;VALUE=DATE:20240812
+DTEND;VALUE=DATE:20240821
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Incarnate Forme Thundurus in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:xerneas-in-5-star-raid-battles-august-2024
+DTSTAMP:20240725T002205Z
+SUMMARY:[RB] Xerneas in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /xerneas-in-5-star-raid-battles-august-2024/
+URL:https://leekduck.com/events/xerneas-in-5-star-raid-battles-august-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/xerneas-woods.jpg
+DTSTART;VALUE=DATE:20240821
+DTEND;VALUE=DATE:20240903
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Xerneas in 5-star Raid Battles
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

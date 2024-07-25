@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Pokémon Spotlight Hour events\, in your local
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemonspotlighthour2024-07-23
-DTSTAMP:20240724T002301Z
-SUMMARY:[PSH] Diglett and Alolan Diglett Spotlight Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2024-07-23/
-URL:https://leekduck.com/events/pokemonspotlighthour2024-07-23/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
- .jpg
-DTSTART:20240723T180000
-DTEND:20240723T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PSH] Diglett and Alolan Diglett Spotlight Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemonspotlighthour2024-07-30
-DTSTAMP:20240724T002301Z
+DTSTAMP:20240725T002205Z
 SUMMARY:[PSH] Togedemaru Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-07-30/
@@ -40,6 +23,74 @@ DTEND:20240730T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[PSH] Togedemaru Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-08-06
+DTSTAMP:20240725T002205Z
+SUMMARY:[PSH] Drilbur Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-08-06/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-08-06/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20240806T180000
+DTEND:20240806T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Drilbur Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-08-13
+DTSTAMP:20240725T002205Z
+SUMMARY:[PSH] Lileep Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-08-13/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-08-13/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20240813T180000
+DTEND:20240813T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Lileep Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-08-20
+DTSTAMP:20240725T002205Z
+SUMMARY:[PSH] Mankey Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-08-20/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-08-20/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20240820T180000
+DTEND:20240820T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Mankey Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-08-27
+DTSTAMP:20240725T002205Z
+SUMMARY:[PSH] Magnemite Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-08-27/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-08-27/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20240827T180000
+DTEND:20240827T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Magnemite Spotlight Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

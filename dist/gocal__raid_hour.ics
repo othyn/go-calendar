@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:raidhour20240724
-DTSTAMP:20240724T002301Z
+DTSTAMP:20240725T002205Z
 SUMMARY:[RH] Incarnate Forme Tornadus Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240724/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240731
-DTSTAMP:20240724T002301Z
+DTSTAMP:20240725T002205Z
 SUMMARY:[RH] Incarnate Forme Tornadus Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240731/
@@ -38,6 +38,70 @@ DTEND:20240731T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RH] Incarnate Forme Tornadus Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20240807
+DTSTAMP:20240725T002205Z
+SUMMARY:[RH] Moltres Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20240807/
+URL:https://leekduck.com/events/raidhour20240807/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20240807T180000
+DTEND:20240807T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Moltres Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20240814
+DTSTAMP:20240725T002205Z
+SUMMARY:[RH] Incarnate Forme Thundurus Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20240814/
+URL:https://leekduck.com/events/raidhour20240814/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20240814T180000
+DTEND:20240814T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Incarnate Forme Thundurus Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20240821
+DTSTAMP:20240725T002205Z
+SUMMARY:[RH] Xerneas Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20240821/
+URL:https://leekduck.com/events/raidhour20240821/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20240821T180000
+DTEND:20240821T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Xerneas Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20240828
+DTSTAMP:20240725T002205Z
+SUMMARY:[RH] Xerneas Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20240828/
+URL:https://leekduck.com/events/raidhour20240828/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20240828T180000
+DTEND:20240828T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Xerneas Raid Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
