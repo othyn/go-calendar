@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:elite-raids-rayquaza-makeup
-DTSTAMP:20240725T002205Z
+DTSTAMP:20240726T002215Z
 SUMMARY:[ER] Mega Rayquaza in Elite Raids - Makeup
 DESCRIPTION:Starts at 13:00\, ends at 18:45.\n\nhttps://leekduck.com/events
  /elite-raids-rayquaza-makeup/
