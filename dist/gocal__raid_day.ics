@@ -10,19 +10,20 @@ X-WR-CALDESC:All Pokémon GO Raid Day events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:ultra-unlock-part-3-mega-lucario-raid-day
-DTSTAMP:20240728T002506Z
-SUMMARY:[RD] Mega Lucario Raid Day (Ultra Unlock Part 3)
-DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /ultra-unlock-part-3-mega-lucario-raid-day/
-URL:https://leekduck.com/events/ultra-unlock-part-3-mega-lucario-raid-day/
+UID:ultra-unlock-part-3-mega-lucario-raid-day-redo
+DTSTAMP:20240729T002324Z
+SUMMARY:[RD] Some Regions: Mega Lucario Raid Day Makeup
+DESCRIPTION:Starts at 12:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /ultra-unlock-part-3-mega-lucario-raid-day-redo/
+URL:https://leekduck.com/events/ultra-unlock-part-3-mega-lucario-raid-day-r
+ edo/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-lucario-raid-da
  y.jpg
-DTSTART:20240727T110000
-DTEND:20240727T170000
+DTSTART:20240728T120000
+DTEND:20240728T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RD] Mega Lucario Raid Day (Ultra Unlock Part 3)
+DESCRIPTION:[RD] Some Regions: Mega Lucario Raid Day Makeup
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

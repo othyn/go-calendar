@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-lucario-2024-07-27
-DTSTAMP:20240728T002506Z
+DTSTAMP:20240729T002324Z
 SUMMARY:[PS] Lucario PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-lucario-2024-07-27/
@@ -23,6 +23,23 @@ DTEND;VALUE=DATE:20240728
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[PS] Lucario PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-steel-type-2024-07-29
+DTSTAMP:20240729T002324Z
+SUMMARY:[PS] Steel-type PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-steel-type-2024-07-29/
+URL:https://leekduck.com/events/pokemon-showcase-steel-type-2024-07-29/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART;VALUE=DATE:20240729
+DTEND;VALUE=DATE:20240730
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PS] Steel-type PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
