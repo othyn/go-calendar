@@ -11,13 +11,13 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:adventure-week-2024-taken-over
-DTSTAMP:20240729T002324Z
+DTSTAMP:20240730T002226Z
 SUMMARY:[TGR] Adventure Week: Taken Over
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /adventure-week-2024-taken-over/
 URL:https://leekduck.com/events/adventure-week-2024-taken-over/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/team-go-rocket-giova
+ nni-shadow-cresselia.jpg
 DTSTART;VALUE=DATE:20240808
 DTEND;VALUE=DATE:20240812
 BEGIN:VALARM
