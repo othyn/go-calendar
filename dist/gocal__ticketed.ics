@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:grow-together-ticket
-DTSTAMP:20240801T002503Z
+DTSTAMP:20240802T002204Z
 SUMMARY:[T] Grow Together Ticket
 DESCRIPTION:Starts at 10:00\, ends at 19:59.\n\nhttps://leekduck.com/events
  /grow-together-ticket/
