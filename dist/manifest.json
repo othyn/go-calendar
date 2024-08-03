@@ -46,9 +46,5 @@
     "team_go_rocket": {
         "name": "Team GO Rocket",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__team_go_rocket.ics"
-    },
-    "ticketed": {
-        "name": "Ticketed",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__ticketed.ics"
     }
 }
