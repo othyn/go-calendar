@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Hour events\, in your local time\, auto-u
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:special-raid-event-rayquaza-makeup
-DTSTAMP:20240804T061001Z
-SUMMARY:[RH] Mega Rayquaza Special Raid Event - Makeup
-DESCRIPTION:Starts at 11:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /special-raid-event-rayquaza-makeup/
-URL:https://leekduck.com/events/special-raid-event-rayquaza-makeup/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/elite-raids-mega-ray
- quaza.jpg
-DTSTART:20240803T110000
-DTEND:20240803T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RH] Mega Rayquaza Special Raid Event - Makeup
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raidhour20240807
-DTSTAMP:20240804T061001Z
+DTSTAMP:20240805T002334Z
 SUMMARY:[RH] Moltres Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240807/
@@ -44,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240814
-DTSTAMP:20240804T061001Z
+DTSTAMP:20240805T002334Z
 SUMMARY:[RH] Incarnate Forme Thundurus Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240814/
@@ -60,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240821
-DTSTAMP:20240804T061001Z
+DTSTAMP:20240805T002334Z
 SUMMARY:[RH] Xerneas Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240821/
@@ -76,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240828
-DTSTAMP:20240804T061001Z
+DTSTAMP:20240805T002334Z
 SUMMARY:[RH] Xerneas Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240828/

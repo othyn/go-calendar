@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:gbl-shared-skies_ultra-league_fossil-cup-great-league-edition
-DTSTAMP:20240804T061001Z
+DTSTAMP:20240805T002334Z
 SUMMARY:[GBL] Ultra League and Fossil Cup: Great League Edition | Shared Sk
  ies
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -31,7 +31,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-shared-skies_master-league_fossil-cup-great-league-edition
-DTSTAMP:20240804T061001Z
+DTSTAMP:20240805T002334Z
 SUMMARY:[GBL] Master League and Fossil Cup: Great League Edition | Shared S
  kies
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -52,7 +52,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-shared-skies_great-league_ultra-league-master-league_catch-cup-grea
  t-league-edition
-DTSTAMP:20240804T061001Z
+DTSTAMP:20240805T002334Z
 SUMMARY:[GBL] Great League\, Ultra League\, Master League\, and the Catch C
  up: Great League Edition | Shared Skies
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -73,7 +73,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-shared-skies_great-league_ultra-league_master-league-split-3
-DTSTAMP:20240804T061001Z
+DTSTAMP:20240805T002334Z
 SUMMARY:[GBL] Great League\, Ultra League\, and Master League | Shared Skie
  s
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
