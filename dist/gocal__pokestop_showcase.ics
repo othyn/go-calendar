@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-tyrunt-amaura-2024-08-05
-DTSTAMP:20240805T002334Z
+DTSTAMP:20240806T002243Z
 SUMMARY:[PS] Tyrunt and Amaura PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-tyrunt-amaura-2024-08-05/

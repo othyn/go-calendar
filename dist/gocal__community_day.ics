@@ -10,8 +10,24 @@ X-WR-CALDESC:All Pokémon GO Community Day events\, in your local time\, au
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
+UID:august-communitydayclassic2024
+DTSTAMP:20240806T002243Z
+SUMMARY:[CD] August Community Day Classic
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /august-communitydayclassic2024/
+URL:https://leekduck.com/events/august-communitydayclassic2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
+DTSTART:20240818T140000
+DTEND:20240818T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[CD] August Community Day Classic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:august-communityday2024
-DTSTAMP:20240805T002334Z
+DTSTAMP:20240806T002243Z
 SUMMARY:[CD] Popplio Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /august-communityday2024/
