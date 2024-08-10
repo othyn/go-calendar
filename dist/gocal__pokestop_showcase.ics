@@ -10,19 +10,19 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-tyrunt-amaura-2024-08-05
-DTSTAMP:20240807T002234Z
-SUMMARY:[PS] Tyrunt and Amaura PokéStop Showcases
+UID:pokemon-showcase-dark-type-2024-08-10
+DTSTAMP:20240810T002236Z
+SUMMARY:[PS] Dark-type PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-tyrunt-amaura-2024-08-05/
-URL:https://leekduck.com/events/pokemon-showcase-tyrunt-amaura-2024-08-05/
+ /pokemon-showcase-dark-type-2024-08-10/
+URL:https://leekduck.com/events/pokemon-showcase-dark-type-2024-08-10/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
  efault.jpg
-DTSTART;VALUE=DATE:20240805
-DTEND;VALUE=DATE:20240806
+DTSTART;VALUE=DATE:20240810
+DTEND;VALUE=DATE:20240811
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Tyrunt and Amaura PokéStop Showcases
+DESCRIPTION:[PS] Dark-type PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
