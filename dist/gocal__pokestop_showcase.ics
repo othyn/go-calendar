@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-tirtouga-archen-2024-08-12
-DTSTAMP:20240813T002338Z
+DTSTAMP:20240814T002236Z
 SUMMARY:[PS] Tirtouga and Archen PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-tirtouga-archen-2024-08-12/

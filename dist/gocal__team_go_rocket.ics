@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:adventure-week-2024-taken-over
-DTSTAMP:20240813T002338Z
+DTSTAMP:20240814T002236Z
 SUMMARY:[TGR] Adventure Week: Taken Over
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /adventure-week-2024-taken-over/
