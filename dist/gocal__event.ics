@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-world-championships-2024
-DTSTAMP:20240815T002205Z
+DTSTAMP:20240816T002225Z
 SUMMARY:[E] 2024 Pokémon World Championship Celebration
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-world-championships-2024/
@@ -28,8 +28,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-week-shared-skies
-DTSTAMP:20240815T002205Z
-SUMMARY:[E] GO Battle Weekend: Shared Skies
+DTSTAMP:20240816T002225Z
+SUMMARY:[E] GO Battle Week: Shared Skies
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-week-shared-skies/
 URL:https://leekduck.com/events/go-battle-week-shared-skies/
@@ -39,13 +39,13 @@ DTSTART;VALUE=DATE:20240816
 DTEND;VALUE=DATE:20240820
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] GO Battle Weekend: Shared Skies
+DESCRIPTION:[E] GO Battle Week: Shared Skies
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:triumph-together
-DTSTAMP:20240815T002205Z
+DTSTAMP:20240816T002225Z
 SUMMARY:[E] Triumph Together
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /triumph-together/
