@@ -10,20 +10,19 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-tirtouga-archen-2024-08-12
-DTSTAMP:20240814T002236Z
-SUMMARY:[PS] Tirtouga and Archen PokéStop Showcases
+UID:pokemon-showcase-mienfoo-2024-08-05
+DTSTAMP:20240817T002140Z
+SUMMARY:[PS] Mienfoo PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-tirtouga-archen-2024-08-12/
-URL:https://leekduck.com/events/pokemon-showcase-tirtouga-archen-2024-08-12
- /
+ /pokemon-showcase-mienfoo-2024-08-05/
+URL:https://leekduck.com/events/pokemon-showcase-mienfoo-2024-08-05/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
  efault.jpg
-DTSTART;VALUE=DATE:20240812
-DTEND;VALUE=DATE:20240813
+DTSTART;VALUE=DATE:20240817
+DTEND;VALUE=DATE:20240818
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Tirtouga and Archen PokéStop Showcases
+DESCRIPTION:[PS] Mienfoo PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
