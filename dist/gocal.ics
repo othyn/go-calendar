@@ -10,60 +10,8 @@ X-WR-CALDESC:All Pokémon GO events\, in your local time\, auto-updated and
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-world-championship-2024-timed-research-twitch-drops
-DTSTAMP:20240819T002328Z
-SUMMARY:[R] Twitch Drops for 2024 Pokémon World Championships
-DESCRIPTION:Starts at 19:00\, ends at 05:00.\n\nhttps://leekduck.com/events
- /pokemon-world-championship-2024-timed-research-twitch-drops/
-URL:https://leekduck.com/events/pokemon-world-championship-2024-timed-resea
- rch-twitch-drops/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/wcs-2024-twitch-drop
- s.jpg
-DTSTART;VALUE=DATE:20240816
-DTEND;VALUE=DATE:20240818
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[R] Twitch Drops for 2024 Pokémon World Championships
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:august-communitydayclassic2024
-DTSTAMP:20240819T002328Z
-SUMMARY:[CD] Beldum Community Day Classic
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /august-communitydayclassic2024/
-URL:https://leekduck.com/events/august-communitydayclassic2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-2024-08-beldum-cl
- assic-temp.jpg
-DTSTART:20240818T140000
-DTEND:20240818T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[CD] Beldum Community Day Classic
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pokemon-showcase-mienfoo-2024-08-05
-DTSTAMP:20240819T002328Z
-SUMMARY:[PS] Mienfoo PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-mienfoo-2024-08-05/
-URL:https://leekduck.com/events/pokemon-showcase-mienfoo-2024-08-05/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
- efault.jpg
-DTSTART;VALUE=DATE:20240817
-DTEND;VALUE=DATE:20240818
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PS] Mienfoo PokéStop Showcases
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemonspotlighthour2024-08-20
-DTSTAMP:20240819T002328Z
+DTSTAMP:20240820T002238Z
 SUMMARY:[PSH] Mankey Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-08-20/
@@ -80,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-world-championships-2024
-DTSTAMP:20240819T002328Z
+DTSTAMP:20240820T002238Z
 SUMMARY:[E] 2024 Pokémon World Championship Celebration
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-world-championships-2024/
@@ -96,8 +44,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemon-showcase-fighting-type-2024-08-19
+DTSTAMP:20240820T002238Z
+SUMMARY:[PS] Fighting-type PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-fighting-type-2024-08-19/
+URL:https://leekduck.com/events/pokemon-showcase-fighting-type-2024-08-19/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART;VALUE=DATE:20240819
+DTEND;VALUE=DATE:20240820
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PS] Fighting-type PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:go-battle-week-shared-skies
-DTSTAMP:20240819T002328Z
+DTSTAMP:20240820T002238Z
 SUMMARY:[E] GO Battle Week: Shared Skies
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-week-shared-skies/
@@ -114,7 +79,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:thundurus-in-5-star-raid-battles-august-2024
-DTSTAMP:20240819T002328Z
+DTSTAMP:20240820T002238Z
 SUMMARY:[RB] Incarnate Forme Thundurus in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /thundurus-in-5-star-raid-battles-august-2024/
@@ -131,7 +96,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-kangaskhan-in-mega-raids-august-2024
-DTSTAMP:20240819T002328Z
+DTSTAMP:20240820T002238Z
 SUMMARY:[RB] Mega Kangaskhan in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-kangaskhan-in-mega-raids-august-2024/
@@ -147,7 +112,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240821
-DTSTAMP:20240819T002328Z
+DTSTAMP:20240820T002238Z
 SUMMARY:[RH] Xerneas Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240821/
@@ -164,7 +129,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-shared-skies_great-league_ultra-league-master-league_catch-cup-grea
  t-league-edition
-DTSTAMP:20240819T002328Z
+DTSTAMP:20240820T002238Z
 SUMMARY:[GBL] Great League\, Ultra League\, Master League\, and the Catch C
  up: Great League Edition | Shared Skies
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -185,7 +150,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-08-27
-DTSTAMP:20240819T002328Z
+DTSTAMP:20240820T002238Z
 SUMMARY:[PSH] Magnemite Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-08-27/
@@ -202,7 +167,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240828
-DTSTAMP:20240819T002328Z
+DTSTAMP:20240820T002238Z
 SUMMARY:[RH] Xerneas Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240828/
@@ -218,14 +183,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:triumph-together
-DTSTAMP:20240819T002328Z
+DTSTAMP:20240820T002238Z
 SUMMARY:[E] Triumph Together
-DESCRIPTION:Starts at 07:00\, ends at 16:00.\n\nhttps://leekduck.com/events
+DESCRIPTION:Starts at 22:00\, ends at 06:59.\n\nhttps://leekduck.com/events
  /triumph-together/
 URL:https://leekduck.com/events/triumph-together/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
-DTSTART;VALUE=DATE:20240824
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/triumph-together.jpg
+DTSTART;VALUE=DATE:20240823
 DTEND;VALUE=DATE:20240831
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -235,7 +199,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:august-communityday2024
-DTSTAMP:20240819T002328Z
+DTSTAMP:20240820T002238Z
 SUMMARY:[CD] Popplio Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /august-communityday2024/
@@ -252,7 +216,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-suicune-in-shadow-raids-shared-skies
-DTSTAMP:20240819T002328Z
+DTSTAMP:20240820T002238Z
 SUMMARY:[RB] Shadow Suicune in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-suicune-in-shadow-raids-shared-skies/
@@ -270,7 +234,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-15-shared-skies-research-breakthrough
-DTSTAMP:20240819T002328Z
+DTSTAMP:20240820T002238Z
 SUMMARY:[RBT] Shared Skies Research Breakthrough
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-15-shared-skies-research-breakthrough/
@@ -288,7 +252,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-15-shared-skies
-DTSTAMP:20240819T002328Z
+DTSTAMP:20240820T002238Z
 SUMMARY:[S] Shared Skies
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-15-shared-skies/
@@ -305,7 +269,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:xerneas-in-5-star-raid-battles-august-2024
-DTSTAMP:20240819T002328Z
+DTSTAMP:20240820T002238Z
 SUMMARY:[RB] Xerneas in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /xerneas-in-5-star-raid-battles-august-2024/
@@ -321,7 +285,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-salamence-in-mega-raids-august-2024
-DTSTAMP:20240819T002328Z
+DTSTAMP:20240820T002238Z
 SUMMARY:[RB] Mega Salamence in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-salamence-in-mega-raids-august-2024/
@@ -337,7 +301,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-shared-skies_great-league_ultra-league_master-league-split-3
-DTSTAMP:20240819T002328Z
+DTSTAMP:20240820T002238Z
 SUMMARY:[GBL] Great League\, Ultra League\, and Master League | Shared Skie
  s
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -357,7 +321,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-raid-day-september-2024
-DTSTAMP:20240819T002328Z
+DTSTAMP:20240820T002238Z
 SUMMARY:[RD] Unannounced Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-raid-day-september-2024/
@@ -374,7 +338,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:september-communityday2024
-DTSTAMP:20240819T002328Z
+DTSTAMP:20240820T002238Z
 SUMMARY:[CD] September Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /september-communityday2024/
@@ -390,7 +354,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-city-safari-jakarta-2024
-DTSTAMP:20240819T002328Z
+DTSTAMP:20240820T002238Z
 SUMMARY:[CS] Jakarta\, Indonesia - Pokémon GO City Safari
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-city-safari-jakarta-2024/
@@ -407,7 +371,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-research-day-september-2024
-DTSTAMP:20240819T002328Z
+DTSTAMP:20240820T002238Z
 SUMMARY:[R] Unannounced Research Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-research-day-september-2024/
@@ -424,7 +388,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-safari-zone-icheon-south-korea-2024
-DTSTAMP:20240819T002328Z
+DTSTAMP:20240820T002238Z
 SUMMARY:[SZ] Incheon\, South Korea - Pokémon GO Safari Zone
 DESCRIPTION:Starts at 10:30\, ends at 19:30.\n\nhttps://leekduck.com/events
  /pokemon-go-safari-zone-icheon-south-korea-2024/
@@ -442,7 +406,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:october-communityday2024
-DTSTAMP:20240819T002328Z
+DTSTAMP:20240820T002238Z
 SUMMARY:[CD] October Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /october-communityday2024/
@@ -458,7 +422,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-raid-day-october-2024
-DTSTAMP:20240819T002328Z
+DTSTAMP:20240820T002238Z
 SUMMARY:[RD] Unannounced Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-raid-day-october-2024/
@@ -475,7 +439,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-research-day-october-2024
-DTSTAMP:20240819T002328Z
+DTSTAMP:20240820T002238Z
 SUMMARY:[R] Unannounced Research Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-research-day-october-2024/
@@ -492,7 +456,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:november-communityday2024
-DTSTAMP:20240819T002328Z
+DTSTAMP:20240820T002238Z
 SUMMARY:[CD] November Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /november-communityday2024/

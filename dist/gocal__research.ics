@@ -10,26 +10,8 @@ X-WR-CALDESC:All Pokémon GO Research events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-world-championship-2024-timed-research-twitch-drops
-DTSTAMP:20240819T002328Z
-SUMMARY:[R] Twitch Drops for 2024 Pokémon World Championships
-DESCRIPTION:Starts at 19:00\, ends at 05:00.\n\nhttps://leekduck.com/events
- /pokemon-world-championship-2024-timed-research-twitch-drops/
-URL:https://leekduck.com/events/pokemon-world-championship-2024-timed-resea
- rch-twitch-drops/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/wcs-2024-twitch-drop
- s.jpg
-DTSTART;VALUE=DATE:20240816
-DTEND;VALUE=DATE:20240818
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[R] Twitch Drops for 2024 Pokémon World Championships
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:unannounced-research-day-september-2024
-DTSTAMP:20240819T002328Z
+DTSTAMP:20240820T002238Z
 SUMMARY:[R] Unannounced Research Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-research-day-september-2024/
@@ -46,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-research-day-october-2024
-DTSTAMP:20240819T002328Z
+DTSTAMP:20240820T002238Z
 SUMMARY:[R] Unannounced Research Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-research-day-october-2024/
