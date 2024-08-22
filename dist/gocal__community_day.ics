@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:august-communityday2024
-DTSTAMP:20240821T002321Z
+DTSTAMP:20240822T002238Z
 SUMMARY:[CD] Popplio Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /august-communityday2024/
@@ -28,13 +28,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:september-communityday2024
-DTSTAMP:20240821T002321Z
+DTSTAMP:20240822T002238Z
 SUMMARY:[CD] Ponyta Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /september-communityday2024/
 URL:https://leekduck.com/events/september-communityday2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-2024-09-ponyta-te
- mp.jpg
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-2024-09-ponyta.jp
+ g
 DTSTART:20240914T140000
 DTEND:20240914T170000
 BEGIN:VALARM
@@ -45,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:october-communityday2024
-DTSTAMP:20240821T002321Z
+DTSTAMP:20240822T002238Z
 SUMMARY:[CD] October Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /october-communityday2024/
@@ -61,7 +61,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:november-communityday2024
-DTSTAMP:20240821T002321Z
+DTSTAMP:20240822T002238Z
 SUMMARY:[CD] November Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /november-communityday2024/

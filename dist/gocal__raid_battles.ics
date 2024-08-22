@@ -10,41 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Battles events\, in your local time\, aut
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:thundurus-in-5-star-raid-battles-august-2024
-DTSTAMP:20240821T002321Z
-SUMMARY:[RB] Incarnate Forme Thundurus in 5-star Raid Battles
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /thundurus-in-5-star-raid-battles-august-2024/
-URL:https://leekduck.com/events/thundurus-in-5-star-raid-battles-august-202
- 4/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/thundurus.jpg
-DTSTART;VALUE=DATE:20240812
-DTEND;VALUE=DATE:20240821
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Incarnate Forme Thundurus in 5-star Raid Battles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:mega-kangaskhan-in-mega-raids-august-2024
-DTSTAMP:20240821T002321Z
-SUMMARY:[RB] Mega Kangaskhan in Mega Raids
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /mega-kangaskhan-in-mega-raids-august-2024/
-URL:https://leekduck.com/events/mega-kangaskhan-in-mega-raids-august-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;VALUE=DATE:20240812
-DTEND;VALUE=DATE:20240821
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Mega Kangaskhan in Mega Raids
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:shadow-suicune-in-shadow-raids-shared-skies
-DTSTAMP:20240821T002321Z
+DTSTAMP:20240822T002238Z
 SUMMARY:[RB] Shadow Suicune in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-suicune-in-shadow-raids-shared-skies/
@@ -62,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:xerneas-in-5-star-raid-battles-august-2024
-DTSTAMP:20240821T002321Z
+DTSTAMP:20240822T002238Z
 SUMMARY:[RB] Xerneas in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /xerneas-in-5-star-raid-battles-august-2024/
@@ -78,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-salamence-in-mega-raids-august-2024
-DTSTAMP:20240821T002321Z
+DTSTAMP:20240822T002238Z
 SUMMARY:[RB] Mega Salamence in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-salamence-in-mega-raids-august-2024/

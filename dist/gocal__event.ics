@@ -10,42 +10,8 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-world-championships-2024
-DTSTAMP:20240821T002321Z
-SUMMARY:[E] 2024 Pokémon World Championship Celebration
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-world-championships-2024/
-URL:https://leekduck.com/events/pokemon-world-championships-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemon-go-world-cha
- mpionship-2024.jpg
-DTSTART;VALUE=DATE:20240816
-DTEND;VALUE=DATE:20240820
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] 2024 Pokémon World Championship Celebration
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:go-battle-week-shared-skies
-DTSTAMP:20240821T002321Z
-SUMMARY:[E] GO Battle Week: Shared Skies
-DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
- /go-battle-week-shared-skies/
-URL:https://leekduck.com/events/go-battle-week-shared-skies/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-sea
- son-19-shared-skies.jpg
-DTSTART;VALUE=DATE:20240816
-DTEND;VALUE=DATE:20240820
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] GO Battle Week: Shared Skies
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:triumph-together
-DTSTAMP:20240821T002321Z
+DTSTAMP:20240822T002238Z
 SUMMARY:[E] Triumph Together
 DESCRIPTION:Starts at 22:00\, ends at 06:59.\n\nhttps://leekduck.com/events
  /triumph-together/
