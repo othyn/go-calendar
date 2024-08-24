@@ -12,7 +12,7 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:gbl-shared-skies_great-league_ultra-league-master-league_catch-cup-grea
  t-league-edition
-DTSTAMP:20240823T002232Z
+DTSTAMP:20240824T002155Z
 SUMMARY:[GBL] Great League\, Ultra League\, Master League\, and the Catch C
  up: Great League Edition | Shared Skies
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -33,7 +33,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-shared-skies_great-league_ultra-league_master-league-split-3
-DTSTAMP:20240823T002232Z
+DTSTAMP:20240824T002155Z
 SUMMARY:[GBL] Great League\, Ultra League\, and Master League | Shared Skie
  s
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
