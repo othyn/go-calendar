@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:triumph-together
-DTSTAMP:20240827T002307Z
+DTSTAMP:20240828T002254Z
 SUMMARY:[E] Triumph Together
 DESCRIPTION:Starts at 22:00\, ends at 06:59.\n\nhttps://leekduck.com/events
  /triumph-together/
@@ -22,6 +22,38 @@ DTEND;VALUE=DATE:20240831
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[E] Triumph Together
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-all-out
+DTSTAMP:20240828T002254Z
+SUMMARY:[E] GO All Out
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /go-all-out/
+URL:https://leekduck.com/events/go-all-out/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-all-out-galar.jpg
+DTSTART;VALUE=DATE:20240903
+DTEND;VALUE=DATE:20240910
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] GO All Out
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-big-dynamax
+DTSTAMP:20240828T002254Z
+SUMMARY:[E] GO Big
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /go-big-dynamax/
+URL:https://leekduck.com/events/go-big-dynamax/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-big-event.jpg
+DTSTART;VALUE=DATE:20240910
+DTEND;VALUE=DATE:20240915
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] GO Big
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

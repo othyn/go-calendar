@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-electric-type-2024-08-26
-DTSTAMP:20240827T002307Z
+DTSTAMP:20240828T002254Z
 SUMMARY:[PS] Electric-type PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-electric-type-2024-08-26/
@@ -23,6 +23,23 @@ DTEND;VALUE=DATE:20240827
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[PS] Electric-type PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-ice-type-2024-08-28
+DTSTAMP:20240828T002254Z
+SUMMARY:[PS] Ice-type PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-ice-type-2024-08-28/
+URL:https://leekduck.com/events/pokemon-showcase-ice-type-2024-08-28/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART;VALUE=DATE:20240828
+DTEND;VALUE=DATE:20240829
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PS] Ice-type PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
