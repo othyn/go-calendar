@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-electric-type-2024-08-26
-DTSTAMP:20240828T002254Z
-SUMMARY:[PS] Electric-type PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-electric-type-2024-08-26/
-URL:https://leekduck.com/events/pokemon-showcase-electric-type-2024-08-26/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
- efault.jpg
-DTSTART;VALUE=DATE:20240826
-DTEND;VALUE=DATE:20240827
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PS] Electric-type PokéStop Showcases
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-showcase-ice-type-2024-08-28
-DTSTAMP:20240828T002254Z
+DTSTAMP:20240829T002322Z
 SUMMARY:[PS] Ice-type PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-ice-type-2024-08-28/

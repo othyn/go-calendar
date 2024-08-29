@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:season-15-shared-skies
-DTSTAMP:20240828T002254Z
+DTSTAMP:20240829T002322Z
 SUMMARY:[S] Shared Skies
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-15-shared-skies/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-16-max-out
-DTSTAMP:20240828T002254Z
+DTSTAMP:20240829T002322Z
 SUMMARY:[S] Max Out
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-16-max-out/

@@ -10,25 +10,26 @@ X-WR-CALDESC:All Pokémon GO Research events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:unannounced-research-day-september-2024
-DTSTAMP:20240828T002254Z
-SUMMARY:[R] Unannounced Research Day
+UID:oranguru-and-passimian-research-day-september-2024
+DTSTAMP:20240829T002322Z
+SUMMARY:[R] Oranguru and Passimian Research Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /unannounced-research-day-september-2024/
-URL:https://leekduck.com/events/unannounced-research-day-september-2024/
+ /oranguru-and-passimian-research-day-september-2024/
+URL:https://leekduck.com/events/oranguru-and-passimian-research-day-septemb
+ er-2024/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
  pg
 DTSTART:20240922T140000
 DTEND:20240922T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[R] Unannounced Research Day
+DESCRIPTION:[R] Oranguru and Passimian Research Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-research-day-october-2024
-DTSTAMP:20240828T002254Z
+DTSTAMP:20240829T002322Z
 SUMMARY:[R] Unannounced Research Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-research-day-october-2024/
