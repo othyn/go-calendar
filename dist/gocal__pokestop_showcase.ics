@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-ice-type-2024-08-28
-DTSTAMP:20240829T002322Z
+DTSTAMP:20240830T002336Z
 SUMMARY:[PS] Ice-type PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-ice-type-2024-08-28/
