@@ -10,19 +10,20 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-ice-type-2024-08-28
-DTSTAMP:20240830T002336Z
-SUMMARY:[PS] Ice-type PokéStop Showcases
+UID:pokemon-showcase-popplio-primarina-2024-08-31
+DTSTAMP:20240831T002326Z
+SUMMARY:[PS] Popplio and Primarina PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-ice-type-2024-08-28/
-URL:https://leekduck.com/events/pokemon-showcase-ice-type-2024-08-28/
+ /pokemon-showcase-popplio-primarina-2024-08-31/
+URL:https://leekduck.com/events/pokemon-showcase-popplio-primarina-2024-08-
+ 31/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
  efault.jpg
-DTSTART;VALUE=DATE:20240828
-DTEND;VALUE=DATE:20240829
+DTSTART;VALUE=DATE:20240831
+DTEND;VALUE=DATE:20240901
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Ice-type PokéStop Showcases
+DESCRIPTION:[PS] Popplio and Primarina PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
