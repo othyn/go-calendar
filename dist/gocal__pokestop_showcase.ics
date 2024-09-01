@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-popplio-primarina-2024-08-31
-DTSTAMP:20240831T002326Z
+DTSTAMP:20240901T002841Z
 SUMMARY:[PS] Popplio and Primarina PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-popplio-primarina-2024-08-31/
