@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:xerneas-in-5-star-raid-battles-august-2024
-DTSTAMP:20240903T002330Z
+DTSTAMP:20240904T002349Z
 SUMMARY:[RB] Xerneas in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /xerneas-in-5-star-raid-battles-august-2024/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-salamence-in-mega-raids-august-2024
-DTSTAMP:20240903T002330Z
+DTSTAMP:20240904T002349Z
 SUMMARY:[RB] Mega Salamence in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-salamence-in-mega-raids-august-2024/
@@ -43,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-absol-in-mega-raids-september-2024
-DTSTAMP:20240903T002330Z
+DTSTAMP:20240904T002349Z
 SUMMARY:[RB] Mega Absol in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-absol-in-mega-raids-september-2024/
@@ -59,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:kyogre-in-5-star-raid-battles-september-2024
-DTSTAMP:20240903T002330Z
+DTSTAMP:20240904T002349Z
 SUMMARY:[RB] Kyogre in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /kyogre-in-5-star-raid-battles-september-2024/
@@ -76,7 +76,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-houndoom-in-mega-raids-september-2024
-DTSTAMP:20240903T002330Z
+DTSTAMP:20240904T002349Z
 SUMMARY:[RB] Mega Houndoom in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-houndoom-in-mega-raids-september-2024/
@@ -92,7 +92,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:groudon-in-5-star-raid-battles-september-2024
-DTSTAMP:20240903T002330Z
+DTSTAMP:20240904T002349Z
 SUMMARY:[RB] Groudon in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /groudon-in-5-star-raid-battles-september-2024/
@@ -109,7 +109,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-raikou-in-shadow-raids-max-out
-DTSTAMP:20240903T002330Z
+DTSTAMP:20240904T002349Z
 SUMMARY:[RB] Shadow Raikou in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-raikou-in-shadow-raids-max-out/
@@ -126,7 +126,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:zacian-in-5-star-raid-battles-september-2024
-DTSTAMP:20240903T002330Z
+DTSTAMP:20240904T002349Z
 SUMMARY:[RB] Zacian in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /zacian-in-5-star-raid-battles-september-2024/
@@ -144,7 +144,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-gardevoir-in-mega-raids-september-2024
-DTSTAMP:20240903T002330Z
+DTSTAMP:20240904T002349Z
 SUMMARY:[RB] Mega Gardevoir in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-gardevoir-in-mega-raids-september-2024/

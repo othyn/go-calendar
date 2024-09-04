@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:september-communityday2024
-DTSTAMP:20240903T002330Z
+DTSTAMP:20240904T002349Z
 SUMMARY:[CD] Ponyta Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /september-communityday2024/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:october-communityday2024
-DTSTAMP:20240903T002330Z
+DTSTAMP:20240904T002349Z
 SUMMARY:[CD] October Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /october-communityday2024/
@@ -44,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:november-communityday2024
-DTSTAMP:20240903T002330Z
+DTSTAMP:20240904T002349Z
 SUMMARY:[CD] November Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /november-communityday2024/
