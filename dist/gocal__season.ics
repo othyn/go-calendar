@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Season events\, in your local time\, auto-upda
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:season-15-shared-skies
-DTSTAMP:20240904T002349Z
-SUMMARY:[S] Shared Skies
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /season-15-shared-skies/
-URL:https://leekduck.com/events/season-15-shared-skies/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/season-15-shared-ski
- es.jpg
-DTSTART;VALUE=DATE:20240601
-DTEND;VALUE=DATE:20240903
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[S] Shared Skies
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:season-16-max-out
-DTSTAMP:20240904T002349Z
+DTSTAMP:20240905T002341Z
 SUMMARY:[S] Max Out
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-16-max-out/

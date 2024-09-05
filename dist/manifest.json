@@ -39,10 +39,6 @@
         "name": "Research",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__research.ics"
     },
-    "research_breakthrough": {
-        "name": "Research Breakthrough",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__research_breakthrough.ics"
-    },
     "safari_zone": {
         "name": "Safari Zone",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__safari_zone.ics"
