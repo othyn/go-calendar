@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:go-all-out
-DTSTAMP:20240905T002341Z
+DTSTAMP:20240906T002344Z
 SUMMARY:[E] GO All Out
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /go-all-out/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-big-dynamax
-DTSTAMP:20240905T002341Z
+DTSTAMP:20240906T002344Z
 SUMMARY:[E] GO Big
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /go-big-dynamax/
@@ -43,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:psychic-spectacular-2024
-DTSTAMP:20240905T002341Z
+DTSTAMP:20240906T002344Z
 SUMMARY:[E] Psychic Spectacular 2024
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /psychic-spectacular-2024/
@@ -60,7 +60,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:legendary-heroes
-DTSTAMP:20240905T002341Z
+DTSTAMP:20240906T002344Z
 SUMMARY:[E] Legendary Heroes
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /legendary-heroes/
