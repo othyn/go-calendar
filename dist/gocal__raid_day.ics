@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:falinks-raid-day-september-2024
-DTSTAMP:20240906T002344Z
+DTSTAMP:20240907T002307Z
 SUMMARY:[RD] Falinks Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /falinks-raid-day-september-2024/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-raid-day-october-2024
-DTSTAMP:20240906T002344Z
+DTSTAMP:20240907T002307Z
 SUMMARY:[RD] Unannounced Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-raid-day-october-2024/
