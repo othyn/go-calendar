@@ -10,20 +10,20 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-popplio-primarina-2024-08-31
-DTSTAMP:20240902T002438Z
-SUMMARY:[PS] Popplio and Primarina PokéStop Showcases
+UID:pokemon-showcase-grookey-scorbunny-sobble-2024-09-07
+DTSTAMP:20240908T002643Z
+SUMMARY:[PS] Grookey\, Scorbunny\, and Sobble PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-popplio-primarina-2024-08-31/
-URL:https://leekduck.com/events/pokemon-showcase-popplio-primarina-2024-08-
- 31/
+ /pokemon-showcase-grookey-scorbunny-sobble-2024-09-07/
+URL:https://leekduck.com/events/pokemon-showcase-grookey-scorbunny-sobble-2
+ 024-09-07/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
  efault.jpg
-DTSTART;VALUE=DATE:20240831
-DTEND;VALUE=DATE:20240901
+DTSTART;VALUE=DATE:20240907
+DTEND;VALUE=DATE:20240908
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Popplio and Primarina PokéStop Showcases
+DESCRIPTION:[PS] Grookey\, Scorbunny\, and Sobble PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
