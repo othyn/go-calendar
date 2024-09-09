@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-grookey-scorbunny-sobble-2024-09-07
-DTSTAMP:20240908T002643Z
+DTSTAMP:20240909T002532Z
 SUMMARY:[PS] Grookey\, Scorbunny\, and Sobble PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-grookey-scorbunny-sobble-2024-09-07/
@@ -24,6 +24,24 @@ DTEND;VALUE=DATE:20240908
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[PS] Grookey\, Scorbunny\, and Sobble PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-skwovet-wooloo-2024-09-09-copy
+DTSTAMP:20240909T002532Z
+SUMMARY:[PS] Skwovet and Wooloo PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-skwovet-wooloo-2024-09-09-copy/
+URL:https://leekduck.com/events/pokemon-showcase-skwovet-wooloo-2024-09-09-
+ copy/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART;VALUE=DATE:20240909
+DTEND;VALUE=DATE:20240911
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PS] Skwovet and Wooloo PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
