@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-skwovet-wooloo-2024-09-09-copy
-DTSTAMP:20240910T002417Z
+DTSTAMP:20240911T002335Z
 SUMMARY:[PS] Skwovet and Wooloo PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-skwovet-wooloo-2024-09-09-copy/
