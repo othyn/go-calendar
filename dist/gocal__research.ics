@@ -11,14 +11,14 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:oranguru-and-passimian-research-day-september-2024
-DTSTAMP:20240911T002335Z
+DTSTAMP:20240912T002404Z
 SUMMARY:[R] Oranguru and Passimian Research Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /oranguru-and-passimian-research-day-september-2024/
 URL:https://leekduck.com/events/oranguru-and-passimian-research-day-septemb
  er-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/oranguru-passimian-r
+ esearch-day.jpg
 DTSTART:20240922T140000
 DTEND:20240922T170000
 BEGIN:VALARM
@@ -29,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-research-day-october-2024
-DTSTAMP:20240911T002335Z
+DTSTAMP:20240912T002404Z
 SUMMARY:[R] Unannounced Research Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-research-day-october-2024/

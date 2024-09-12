@@ -10,26 +10,8 @@ X-WR-CALDESC:All Pokémon GO GO Battle League events\, in your local time\,
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:gbl-max-out_great-league_galar-cup-little-edition
-DTSTAMP:20240911T002335Z
-SUMMARY:[GBL] Great League and Galar Cup: Little Edition | Max Out
-DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /gbl-max-out_great-league_galar-cup-little-edition/
-URL:https://leekduck.com/events/gbl-max-out_great-league_galar-cup-little-e
- dition/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattle-greatleague
- -key.jpg
-DTSTART;VALUE=DATE:20240903
-DTEND;VALUE=DATE:20240910
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[GBL] Great League and Galar Cup: Little Edition | Max Out
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:gbl-max-out_ultra-league_galar-cup-little-edition
-DTSTAMP:20240911T002335Z
+DTSTAMP:20240912T002404Z
 SUMMARY:[GBL] Ultra League and Galar Cup: Little Edition | Max Out
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-max-out_ultra-league_galar-cup-little-edition/
@@ -47,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-max-out_master-league_psychic-cup-great-league-edition
-DTSTAMP:20240911T002335Z
+DTSTAMP:20240912T002404Z
 SUMMARY:[GBL] Master League and Psychic Cup: Great League Edition | Max Out
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-max-out_master-league_psychic-cup-great-league-edition/
