@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-ponyta-2024-09-14
-DTSTAMP:20240915T002809Z
+DTSTAMP:20240916T002543Z
 SUMMARY:[PS] Ponyta PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-ponyta-2024-09-14/
@@ -23,6 +23,23 @@ DTEND;VALUE=DATE:20240915
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[PS] Ponyta PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-normal-type-2024-09-16
+DTSTAMP:20240916T002543Z
+SUMMARY:[PS] Normal-type PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-normal-type-2024-09-16/
+URL:https://leekduck.com/events/pokemon-showcase-normal-type-2024-09-16/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART;VALUE=DATE:20240916
+DTEND;VALUE=DATE:20240918
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PS] Normal-type PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

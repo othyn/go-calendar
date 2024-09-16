@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Community Day events\, in your local time\, au
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:september-communityday2024
-DTSTAMP:20240915T002809Z
-SUMMARY:[CD] Ponyta Community Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /september-communityday2024/
-URL:https://leekduck.com/events/september-communityday2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-2024-09-ponyta.jp
- g
-DTSTART:20240914T140000
-DTEND:20240914T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[CD] Ponyta Community Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:october-communityday2024
-DTSTAMP:20240915T002809Z
+DTSTAMP:20240916T002543Z
 SUMMARY:[CD] October Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /october-communityday2024/
@@ -44,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:november-communityday2024
-DTSTAMP:20240915T002809Z
+DTSTAMP:20240916T002543Z
 SUMMARY:[CD] November Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /november-communityday2024/
