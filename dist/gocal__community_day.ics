@@ -11,23 +11,24 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:october-communityday2024
-DTSTAMP:20240917T002032Z
-SUMMARY:[CD] October Community Day
+DTSTAMP:20240918T002413Z
+SUMMARY:[CD] Sewaddle Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /october-communityday2024/
 URL:https://leekduck.com/events/october-communityday2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-2024-10-sewaddle-
+ temp.jpg
 DTSTART:20241005T140000
 DTEND:20241005T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[CD] October Community Day
+DESCRIPTION:[CD] Sewaddle Community Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:november-communityday2024
-DTSTAMP:20240917T002032Z
+DTSTAMP:20240918T002413Z
 SUMMARY:[CD] November Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /november-communityday2024/
