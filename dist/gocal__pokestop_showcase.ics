@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-normal-type-2024-09-16
-DTSTAMP:20240918T002413Z
+DTSTAMP:20240919T002416Z
 SUMMARY:[PS] Normal-type PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-normal-type-2024-09-16/
