@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:psychic-spectacular-2024
-DTSTAMP:20240920T002429Z
+DTSTAMP:20240921T002402Z
 SUMMARY:[E] Psychic Spectacular 2024
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /psychic-spectacular-2024/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:legendary-heroes
-DTSTAMP:20240920T002429Z
+DTSTAMP:20240921T002402Z
 SUMMARY:[E] Legendary Heroes
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /legendary-heroes/
@@ -45,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:galarian-expedition
-DTSTAMP:20240920T002429Z
+DTSTAMP:20240921T002402Z
 SUMMARY:[E] Galarian Expedition
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /galarian-expedition/

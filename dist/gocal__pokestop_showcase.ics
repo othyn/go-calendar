@@ -10,19 +10,20 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-normal-type-2024-09-16
-DTSTAMP:20240919T002416Z
-SUMMARY:[PS] Normal-type PokéStop Showcases
+UID:pokemon-showcase-oranguru-passimian-2024-09-21
+DTSTAMP:20240921T002402Z
+SUMMARY:[PS] Oranguru and Passimian PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-normal-type-2024-09-16/
-URL:https://leekduck.com/events/pokemon-showcase-normal-type-2024-09-16/
+ /pokemon-showcase-oranguru-passimian-2024-09-21/
+URL:https://leekduck.com/events/pokemon-showcase-oranguru-passimian-2024-09
+ -21/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
  efault.jpg
-DTSTART;VALUE=DATE:20240916
-DTEND;VALUE=DATE:20240918
+DTSTART;VALUE=DATE:20240921
+DTEND;VALUE=DATE:20240922
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Normal-type PokéStop Showcases
+DESCRIPTION:[PS] Oranguru and Passimian PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
