@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-oranguru-passimian-2024-09-21
-DTSTAMP:20240922T002732Z
+DTSTAMP:20240923T002530Z
 SUMMARY:[PS] Oranguru and Passimian PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-oranguru-passimian-2024-09-21/
@@ -24,6 +24,24 @@ DTEND;VALUE=DATE:20240922
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[PS] Oranguru and Passimian PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-morelull-hatenna-2024-09-23
+DTSTAMP:20240923T002530Z
+SUMMARY:[PS] Morelull and Hatenna PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-morelull-hatenna-2024-09-23/
+URL:https://leekduck.com/events/pokemon-showcase-morelull-hatenna-2024-09-2
+ 3/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART;VALUE=DATE:20240922
+DTEND;VALUE=DATE:20240924
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PS] Morelull and Hatenna PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
