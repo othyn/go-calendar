@@ -1,8 +1,4 @@
 {
-    "city_safari": {
-        "name": "City Safari",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__city_safari.ics"
-    },
     "community_day": {
         "name": "Community Day",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__community_day.ics"
@@ -18,6 +14,10 @@
     "go_battle_league": {
         "name": "GO Battle League",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__go_battle_league.ics"
+    },
+    "max_battles": {
+        "name": "Max Battles",
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__max_battles.ics"
     },
     "pokemon_spotlight_hour": {
         "name": "Pokémon Spotlight Hour",

@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:psychic-spectacular-2024
-DTSTAMP:20240923T002530Z
-SUMMARY:[E] Psychic Spectacular 2024
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /psychic-spectacular-2024/
-URL:https://leekduck.com/events/psychic-spectacular-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/psychic-spectacular-
- 2024.jpg
-DTSTART;VALUE=DATE:20240918
-DTEND;VALUE=DATE:20240922
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Psychic Spectacular 2024
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:legendary-heroes
-DTSTAMP:20240923T002530Z
+DTSTAMP:20240924T002516Z
 SUMMARY:[E] Legendary Heroes
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /legendary-heroes/
@@ -45,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:galarian-expedition
-DTSTAMP:20240923T002530Z
+DTSTAMP:20240924T002516Z
 SUMMARY:[E] Galarian Expedition
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /galarian-expedition/

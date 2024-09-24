@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:spatie/icalendar-generator
+NAME:GO Calendar - Max Battles (MB)
+X-WR-CALNAME:GO Calendar - Max Battles (MB)
+DESCRIPTION:All Pokémon GO Max Battles events\, in your local time\, auto-
+ updated and sourced from Leek Duck.
+X-WR-CALDESC:All Pokémon GO Max Battles events\, in your local time\, auto
+ -updated and sourced from Leek Duck.
+REFRESH-INTERVAL;VALUE=DURATION:PT1440M
+X-PUBLISHED-TTL:PT1440M
+BEGIN:VEVENT
+UID:october-max-battles-2024
+DTSTAMP:20240924T002516Z
+SUMMARY:[MB] October Max Battles
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /october-max-battles-2024/
+URL:https://leekduck.com/events/october-max-battles-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/max-battles-2024-10-
+ october.jpg
+DTSTART;VALUE=DATE:20241001
+DTEND;VALUE=DATE:20241031
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MB] October Max Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
