@@ -11,8 +11,8 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:unannounced-raid-day-october-2024
-DTSTAMP:20240924T002516Z
-SUMMARY:[RD] Unannounced Raid Day
+DTSTAMP:20240925T002512Z
+SUMMARY:[RD] Mega Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /unannounced-raid-day-october-2024/
 URL:https://leekduck.com/events/unannounced-raid-day-october-2024/
@@ -22,7 +22,7 @@ DTSTART:20241012T140000
 DTEND:20241012T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RD] Unannounced Raid Day
+DESCRIPTION:[RD] Mega Raid Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

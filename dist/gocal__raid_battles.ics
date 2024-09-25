@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:mega-houndoom-in-mega-raids-september-2024
-DTSTAMP:20240924T002516Z
+DTSTAMP:20240925T002512Z
 SUMMARY:[RB] Mega Houndoom in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-houndoom-in-mega-raids-september-2024/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:groudon-in-5-star-raid-battles-september-2024
-DTSTAMP:20240924T002516Z
+DTSTAMP:20240925T002512Z
 SUMMARY:[RB] Groudon in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /groudon-in-5-star-raid-battles-september-2024/
@@ -44,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-raikou-in-shadow-raids-max-out
-DTSTAMP:20240924T002516Z
+DTSTAMP:20240925T002512Z
 SUMMARY:[RB] Shadow Raikou in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-raikou-in-shadow-raids-max-out/
@@ -61,7 +61,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:zacian-in-5-star-raid-battles-september-2024
-DTSTAMP:20240924T002516Z
+DTSTAMP:20240925T002512Z
 SUMMARY:[RB] Zacian in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /zacian-in-5-star-raid-battles-september-2024/
@@ -79,7 +79,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-gardevoir-in-mega-raids-september-2024
-DTSTAMP:20240924T002516Z
+DTSTAMP:20240925T002512Z
 SUMMARY:[RB] Mega Gardevoir in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-gardevoir-in-mega-raids-september-2024/
@@ -91,6 +91,124 @@ DTEND;VALUE=DATE:20241004
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RB] Mega Gardevoir in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:zamazenta-in-5-star-raid-battles-october-2024
+DTSTAMP:20240925T002512Z
+SUMMARY:[RB] Zamazenta in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /zamazenta-in-5-star-raid-battles-october-2024/
+URL:https://leekduck.com/events/zamazenta-in-5-star-raid-battles-october-20
+ 24/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/zacian-and-zamazenta
+ .jpg
+DTSTART;VALUE=DATE:20241004
+DTEND;VALUE=DATE:20241014
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Zamazenta in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-blaziken-in-mega-raids-october-2024
+DTSTAMP:20240925T002512Z
+SUMMARY:[RB] Mega Blaziken in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-blaziken-in-mega-raids-october-2024/
+URL:https://leekduck.com/events/mega-blaziken-in-mega-raids-october-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20241004
+DTEND;VALUE=DATE:20241014
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Mega Blaziken in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shadow-entei-in-shadow-raids-max-out
+DTSTAMP:20240925T002512Z
+SUMMARY:[RB] Shadow Entei in Shadow Raids
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /shadow-entei-in-shadow-raids-max-out/
+URL:https://leekduck.com/events/shadow-entei-in-shadow-raids-max-out/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART;VALUE=DATE:20241005
+DTEND;VALUE=DATE:20241027
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Shadow Entei in Shadow Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:origin-forme-giratina-in-5-star-raid-battles-october-2024
+DTSTAMP:20240925T002512Z
+SUMMARY:[RB] Origin Forme Giratina in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /origin-forme-giratina-in-5-star-raid-battles-october-2024/
+URL:https://leekduck.com/events/origin-forme-giratina-in-5-star-raid-battle
+ s-october-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/giratinaoriginforme.
+ jpg
+DTSTART;VALUE=DATE:20241014
+DTEND;VALUE=DATE:20241028
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Origin Forme Giratina in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-sableye-in-mega-raids-october-2024
+DTSTAMP:20240925T002512Z
+SUMMARY:[RB] Mega Sableye in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-sableye-in-mega-raids-october-2024/
+URL:https://leekduck.com/events/mega-sableye-in-mega-raids-october-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20241014
+DTEND;VALUE=DATE:20241028
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Mega Sableye in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:darkrai-in-5-star-raid-battles-october-2024
+DTSTAMP:20240925T002512Z
+SUMMARY:[RB] Darkrai in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /darkrai-in-5-star-raid-battles-october-2024/
+URL:https://leekduck.com/events/darkrai-in-5-star-raid-battles-october-2024
+ /
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/darkrai.jpg
+DTSTART;VALUE=DATE:20241028
+DTEND;VALUE=DATE:20241104
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Darkrai in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-banette-in-mega-raids-october-2024
+DTSTAMP:20240925T002512Z
+SUMMARY:[RB] Mega Banette in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-banette-in-mega-raids-october-2024/
+URL:https://leekduck.com/events/mega-banette-in-mega-raids-october-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20241028
+DTEND;VALUE=DATE:20241104
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Mega Banette in Mega Raids
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

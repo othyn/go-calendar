@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:raidhour20240925
-DTSTAMP:20240924T002516Z
+DTSTAMP:20240925T002512Z
 SUMMARY:[RH] Groudon Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240925/
@@ -22,6 +22,86 @@ DTEND:20240925T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RH] Groudon Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20241002
+DTSTAMP:20240925T002512Z
+SUMMARY:[RH] Zacian Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20241002/
+URL:https://leekduck.com/events/raidhour20241002/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20241002T180000
+DTEND:20241002T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Zacian Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20241009
+DTSTAMP:20240925T002512Z
+SUMMARY:[RH] Zamazenta Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20241009/
+URL:https://leekduck.com/events/raidhour20241009/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20241009T180000
+DTEND:20241009T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Zamazenta Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20241016
+DTSTAMP:20240925T002512Z
+SUMMARY:[RH] Origin Forme Giratina Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20241016/
+URL:https://leekduck.com/events/raidhour20241016/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20241016T180000
+DTEND:20241016T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Origin Forme Giratina Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20241023
+DTSTAMP:20240925T002512Z
+SUMMARY:[RH] Origin Forme Giratina Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20241023/
+URL:https://leekduck.com/events/raidhour20241023/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20241023T180000
+DTEND:20241023T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Origin Forme Giratina Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20241030
+DTSTAMP:20240925T002512Z
+SUMMARY:[RH] Darkrai Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20241030/
+URL:https://leekduck.com/events/raidhour20241030/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20241030T180000
+DTEND:20241030T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Darkrai Raid Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

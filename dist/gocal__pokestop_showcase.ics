@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-morelull-hatenna-2024-09-23
-DTSTAMP:20240924T002516Z
+DTSTAMP:20240925T002512Z
 SUMMARY:[PS] Morelull and Hatenna PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-morelull-hatenna-2024-09-23/
