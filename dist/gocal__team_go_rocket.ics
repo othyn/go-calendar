@@ -10,19 +10,19 @@ X-WR-CALDESC:All Pokémon GO Team GO Rocket events\, in your local time\, a
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:adventure-week-2024-taken-over
-DTSTAMP:20240814T002236Z
-SUMMARY:[TGR] Adventure Week: Taken Over
-DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
- /adventure-week-2024-taken-over/
-URL:https://leekduck.com/events/adventure-week-2024-taken-over/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/team-go-rocket-giova
- nni-shadow-cresselia.jpg
-DTSTART;VALUE=DATE:20240808
-DTEND;VALUE=DATE:20240812
+UID:galarian-expedition-taken-over
+DTSTAMP:20240926T002437Z
+SUMMARY:[TGR] Galarian Expedition: Taken Over
+DESCRIPTION:Starts at 00:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /galarian-expedition-taken-over/
+URL:https://leekduck.com/events/galarian-expedition-taken-over/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/galarian-expedition-
+ taken-over.jpg
+DTSTART;VALUE=DATE:20241008
+DTEND;VALUE=DATE:20241011
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[TGR] Adventure Week: Taken Over
+DESCRIPTION:[TGR] Galarian Expedition: Taken Over
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

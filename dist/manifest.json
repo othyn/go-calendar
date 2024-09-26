@@ -51,6 +51,10 @@
         "name": "Season",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__season.ics"
     },
+    "team_go_rocket": {
+        "name": "Team GO Rocket",
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__team_go_rocket.ics"
+    },
     "ticketed_event": {
         "name": "Ticketed Event",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__ticketed_event.ics"
