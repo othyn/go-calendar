@@ -10,20 +10,19 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-morelull-hatenna-2024-09-23
-DTSTAMP:20240926T002437Z
-SUMMARY:[PS] Morelull and Hatenna PokéStop Showcases
+UID:pokemon-showcase-zacian-2024-09-28
+DTSTAMP:20240928T002451Z
+SUMMARY:[PS] Zacian PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-morelull-hatenna-2024-09-23/
-URL:https://leekduck.com/events/pokemon-showcase-morelull-hatenna-2024-09-2
- 3/
+ /pokemon-showcase-zacian-2024-09-28/
+URL:https://leekduck.com/events/pokemon-showcase-zacian-2024-09-28/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
  efault.jpg
-DTSTART;VALUE=DATE:20240923
-DTEND;VALUE=DATE:20240925
+DTSTART;VALUE=DATE:20240928
+DTEND;VALUE=DATE:20240929
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Morelull and Hatenna PokéStop Showcases
+DESCRIPTION:[PS] Zacian PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
