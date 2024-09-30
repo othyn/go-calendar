@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-zacian-2024-09-28
-DTSTAMP:20240929T002826Z
+DTSTAMP:20240930T002633Z
 SUMMARY:[PS] Zacian PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-zacian-2024-09-28/
@@ -23,6 +23,24 @@ DTEND;VALUE=DATE:20240929
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[PS] Zacian PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-fighting-and-fairy-type-2024-09-30
+DTSTAMP:20240930T002633Z
+SUMMARY:[PS] Fighting- and Fairy-type PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-fighting-and-fairy-type-2024-09-30/
+URL:https://leekduck.com/events/pokemon-showcase-fighting-and-fairy-type-20
+ 24-09-30/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART;VALUE=DATE:20240930
+DTEND;VALUE=DATE:20241002
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PS] Fighting- and Fairy-type PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
