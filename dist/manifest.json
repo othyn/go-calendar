@@ -43,10 +43,6 @@
         "name": "Research",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__research.ics"
     },
-    "safari_zone": {
-        "name": "Safari Zone",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__safari_zone.ics"
-    },
     "season": {
         "name": "Season",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__season.ics"
