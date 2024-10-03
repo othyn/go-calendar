@@ -10,19 +10,19 @@ X-WR-CALDESC:All Pokémon GO Raid Day events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:unannounced-raid-day-october-2024
-DTSTAMP:20241002T002509Z
-SUMMARY:[RD] Mega Raid Day
+UID:mega-mawile-raid-day
+DTSTAMP:20241003T002500Z
+SUMMARY:[RD] Mega Mawile Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /unannounced-raid-day-october-2024/
-URL:https://leekduck.com/events/unannounced-raid-day-october-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+ /mega-mawile-raid-day/
+URL:https://leekduck.com/events/mega-mawile-raid-day/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-mawile-raid-day
+ .jpg
 DTSTART:20241012T140000
 DTEND:20241012T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RD] Mega Raid Day
+DESCRIPTION:[RD] Mega Mawile Raid Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

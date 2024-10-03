@@ -11,9 +11,9 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2024-fukuoka-japan
-DTSTAMP:20241002T002509Z
+DTSTAMP:20241003T002500Z
 SUMMARY:[WA] Pokémon GO Wild Area: Fukuoka
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+DESCRIPTION:Starts at 08:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /pokemon-go-wild-area-2024-fukuoka-japan/
 URL:https://leekduck.com/events/pokemon-go-wild-area-2024-fukuoka-japan/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/wild-area-2024-fukuo
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2024-global
-DTSTAMP:20241002T002509Z
+DTSTAMP:20241003T002500Z
 SUMMARY:[WA] Pokémon GO Wild Area: Global
 DESCRIPTION:Starts at 10:00\, ends at 18:15.\n\nhttps://leekduck.com/events
  /pokemon-go-wild-area-2024-global/
