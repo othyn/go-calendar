@@ -10,20 +10,21 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-fighting-and-fairy-type-2024-09-30
-DTSTAMP:20241003T002500Z
-SUMMARY:[PS] Fighting- and Fairy-type PokéStop Showcases
+UID:pokemon-showcase-galarian-slowpoke-galarian-slowking-2024-10-05
+DTSTAMP:20241005T002454Z
+SUMMARY:[PS] Galarian Slowpoke and Galarian Slowking PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-fighting-and-fairy-type-2024-09-30/
-URL:https://leekduck.com/events/pokemon-showcase-fighting-and-fairy-type-20
- 24-09-30/
+ /pokemon-showcase-galarian-slowpoke-galarian-slowking-2024-10-05/
+URL:https://leekduck.com/events/pokemon-showcase-galarian-slowpoke-galarian
+ -slowking-2024-10-05/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
  efault.jpg
-DTSTART;VALUE=DATE:20240930
-DTEND;VALUE=DATE:20241002
+DTSTART;VALUE=DATE:20241005
+DTEND;VALUE=DATE:20241006
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Fighting- and Fairy-type PokéStop Showcases
+DESCRIPTION:[PS] Galarian Slowpoke and Galarian Slowking PokéStop Showcase
+ s
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
