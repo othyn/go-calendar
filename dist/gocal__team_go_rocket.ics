@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:galarian-expedition-taken-over
-DTSTAMP:20241006T002742Z
+DTSTAMP:20241007T002639Z
 SUMMARY:[TGR] Galarian Expedition: Taken Over
 DESCRIPTION:Starts at 00:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /galarian-expedition-taken-over/

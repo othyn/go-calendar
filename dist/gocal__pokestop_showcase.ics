@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-galarian-slowpoke-galarian-slowking-2024-10-05
-DTSTAMP:20241006T002742Z
+DTSTAMP:20241007T002639Z
 SUMMARY:[PS] Galarian Slowpoke\, Galarian Slowbro\, and Galarian Slowking P
  okéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -26,6 +26,23 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[PS] Galarian Slowpoke\, Galarian Slowbro\, and Galarian Slowki
  ng PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-zamazenta-2024-10-07
+DTSTAMP:20241007T002639Z
+SUMMARY:[PS] Zamanzenta PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-zamazenta-2024-10-07/
+URL:https://leekduck.com/events/pokemon-showcase-zamazenta-2024-10-07/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART;VALUE=DATE:20241007
+DTEND;VALUE=DATE:20241009
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PS] Zamanzenta PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
