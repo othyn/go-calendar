@@ -10,29 +10,9 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-galarian-slowpoke-galarian-slowking-2024-10-05
-DTSTAMP:20241007T002639Z
-SUMMARY:[PS] Galarian Slowpoke\, Galarian Slowbro\, and Galarian Slowking P
- okéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-galarian-slowpoke-galarian-slowking-2024-10-05/
-URL:https://leekduck.com/events/pokemon-showcase-galarian-slowpoke-galarian
- -slowking-2024-10-05/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
- efault.jpg
-DTSTART;VALUE=DATE:20241005
-DTEND;VALUE=DATE:20241006
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PS] Galarian Slowpoke\, Galarian Slowbro\, and Galarian Slowki
- ng PokéStop Showcases
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-showcase-zamazenta-2024-10-07
-DTSTAMP:20241007T002639Z
-SUMMARY:[PS] Zamanzenta PokéStop Showcases
+DTSTAMP:20241008T002454Z
+SUMMARY:[PS] Zamazenta PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-zamazenta-2024-10-07/
 URL:https://leekduck.com/events/pokemon-showcase-zamazenta-2024-10-07/
@@ -42,7 +22,7 @@ DTSTART;VALUE=DATE:20241007
 DTEND;VALUE=DATE:20241009
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Zamanzenta PokéStop Showcases
+DESCRIPTION:[PS] Zamazenta PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
