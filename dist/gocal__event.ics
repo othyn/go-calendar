@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:galarian-expedition
-DTSTAMP:20241009T002510Z
+DTSTAMP:20241010T002510Z
 SUMMARY:[E] Galarian Expedition
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /galarian-expedition/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:magnetic-study
-DTSTAMP:20241009T002510Z
+DTSTAMP:20241010T002510Z
 SUMMARY:[E] Magnetic Study
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /magnetic-study/
@@ -44,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannnounced-event-max-out
-DTSTAMP:20241009T002510Z
+DTSTAMP:20241010T002510Z
 SUMMARY:[E] Unannounced Event
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /unannnounced-event-max-out/
@@ -61,24 +61,24 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-halloween-2024-part-1
-DTSTAMP:20241009T002510Z
-SUMMARY:[E] Pokémon GO Halloween 2024 - Part 1
+DTSTAMP:20241010T002510Z
+SUMMARY:[E] Pokémon GO Halloween 2024 - Part I
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /pokemon-go-halloween-2024-part-1/
 URL:https://leekduck.com/events/pokemon-go-halloween-2024-part-1/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemon-go-halloween
+ -2024-part1.jpg
 DTSTART;VALUE=DATE:20241022
 DTEND;VALUE=DATE:20241028
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Pokémon GO Halloween 2024 - Part 1
+DESCRIPTION:[E] Pokémon GO Halloween 2024 - Part I
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannnounced-event-max-out-2
-DTSTAMP:20241009T002510Z
+DTSTAMP:20241010T002510Z
 SUMMARY:[E] Unannounced Event
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /unannnounced-event-max-out-2/
@@ -95,7 +95,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-halloween-2024-part-2
-DTSTAMP:20241009T002510Z
+DTSTAMP:20241010T002510Z
 SUMMARY:[E] Pokémon GO Halloween 2024 - Part 2
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-go-halloween-2024-part-2/
@@ -112,7 +112,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-weekend-max-out
-DTSTAMP:20241009T002510Z
+DTSTAMP:20241010T002510Z
 SUMMARY:[E] GO Battle Weekend: Max Out
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-weekend-max-out/
