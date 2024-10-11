@@ -10,19 +10,19 @@ X-WR-CALDESC:All Pokémon GO Research events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:unannounced-research-day-october-2024
-DTSTAMP:20241010T002510Z
-SUMMARY:[R] Unannounced Research Day
+UID:yamask-galarian-yamask-research-day-2024
+DTSTAMP:20241011T002507Z
+SUMMARY:[R] Yamask Research Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /unannounced-research-day-october-2024/
-URL:https://leekduck.com/events/unannounced-research-day-october-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+ /yamask-galarian-yamask-research-day-2024/
+URL:https://leekduck.com/events/yamask-galarian-yamask-research-day-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/research-day-yamask.
+ jpg
 DTSTART:20241019T140000
 DTEND:20241019T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[R] Unannounced Research Day
+DESCRIPTION:[R] Yamask Research Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
