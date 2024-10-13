@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:mega-mawile-raid-day
-DTSTAMP:20241012T002450Z
+DTSTAMP:20241013T002738Z
 SUMMARY:[RD] Mega Mawile Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /mega-mawile-raid-day/
