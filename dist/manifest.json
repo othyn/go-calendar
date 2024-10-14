@@ -31,10 +31,6 @@
         "name": "Raid Battles",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__raid_battles.ics"
     },
-    "raid_day": {
-        "name": "Raid Day",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__raid_day.ics"
-    },
     "raid_hour": {
         "name": "Raid Hour",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__raid_hour.ics"
@@ -46,10 +42,6 @@
     "season": {
         "name": "Season",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__season.ics"
-    },
-    "team_go_rocket": {
-        "name": "Team GO Rocket",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__team_go_rocket.ics"
     },
     "ticketed_event": {
         "name": "Ticketed Event",
