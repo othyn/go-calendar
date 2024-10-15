@@ -10,42 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Battles events\, in your local time\, aut
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:zamazenta-in-5-star-raid-battles-october-2024
-DTSTAMP:20241014T002634Z
-SUMMARY:[RB] Zamazenta in 5-star Raid Battles
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /zamazenta-in-5-star-raid-battles-october-2024/
-URL:https://leekduck.com/events/zamazenta-in-5-star-raid-battles-october-20
- 24/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/zacian-and-zamazenta
- .jpg
-DTSTART;VALUE=DATE:20241004
-DTEND;VALUE=DATE:20241014
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Zamazenta in 5-star Raid Battles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:mega-blaziken-in-mega-raids-october-2024
-DTSTAMP:20241014T002634Z
-SUMMARY:[RB] Mega Blaziken in Mega Raids
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /mega-blaziken-in-mega-raids-october-2024/
-URL:https://leekduck.com/events/mega-blaziken-in-mega-raids-october-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;VALUE=DATE:20241004
-DTEND;VALUE=DATE:20241014
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Mega Blaziken in Mega Raids
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:shadow-entei-in-shadow-raids-max-out
-DTSTAMP:20241014T002634Z
+DTSTAMP:20241015T002536Z
 SUMMARY:[RB] Shadow Entei in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-entei-in-shadow-raids-max-out/
@@ -62,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:origin-forme-giratina-in-5-star-raid-battles-october-2024
-DTSTAMP:20241014T002634Z
+DTSTAMP:20241015T002536Z
 SUMMARY:[RB] Origin Forme Giratina in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /origin-forme-giratina-in-5-star-raid-battles-october-2024/
@@ -80,7 +46,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-sableye-in-mega-raids-october-2024
-DTSTAMP:20241014T002634Z
+DTSTAMP:20241015T002536Z
 SUMMARY:[RB] Mega Sableye in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-sableye-in-mega-raids-october-2024/
@@ -96,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darkrai-in-5-star-raid-battles-october-2024
-DTSTAMP:20241014T002634Z
+DTSTAMP:20241015T002536Z
 SUMMARY:[RB] Darkrai in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /darkrai-in-5-star-raid-battles-october-2024/
@@ -113,7 +79,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-banette-in-mega-raids-october-2024
-DTSTAMP:20241014T002634Z
+DTSTAMP:20241015T002536Z
 SUMMARY:[RB] Mega Banette in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-banette-in-mega-raids-october-2024/

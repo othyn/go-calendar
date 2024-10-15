@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-mawile-2024-10-12
-DTSTAMP:20241014T002634Z
-SUMMARY:[PS] Mawile PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-mawile-2024-10-12/
-URL:https://leekduck.com/events/pokemon-showcase-mawile-2024-10-12/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
- efault.jpg
-DTSTART;VALUE=DATE:20241012
-DTEND;VALUE=DATE:20241013
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PS] Mawile PokéStop Showcases
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-showcase-magnemite-plusle-minun-2024-10-14
-DTSTAMP:20241014T002634Z
+DTSTAMP:20241015T002536Z
 SUMMARY:[PS] Magnemite\, Plusle\, and Minun PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-magnemite-plusle-minun-2024-10-14/
