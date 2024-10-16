@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:yamask-galarian-yamask-research-day-2024
-DTSTAMP:20241015T002536Z
+DTSTAMP:20241016T002539Z
 SUMMARY:[R] Yamask Research Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /yamask-galarian-yamask-research-day-2024/
