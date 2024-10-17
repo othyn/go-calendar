@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:magnetic-study
-DTSTAMP:20241016T002539Z
+DTSTAMP:20241017T002521Z
 SUMMARY:[E] Magnetic Study
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /magnetic-study/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-halloween-2024-part-1
-DTSTAMP:20241016T002539Z
+DTSTAMP:20241017T002521Z
 SUMMARY:[E] Pokémon GO Halloween 2024 - Part I
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /pokemon-go-halloween-2024-part-1/
@@ -44,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannnounced-event-max-out-2
-DTSTAMP:20241016T002539Z
+DTSTAMP:20241017T002521Z
 SUMMARY:[E] Unannounced Event
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /unannnounced-event-max-out-2/
@@ -61,7 +61,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-halloween-2024-part-2
-DTSTAMP:20241016T002539Z
+DTSTAMP:20241017T002521Z
 SUMMARY:[E] Pokémon GO Halloween 2024 - Part 2
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-go-halloween-2024-part-2/
@@ -78,7 +78,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-weekend-max-out
-DTSTAMP:20241016T002539Z
+DTSTAMP:20241017T002521Z
 SUMMARY:[E] GO Battle Weekend: Max Out
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-weekend-max-out/
@@ -95,7 +95,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dia-de-muertos-2024
-DTSTAMP:20241016T002539Z
+DTSTAMP:20241017T002521Z
 SUMMARY:[E] Día de Muertos 2024 (Latin America)
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /dia-de-muertos-2024/
@@ -112,13 +112,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:festival-of-lights-2024
-DTSTAMP:20241016T002539Z
+DTSTAMP:20241017T002521Z
 SUMMARY:[E] Festival of Lights 2024 (India Only)
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /festival-of-lights-2024/
 URL:https://leekduck.com/events/festival-of-lights-2024/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/festival-of-lights-2
- 024.jpg
+ 024-pikachu.jpg
 DTSTART;VALUE=DATE:20241101
 DTEND;VALUE=DATE:20241104
 BEGIN:VALARM
