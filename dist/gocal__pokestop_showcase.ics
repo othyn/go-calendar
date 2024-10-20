@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-mawile-2024-10-12-copy
-DTSTAMP:20241019T002505Z
+DTSTAMP:20241020T002807Z
 SUMMARY:[PS] Yamask and Galarian Yamask PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-mawile-2024-10-12-copy/
