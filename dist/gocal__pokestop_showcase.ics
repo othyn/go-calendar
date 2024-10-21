@@ -10,12 +10,13 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-mawile-2024-10-12-copy
-DTSTAMP:20241020T002807Z
+UID:pokemon-showcase-yamask-galarian-yamaks-2024-10-12-copy
+DTSTAMP:20241021T002655Z
 SUMMARY:[PS] Yamask and Galarian Yamask PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-mawile-2024-10-12-copy/
-URL:https://leekduck.com/events/pokemon-showcase-mawile-2024-10-12-copy/
+ /pokemon-showcase-yamask-galarian-yamaks-2024-10-12-copy/
+URL:https://leekduck.com/events/pokemon-showcase-yamask-galarian-yamaks-202
+ 4-10-12-copy/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
  efault.jpg
 DTSTART;VALUE=DATE:20241019
@@ -23,6 +24,23 @@ DTEND;VALUE=DATE:20241020
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[PS] Yamask and Galarian Yamask PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-ghost-type-2024-10-21
+DTSTAMP:20241021T002655Z
+SUMMARY:[PS] Ghost-type PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-ghost-type-2024-10-21/
+URL:https://leekduck.com/events/pokemon-showcase-ghost-type-2024-10-21/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART;VALUE=DATE:20241021
+DTEND;VALUE=DATE:20241023
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PS] Ghost-type PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
