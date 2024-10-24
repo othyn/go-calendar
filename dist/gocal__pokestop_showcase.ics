@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-ghost-type-2024-10-21
-DTSTAMP:20241023T002528Z
+DTSTAMP:20241024T002531Z
 SUMMARY:[PS] Ghost-type PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-ghost-type-2024-10-21/
