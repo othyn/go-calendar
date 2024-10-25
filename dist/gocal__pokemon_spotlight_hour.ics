@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Pokémon Spotlight Hour events\, in your local
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemonspotlighthour2024-10-22
-DTSTAMP:20241024T002531Z
-SUMMARY:[PSH] Gastly\, Duskull\, and Litwick Spotlight Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2024-10-22/
-URL:https://leekduck.com/events/pokemonspotlighthour2024-10-22/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
- .jpg
-DTSTART:20241022T180000
-DTEND:20241022T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PSH] Gastly\, Duskull\, and Litwick Spotlight Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemonspotlighthour2024-10-29
-DTSTAMP:20241024T002531Z
+DTSTAMP:20241025T002552Z
 SUMMARY:[PSH] Unannoucned Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-10-29/
@@ -40,6 +23,74 @@ DTEND:20241029T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[PSH] Unannoucned Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-11-05
+DTSTAMP:20241025T002552Z
+SUMMARY:[PSH] Surskit Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-11-05/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-11-05/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20241105T180000
+DTEND:20241105T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Surskit Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-11-12
+DTSTAMP:20241025T002552Z
+SUMMARY:[PSH] Smoliv Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-11-12/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-11-12/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20241112T180000
+DTEND:20241112T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Smoliv Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-11-19
+DTSTAMP:20241025T002552Z
+SUMMARY:[PSH] Teddiursa and Combee Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-11-19/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-11-19/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20241119T180000
+DTEND:20241119T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Teddiursa and Combee Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-11-26
+DTSTAMP:20241025T002552Z
+SUMMARY:[PSH] Joltik Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-11-26/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-11-26/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20241126T180000
+DTEND:20241126T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Joltik Spotlight Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
