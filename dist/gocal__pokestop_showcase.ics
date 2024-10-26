@@ -10,19 +10,20 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-ghost-type-2024-10-21
-DTSTAMP:20241024T002531Z
-SUMMARY:[PS] Ghost-type PokéStop Showcases
+UID:pokemon-showcase-grass-fire-water-type-2024-10-26
+DTSTAMP:20241026T002509Z
+SUMMARY:[PS] Grass-\, Fire-\, and Water-type PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-ghost-type-2024-10-21/
-URL:https://leekduck.com/events/pokemon-showcase-ghost-type-2024-10-21/
+ /pokemon-showcase-grass-fire-water-type-2024-10-26/
+URL:https://leekduck.com/events/pokemon-showcase-grass-fire-water-type-2024
+ -10-26/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
  efault.jpg
-DTSTART;VALUE=DATE:20241021
-DTEND;VALUE=DATE:20241023
+DTSTART;VALUE=DATE:20241026
+DTEND;VALUE=DATE:20241027
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Ghost-type PokéStop Showcases
+DESCRIPTION:[PS] Grass-\, Fire-\, and Water-type PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
