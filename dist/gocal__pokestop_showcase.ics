@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-grass-fire-water-type-2024-10-26
-DTSTAMP:20241026T002509Z
+DTSTAMP:20241027T002754Z
 SUMMARY:[PS] Grass-\, Fire-\, and Water-type PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-grass-fire-water-type-2024-10-26/

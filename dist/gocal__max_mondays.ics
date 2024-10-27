@@ -11,15 +11,15 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:max-mondays-2024-11-11
-DTSTAMP:20241026T002509Z
+DTSTAMP:20241027T002754Z
 SUMMARY:[MM] Dyanamax Charmander during Max Monday
-DESCRIPTION:Starts at 06:00\, ends at 07:00.\n\nhttps://leekduck.com/events
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2024-11-11/
 URL:https://leekduck.com/events/max-mondays-2024-11-11/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/max-battles-kanto.jp
  g
-DTSTART:20241111T060000
-DTEND:20241111T070000
+DTSTART:20241111T180000
+DTEND:20241111T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[MM] Dyanamax Charmander during Max Monday
@@ -28,15 +28,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2024-11-18
-DTSTAMP:20241026T002509Z
+DTSTAMP:20241027T002754Z
 SUMMARY:[MM] Dyanamax Drilbur during Max Monday
-DESCRIPTION:Starts at 06:00\, ends at 07:00.\n\nhttps://leekduck.com/events
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2024-11-18/
 URL:https://leekduck.com/events/max-mondays-2024-11-18/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/max-battles-kanto.jp
  g
-DTSTART:20241118T060000
-DTEND:20241118T070000
+DTSTART:20241118T180000
+DTEND:20241118T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[MM] Dyanamax Drilbur during Max Monday
@@ -45,15 +45,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2024-11-25
-DTSTAMP:20241026T002509Z
+DTSTAMP:20241027T002754Z
 SUMMARY:[MM] Dyanamax Bulbasaur during Max Monday
-DESCRIPTION:Starts at 06:00\, ends at 07:00.\n\nhttps://leekduck.com/events
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2024-11-25/
 URL:https://leekduck.com/events/max-mondays-2024-11-25/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/max-battles-kanto.jp
  g
-DTSTART:20241125T060000
-DTEND:20241125T070000
+DTSTART:20241125T180000
+DTEND:20241125T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[MM] Dyanamax Bulbasaur during Max Monday
@@ -62,15 +62,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2024-12-02
-DTSTAMP:20241026T002509Z
+DTSTAMP:20241027T002754Z
 SUMMARY:[MM] Dyanamax Squirtle during Max Monday
-DESCRIPTION:Starts at 06:00\, ends at 07:00.\n\nhttps://leekduck.com/events
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2024-12-02/
 URL:https://leekduck.com/events/max-mondays-2024-12-02/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/max-battles-kanto.jp
  g
-DTSTART:20241202T060000
-DTEND:20241202T070000
+DTSTART:20241202T180000
+DTEND:20241202T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[MM] Dyanamax Squirtle during Max Monday
