@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:go-bigger-gigantamax
-DTSTAMP:20241027T002754Z
+DTSTAMP:20241028T002731Z
 SUMMARY:[MB] Gigantamax Venusaur\, Gigantamax Charizard\, and Gigantamax Bl
  astoise in Max Battles
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -30,7 +30,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:october-max-battles-2024
-DTSTAMP:20241027T002754Z
+DTSTAMP:20241028T002731Z
 SUMMARY:[MB] October Max Battles
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /october-max-battles-2024/
@@ -46,12 +46,12 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:go-bigger-gigantamax-copy
-DTSTAMP:20241027T002754Z
+UID:gigantamax-gengar-in-max-battles
+DTSTAMP:20241028T002731Z
 SUMMARY:[MB] Gigantamax Gengar in Max Battles
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /go-bigger-gigantamax-copy/
-URL:https://leekduck.com/events/go-bigger-gigantamax-copy/
+ /gigantamax-gengar-in-max-battles/
+URL:https://leekduck.com/events/gigantamax-gengar-in-max-battles/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gigantamax-gengar.jp
  g
 DTSTART;VALUE=DATE:20241031
@@ -64,7 +64,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:november-max-battles-2024
-DTSTAMP:20241027T002754Z
+DTSTAMP:20241028T002731Z
 SUMMARY:[MB] November Max Battles
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /november-max-battles-2024/
