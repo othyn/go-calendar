@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:daily-pokecoin-bounty-ticket-max-out-part-2
-DTSTAMP:20241028T002731Z
+DTSTAMP:20241029T002625Z
 SUMMARY:[TE] Daily PokéCoin Bounty Part 2 Ticket
 DESCRIPTION:Starts at 00:00\, ends at 11:59.\n\nhttps://leekduck.com/events
  /daily-pokecoin-bounty-ticket-max-out-part-2/
@@ -24,6 +24,24 @@ DTEND;VALUE=DATE:20241102
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[TE] Daily PokéCoin Bounty Part 2 Ticket
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:daily-pokecoin-bounty-ticket-max-out-part-3
+DTSTAMP:20241029T002625Z
+SUMMARY:[TE] Daily PokéCoin Bounty Part 3 Ticket
+DESCRIPTION:Starts at 00:00\, ends at 11:59.\n\nhttps://leekduck.com/events
+ /daily-pokecoin-bounty-ticket-max-out-part-3/
+URL:https://leekduck.com/events/daily-pokecoin-bounty-ticket-max-out-part-3
+ /
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/daily-pokecoin-bount
+ y-max-out.jpg
+DTSTART;VALUE=DATE:20241103
+DTEND;VALUE=DATE:20241202
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[TE] Daily PokéCoin Bounty Part 3 Ticket
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

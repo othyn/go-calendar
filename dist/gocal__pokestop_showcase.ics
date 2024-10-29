@@ -10,26 +10,8 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-grass-fire-water-type-2024-10-26
-DTSTAMP:20241028T002731Z
-SUMMARY:[PS] Grass-\, Fire-\, and Water-type PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-grass-fire-water-type-2024-10-26/
-URL:https://leekduck.com/events/pokemon-showcase-grass-fire-water-type-2024
- -10-26/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
- efault.jpg
-DTSTART;VALUE=DATE:20241026
-DTEND;VALUE=DATE:20241027
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PS] Grass-\, Fire-\, and Water-type PokéStop Showcases
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-showcase-rowlet-froakie-morpeko-2024-10-28
-DTSTAMP:20241028T002731Z
+DTSTAMP:20241029T002625Z
 SUMMARY:[PS] Rowlet\, Froakie\, and Morpeko PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-rowlet-froakie-morpeko-2024-10-28/

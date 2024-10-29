@@ -10,27 +10,8 @@ X-WR-CALDESC:All Pokémon GO Max Battles events\, in your local time\, auto
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:go-bigger-gigantamax
-DTSTAMP:20241028T002731Z
-SUMMARY:[MB] Gigantamax Venusaur\, Gigantamax Charizard\, and Gigantamax Bl
- astoise in Max Battles
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /go-bigger-gigantamax/
-URL:https://leekduck.com/events/go-bigger-gigantamax/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-bigger-gigantamax
- .jpg
-DTSTART;VALUE=DATE:20241026
-DTEND;VALUE=DATE:20241027
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[MB] Gigantamax Venusaur\, Gigantamax Charizard\, and Gigantama
- x Blastoise in Max Battles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:october-max-battles-2024
-DTSTAMP:20241028T002731Z
+DTSTAMP:20241029T002625Z
 SUMMARY:[MB] October Max Battles
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /october-max-battles-2024/
@@ -47,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gigantamax-gengar-in-max-battles
-DTSTAMP:20241028T002731Z
+DTSTAMP:20241029T002625Z
 SUMMARY:[MB] Gigantamax Gengar in Max Battles
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gigantamax-gengar-in-max-battles/
@@ -64,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:november-max-battles-2024
-DTSTAMP:20241028T002731Z
+DTSTAMP:20241029T002625Z
 SUMMARY:[MB] November Max Battles
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /november-max-battles-2024/
