@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-rowlet-froakie-morpeko-2024-10-28
-DTSTAMP:20241030T002553Z
+DTSTAMP:20241031T002604Z
 SUMMARY:[PS] Rowlet\, Froakie\, and Morpeko PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-rowlet-froakie-morpeko-2024-10-28/
