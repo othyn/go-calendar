@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Max Battles events\, in your local time\, auto
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:october-max-battles-2024
-DTSTAMP:20241101T002842Z
-SUMMARY:[MB] October Max Battles
-DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /october-max-battles-2024/
-URL:https://leekduck.com/events/october-max-battles-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/max-battles-2024-10-
- october.jpg
-DTSTART;VALUE=DATE:20241001
-DTEND;VALUE=DATE:20241031
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[MB] October Max Battles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:gigantamax-gengar-in-max-battles
-DTSTAMP:20241101T002842Z
+DTSTAMP:20241102T002511Z
 SUMMARY:[MB] Gigantamax Gengar in Max Battles
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gigantamax-gengar-in-max-battles/
@@ -45,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:november-max-battles-2024
-DTSTAMP:20241101T002842Z
+DTSTAMP:20241102T002511Z
 SUMMARY:[MB] November Max Battles
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /november-max-battles-2024/

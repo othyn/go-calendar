@@ -10,20 +10,19 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-rowlet-froakie-morpeko-2024-10-28
-DTSTAMP:20241101T002842Z
-SUMMARY:[PS] Rowlet\, Froakie\, and Morpeko PokéStop Showcases
+UID:pokemon-showcase-gastly-gengar-2024-11-02
+DTSTAMP:20241102T002511Z
+SUMMARY:[PS] Gastly and Gengar PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-rowlet-froakie-morpeko-2024-10-28/
-URL:https://leekduck.com/events/pokemon-showcase-rowlet-froakie-morpeko-202
- 4-10-28/
+ /pokemon-showcase-gastly-gengar-2024-11-02/
+URL:https://leekduck.com/events/pokemon-showcase-gastly-gengar-2024-11-02/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
  efault.jpg
-DTSTART;VALUE=DATE:20241028
-DTEND;VALUE=DATE:20241030
+DTSTART;VALUE=DATE:20241102
+DTEND;VALUE=DATE:20241103
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Rowlet\, Froakie\, and Morpeko PokéStop Showcases
+DESCRIPTION:[PS] Gastly and Gengar PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

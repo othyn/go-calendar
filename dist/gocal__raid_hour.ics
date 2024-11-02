@@ -10,24 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Hour events\, in your local time\, auto-u
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:raidhour20241030
-DTSTAMP:20241101T002842Z
-SUMMARY:[RH] Darkrai Raid Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /raidhour20241030/
-URL:https://leekduck.com/events/raidhour20241030/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
-DTSTART:20241030T180000
-DTEND:20241030T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RH] Darkrai Raid Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raidhour20241106
-DTSTAMP:20241101T002842Z
+DTSTAMP:20241102T002511Z
 SUMMARY:[RH] Lugia Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20241106/
@@ -43,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20241113
-DTSTAMP:20241101T002842Z
+DTSTAMP:20241102T002511Z
 SUMMARY:[RH] Lugia Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20241113/
@@ -59,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20241119
-DTSTAMP:20241101T002842Z
+DTSTAMP:20241102T002511Z
 SUMMARY:[RH] Nihilego Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20241119/
@@ -75,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20241120
-DTSTAMP:20241101T002842Z
+DTSTAMP:20241102T002511Z
 SUMMARY:[RH] Tapu Koko Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20241120/
@@ -91,7 +75,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20241121
-DTSTAMP:20241101T002842Z
+DTSTAMP:20241102T002511Z
 SUMMARY:[RH] Origin Forme Dialga Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20241121/
@@ -107,7 +91,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20241122
-DTSTAMP:20241101T002842Z
+DTSTAMP:20241102T002511Z
 SUMMARY:[RH] Origin Forme Palkia Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20241122/
@@ -123,7 +107,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20241127
-DTSTAMP:20241101T002842Z
+DTSTAMP:20241102T002511Z
 SUMMARY:[RH] Zacian\, Zamazenta\, Regieleki\, and Regidrago Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20241127/
