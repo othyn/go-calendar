@@ -11,8 +11,8 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:max-mondays-2024-11-11
-DTSTAMP:20241102T002511Z
-SUMMARY:[MM] Dyanamax Charmander during Max Monday
+DTSTAMP:20241103T002813Z
+SUMMARY:[MM] Dynamax Charmander during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2024-11-11/
 URL:https://leekduck.com/events/max-mondays-2024-11-11/
@@ -22,14 +22,14 @@ DTSTART:20241111T180000
 DTEND:20241111T190000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[MM] Dyanamax Charmander during Max Monday
+DESCRIPTION:[MM] Dynamax Charmander during Max Monday
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2024-11-18
-DTSTAMP:20241102T002511Z
-SUMMARY:[MM] Dyanamax Drilbur during Max Monday
+DTSTAMP:20241103T002813Z
+SUMMARY:[MM] Dynamax Drilbur during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2024-11-18/
 URL:https://leekduck.com/events/max-mondays-2024-11-18/
@@ -39,14 +39,14 @@ DTSTART:20241118T180000
 DTEND:20241118T190000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[MM] Dyanamax Drilbur during Max Monday
+DESCRIPTION:[MM] Dynamax Drilbur during Max Monday
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2024-11-25
-DTSTAMP:20241102T002511Z
-SUMMARY:[MM] Dyanamax Bulbasaur during Max Monday
+DTSTAMP:20241103T002813Z
+SUMMARY:[MM] Dynamax Bulbasaur during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2024-11-25/
 URL:https://leekduck.com/events/max-mondays-2024-11-25/
@@ -56,14 +56,14 @@ DTSTART:20241125T180000
 DTEND:20241125T190000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[MM] Dyanamax Bulbasaur during Max Monday
+DESCRIPTION:[MM] Dynamax Bulbasaur during Max Monday
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2024-12-02
-DTSTAMP:20241102T002511Z
-SUMMARY:[MM] Dyanamax Squirtle during Max Monday
+DTSTAMP:20241103T002813Z
+SUMMARY:[MM] Dynamax Squirtle during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2024-12-02/
 URL:https://leekduck.com/events/max-mondays-2024-12-02/
@@ -73,7 +73,7 @@ DTSTART:20241202T180000
 DTEND:20241202T190000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[MM] Dyanamax Squirtle during Max Monday
+DESCRIPTION:[MM] Dynamax Squirtle during Max Monday
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

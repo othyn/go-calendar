@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-gastly-gengar-2024-11-02
-DTSTAMP:20241102T002511Z
+DTSTAMP:20241103T002813Z
 SUMMARY:[PS] Gastly and Gengar PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-gastly-gengar-2024-11-02/
