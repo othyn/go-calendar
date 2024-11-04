@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-gastly-gengar-2024-11-02
-DTSTAMP:20241103T002813Z
+DTSTAMP:20241104T002659Z
 SUMMARY:[PS] Gastly and Gengar PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-gastly-gengar-2024-11-02/
@@ -23,6 +23,26 @@ DTEND;VALUE=DATE:20241103
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[PS] Gastly and Gengar PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-venusaur-charizard-blastoise-gengar-2024-11-04
+DTSTAMP:20241104T002659Z
+SUMMARY:[PS] Venusaur\, Charizard\, Blastoise\, and Gengar PokéStop Showca
+ ses
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-venusaur-charizard-blastoise-gengar-2024-11-04/
+URL:https://leekduck.com/events/pokemon-showcase-venusaur-charizard-blastoi
+ se-gengar-2024-11-04/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART;VALUE=DATE:20241104
+DTEND;VALUE=DATE:20241106
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PS] Venusaur\, Charizard\, Blastoise\, and Gengar PokéStop Sh
+ owcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
