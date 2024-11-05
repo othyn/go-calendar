@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Max Battles events\, in your local time\, auto
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:gigantamax-gengar-in-max-battles
-DTSTAMP:20241104T002659Z
-SUMMARY:[MB] Gigantamax Gengar in Max Battles
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /gigantamax-gengar-in-max-battles/
-URL:https://leekduck.com/events/gigantamax-gengar-in-max-battles/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gigantamax-gengar.jp
- g
-DTSTART;VALUE=DATE:20241031
-DTEND;VALUE=DATE:20241103
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[MB] Gigantamax Gengar in Max Battles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:november-max-battles-2024
-DTSTAMP:20241104T002659Z
+DTSTAMP:20241105T002513Z
 SUMMARY:[MB] November Max Battles
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /november-max-battles-2024/
@@ -40,6 +23,40 @@ DTEND;VALUE=DATE:20241203
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[MB] November Max Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-battle-day-december-2024
+DTSTAMP:20241105T002513Z
+SUMMARY:[MB] Max Battle Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /max-battle-day-december-2024/
+URL:https://leekduck.com/events/max-battle-day-december-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART:20241208T140000
+DTEND:20241208T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MB] Max Battle Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-battle-day-february-2025
+DTSTAMP:20241105T002513Z
+SUMMARY:[MB] Max Battle Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /max-battle-day-february-2025/
+URL:https://leekduck.com/events/max-battle-day-february-2025/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART:20250201T140000
+DTEND:20250201T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MB] Max Battle Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

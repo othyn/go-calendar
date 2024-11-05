@@ -35,9 +35,17 @@
         "name": "Raid Battles",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__raid_battles.ics"
     },
+    "raid_day": {
+        "name": "Raid Day",
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__raid_day.ics"
+    },
     "raid_hour": {
         "name": "Raid Hour",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__raid_hour.ics"
+    },
+    "research_day": {
+        "name": "Research Day",
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__research_day.ics"
     },
     "season": {
         "name": "Season",
