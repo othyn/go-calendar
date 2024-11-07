@@ -10,42 +10,8 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:dia-de-muertos-2024
-DTSTAMP:20241106T002534Z
-SUMMARY:[E] Día de Muertos 2024 (Latin America)
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /dia-de-muertos-2024/
-URL:https://leekduck.com/events/dia-de-muertos-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/dia-de-muertos-2024.
- jpg
-DTSTART;VALUE=DATE:20241101
-DTEND;VALUE=DATE:20241104
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Día de Muertos 2024 (Latin America)
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:festival-of-lights-2024
-DTSTAMP:20241106T002534Z
-SUMMARY:[E] Festival of Lights 2024 (India Only)
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /festival-of-lights-2024/
-URL:https://leekduck.com/events/festival-of-lights-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/festival-of-lights-2
- 024-pikachu.jpg
-DTSTART;VALUE=DATE:20241101
-DTEND;VALUE=DATE:20241104
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Festival of Lights 2024 (India Only)
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:harvest-festival-2024
-DTSTAMP:20241106T002534Z
+DTSTAMP:20241107T002512Z
 SUMMARY:[E] Harvest Festival 2024
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /harvest-festival-2024/
@@ -61,13 +27,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:simply-groundbreaking
-DTSTAMP:20241106T002534Z
+DTSTAMP:20241107T002512Z
 SUMMARY:[E] Simply Groundbreaking
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /simply-groundbreaking/
 URL:https://leekduck.com/events/simply-groundbreaking/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/simply-groundbreakin
+ g.jpg
 DTSTART;VALUE=DATE:20241115
 DTEND;VALUE=DATE:20241117
 BEGIN:VALARM
@@ -78,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:into-the-wild
-DTSTAMP:20241106T002534Z
+DTSTAMP:20241107T002512Z
 SUMMARY:[E] Into the Wild
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /into-the-wild/
@@ -95,7 +61,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-out-finale
-DTSTAMP:20241106T002534Z
+DTSTAMP:20241107T002512Z
 SUMMARY:[E] Max Out: Finale
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /max-out-finale/
@@ -112,7 +78,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-december-2024
-DTSTAMP:20241106T002534Z
+DTSTAMP:20241107T002512Z
 SUMMARY:[E] Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-december-2024/
