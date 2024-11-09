@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:harvest-festival-2024
-DTSTAMP:20241108T002507Z
+DTSTAMP:20241109T002442Z
 SUMMARY:[E] Harvest Festival 2024
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /harvest-festival-2024/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:simply-groundbreaking
-DTSTAMP:20241108T002507Z
+DTSTAMP:20241109T002442Z
 SUMMARY:[E] Simply Groundbreaking
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /simply-groundbreaking/
@@ -44,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:into-the-wild
-DTSTAMP:20241108T002507Z
+DTSTAMP:20241109T002442Z
 SUMMARY:[E] Into the Wild
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /into-the-wild/
@@ -60,7 +60,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-out-finale
-DTSTAMP:20241108T002507Z
+DTSTAMP:20241109T002442Z
 SUMMARY:[E] Max Out: Finale
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /max-out-finale/
@@ -77,8 +77,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-december-2024
-DTSTAMP:20241108T002507Z
-SUMMARY:[E] Raid Day
+DTSTAMP:20241109T002442Z
+SUMMARY:[E] Hatch Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-december-2024/
 URL:https://leekduck.com/events/hatch-day-december-2024/
@@ -88,7 +88,7 @@ DTSTART:20241214T140000
 DTEND:20241214T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Raid Day
+DESCRIPTION:[E] Hatch Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

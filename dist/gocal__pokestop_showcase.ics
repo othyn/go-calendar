@@ -10,22 +10,20 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-venusaur-charizard-blastoise-gengar-2024-11-04
-DTSTAMP:20241107T002512Z
-SUMMARY:[PS] Venusaur\, Charizard\, Blastoise\, and Gengar PokéStop Showca
- ses
+UID:pokemon-showcase-mankey-annihilape-2024-11-09
+DTSTAMP:20241109T002442Z
+SUMMARY:[PS] Mankey and Annihilape PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-venusaur-charizard-blastoise-gengar-2024-11-04/
-URL:https://leekduck.com/events/pokemon-showcase-venusaur-charizard-blastoi
- se-gengar-2024-11-04/
+ /pokemon-showcase-mankey-annihilape-2024-11-09/
+URL:https://leekduck.com/events/pokemon-showcase-mankey-annihilape-2024-11-
+ 09/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
  efault.jpg
-DTSTART;VALUE=DATE:20241104
-DTEND;VALUE=DATE:20241106
+DTSTART;VALUE=DATE:20241109
+DTEND;VALUE=DATE:20241110
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Venusaur\, Charizard\, Blastoise\, and Gengar PokéStop Sh
- owcases
+DESCRIPTION:[PS] Mankey and Annihilape PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
