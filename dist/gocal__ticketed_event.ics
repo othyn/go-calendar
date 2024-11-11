@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:daily-pokecoin-bounty-ticket-max-out-part-3
-DTSTAMP:20241110T002735Z
+DTSTAMP:20241111T002626Z
 SUMMARY:[TE] Daily PokéCoin Bounty Part 3 Ticket
 DESCRIPTION:Starts at 00:00\, ends at 11:59.\n\nhttps://leekduck.com/events
  /daily-pokecoin-bounty-ticket-max-out-part-3/

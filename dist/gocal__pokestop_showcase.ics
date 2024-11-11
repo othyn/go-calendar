@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-mankey-annihilape-2024-11-09
-DTSTAMP:20241110T002735Z
+DTSTAMP:20241111T002626Z
 SUMMARY:[PS] Mankey and Annihilape PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-mankey-annihilape-2024-11-09/
