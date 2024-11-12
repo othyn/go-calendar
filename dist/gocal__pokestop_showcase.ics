@@ -10,20 +10,20 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-mankey-annihilape-2024-11-09
-DTSTAMP:20241111T002626Z
-SUMMARY:[PS] Mankey and Annihilape PokéStop Showcases
+UID:pokemon-showcase-smoliv-arboliva-2024-11-10
+DTSTAMP:20241112T002451Z
+SUMMARY:[PS] Smoliv and Arboliva PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-mankey-annihilape-2024-11-09/
-URL:https://leekduck.com/events/pokemon-showcase-mankey-annihilape-2024-11-
- 09/
+ /pokemon-showcase-smoliv-arboliva-2024-11-10/
+URL:https://leekduck.com/events/pokemon-showcase-smoliv-arboliva-2024-11-10
+ /
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
  efault.jpg
-DTSTART;VALUE=DATE:20241109
-DTEND;VALUE=DATE:20241110
+DTSTART;VALUE=DATE:20241111
+DTEND;VALUE=DATE:20241113
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Mankey and Annihilape PokéStop Showcases
+DESCRIPTION:[PS] Smoliv and Arboliva PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
