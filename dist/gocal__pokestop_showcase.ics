@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-smoliv-arboliva-2024-11-10
-DTSTAMP:20241113T002528Z
+DTSTAMP:20241114T002540Z
 SUMMARY:[PS] Smoliv and Arboliva PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-smoliv-arboliva-2024-11-10/
