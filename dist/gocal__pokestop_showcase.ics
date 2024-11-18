@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-pichu-budew-2024-11-16
-DTSTAMP:20241117T002857Z
+DTSTAMP:20241118T002810Z
 SUMMARY:[PS] Pichu and Budew PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-pichu-budew-2024-11-16/
@@ -23,6 +23,23 @@ DTEND;VALUE=DATE:20241117
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[PS] Pichu and Budew PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-dialga-palkia-2024-11-18
+DTSTAMP:20241118T002810Z
+SUMMARY:[PS] Dialga and Palkia PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-dialga-palkia-2024-11-18/
+URL:https://leekduck.com/events/pokemon-showcase-dialga-palkia-2024-11-18/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART;VALUE=DATE:20241118
+DTEND;VALUE=DATE:20241120
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PS] Dialga and Palkia PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
