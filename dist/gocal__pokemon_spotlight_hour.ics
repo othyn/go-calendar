@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Pokémon Spotlight Hour events\, in your local
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemonspotlighthour2024-11-19
-DTSTAMP:20241120T002641Z
-SUMMARY:[PSH] Teddiursa and Combee Spotlight Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2024-11-19/
-URL:https://leekduck.com/events/pokemonspotlighthour2024-11-19/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
- .jpg
-DTSTART:20241119T180000
-DTEND:20241119T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PSH] Teddiursa and Combee Spotlight Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemonspotlighthour2024-11-26
-DTSTAMP:20241120T002641Z
+DTSTAMP:20241121T002646Z
 SUMMARY:[PSH] Joltik Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-11-26/
