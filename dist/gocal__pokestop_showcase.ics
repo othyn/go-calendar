@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-dialga-palkia-2024-11-18
-DTSTAMP:20241121T002646Z
+DTSTAMP:20241122T002738Z
 SUMMARY:[PS] Dialga and Palkia PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-dialga-palkia-2024-11-18/
