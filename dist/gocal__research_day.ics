@@ -10,19 +10,19 @@ X-WR-CALDESC:All Pokémon GO Research Day events\, in your local time\, aut
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:research-day-december-2024
-DTSTAMP:20241126T002714Z
-SUMMARY:[RD] Research Day
+UID:aspiring-dragons-research-day
+DTSTAMP:20241127T002715Z
+SUMMARY:[RD] Aspiring Dragons Research Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /research-day-december-2024/
-URL:https://leekduck.com/events/research-day-december-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+ /aspiring-dragons-research-day/
+URL:https://leekduck.com/events/aspiring-dragons-research-day/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/article-images/2024/
+ 2024-12-07-aspiring-dragons-research-day/aspiring-dragons-research-day.jpg
 DTSTART:20241207T140000
 DTEND:20241207T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RD] Research Day
+DESCRIPTION:[RD] Aspiring Dragons Research Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:beyond-wild-area
-DTSTAMP:20241126T002714Z
+DTSTAMP:20241127T002715Z
 SUMMARY:[E] Beyond Wild Area
 DESCRIPTION:Starts at 06:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /beyond-wild-area/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-out-finale
-DTSTAMP:20241126T002714Z
+DTSTAMP:20241127T002715Z
 SUMMARY:[E] Max Out: Finale
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /max-out-finale/
@@ -45,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-december-2024
-DTSTAMP:20241126T002714Z
+DTSTAMP:20241127T002715Z
 SUMMARY:[E] Hatch Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-december-2024/
