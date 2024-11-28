@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:beyond-wild-area
-DTSTAMP:20241127T002715Z
+DTSTAMP:20241128T002726Z
 SUMMARY:[E] Beyond Wild Area
 DESCRIPTION:Starts at 06:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /beyond-wild-area/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-out-finale
-DTSTAMP:20241127T002715Z
+DTSTAMP:20241128T002726Z
 SUMMARY:[E] Max Out: Finale
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /max-out-finale/
@@ -44,9 +44,77 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:just-my-cup-of-tea
+DTSTAMP:20241128T002726Z
+SUMMARY:[E] Just My Cup of Tea
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /just-my-cup-of-tea/
+URL:https://leekduck.com/events/just-my-cup-of-tea/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/article-images/2024/
+ 2024-12-03-just-my-cup-of-tea/just-my-cup-of-tea.jpg
+DTSTART;VALUE=DATE:20241203
+DTEND;VALUE=DATE:20241207
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Just My Cup of Tea
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:young-and-wise
+DTSTAMP:20241128T002726Z
+SUMMARY:[E] Young &amp\; Wise
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /young-and-wise/
+URL:https://leekduck.com/events/young-and-wise/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART;VALUE=DATE:20241210
+DTEND;VALUE=DATE:20241214
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Young &amp\; Wise
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-go-holiday-part-1
+DTSTAMP:20241128T002726Z
+SUMMARY:[E] Pokémon GO Holiday: Part 1
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-go-holiday-part-1/
+URL:https://leekduck.com/events/pokemon-go-holiday-part-1/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART;VALUE=DATE:20241217
+DTEND;VALUE=DATE:20241222
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Pokémon GO Holiday: Part 1
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-go-holiday-part-2
+DTSTAMP:20241128T002726Z
+SUMMARY:[E] Pokémon GO Holiday: Part 2
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-go-holiday-part-2/
+URL:https://leekduck.com/events/pokemon-go-holiday-part-2/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART;VALUE=DATE:20241222
+DTEND;VALUE=DATE:20241227
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Pokémon GO Holiday: Part 2
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:hatch-day-december-2024
-DTSTAMP:20241127T002715Z
-SUMMARY:[E] Hatch Day
+DTSTAMP:20241128T002726Z
+SUMMARY:[E] Charged Embers Hatch Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-december-2024/
 URL:https://leekduck.com/events/hatch-day-december-2024/
@@ -56,7 +124,24 @@ DTSTART:20241229T140000
 DTEND:20241229T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Hatch Day
+DESCRIPTION:[E] Charged Embers Hatch Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:new-years-2025
+DTSTAMP:20241128T002726Z
+SUMMARY:[E] New Year's 2025
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /new-years-2025/
+URL:https://leekduck.com/events/new-years-2025/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART;VALUE=DATE:20241230
+DTEND;VALUE=DATE:20250101
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] New Year's 2025
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

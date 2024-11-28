@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:raidhour20241127
-DTSTAMP:20241127T002715Z
+DTSTAMP:20241128T002726Z
 SUMMARY:[RH] Zacian\, Zamazenta\, Regieleki\, and Regidrago Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20241127/
@@ -22,6 +22,70 @@ DTEND:20241127T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RH] Zacian\, Zamazenta\, Regieleki\, and Regidrago Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20241204
+DTSTAMP:20241128T002726Z
+SUMMARY:[RH] Genesect (Chill Drive) Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20241204/
+URL:https://leekduck.com/events/raidhour20241204/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20241204T180000
+DTEND:20241204T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Genesect (Chill Drive) Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20241211
+DTSTAMP:20241128T002726Z
+SUMMARY:[RH] Genesect (Chill Drive) Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20241211/
+URL:https://leekduck.com/events/raidhour20241211/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20241211T180000
+DTEND:20241211T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Genesect (Chill Drive) Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20241218
+DTSTAMP:20241128T002726Z
+SUMMARY:[RH] Mega Latios Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20241218/
+URL:https://leekduck.com/events/raidhour20241218/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20241218T180000
+DTEND:20241218T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Mega Latios Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20241225
+DTSTAMP:20241128T002726Z
+SUMMARY:[RH] Mega Latias Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20241225/
+URL:https://leekduck.com/events/raidhour20241225/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20241225T180000
+DTEND:20241225T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Mega Latias Raid Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

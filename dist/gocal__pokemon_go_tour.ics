@@ -10,19 +10,19 @@ X-WR-CALDESC:All Pokémon GO Pokémon GO Tour events\, in your local time\,
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-go-tour-sinnoh-global
-DTSTAMP:20240226T001951Z
-SUMMARY:[PGT] Pokémon GO Tour: Sinnoh - Global
+UID:pokemon-go-tour-unova-global-2025
+DTSTAMP:20241128T002726Z
+SUMMARY:[PGT] Pokémon GO Tour: Unova - Global
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
- /pokemon-go-tour-sinnoh-global/
-URL:https://leekduck.com/events/pokemon-go-tour-sinnoh-global/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemon-go-tour-sinn
- oh-global.jpg
-DTSTART;VALUE=DATE:20240224
-DTEND;VALUE=DATE:20240225
+ /pokemon-go-tour-unova-global-2025/
+URL:https://leekduck.com/events/pokemon-go-tour-unova-global-2025/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/article-images/2025/
+ 2025-03-01-pokemon-go-tour-unova-global-2025/GOTourUnova2025-Global.jpg
+DTSTART;VALUE=DATE:20250301
+DTEND;VALUE=DATE:20250302
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PGT] Pokémon GO Tour: Sinnoh - Global
+DESCRIPTION:[PGT] Pokémon GO Tour: Unova - Global
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

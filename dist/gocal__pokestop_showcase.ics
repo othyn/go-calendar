@@ -10,20 +10,19 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-toxel-toxtricity-2024-11-22
-DTSTAMP:20241125T002806Z
-SUMMARY:[PS] Toxel and Toxtricity PokéStop Showcases
+UID:pokemon-showcase-snorlax-2024-11-25
+DTSTAMP:20241128T002726Z
+SUMMARY:[PS] Snorlax PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-toxel-toxtricity-2024-11-22/
-URL:https://leekduck.com/events/pokemon-showcase-toxel-toxtricity-2024-11-2
- 2/
+ /pokemon-showcase-snorlax-2024-11-25/
+URL:https://leekduck.com/events/pokemon-showcase-snorlax-2024-11-25/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
  efault.jpg
-DTSTART;VALUE=DATE:20241123
-DTEND;VALUE=DATE:20241124
+DTSTART;VALUE=DATE:20241125
+DTEND;VALUE=DATE:20241127
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Toxel and Toxtricity PokéStop Showcases
+DESCRIPTION:[PS] Snorlax PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:max-mondays-2024-12-02
-DTSTAMP:20241127T002715Z
+DTSTAMP:20241128T002726Z
 SUMMARY:[MM] Dynamax Squirtle during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2024-12-02/
@@ -23,6 +23,74 @@ DTEND:20241202T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[MM] Dynamax Squirtle during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2024-12-09
+DTSTAMP:20241128T002726Z
+SUMMARY:[MM] Dynamax Krabby during Max Monday
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2024-12-09/
+URL:https://leekduck.com/events/max-mondays-2024-12-09/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/max-battles-kanto.jp
+ g
+DTSTART:20241209T180000
+DTEND:20241209T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MM] Dynamax Krabby during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2024-12-16
+DTSTAMP:20241128T002726Z
+SUMMARY:[MM] Dynamax Charmander during Max Monday
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2024-12-16/
+URL:https://leekduck.com/events/max-mondays-2024-12-16/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/max-battles-kanto.jp
+ g
+DTSTART:20241216T180000
+DTEND:20241216T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MM] Dynamax Charmander during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2024-12-23
+DTSTAMP:20241128T002726Z
+SUMMARY:[MM] Dynamax Cryogonal during Max Monday
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2024-12-23/
+URL:https://leekduck.com/events/max-mondays-2024-12-23/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/max-battles-kanto.jp
+ g
+DTSTART:20241223T180000
+DTEND:20241223T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MM] Dynamax Cryogonal during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2024-12-30
+DTSTAMP:20241128T002726Z
+SUMMARY:[MM] Dynamax Bulbasaur during Max Monday
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2024-12-30/
+URL:https://leekduck.com/events/max-mondays-2024-12-30/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/max-battles-kanto.jp
+ g
+DTSTART:20241230T180000
+DTEND:20241230T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MM] Dynamax Bulbasaur during Max Monday
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

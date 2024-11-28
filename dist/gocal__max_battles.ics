@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:november-max-battles-2024
-DTSTAMP:20241127T002715Z
+DTSTAMP:20241128T002726Z
 SUMMARY:[MB] November Max Battles
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /november-max-battles-2024/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gigantamax-lapras-max-battle-day
-DTSTAMP:20241127T002715Z
+DTSTAMP:20241128T002726Z
 SUMMARY:[MB] Gigantamax Lapras Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /gigantamax-lapras-max-battle-day/
@@ -45,8 +45,59 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:december-max-battles-split-1-2024
+DTSTAMP:20241128T002726Z
+SUMMARY:[MB] Max Battles - December 3 to 9
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /december-max-battles-split-1-2024/
+URL:https://leekduck.com/events/december-max-battles-split-1-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/power-spots-max-batt
+ les.jpg
+DTSTART;VALUE=DATE:20241203
+DTEND;VALUE=DATE:20241209
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MB] Max Battles - December 3 to 9
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:december-max-battles-split-2-2024
+DTSTAMP:20241128T002726Z
+SUMMARY:[MB] Max Battles - December 9 to 23
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /december-max-battles-split-2-2024/
+URL:https://leekduck.com/events/december-max-battles-split-2-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/power-spots-max-batt
+ les.jpg
+DTSTART;VALUE=DATE:20241209
+DTEND;VALUE=DATE:20241223
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MB] Max Battles - December 9 to 23
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:december-max-battles-split-3-2024
+DTSTAMP:20241128T002726Z
+SUMMARY:[MB] Max Battles - December 23 to January 6
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /december-max-battles-split-3-2024/
+URL:https://leekduck.com/events/december-max-battles-split-3-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/power-spots-max-batt
+ les.jpg
+DTSTART;VALUE=DATE:20241223
+DTEND;VALUE=DATE:20250106
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MB] Max Battles - December 23 to January 6
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:max-battle-day-february-2025
-DTSTAMP:20241127T002715Z
+DTSTAMP:20241128T002726Z
 SUMMARY:[MB] Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-february-2025/
