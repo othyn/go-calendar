@@ -11,9 +11,9 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:daily-pokecoin-bounty-ticket-max-out-part-3
-DTSTAMP:20241201T003316Z
+DTSTAMP:20241202T002910Z
 SUMMARY:[TE] Daily PokéCoin Bounty Part 3 Ticket
-DESCRIPTION:Starts at 00:00\, ends at 11:59.\n\nhttps://leekduck.com/events
+DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /daily-pokecoin-bounty-ticket-max-out-part-3/
 URL:https://leekduck.com/events/daily-pokecoin-bounty-ticket-max-out-part-3
  /
@@ -29,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eggs-pedition-access-december-2024
-DTSTAMP:20241201T003316Z
+DTSTAMP:20241202T002910Z
 SUMMARY:[TE] Eggs-pedition Access: December
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /eggs-pedition-access-december-2024/
