@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Season events\, in your local time\, auto-upda
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:season-16-max-out
-DTSTAMP:20241203T002846Z
-SUMMARY:[S] Max Out
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /season-16-max-out/
-URL:https://leekduck.com/events/season-16-max-out/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/season-16-max-out.jp
- g
-DTSTART;VALUE=DATE:20240903
-DTEND;VALUE=DATE:20241203
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[S] Max Out
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:season-17-dual-destiny
-DTSTAMP:20241203T002846Z
+DTSTAMP:20241204T002803Z
 SUMMARY:[S] Dual Destiny
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-17-dual-destiny/
