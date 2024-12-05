@@ -10,30 +10,8 @@ X-WR-CALDESC:All Pokémon GO GO Battle League events\, in your local time\,
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:gbl-max-out_great-league_ultra-league_master-league_catch-cup-great-lea
- gue-edition
-DTSTAMP:20241204T002803Z
-SUMMARY:[GBL] Great League\, Ultra League\, Master League\, and Catch Cup: 
- Great League Edition | Max Out
-DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /gbl-max-out_great-league_ultra-league_master-league_catch-cup-great-leagu
- e-edition/
-URL:https://leekduck.com/events/gbl-max-out_great-league_ultra-league_maste
- r-league_catch-cup-great-league-edition/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-sea
- son-20-max-out.jpg
-DTSTART;VALUE=DATE:20241126
-DTEND;VALUE=DATE:20241203
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[GBL] Great League\, Ultra League\, Master League\, and Catch C
- up: Great League Edition | Max Out
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:gbl-dual-destiny_great-league_galar-cup-little-edition
-DTSTAMP:20241204T002803Z
+DTSTAMP:20241205T002758Z
 SUMMARY:[GBL] Great League and Fantasy Cup: Great League Edition | Dual Des
  tiny
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events

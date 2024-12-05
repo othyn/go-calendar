@@ -11,24 +11,24 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:december-communityday2024
-DTSTAMP:20241204T002803Z
-SUMMARY:[CD] December Community Day
+DTSTAMP:20241205T002758Z
+SUMMARY:[CD] December Community Day 2024
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /december-communityday2024/
 URL:https://leekduck.com/events/december-communityday2024/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/article-images/2024/
- 2024-12-21-december-communityday2024/cd-default-3.jpg
+ 2024-12-21-december-communityday2024/2024-12-december-communityday.jpg
 DTSTART;VALUE=DATE:20241221
 DTEND;VALUE=DATE:20241222
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[CD] December Community Day
+DESCRIPTION:[CD] December Community Day 2024
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:january-communityday2025
-DTSTAMP:20241204T002803Z
+DTSTAMP:20241205T002758Z
 SUMMARY:[CD] January Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /january-communityday2025/
@@ -44,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:january-communitydayclassic2025
-DTSTAMP:20241204T002803Z
+DTSTAMP:20241205T002758Z
 SUMMARY:[CD] January Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /january-communitydayclassic2025/
@@ -60,7 +60,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:february-communityday2025
-DTSTAMP:20241204T002803Z
+DTSTAMP:20241205T002758Z
 SUMMARY:[CD] February Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /february-communityday2025/
