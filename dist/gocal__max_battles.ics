@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:gigantamax-lapras-max-battle-day
-DTSTAMP:20241205T002758Z
+DTSTAMP:20241206T002753Z
 SUMMARY:[MB] Gigantamax Lapras Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /gigantamax-lapras-max-battle-day/
@@ -29,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:december-max-battles-split-1-2024
-DTSTAMP:20241205T002758Z
+DTSTAMP:20241206T002753Z
 SUMMARY:[MB] Max Battles - December 3 to 9
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /december-max-battles-split-1-2024/
@@ -46,7 +46,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:december-max-battles-split-2-2024
-DTSTAMP:20241205T002758Z
+DTSTAMP:20241206T002753Z
 SUMMARY:[MB] Max Battles - December 9 to 23
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /december-max-battles-split-2-2024/
@@ -63,7 +63,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:december-max-battles-split-3-2024
-DTSTAMP:20241205T002758Z
+DTSTAMP:20241206T002753Z
 SUMMARY:[MB] Max Battles - December 23 to January 6
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /december-max-battles-split-3-2024/
@@ -80,7 +80,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-february-2025
-DTSTAMP:20241205T002758Z
+DTSTAMP:20241206T002753Z
 SUMMARY:[MB] Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-february-2025/
