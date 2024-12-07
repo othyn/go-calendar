@@ -10,24 +10,19 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-galarian-mrmime-galarian-farfetchd-galarian-corsola-20
- 24-11-04
-DTSTAMP:20241202T002910Z
-SUMMARY:[PS] Galarian Mr. Mime\, Galarian Farfetch'd\, and Galarian Corsola
-  PokéStop Showcases
+UID:pokemon-showcase-sinistea-2024-12-07
+DTSTAMP:20241207T002726Z
+SUMMARY:[PS] Sinistea PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-galarian-mrmime-galarian-farfetchd-galarian-corsola-2024
- -11-04/
-URL:https://leekduck.com/events/pokemon-showcase-galarian-mrmime-galarian-f
- arfetchd-galarian-corsola-2024-11-04/
+ /pokemon-showcase-sinistea-2024-12-07/
+URL:https://leekduck.com/events/pokemon-showcase-sinistea-2024-12-07/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
  efault.jpg
-DTSTART;VALUE=DATE:20241130
-DTEND;VALUE=DATE:20241201
+DTSTART;VALUE=DATE:20241207
+DTEND;VALUE=DATE:20241208
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Galarian Mr. Mime\, Galarian Farfetch'd\, and Galarian Cor
- sola PokéStop Showcases
+DESCRIPTION:[PS] Sinistea PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
