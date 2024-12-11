@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-sinistea-2024-12-07
-DTSTAMP:20241210T002824Z
+DTSTAMP:20241211T002801Z
 SUMMARY:[PS] Sinistea PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-sinistea-2024-12-07/

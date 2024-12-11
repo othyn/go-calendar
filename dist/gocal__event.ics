@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:just-my-cup-of-tea
-DTSTAMP:20241210T002824Z
+DTSTAMP:20241211T002801Z
 SUMMARY:[E] Just My Cup of Tea
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /just-my-cup-of-tea/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:young-and-wise
-DTSTAMP:20241210T002824Z
+DTSTAMP:20241211T002801Z
 SUMMARY:[E] Young &amp\; Wise
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /young-and-wise/
@@ -45,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-holiday-part-1
-DTSTAMP:20241210T002824Z
+DTSTAMP:20241211T002801Z
 SUMMARY:[E] Pokémon GO Holiday: Part 1
 DESCRIPTION:Starts at 10:00\, ends at 09:59.\n\nhttps://leekduck.com/events
  /pokemon-go-holiday-part-1/
@@ -62,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-holiday-part-2
-DTSTAMP:20241210T002824Z
+DTSTAMP:20241211T002801Z
 SUMMARY:[E] Pokémon GO Holiday: Part 2
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-go-holiday-part-2/
@@ -79,7 +79,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-december-2024
-DTSTAMP:20241210T002824Z
+DTSTAMP:20241211T002801Z
 SUMMARY:[E] Charged Embers Hatch Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-december-2024/
@@ -96,7 +96,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:new-years-2025
-DTSTAMP:20241210T002824Z
+DTSTAMP:20241211T002801Z
 SUMMARY:[E] New Year's 2025
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /new-years-2025/
