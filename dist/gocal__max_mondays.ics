@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:max-mondays-2024-12-09
-DTSTAMP:20241213T002826Z
+DTSTAMP:20241214T002657Z
 SUMMARY:[MM] Dynamax Krabby during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2024-12-09/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2024-12-16
-DTSTAMP:20241213T002826Z
+DTSTAMP:20241214T002657Z
 SUMMARY:[MM] Dynamax Charmander during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2024-12-16/
@@ -45,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2024-12-23
-DTSTAMP:20241213T002826Z
+DTSTAMP:20241214T002657Z
 SUMMARY:[MM] Dynamax Cryogonal during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2024-12-23/
@@ -62,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2024-12-30
-DTSTAMP:20241213T002826Z
+DTSTAMP:20241214T002657Z
 SUMMARY:[MM] Dynamax Bulbasaur during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2024-12-30/
