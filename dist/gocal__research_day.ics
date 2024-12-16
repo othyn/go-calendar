@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:aspiring-dragons-research-day
-DTSTAMP:20241215T003051Z
+DTSTAMP:20241216T002934Z
 SUMMARY:[RD] Aspiring Dragons Research Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /aspiring-dragons-research-day/
