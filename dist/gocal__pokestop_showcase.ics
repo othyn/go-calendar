@@ -10,19 +10,20 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-sinistea-2024-12-07
-DTSTAMP:20241218T002649Z
-SUMMARY:[PS] Sinistea PokéStop Showcases
+UID:pokemon-showcase-dedenne-sandygast-2024-12-16
+DTSTAMP:20241219T002717Z
+SUMMARY:[PS] Dedenne and Sandygast PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-sinistea-2024-12-07/
-URL:https://leekduck.com/events/pokemon-showcase-sinistea-2024-12-07/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
- efault.jpg
-DTSTART;VALUE=DATE:20241207
-DTEND;VALUE=DATE:20241208
+ /pokemon-showcase-dedenne-sandygast-2024-12-16/
+URL:https://leekduck.com/events/pokemon-showcase-dedenne-sandygast-2024-12-
+ 16/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
+ es-default.jpg
+DTSTART;VALUE=DATE:20241216
+DTEND;VALUE=DATE:20241218
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Sinistea PokéStop Showcases
+DESCRIPTION:[PS] Dedenne and Sandygast PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

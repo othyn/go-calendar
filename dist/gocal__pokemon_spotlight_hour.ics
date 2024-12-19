@@ -10,48 +10,14 @@ X-WR-CALDESC:All Pokémon GO Pokémon Spotlight Hour events\, in your local
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemonspotlighthour2024-12-10
-DTSTAMP:20241218T002649Z
-SUMMARY:[PSH] Murkrow Spotlight Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2024-12-10/
-URL:https://leekduck.com/events/pokemonspotlighthour2024-12-10/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
- .jpg
-DTSTART:20241210T180000
-DTEND:20241210T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PSH] Murkrow Spotlight Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pokemonspotlighthour2024-12-17
-DTSTAMP:20241218T002649Z
-SUMMARY:[PSH] Slugma and Bergmite Spotlight Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2024-12-17/
-URL:https://leekduck.com/events/pokemonspotlighthour2024-12-17/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
- .jpg
-DTSTART:20241217T180000
-DTEND:20241217T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PSH] Slugma and Bergmite Spotlight Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemonspotlighthour2024-12-24
-DTSTAMP:20241218T002649Z
+DTSTAMP:20241219T002717Z
 SUMMARY:[PSH] Delibird Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-12-24/
 URL:https://leekduck.com/events/pokemonspotlighthour2024-12-24/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
- .jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
 DTSTART:20241224T180000
 DTEND:20241224T190000
 BEGIN:VALARM
@@ -62,13 +28,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-12-31
-DTSTAMP:20241218T002649Z
+DTSTAMP:20241219T002717Z
 SUMMARY:[PSH] Togetic Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-12-31/
 URL:https://leekduck.com/events/pokemonspotlighthour2024-12-31/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
- .jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
 DTSTART:20241231T180000
 DTEND:20241231T190000
 BEGIN:VALARM

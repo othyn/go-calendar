@@ -10,48 +10,14 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:just-my-cup-of-tea
-DTSTAMP:20241218T002649Z
-SUMMARY:[E] Just My Cup of Tea
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /just-my-cup-of-tea/
-URL:https://leekduck.com/events/just-my-cup-of-tea/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/article-images/2024/
- 2024-12-03-just-my-cup-of-tea/just-my-cup-of-tea.jpg
-DTSTART;VALUE=DATE:20241203
-DTEND;VALUE=DATE:20241207
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Just My Cup of Tea
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:young-and-wise
-DTSTAMP:20241218T002649Z
-SUMMARY:[E] Young &amp\; Wise
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /young-and-wise/
-URL:https://leekduck.com/events/young-and-wise/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/article-images/2024/
- 2024-12-10-young-and-wise/young-and-wise.jpg
-DTSTART;VALUE=DATE:20241210
-DTEND;VALUE=DATE:20241214
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Young &amp\; Wise
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-go-holiday-part-1
-DTSTAMP:20241218T002649Z
+DTSTAMP:20241219T002717Z
 SUMMARY:[E] Pokémon GO Holiday: Part 1
 DESCRIPTION:Starts at 10:00\, ends at 09:59.\n\nhttps://leekduck.com/events
  /pokemon-go-holiday-part-1/
 URL:https://leekduck.com/events/pokemon-go-holiday-part-1/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/article-images/2024/
- 2024-12-17-pokemon-go-holiday-part-1/pokemon-go-holiday-part-1.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 024/2024-12-17-pokemon-go-holiday-part-1/pokemon-go-holiday-part-1.jpg
 DTSTART;VALUE=DATE:20241217
 DTEND;VALUE=DATE:20241222
 BEGIN:VALARM
@@ -62,13 +28,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-holiday-part-2
-DTSTAMP:20241218T002649Z
+DTSTAMP:20241219T002717Z
 SUMMARY:[E] Pokémon GO Holiday: Part 2
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-go-holiday-part-2/
 URL:https://leekduck.com/events/pokemon-go-holiday-part-2/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 024/2024-12-22-pokemon-go-holiday-part-2/holiday-part-2.jpg
 DTSTART;VALUE=DATE:20241222
 DTEND;VALUE=DATE:20241227
 BEGIN:VALARM
@@ -78,14 +44,14 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:hatch-day-december-2024
-DTSTAMP:20241218T002649Z
+UID:charged-embers-hatch-day-2024
+DTSTAMP:20241219T002717Z
 SUMMARY:[E] Charged Embers Hatch Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /hatch-day-december-2024/
-URL:https://leekduck.com/events/hatch-day-december-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+ /charged-embers-hatch-day-2024/
+URL:https://leekduck.com/events/charged-embers-hatch-day-2024/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 024/2024-12-29-charged-embers-hatch-day-2024/charged-embers-hatch-day.jpg
 DTSTART:20241229T140000
 DTEND:20241229T170000
 BEGIN:VALARM
@@ -96,18 +62,35 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:new-years-2025
-DTSTAMP:20241218T002649Z
+DTSTAMP:20241219T002717Z
 SUMMARY:[E] New Year's 2025
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /new-years-2025/
 URL:https://leekduck.com/events/new-years-2025/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 024/2024-12-30-new-years-2025/new-year-2025.jpg
 DTSTART;VALUE=DATE:20241230
 DTEND;VALUE=DATE:20250101
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[E] New Year's 2025
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-battle-weekend-dual-destiny
+DTSTAMP:20241219T002717Z
+SUMMARY:[E] GO Battle Weekend: Dual Destiny
+DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
+ /go-battle-weekend-dual-destiny/
+URL:https://leekduck.com/events/go-battle-weekend-dual-destiny/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
+ -season-21-dual-destiny.jpg
+DTSTART;VALUE=DATE:20250121
+DTEND;VALUE=DATE:20250126
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] GO Battle Weekend: Dual Destiny
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

@@ -10,270 +10,13 @@ X-WR-CALDESC:All Pokémon GO events\, in your local time\, auto-updated and
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:aspiring-dragons-research-day
-DTSTAMP:20241218T002649Z
-SUMMARY:[RD] Aspiring Dragons Research Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /aspiring-dragons-research-day/
-URL:https://leekduck.com/events/aspiring-dragons-research-day/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/article-images/2024/
- 2024-12-07-aspiring-dragons-research-day/aspiring-dragons-research-day.jpg
-DTSTART:20241207T140000
-DTEND:20241207T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RD] Aspiring Dragons Research Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:just-my-cup-of-tea
-DTSTAMP:20241218T002649Z
-SUMMARY:[E] Just My Cup of Tea
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /just-my-cup-of-tea/
-URL:https://leekduck.com/events/just-my-cup-of-tea/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/article-images/2024/
- 2024-12-03-just-my-cup-of-tea/just-my-cup-of-tea.jpg
-DTSTART;VALUE=DATE:20241203
-DTEND;VALUE=DATE:20241207
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Just My Cup of Tea
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:gigantamax-lapras-max-battle-day
-DTSTAMP:20241218T002649Z
-SUMMARY:[MB] Gigantamax Lapras Max Battle Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /gigantamax-lapras-max-battle-day/
-URL:https://leekduck.com/events/gigantamax-lapras-max-battle-day/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/article-images/2024/
- 2024-12-08-gigantamax-lapras-max-battle-day/gigantamax-lapras-max-battle-d
- ay.jpg
-DTSTART:20241208T140000
-DTEND:20241208T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[MB] Gigantamax Lapras Max Battle Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pokemon-showcase-sinistea-2024-12-07
-DTSTAMP:20241218T002649Z
-SUMMARY:[PS] Sinistea PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-sinistea-2024-12-07/
-URL:https://leekduck.com/events/pokemon-showcase-sinistea-2024-12-07/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
- efault.jpg
-DTSTART;VALUE=DATE:20241207
-DTEND;VALUE=DATE:20241208
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PS] Sinistea PokéStop Showcases
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:max-mondays-2024-12-09
-DTSTAMP:20241218T002649Z
-SUMMARY:[MM] Dynamax Krabby during Max Monday
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /max-mondays-2024-12-09/
-URL:https://leekduck.com/events/max-mondays-2024-12-09/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/max-battles-kanto.jp
- g
-DTSTART:20241209T180000
-DTEND:20241209T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[MM] Dynamax Krabby during Max Monday
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:december-max-battles-split-1-2024
-DTSTAMP:20241218T002649Z
-SUMMARY:[MB] Max Battles - December 3 to 9
-DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /december-max-battles-split-1-2024/
-URL:https://leekduck.com/events/december-max-battles-split-1-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/power-spots-max-batt
- les.jpg
-DTSTART;VALUE=DATE:20241203
-DTEND;VALUE=DATE:20241209
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[MB] Max Battles - December 3 to 9
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:gbl-dual-destiny_great-league_galar-cup-little-edition
-DTSTAMP:20241218T002649Z
-SUMMARY:[GBL] Great League and Fantasy Cup: Great League Edition | Dual Des
- tiny
-DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /gbl-dual-destiny_great-league_galar-cup-little-edition/
-URL:https://leekduck.com/events/gbl-dual-destiny_great-league_galar-cup-lit
- tle-edition/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattle-greatleague
- -key.jpg
-DTSTART;VALUE=DATE:20241203
-DTEND;VALUE=DATE:20241210
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[GBL] Great League and Fantasy Cup: Great League Edition | Dual
-  Destiny
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pokemonspotlighthour2024-12-10
-DTSTAMP:20241218T002649Z
-SUMMARY:[PSH] Murkrow Spotlight Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2024-12-10/
-URL:https://leekduck.com/events/pokemonspotlighthour2024-12-10/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
- .jpg
-DTSTART:20241210T180000
-DTEND:20241210T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PSH] Murkrow Spotlight Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:raidhour20241211
-DTSTAMP:20241218T002649Z
-SUMMARY:[RH] Genesect (Chill Drive) Raid Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /raidhour20241211/
-URL:https://leekduck.com/events/raidhour20241211/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
-DTSTART:20241211T180000
-DTEND:20241211T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RH] Genesect (Chill Drive) Raid Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:genesect-with-a-chill-drive-in-5-star-raid-battles-december-2024
-DTSTAMP:20241218T002649Z
-SUMMARY:[RB] Genesect with a Chill Drive in 5-star Raid Battles
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /genesect-with-a-chill-drive-in-5-star-raid-battles-december-2024/
-URL:https://leekduck.com/events/genesect-with-a-chill-drive-in-5-star-raid-
- battles-december-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/genesect.jpg
-DTSTART;VALUE=DATE:20241203
-DTEND;VALUE=DATE:20241212
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Genesect with a Chill Drive in 5-star Raid Battles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:mega-banette-in-mega-raids-november-2024
-DTSTAMP:20241218T002649Z
-SUMMARY:[RB] Mega Banette in Mega Raids
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /mega-banette-in-mega-raids-november-2024/
-URL:https://leekduck.com/events/mega-banette-in-mega-raids-november-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;VALUE=DATE:20241203
-DTEND;VALUE=DATE:20241212
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Mega Banette in Mega Raids
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:necrozma-fusion-raid-day
-DTSTAMP:20241218T002649Z
-SUMMARY:[RD] Necrozma Fusion Raid Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /necrozma-fusion-raid-day/
-URL:https://leekduck.com/events/necrozma-fusion-raid-day/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/article-images/2024/
- 2024-12-14-necrozma-fusion-raid-day/necrozma-fusion-raid-day.jpg
-DTSTART:20241214T140000
-DTEND:20241214T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RD] Necrozma Fusion Raid Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:young-and-wise
-DTSTAMP:20241218T002649Z
-SUMMARY:[E] Young &amp\; Wise
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /young-and-wise/
-URL:https://leekduck.com/events/young-and-wise/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/article-images/2024/
- 2024-12-10-young-and-wise/young-and-wise.jpg
-DTSTART;VALUE=DATE:20241210
-DTEND;VALUE=DATE:20241214
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Young &amp\; Wise
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:max-mondays-2024-12-16
-DTSTAMP:20241218T002649Z
-SUMMARY:[MM] Dynamax Charmander during Max Monday
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /max-mondays-2024-12-16/
-URL:https://leekduck.com/events/max-mondays-2024-12-16/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/max-battles-kanto.jp
- g
-DTSTART:20241216T180000
-DTEND:20241216T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[MM] Dynamax Charmander during Max Monday
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pokemonspotlighthour2024-12-17
-DTSTAMP:20241218T002649Z
-SUMMARY:[PSH] Slugma and Bergmite Spotlight Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2024-12-17/
-URL:https://leekduck.com/events/pokemonspotlighthour2024-12-17/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
- .jpg
-DTSTART:20241217T180000
-DTEND:20241217T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PSH] Slugma and Bergmite Spotlight Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raidhour20241218
-DTSTAMP:20241218T002649Z
+DTSTAMP:20241219T002717Z
 SUMMARY:[RH] Mega Latios Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20241218/
 URL:https://leekduck.com/events/raidhour20241218/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
 DTSTART:20241218T180000
 DTEND:20241218T190000
 BEGIN:VALARM
@@ -283,14 +26,32 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemon-showcase-dedenne-sandygast-2024-12-16
+DTSTAMP:20241219T002717Z
+SUMMARY:[PS] Dedenne and Sandygast PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-dedenne-sandygast-2024-12-16/
+URL:https://leekduck.com/events/pokemon-showcase-dedenne-sandygast-2024-12-
+ 16/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
+ es-default.jpg
+DTSTART;VALUE=DATE:20241216
+DTEND;VALUE=DATE:20241218
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PS] Dedenne and Sandygast PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:mega-latios-mega-raids-december-2024
-DTSTAMP:20241218T002649Z
+DTSTAMP:20241219T002717Z
 SUMMARY:[RB] Mega Latios in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-latios-mega-raids-december-2024/
 URL:https://leekduck.com/events/mega-latios-mega-raids-december-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-latios-mega-lat
- ias.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-latios-mega
+ -latias.jpg
 DTSTART;VALUE=DATE:20241212
 DTEND;VALUE=DATE:20241219
 BEGIN:VALARM
@@ -301,13 +62,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-holiday-part-1
-DTSTAMP:20241218T002649Z
+DTSTAMP:20241219T002717Z
 SUMMARY:[E] Pokémon GO Holiday: Part 1
 DESCRIPTION:Starts at 10:00\, ends at 09:59.\n\nhttps://leekduck.com/events
  /pokemon-go-holiday-part-1/
 URL:https://leekduck.com/events/pokemon-go-holiday-part-1/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/article-images/2024/
- 2024-12-17-pokemon-go-holiday-part-1/pokemon-go-holiday-part-1.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 024/2024-12-17-pokemon-go-holiday-part-1/pokemon-go-holiday-part-1.jpg
 DTSTART;VALUE=DATE:20241217
 DTEND;VALUE=DATE:20241222
 BEGIN:VALARM
@@ -318,13 +79,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:december-communityday2024
-DTSTAMP:20241218T002649Z
+DTSTAMP:20241219T002717Z
 SUMMARY:[CD] December Community Day 2024
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /december-communityday2024/
 URL:https://leekduck.com/events/december-communityday2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/article-images/2024/
- 2024-12-21-december-communityday2024/2024-12-december-communityday.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 024/2024-12-21-december-communityday2024/2024-12-december-communityday.jpg
 DTSTART;VALUE=DATE:20241221
 DTEND;VALUE=DATE:20241222
 BEGIN:VALARM
@@ -335,13 +96,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2024-12-23
-DTSTAMP:20241218T002649Z
+DTSTAMP:20241219T002717Z
 SUMMARY:[MM] Dynamax Cryogonal during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2024-12-23/
 URL:https://leekduck.com/events/max-mondays-2024-12-23/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/max-battles-kanto.jp
- g
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
 DTSTART:20241223T180000
 DTEND:20241223T190000
 BEGIN:VALARM
@@ -352,13 +113,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:december-max-battles-split-2-2024
-DTSTAMP:20241218T002649Z
+DTSTAMP:20241219T002717Z
 SUMMARY:[MB] Max Battles - December 9 to 23
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /december-max-battles-split-2-2024/
 URL:https://leekduck.com/events/december-max-battles-split-2-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/power-spots-max-batt
- les.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/power-spots-max-
+ battles.jpg
 DTSTART;VALUE=DATE:20241209
 DTEND;VALUE=DATE:20241223
 BEGIN:VALARM
@@ -368,14 +129,33 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:gbl-dual-destiny_master-league_holiday-cup-little-edition
+DTSTAMP:20241219T002717Z
+SUMMARY:[GBL] Master League and Holiday Cup: Little Edition | Dual Destiny
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-dual-destiny_master-league_holiday-cup-little-edition/
+URL:https://leekduck.com/events/gbl-dual-destiny_master-league_holiday-cup-
+ little-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattleleague-m
+ aster-key.jpg
+DTSTART;VALUE=DATE:20241217
+DTEND;VALUE=DATE:20241224
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Master League and Holiday Cup: Little Edition | Dual Dest
+ iny
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:pokemonspotlighthour2024-12-24
-DTSTAMP:20241218T002649Z
+DTSTAMP:20241219T002717Z
 SUMMARY:[PSH] Delibird Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-12-24/
 URL:https://leekduck.com/events/pokemonspotlighthour2024-12-24/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
- .jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
 DTSTART:20241224T180000
 DTEND:20241224T190000
 BEGIN:VALARM
@@ -386,12 +166,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20241225
-DTSTAMP:20241218T002649Z
+DTSTAMP:20241219T002717Z
 SUMMARY:[RH] Mega Latias Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20241225/
 URL:https://leekduck.com/events/raidhour20241225/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
 DTSTART:20241225T180000
 DTEND:20241225T190000
 BEGIN:VALARM
@@ -402,13 +182,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-latias-mega-raids-december-2024
-DTSTAMP:20241218T002649Z
+DTSTAMP:20241219T002717Z
 SUMMARY:[RB] Mega Latias in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-latias-mega-raids-december-2024/
 URL:https://leekduck.com/events/mega-latias-mega-raids-december-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-latios-mega-lat
- ias.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-latios-mega
+ -latias.jpg
 DTSTART;VALUE=DATE:20241219
 DTEND;VALUE=DATE:20241226
 BEGIN:VALARM
@@ -419,13 +199,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-holiday-part-2
-DTSTAMP:20241218T002649Z
+DTSTAMP:20241219T002717Z
 SUMMARY:[E] Pokémon GO Holiday: Part 2
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-go-holiday-part-2/
 URL:https://leekduck.com/events/pokemon-go-holiday-part-2/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 024/2024-12-22-pokemon-go-holiday-part-2/holiday-part-2.jpg
 DTSTART;VALUE=DATE:20241222
 DTEND;VALUE=DATE:20241227
 BEGIN:VALARM
@@ -435,14 +215,14 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:hatch-day-december-2024
-DTSTAMP:20241218T002649Z
+UID:charged-embers-hatch-day-2024
+DTSTAMP:20241219T002717Z
 SUMMARY:[E] Charged Embers Hatch Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /hatch-day-december-2024/
-URL:https://leekduck.com/events/hatch-day-december-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+ /charged-embers-hatch-day-2024/
+URL:https://leekduck.com/events/charged-embers-hatch-day-2024/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 024/2024-12-29-charged-embers-hatch-day-2024/charged-embers-hatch-day.jpg
 DTSTART:20241229T140000
 DTEND:20241229T170000
 BEGIN:VALARM
@@ -453,30 +233,30 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-regice-in-shadow-raids-dual-destiny
-DTSTAMP:20241218T002649Z
-SUMMARY:[RB] Shadow Regice in Shadow Raids
+DTSTAMP:20241219T002717Z
+SUMMARY:[RB] Shadow Regice in Shadow Raids in December
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-regice-in-shadow-raids-dual-destiny/
 URL:https://leekduck.com/events/shadow-regice-in-shadow-raids-dual-destiny/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
 DTSTART;VALUE=DATE:20241207
 DTEND;VALUE=DATE:20241229
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RB] Shadow Regice in Shadow Raids
+DESCRIPTION:[RB] Shadow Regice in Shadow Raids in December
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2024-12-30
-DTSTAMP:20241218T002649Z
+DTSTAMP:20241219T002717Z
 SUMMARY:[MM] Dynamax Bulbasaur during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2024-12-30/
 URL:https://leekduck.com/events/max-mondays-2024-12-30/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/max-battles-kanto.jp
- g
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
 DTSTART:20241230T180000
 DTEND:20241230T190000
 BEGIN:VALARM
@@ -486,14 +266,34 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:gbl-dual-destiny_great-league_ultra-league_master-league-split-1
+DTSTAMP:20241219T002717Z
+SUMMARY:[GBL] Great League\, Ultra League\, and Master League | Dual Destin
+ y
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-dual-destiny_great-league_ultra-league_master-league-split-1/
+URL:https://leekduck.com/events/gbl-dual-destiny_great-league_ultra-league_
+ master-league-split-1/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
+ -season-21-dual-destiny.jpg
+DTSTART;VALUE=DATE:20241224
+DTEND;VALUE=DATE:20241231
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Great League\, Ultra League\, and Master League | Dual De
+ stiny
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:pokemonspotlighthour2024-12-31
-DTSTAMP:20241218T002649Z
+DTSTAMP:20241219T002717Z
 SUMMARY:[PSH] Togetic Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-12-31/
 URL:https://leekduck.com/events/pokemonspotlighthour2024-12-31/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
- .jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
 DTSTART:20241231T180000
 DTEND:20241231T190000
 BEGIN:VALARM
@@ -504,14 +304,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eggs-pedition-access-december-2024
-DTSTAMP:20241218T002649Z
+DTSTAMP:20241219T002717Z
 SUMMARY:[TE] Eggs-pedition Access: December
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /eggs-pedition-access-december-2024/
 URL:https://leekduck.com/events/eggs-pedition-access-december-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/article-images/2024/
- 2024-12-03-eggs-pedition-access-december-2024/eggs-pedition-access-decembe
- r-2024.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 024/2024-12-03-eggs-pedition-access-december-2024/eggs-pedition-access-dec
+ ember-2024.jpg
 DTSTART;VALUE=DATE:20241203
 DTEND;VALUE=DATE:20241231
 BEGIN:VALARM
@@ -522,13 +322,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:new-years-2025
-DTSTAMP:20241218T002649Z
+DTSTAMP:20241219T002717Z
 SUMMARY:[E] New Year's 2025
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /new-years-2025/
 URL:https://leekduck.com/events/new-years-2025/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 024/2024-12-30-new-years-2025/new-year-2025.jpg
 DTSTART;VALUE=DATE:20241230
 DTEND;VALUE=DATE:20250101
 BEGIN:VALARM
@@ -539,13 +339,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-abomasnow-in-mega-raids-november-2024-copy
-DTSTAMP:20241218T002649Z
+DTSTAMP:20241219T002717Z
 SUMMARY:[RB] Mega Abomasnow in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-abomasnow-in-mega-raids-november-2024-copy/
 URL:https://leekduck.com/events/mega-abomasnow-in-mega-raids-november-2024-
  copy/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
 DTSTART;VALUE=DATE:20241226
 DTEND;VALUE=DATE:20250104
 BEGIN:VALARM
@@ -556,13 +356,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:giratina-in-5-star-raid-battles-december-2024
-DTSTAMP:20241218T002649Z
+DTSTAMP:20241219T002717Z
 SUMMARY:[RB] Giratina in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /giratina-in-5-star-raid-battles-december-2024/
 URL:https://leekduck.com/events/giratina-in-5-star-raid-battles-december-20
  24/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/giratinaaltered.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/giratinaaltered.
+ jpg
 DTSTART;VALUE=DATE:20241226
 DTEND;VALUE=DATE:20250104
 BEGIN:VALARM
@@ -573,29 +374,30 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:january-communityday2025
-DTSTAMP:20241218T002649Z
-SUMMARY:[CD] January Community Day
+DTSTAMP:20241219T002717Z
+SUMMARY:[CD] Sprigatito Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /january-communityday2025/
 URL:https://leekduck.com/events/january-communityday2025/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-01-05-january-communityday2025/sprigatito-community-day.jpg?v2
 DTSTART:20250105T140000
 DTEND:20250105T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[CD] January Community Day
+DESCRIPTION:[CD] Sprigatito Community Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:december-max-battles-split-3-2024
-DTSTAMP:20241218T002649Z
+DTSTAMP:20241219T002717Z
 SUMMARY:[MB] Max Battles - December 23 to January 6
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /december-max-battles-split-3-2024/
 URL:https://leekduck.com/events/december-max-battles-split-3-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/power-spots-max-batt
- les.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/power-spots-max-
+ battles.jpg
 DTSTART;VALUE=DATE:20241223
 DTEND;VALUE=DATE:20250106
 BEGIN:VALARM
@@ -605,14 +407,33 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:gbl-dual-destiny_great-league_holiday-cup-little-edition
+DTSTAMP:20241219T002717Z
+SUMMARY:[GBL] Great League and Holiday Cup: Little Edition | Dual Destiny
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-dual-destiny_great-league_holiday-cup-little-edition/
+URL:https://leekduck.com/events/gbl-dual-destiny_great-league_holiday-cup-l
+ ittle-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattle-greatle
+ ague-key.jpg
+DTSTART;VALUE=DATE:20241231
+DTEND;VALUE=DATE:20250107
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Great League and Holiday Cup: Little Edition | Dual Desti
+ ny
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:raid-day-january-2025
-DTSTAMP:20241218T002649Z
+DTSTAMP:20241219T002717Z
 SUMMARY:[RD] Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-january-2025/
 URL:https://leekduck.com/events/raid-day-january-2025/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
 DTSTART:20250111T140000
 DTEND:20250111T170000
 BEGIN:VALARM
@@ -622,14 +443,34 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:gbl-dual-destiny_ultra-league_color-cup-great-league-edition
+DTSTAMP:20241219T002717Z
+SUMMARY:[GBL] Ultra League and Color Cup: Great League Edition | Dual Desti
+ ny
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-dual-destiny_ultra-league_color-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-dual-destiny_ultra-league_color-cup-gre
+ at-league-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
+ -ultra-league-machamp-swampert.jpg
+DTSTART;VALUE=DATE:20250107
+DTEND;VALUE=DATE:20250114
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Ultra League and Color Cup: Great League Edition | Dual D
+ estiny
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:shadow-raid-day-january-2025
-DTSTAMP:20241218T002649Z
+DTSTAMP:20241219T002717Z
 SUMMARY:[RB] Shadow Raid Day
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-raid-day-january-2025/
 URL:https://leekduck.com/events/shadow-raid-day-january-2025/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
 DTSTART:20250119T060000
 DTEND:20250119T220000
 BEGIN:VALARM
@@ -639,13 +480,33 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:gbl-dual-destiny_master-league_color-cup-great-league-edition
+DTSTAMP:20241219T002717Z
+SUMMARY:[GBL] Master League and Color Cup: Great League Edition | Dual Dest
+ iny
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-dual-destiny_master-league_color-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-dual-destiny_master-league_color-cup-gr
+ eat-league-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattleleague-m
+ aster-key.jpg
+DTSTART;VALUE=DATE:20250114
+DTEND;VALUE=DATE:20250121
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Master League and Color Cup: Great League Edition | Dual 
+ Destiny
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:january-communitydayclassic2025
-DTSTAMP:20241218T002649Z
+DTSTAMP:20241219T002717Z
 SUMMARY:[CD] January Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /january-communitydayclassic2025/
 URL:https://leekduck.com/events/january-communitydayclassic2025/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
 DTSTART:20250125T140000
 DTEND:20250125T170000
 BEGIN:VALARM
@@ -655,14 +516,51 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:go-battle-weekend-dual-destiny
+DTSTAMP:20241219T002717Z
+SUMMARY:[E] GO Battle Weekend: Dual Destiny
+DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
+ /go-battle-weekend-dual-destiny/
+URL:https://leekduck.com/events/go-battle-weekend-dual-destiny/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
+ -season-21-dual-destiny.jpg
+DTSTART;VALUE=DATE:20250121
+DTEND;VALUE=DATE:20250126
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] GO Battle Weekend: Dual Destiny
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-dual-destiny_great-league_ultra-league_master-league-split-2
+DTSTAMP:20241219T002717Z
+SUMMARY:[GBL] Great League\, Ultra League\, and Master League | Dual Destin
+ y
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-dual-destiny_great-league_ultra-league_master-league-split-2/
+URL:https://leekduck.com/events/gbl-dual-destiny_great-league_ultra-league_
+ master-league-split-2/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
+ -season-21-dual-destiny.jpg
+DTSTART;VALUE=DATE:20250121
+DTEND;VALUE=DATE:20250128
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Great League\, Ultra League\, and Master League | Dual De
+ stiny
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:max-battle-day-february-2025
-DTSTAMP:20241218T002649Z
+DTSTAMP:20241219T002717Z
 SUMMARY:[MB] Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-february-2025/
 URL:https://leekduck.com/events/max-battle-day-february-2025/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
 DTSTART:20250201T140000
 DTEND:20250201T170000
 BEGIN:VALARM
@@ -672,13 +570,32 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:gbl-dual-destiny_great-league_jungle-cup-little-edition
+DTSTAMP:20241219T002717Z
+SUMMARY:[GBL] Great League and Jungle Cup: Little Edition | Dual Destiny
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-dual-destiny_great-league_jungle-cup-little-edition/
+URL:https://leekduck.com/events/gbl-dual-destiny_great-league_jungle-cup-li
+ ttle-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattle-greatle
+ ague-key.jpg
+DTSTART;VALUE=DATE:20250128
+DTEND;VALUE=DATE:20250204
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Great League and Jungle Cup: Little Edition | Dual Destin
+ y
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:february-communityday2025
-DTSTAMP:20241218T002649Z
+DTSTAMP:20241219T002717Z
 SUMMARY:[CD] February Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /february-communityday2025/
 URL:https://leekduck.com/events/february-communityday2025/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
 DTSTART:20250209T140000
 DTEND:20250209T170000
 BEGIN:VALARM
@@ -688,14 +605,34 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:gbl-dual-destiny_ultra-league_love-cup-great-league-edition
+DTSTAMP:20241219T002717Z
+SUMMARY:[GBL] Ultra League and Love Cup: Great League Edition | Dual Destin
+ y
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-dual-destiny_ultra-league_love-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-dual-destiny_ultra-league_love-cup-grea
+ t-league-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
+ -ultra-league-machamp-swampert.jpg
+DTSTART;VALUE=DATE:20250204
+DTEND;VALUE=DATE:20250211
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Ultra League and Love Cup: Great League Edition | Dual De
+ stiny
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:raid-day-february-2025
-DTSTAMP:20241218T002649Z
+DTSTAMP:20241219T002717Z
 SUMMARY:[RD] Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-february-2025/
 URL:https://leekduck.com/events/raid-day-february-2025/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
 DTSTART:20250215T140000
 DTEND:20250215T170000
 BEGIN:VALARM
@@ -705,14 +642,55 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:gbl-dual-destiny_master-league_love-cup-great-league-edition
+DTSTAMP:20241219T002717Z
+SUMMARY:[GBL] Master League and Love Cup: Great League Edition | Dual Desti
+ ny
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-dual-destiny_master-league_love-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-dual-destiny_master-league_love-cup-gre
+ at-league-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattleleague-m
+ aster-key.jpg
+DTSTART;VALUE=DATE:20250211
+DTEND;VALUE=DATE:20250218
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Master League and Love Cup: Great League Edition | Dual D
+ estiny
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-dual-destiny_great-league_ultra-league_master-league-split-3
+DTSTAMP:20241219T002717Z
+SUMMARY:[GBL] Great League\, Ultra League\, and Master League | Dual Destin
+ y
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-dual-destiny_great-league_ultra-league_master-league-split-3/
+URL:https://leekduck.com/events/gbl-dual-destiny_great-league_ultra-league_
+ master-league-split-3/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
+ -season-21-dual-destiny.jpg
+DTSTART;VALUE=DATE:20250218
+DTEND;VALUE=DATE:20250225
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Great League\, Ultra League\, and Master League | Dual De
+ stiny
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:pokemon-go-tour-unova-global-2025
-DTSTAMP:20241218T002649Z
+DTSTAMP:20241219T002717Z
 SUMMARY:[PGT] Pokémon GO Tour: Unova - Global
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-tour-unova-global-2025/
 URL:https://leekduck.com/events/pokemon-go-tour-unova-global-2025/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/article-images/2025/
- 2025-03-01-pokemon-go-tour-unova-global-2025/GOTourUnova2025-Global.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-03-01-pokemon-go-tour-unova-global-2025/GOTourUnova2025-Global.jp
+ g
 DTSTART;VALUE=DATE:20250301
 DTEND;VALUE=DATE:20250302
 BEGIN:VALARM
@@ -723,18 +701,37 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-17-dual-destiny
-DTSTAMP:20241218T002649Z
+DTSTAMP:20241219T002717Z
 SUMMARY:[S] Dual Destiny
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-17-dual-destiny/
 URL:https://leekduck.com/events/season-17-dual-destiny/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/article-images/2024/
- 2024-12-03-season-17-dual-destiny/season-17-dual-destiny.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 024/2024-12-03-season-17-dual-destiny/season-17-dual-destiny.jpg
 DTSTART;VALUE=DATE:20241203
 DTEND;VALUE=DATE:20250304
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[S] Dual Destiny
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-dual-destiny_great-league_master-league-mega-edition
+DTSTAMP:20241219T002717Z
+SUMMARY:[GBL] Great League and Master League: Mega Edition | Dual Destiny
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-dual-destiny_great-league_master-league-mega-edition/
+URL:https://leekduck.com/events/gbl-dual-destiny_great-league_master-league
+ -mega-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattle-greatle
+ ague-key.jpg
+DTSTART;VALUE=DATE:20250225
+DTEND;VALUE=DATE:20250304
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Great League and Master League: Mega Edition | Dual Desti
+ ny
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

@@ -10,31 +10,14 @@ X-WR-CALDESC:All Pokémon GO Raid Day events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:necrozma-fusion-raid-day
-DTSTAMP:20241218T002649Z
-SUMMARY:[RD] Necrozma Fusion Raid Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /necrozma-fusion-raid-day/
-URL:https://leekduck.com/events/necrozma-fusion-raid-day/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/article-images/2024/
- 2024-12-14-necrozma-fusion-raid-day/necrozma-fusion-raid-day.jpg
-DTSTART:20241214T140000
-DTEND:20241214T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RD] Necrozma Fusion Raid Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raid-day-january-2025
-DTSTAMP:20241218T002649Z
+DTSTAMP:20241219T002717Z
 SUMMARY:[RD] Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-january-2025/
 URL:https://leekduck.com/events/raid-day-january-2025/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
 DTSTART:20250111T140000
 DTEND:20250111T170000
 BEGIN:VALARM
@@ -45,13 +28,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-february-2025
-DTSTAMP:20241218T002649Z
+DTSTAMP:20241219T002717Z
 SUMMARY:[RD] Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-february-2025/
 URL:https://leekduck.com/events/raid-day-february-2025/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
 DTSTART:20250215T140000
 DTEND:20250215T170000
 BEGIN:VALARM

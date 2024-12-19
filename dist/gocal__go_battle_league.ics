@@ -10,22 +10,218 @@ X-WR-CALDESC:All Pokémon GO GO Battle League events\, in your local time\,
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:gbl-dual-destiny_great-league_galar-cup-little-edition
-DTSTAMP:20241218T002649Z
-SUMMARY:[GBL] Great League and Fantasy Cup: Great League Edition | Dual Des
- tiny
+UID:gbl-dual-destiny_master-league_holiday-cup-little-edition
+DTSTAMP:20241219T002717Z
+SUMMARY:[GBL] Master League and Holiday Cup: Little Edition | Dual Destiny
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /gbl-dual-destiny_great-league_galar-cup-little-edition/
-URL:https://leekduck.com/events/gbl-dual-destiny_great-league_galar-cup-lit
- tle-edition/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattle-greatleague
- -key.jpg
-DTSTART;VALUE=DATE:20241203
-DTEND;VALUE=DATE:20241210
+ /gbl-dual-destiny_master-league_holiday-cup-little-edition/
+URL:https://leekduck.com/events/gbl-dual-destiny_master-league_holiday-cup-
+ little-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattleleague-m
+ aster-key.jpg
+DTSTART;VALUE=DATE:20241217
+DTEND;VALUE=DATE:20241224
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[GBL] Great League and Fantasy Cup: Great League Edition | Dual
-  Destiny
+DESCRIPTION:[GBL] Master League and Holiday Cup: Little Edition | Dual Dest
+ iny
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-dual-destiny_great-league_ultra-league_master-league-split-1
+DTSTAMP:20241219T002717Z
+SUMMARY:[GBL] Great League\, Ultra League\, and Master League | Dual Destin
+ y
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-dual-destiny_great-league_ultra-league_master-league-split-1/
+URL:https://leekduck.com/events/gbl-dual-destiny_great-league_ultra-league_
+ master-league-split-1/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
+ -season-21-dual-destiny.jpg
+DTSTART;VALUE=DATE:20241224
+DTEND;VALUE=DATE:20241231
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Great League\, Ultra League\, and Master League | Dual De
+ stiny
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-dual-destiny_great-league_holiday-cup-little-edition
+DTSTAMP:20241219T002717Z
+SUMMARY:[GBL] Great League and Holiday Cup: Little Edition | Dual Destiny
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-dual-destiny_great-league_holiday-cup-little-edition/
+URL:https://leekduck.com/events/gbl-dual-destiny_great-league_holiday-cup-l
+ ittle-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattle-greatle
+ ague-key.jpg
+DTSTART;VALUE=DATE:20241231
+DTEND;VALUE=DATE:20250107
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Great League and Holiday Cup: Little Edition | Dual Desti
+ ny
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-dual-destiny_ultra-league_color-cup-great-league-edition
+DTSTAMP:20241219T002717Z
+SUMMARY:[GBL] Ultra League and Color Cup: Great League Edition | Dual Desti
+ ny
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-dual-destiny_ultra-league_color-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-dual-destiny_ultra-league_color-cup-gre
+ at-league-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
+ -ultra-league-machamp-swampert.jpg
+DTSTART;VALUE=DATE:20250107
+DTEND;VALUE=DATE:20250114
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Ultra League and Color Cup: Great League Edition | Dual D
+ estiny
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-dual-destiny_master-league_color-cup-great-league-edition
+DTSTAMP:20241219T002717Z
+SUMMARY:[GBL] Master League and Color Cup: Great League Edition | Dual Dest
+ iny
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-dual-destiny_master-league_color-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-dual-destiny_master-league_color-cup-gr
+ eat-league-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattleleague-m
+ aster-key.jpg
+DTSTART;VALUE=DATE:20250114
+DTEND;VALUE=DATE:20250121
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Master League and Color Cup: Great League Edition | Dual 
+ Destiny
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-dual-destiny_great-league_ultra-league_master-league-split-2
+DTSTAMP:20241219T002717Z
+SUMMARY:[GBL] Great League\, Ultra League\, and Master League | Dual Destin
+ y
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-dual-destiny_great-league_ultra-league_master-league-split-2/
+URL:https://leekduck.com/events/gbl-dual-destiny_great-league_ultra-league_
+ master-league-split-2/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
+ -season-21-dual-destiny.jpg
+DTSTART;VALUE=DATE:20250121
+DTEND;VALUE=DATE:20250128
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Great League\, Ultra League\, and Master League | Dual De
+ stiny
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-dual-destiny_great-league_jungle-cup-little-edition
+DTSTAMP:20241219T002717Z
+SUMMARY:[GBL] Great League and Jungle Cup: Little Edition | Dual Destiny
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-dual-destiny_great-league_jungle-cup-little-edition/
+URL:https://leekduck.com/events/gbl-dual-destiny_great-league_jungle-cup-li
+ ttle-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattle-greatle
+ ague-key.jpg
+DTSTART;VALUE=DATE:20250128
+DTEND;VALUE=DATE:20250204
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Great League and Jungle Cup: Little Edition | Dual Destin
+ y
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-dual-destiny_ultra-league_love-cup-great-league-edition
+DTSTAMP:20241219T002717Z
+SUMMARY:[GBL] Ultra League and Love Cup: Great League Edition | Dual Destin
+ y
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-dual-destiny_ultra-league_love-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-dual-destiny_ultra-league_love-cup-grea
+ t-league-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
+ -ultra-league-machamp-swampert.jpg
+DTSTART;VALUE=DATE:20250204
+DTEND;VALUE=DATE:20250211
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Ultra League and Love Cup: Great League Edition | Dual De
+ stiny
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-dual-destiny_master-league_love-cup-great-league-edition
+DTSTAMP:20241219T002717Z
+SUMMARY:[GBL] Master League and Love Cup: Great League Edition | Dual Desti
+ ny
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-dual-destiny_master-league_love-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-dual-destiny_master-league_love-cup-gre
+ at-league-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattleleague-m
+ aster-key.jpg
+DTSTART;VALUE=DATE:20250211
+DTEND;VALUE=DATE:20250218
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Master League and Love Cup: Great League Edition | Dual D
+ estiny
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-dual-destiny_great-league_ultra-league_master-league-split-3
+DTSTAMP:20241219T002717Z
+SUMMARY:[GBL] Great League\, Ultra League\, and Master League | Dual Destin
+ y
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-dual-destiny_great-league_ultra-league_master-league-split-3/
+URL:https://leekduck.com/events/gbl-dual-destiny_great-league_ultra-league_
+ master-league-split-3/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
+ -season-21-dual-destiny.jpg
+DTSTART;VALUE=DATE:20250218
+DTEND;VALUE=DATE:20250225
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Great League\, Ultra League\, and Master League | Dual De
+ stiny
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-dual-destiny_great-league_master-league-mega-edition
+DTSTAMP:20241219T002717Z
+SUMMARY:[GBL] Great League and Master League: Mega Edition | Dual Destiny
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-dual-destiny_great-league_master-league-mega-edition/
+URL:https://leekduck.com/events/gbl-dual-destiny_great-league_master-league
+ -mega-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattle-greatle
+ ague-key.jpg
+DTSTART;VALUE=DATE:20250225
+DTEND;VALUE=DATE:20250304
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Great League and Master League: Mega Edition | Dual Desti
+ ny
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

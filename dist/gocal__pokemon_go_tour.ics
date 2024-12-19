@@ -11,13 +11,14 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-go-tour-unova-global-2025
-DTSTAMP:20241218T002649Z
+DTSTAMP:20241219T002717Z
 SUMMARY:[PGT] Pokémon GO Tour: Unova - Global
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-tour-unova-global-2025/
 URL:https://leekduck.com/events/pokemon-go-tour-unova-global-2025/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/article-images/2025/
- 2025-03-01-pokemon-go-tour-unova-global-2025/GOTourUnova2025-Global.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-03-01-pokemon-go-tour-unova-global-2025/GOTourUnova2025-Global.jp
+ g
 DTSTART;VALUE=DATE:20250301
 DTEND;VALUE=DATE:20250302
 BEGIN:VALARM
