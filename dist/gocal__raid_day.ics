@@ -10,25 +10,25 @@ X-WR-CALDESC:All Pokémon GO Raid Day events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:raid-day-january-2025
-DTSTAMP:20241219T002717Z
-SUMMARY:[RD] Raid Day
+UID:mega-gallade-raid-day
+DTSTAMP:20241220T002559Z
+SUMMARY:[RD] Mega Gallade Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /raid-day-january-2025/
-URL:https://leekduck.com/events/raid-day-january-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+ /mega-gallade-raid-day/
+URL:https://leekduck.com/events/mega-gallade-raid-day/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-01-11-mega-gallade-raid-day/mega-gallade-raid-day.jpg
 DTSTART:20250111T140000
 DTEND:20250111T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RD] Raid Day
+DESCRIPTION:[RD] Mega Gallade Raid Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-february-2025
-DTSTAMP:20241219T002717Z
+DTSTAMP:20241220T002559Z
 SUMMARY:[RD] Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-february-2025/

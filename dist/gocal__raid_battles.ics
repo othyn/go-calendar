@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Battles events\, in your local time\, aut
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:mega-latios-mega-raids-december-2024
-DTSTAMP:20241219T002717Z
-SUMMARY:[RB] Mega Latios in Mega Raids
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /mega-latios-mega-raids-december-2024/
-URL:https://leekduck.com/events/mega-latios-mega-raids-december-2024/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-latios-mega
- -latias.jpg
-DTSTART;VALUE=DATE:20241212
-DTEND;VALUE=DATE:20241219
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Mega Latios in Mega Raids
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:mega-latias-mega-raids-december-2024
-DTSTAMP:20241219T002717Z
+DTSTAMP:20241220T002559Z
 SUMMARY:[RB] Mega Latias in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-latias-mega-raids-december-2024/
@@ -45,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-regice-in-shadow-raids-dual-destiny
-DTSTAMP:20241219T002717Z
+DTSTAMP:20241220T002559Z
 SUMMARY:[RB] Shadow Regice in Shadow Raids in December
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-regice-in-shadow-raids-dual-destiny/
@@ -62,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-abomasnow-in-mega-raids-november-2024-copy
-DTSTAMP:20241219T002717Z
+DTSTAMP:20241220T002559Z
 SUMMARY:[RB] Mega Abomasnow in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-abomasnow-in-mega-raids-november-2024-copy/
@@ -79,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:giratina-in-5-star-raid-battles-december-2024
-DTSTAMP:20241219T002717Z
+DTSTAMP:20241220T002559Z
 SUMMARY:[RB] Giratina in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /giratina-in-5-star-raid-battles-december-2024/
@@ -97,7 +80,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-raid-day-january-2025
-DTSTAMP:20241219T002717Z
+DTSTAMP:20241220T002559Z
 SUMMARY:[RB] Shadow Raid Day
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-raid-day-january-2025/
