@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:raidhour20241225
-DTSTAMP:20241220T002559Z
+DTSTAMP:20241221T002524Z
 SUMMARY:[RH] Mega Latias Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20241225/
@@ -22,6 +22,102 @@ DTEND:20241225T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RH] Mega Latias Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250101
+DTSTAMP:20241221T002524Z
+SUMMARY:[RH] Altered Forme Giratina Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250101/
+URL:https://leekduck.com/events/raidhour20250101/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20250101T180000
+DTEND:20250101T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Altered Forme Giratina Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250108
+DTSTAMP:20241221T002524Z
+SUMMARY:[RH] Palkia Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250108/
+URL:https://leekduck.com/events/raidhour20250108/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20250108T180000
+DTEND:20250108T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Palkia Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250115
+DTSTAMP:20241221T002524Z
+SUMMARY:[RH] Palkia Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250115/
+URL:https://leekduck.com/events/raidhour20250115/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20250115T180000
+DTEND:20250115T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Palkia Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250122
+DTSTAMP:20241221T002524Z
+SUMMARY:[RH] Deoxys (Attack Forme) and Deoxys (Defense Forme) Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250122/
+URL:https://leekduck.com/events/raidhour20250122/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20250122T180000
+DTEND:20250122T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Deoxys (Attack Forme) and Deoxys (Defense Forme) Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250129
+DTSTAMP:20241221T002524Z
+SUMMARY:[RH] Dialga Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250129/
+URL:https://leekduck.com/events/raidhour20250129/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20250129T180000
+DTEND:20250129T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Dialga Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250205
+DTSTAMP:20241221T002524Z
+SUMMARY:[RH] Dialga Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250205/
+URL:https://leekduck.com/events/raidhour20250205/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20250205T180000
+DTEND:20250205T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Dialga Raid Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

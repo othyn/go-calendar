@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:mega-latias-mega-raids-december-2024
-DTSTAMP:20241220T002559Z
+DTSTAMP:20241221T002524Z
 SUMMARY:[RB] Mega Latias in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-latias-mega-raids-december-2024/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-regice-in-shadow-raids-dual-destiny
-DTSTAMP:20241220T002559Z
+DTSTAMP:20241221T002524Z
 SUMMARY:[RB] Shadow Regice in Shadow Raids in December
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-regice-in-shadow-raids-dual-destiny/
@@ -44,8 +44,26 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:shadow-registeel-in-shadow-raids-dual-destiny
+DTSTAMP:20241221T002524Z
+SUMMARY:[RB] Shadow Registeel in Shadow Raids in December
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /shadow-registeel-in-shadow-raids-dual-destiny/
+URL:https://leekduck.com/events/shadow-registeel-in-shadow-raids-dual-desti
+ ny/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20241207
+DTEND;VALUE=DATE:20241229
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Shadow Registeel in Shadow Raids in December
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:mega-abomasnow-in-mega-raids-november-2024-copy
-DTSTAMP:20241220T002559Z
+DTSTAMP:20241221T002524Z
 SUMMARY:[RB] Mega Abomasnow in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-abomasnow-in-mega-raids-november-2024-copy/
@@ -62,7 +80,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:giratina-in-5-star-raid-battles-december-2024
-DTSTAMP:20241220T002559Z
+DTSTAMP:20241221T002524Z
 SUMMARY:[RB] Giratina in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /giratina-in-5-star-raid-battles-december-2024/
@@ -79,8 +97,40 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:mega-lopunny-in-mega-raids-january-2024
+DTSTAMP:20241221T002524Z
+SUMMARY:[RB] Mega Lopunny in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-lopunny-in-mega-raids-january-2024/
+URL:https://leekduck.com/events/mega-lopunny-in-mega-raids-january-2024/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20250104
+DTEND;VALUE=DATE:20250116
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Mega Lopunny in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:palkia-in-5-star-raid-battles-january-2025
+DTSTAMP:20241221T002524Z
+SUMMARY:[RB] Palkia in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /palkia-in-5-star-raid-battles-january-2025/
+URL:https://leekduck.com/events/palkia-in-5-star-raid-battles-january-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/palkiaraid.jpg
+DTSTART;VALUE=DATE:20250104
+DTEND;VALUE=DATE:20250116
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Palkia in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:shadow-raid-day-january-2025
-DTSTAMP:20241220T002559Z
+DTSTAMP:20241221T002524Z
 SUMMARY:[RB] Shadow Raid Day
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-raid-day-january-2025/
@@ -92,6 +142,91 @@ DTEND:20250119T220000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RB] Shadow Raid Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-gallade-in-mega-raids-january-2024
+DTSTAMP:20241221T002524Z
+SUMMARY:[RB] Mega Gallade in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-gallade-in-mega-raids-january-2024/
+URL:https://leekduck.com/events/mega-gallade-in-mega-raids-january-2024/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20250116
+DTEND;VALUE=DATE:20250124
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Mega Gallade in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:deoxys-attack-forme-in-5-star-raid-battles-january-2025
+DTSTAMP:20241221T002524Z
+SUMMARY:[RB] Deoxys (Attack Fomre) in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /deoxys-attack-forme-in-5-star-raid-battles-january-2025/
+URL:https://leekduck.com/events/deoxys-attack-forme-in-5-star-raid-battles-
+ january-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/DeoxysAttackForm
+ e.jpg
+DTSTART;VALUE=DATE:20250116
+DTEND;VALUE=DATE:20250124
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Deoxys (Attack Fomre) in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:deoxys-defense-forme-in-5-star-raid-battles-january-2025
+DTSTAMP:20241221T002524Z
+SUMMARY:[RB] Deoxys (Defense Forme) in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /deoxys-defense-forme-in-5-star-raid-battles-january-2025/
+URL:https://leekduck.com/events/deoxys-defense-forme-in-5-star-raid-battles
+ -january-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/DeoxysDefenseFor
+ me.jpg
+DTSTART;VALUE=DATE:20250116
+DTEND;VALUE=DATE:20250124
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Deoxys (Defense Forme) in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-24-mega-medicham-in-mega-raids-january-2024md
+DTSTAMP:20241221T002524Z
+SUMMARY:[RB] Mega Gallade in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /2025-01-24-mega-medicham-in-mega-raids-january-2024md/
+URL:https://leekduck.com/events/2025-01-24-mega-medicham-in-mega-raids-janu
+ ary-2024md/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20250124
+DTEND;VALUE=DATE:20250206
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Mega Gallade in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dialga-in-5-star-raid-battles-january-2025
+DTSTAMP:20241221T002524Z
+SUMMARY:[RB] Dialga in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /dialga-in-5-star-raid-battles-january-2025/
+URL:https://leekduck.com/events/dialga-in-5-star-raid-battles-january-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/dialgaraids.jpg
+DTSTART;VALUE=DATE:20250124
+DTEND;VALUE=DATE:20250206
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Dialga in 5-star Raid Battles
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

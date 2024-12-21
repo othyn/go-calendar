@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:december-max-battles-split-2-2024
-DTSTAMP:20241220T002559Z
+DTSTAMP:20241221T002524Z
 SUMMARY:[MB] Max Battles - December 9 to 23
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /december-max-battles-split-2-2024/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:december-max-battles-split-3-2024
-DTSTAMP:20241220T002559Z
+DTSTAMP:20241221T002524Z
 SUMMARY:[MB] Max Battles - December 23 to January 6
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /december-max-battles-split-3-2024/
@@ -44,8 +44,59 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:january-max-battles-split-1-2025
+DTSTAMP:20241221T002524Z
+SUMMARY:[MB] Max Battles - January 6 to January 13
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /january-max-battles-split-1-2025/
+URL:https://leekduck.com/events/january-max-battles-split-1-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/power-spots-max-
+ battles.jpg
+DTSTART;VALUE=DATE:20250106
+DTEND;VALUE=DATE:20250113
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MB] Max Battles - January 6 to January 13
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:january-max-battles-split-2-2025
+DTSTAMP:20241221T002524Z
+SUMMARY:[MB] Max Battles - January 13 to January 20
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /january-max-battles-split-2-2025/
+URL:https://leekduck.com/events/january-max-battles-split-2-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/power-spots-max-
+ battles.jpg
+DTSTART;VALUE=DATE:20250113
+DTEND;VALUE=DATE:20250120
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MB] Max Battles - January 13 to January 20
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:january-max-battles-split-3-2025
+DTSTAMP:20241221T002524Z
+SUMMARY:[MB] Max Battles - January 20 to January 27
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /january-max-battles-split-3-2025/
+URL:https://leekduck.com/events/january-max-battles-split-3-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/power-spots-max-
+ battles.jpg
+DTSTART;VALUE=DATE:20250120
+DTEND;VALUE=DATE:20250127
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MB] Max Battles - January 20 to January 27
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:max-battle-day-february-2025
-DTSTAMP:20241220T002559Z
+DTSTAMP:20241221T002524Z
 SUMMARY:[MB] Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-february-2025/
@@ -57,6 +108,23 @@ DTEND:20250201T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[MB] Max Battle Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:january-max-battles-split-4-2025
+DTSTAMP:20241221T002524Z
+SUMMARY:[MB] Max Battles - January 27 to February 3
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /january-max-battles-split-4-2025/
+URL:https://leekduck.com/events/january-max-battles-split-4-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/power-spots-max-
+ battles.jpg
+DTSTART;VALUE=DATE:20250127
+DTEND;VALUE=DATE:20250203
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MB] Max Battles - January 27 to February 3
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
