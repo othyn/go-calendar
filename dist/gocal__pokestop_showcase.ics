@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-cd-day1-2024-12-21
-DTSTAMP:20241222T002841Z
+DTSTAMP:20241223T002658Z
 SUMMARY:[PS] Community Day: Day 1 PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-cd-day1-2024-12-21/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-cd-day2-2024-12-22
-DTSTAMP:20241222T002841Z
+DTSTAMP:20241223T002658Z
 SUMMARY:[PS] Community Day: Day 2 PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-cd-day2-2024-12-22/
