@@ -10,36 +10,19 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-cd-day1-2024-12-21
-DTSTAMP:20241223T002658Z
-SUMMARY:[PS] Community Day: Day 1 PokéStop Showcases
+UID:pokemon-showcase-wooloo-2024-12-23
+DTSTAMP:20241224T002545Z
+SUMMARY:[PS] Wooloo PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-cd-day1-2024-12-21/
-URL:https://leekduck.com/events/pokemon-showcase-cd-day1-2024-12-21/
+ /pokemon-showcase-wooloo-2024-12-23/
+URL:https://leekduck.com/events/pokemon-showcase-wooloo-2024-12-23/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART:20241221T100000
-DTEND:20241221T200000
+DTSTART;VALUE=DATE:20241223
+DTEND;VALUE=DATE:20241225
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Community Day: Day 1 PokéStop Showcases
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pokemon-showcase-cd-day2-2024-12-22
-DTSTAMP:20241223T002658Z
-SUMMARY:[PS] Community Day: Day 2 PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-cd-day2-2024-12-22/
-URL:https://leekduck.com/events/pokemon-showcase-cd-day2-2024-12-22/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
- es-default.jpg
-DTSTART:20241222T100000
-DTEND:20241222T200000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PS] Community Day: Day 2 PokéStop Showcases
+DESCRIPTION:[PS] Wooloo PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
