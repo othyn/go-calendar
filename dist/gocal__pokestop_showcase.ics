@@ -10,19 +10,19 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-wooloo-2024-12-23
-DTSTAMP:20241226T002536Z
-SUMMARY:[PS] Wooloo PokéStop Showcases
+UID:pokemon-showcase-cetoddle-2024-12-28
+DTSTAMP:20241228T002506Z
+SUMMARY:[PS] Cetoddle PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-wooloo-2024-12-23/
-URL:https://leekduck.com/events/pokemon-showcase-wooloo-2024-12-23/
+ /pokemon-showcase-cetoddle-2024-12-28/
+URL:https://leekduck.com/events/pokemon-showcase-cetoddle-2024-12-28/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20241223
-DTEND;VALUE=DATE:20241225
+DTSTART;VALUE=DATE:20241228
+DTEND;VALUE=DATE:20241229
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Wooloo PokéStop Showcases
+DESCRIPTION:[PS] Cetoddle PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
