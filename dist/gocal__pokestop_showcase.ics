@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-cetoddle-2024-12-28
-DTSTAMP:20241229T002837Z
+DTSTAMP:20241230T002704Z
 SUMMARY:[PS] Cetoddle PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-cetoddle-2024-12-28/
@@ -23,6 +23,24 @@ DTEND;VALUE=DATE:20241229
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[PS] Cetoddle PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-jigglypuff-hoothoot-2024-12-28
+DTSTAMP:20241230T002704Z
+SUMMARY:[PS] Jigglypuff and Hoothoot PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-jigglypuff-hoothoot-2024-12-28/
+URL:https://leekduck.com/events/pokemon-showcase-jigglypuff-hoothoot-2024-1
+ 2-28/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
+ es-default.jpg
+DTSTART;VALUE=DATE:20241230
+DTEND;VALUE=DATE:20250101
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PS] Jigglypuff and Hoothoot PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
