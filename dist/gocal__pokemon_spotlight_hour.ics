@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Pokémon Spotlight Hour events\, in your local
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemonspotlighthour2024-12-31
-DTSTAMP:20250102T002538Z
-SUMMARY:[PSH] Togetic Spotlight Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2024-12-31/
-URL:https://leekduck.com/events/pokemonspotlighthour2024-12-31/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
- hour.jpg
-DTSTART:20241231T180000
-DTEND:20241231T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PSH] Togetic Spotlight Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemonspotlighthour2024-01-07
-DTSTAMP:20250102T002538Z
+DTSTAMP:20250103T002550Z
 SUMMARY:[PSH] Voltorb and Hisuian Voltorb Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-01-07/
@@ -45,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-01-14
-DTSTAMP:20250102T002538Z
+DTSTAMP:20250103T002550Z
 SUMMARY:[PSH] Roselia Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-01-14/
@@ -62,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-01-21
-DTSTAMP:20250102T002538Z
+DTSTAMP:20250103T002550Z
 SUMMARY:[PSH] Paldean Wooper Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-01-21/
@@ -79,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-01-28
-DTSTAMP:20250102T002538Z
+DTSTAMP:20250103T002550Z
 SUMMARY:[PSH] Yungoos Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-01-28/
