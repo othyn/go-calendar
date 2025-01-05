@@ -10,20 +10,20 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-jigglypuff-hoothoot-2024-12-28
-DTSTAMP:20250102T002538Z
-SUMMARY:[PS] Jigglypuff and Hoothoot PokéStop Showcases
+UID:pokemon-showcase-sprigatito-meowscarada-2025-01-04-copy
+DTSTAMP:20250105T002824Z
+SUMMARY:[PS] Sprigatito PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-jigglypuff-hoothoot-2024-12-28/
-URL:https://leekduck.com/events/pokemon-showcase-jigglypuff-hoothoot-2024-1
- 2-28/
+ /pokemon-showcase-sprigatito-meowscarada-2025-01-04-copy/
+URL:https://leekduck.com/events/pokemon-showcase-sprigatito-meowscarada-202
+ 5-01-04-copy/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20241230
-DTEND;VALUE=DATE:20250101
+DTSTART;VALUE=DATE:20250104
+DTEND;VALUE=DATE:20250105
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Jigglypuff and Hoothoot PokéStop Showcases
+DESCRIPTION:[PS] Sprigatito PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
