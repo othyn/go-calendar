@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-sprigatito-meowscarada-2025-01-04-copy
-DTSTAMP:20250105T002824Z
+DTSTAMP:20250106T002730Z
 SUMMARY:[PS] Sprigatito PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-sprigatito-meowscarada-2025-01-04-copy/
