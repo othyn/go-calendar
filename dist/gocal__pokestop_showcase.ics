@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-poochyena-lillipup-rockruff-2025-01-06
-DTSTAMP:20250107T002620Z
+DTSTAMP:20250108T002611Z
 SUMMARY:[PS] Poochyena\, Lillipup\, Rockruff PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-poochyena-lillipup-rockruff-2025-01-06/

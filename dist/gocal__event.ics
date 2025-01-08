@@ -10,26 +10,8 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:12-days-of-daily-adventure-incense
-DTSTAMP:20250107T002620Z
-SUMMARY:[E] 12 Days of Daily Adventure Incense
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /12-days-of-daily-adventure-incense/
-URL:https://leekduck.com/events/12-days-of-daily-adventure-incense/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 024/2024-12-25-12-days-of-daily-adventure-incense/12-days-of-adventure-inc
- ense.jpg
-DTSTART;VALUE=DATE:20241225
-DTEND;VALUE=DATE:20250106
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] 12 Days of Daily Adventure Incense
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:fidough-fetch
-DTSTAMP:20250107T002620Z
+DTSTAMP:20250108T002611Z
 SUMMARY:[E] Fidough Fetch
 DESCRIPTION:Starts at 23:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /fidough-fetch/
@@ -46,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fashion-week-2025
-DTSTAMP:20250107T002620Z
+DTSTAMP:20250108T002611Z
 SUMMARY:[E] Fashion Week 2025
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /fashion-week-2025/
@@ -63,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fashion-week-taken-over-2025
-DTSTAMP:20250107T002620Z
+DTSTAMP:20250108T002611Z
 SUMMARY:[E] Fashion Week: Taken Over 2025
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /fashion-week-taken-over-2025/
@@ -80,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:steeled-resolve
-DTSTAMP:20250107T002620Z
+DTSTAMP:20250108T002611Z
 SUMMARY:[E] Steeled Resolve
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /steeled-resolve/
@@ -97,7 +79,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-weekend-dual-destiny
-DTSTAMP:20250107T002620Z
+DTSTAMP:20250108T002611Z
 SUMMARY:[E] GO Battle Weekend: Dual Destiny
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-weekend-dual-destiny/
@@ -114,7 +96,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lunar-new-year-2025
-DTSTAMP:20250107T002620Z
+DTSTAMP:20250108T002611Z
 SUMMARY:[E] Lunar New Year 2025
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /lunar-new-year-2025/
