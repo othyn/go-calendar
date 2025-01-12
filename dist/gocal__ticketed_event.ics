@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:eggs-pedition-access-january-2025
-DTSTAMP:20250111T002549Z
+DTSTAMP:20250112T002906Z
 SUMMARY:[TE] Eggs-pedition Access: January
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /eggs-pedition-access-january-2025/

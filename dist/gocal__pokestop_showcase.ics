@@ -10,20 +10,20 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-poochyena-lillipup-rockruff-2025-01-06
-DTSTAMP:20250109T002550Z
-SUMMARY:[PS] Poochyena\, Lillipup\, Rockruff PokéStop Showcases
+UID:pokemon-showcase-furfrou-absol-butterfree-2025-01-11
+DTSTAMP:20250112T002906Z
+SUMMARY:[PS] Butterfree\, Absol\, and Furfrou PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-poochyena-lillipup-rockruff-2025-01-06/
-URL:https://leekduck.com/events/pokemon-showcase-poochyena-lillipup-rockruf
- f-2025-01-06/
+ /pokemon-showcase-furfrou-absol-butterfree-2025-01-11/
+URL:https://leekduck.com/events/pokemon-showcase-furfrou-absol-butterfree-2
+ 025-01-11/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20250106
-DTEND;VALUE=DATE:20250108
+DTSTART;VALUE=DATE:20250111
+DTEND;VALUE=DATE:20250112
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Poochyena\, Lillipup\, Rockruff PokéStop Showcases
+DESCRIPTION:[PS] Butterfree\, Absol\, and Furfrou PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
