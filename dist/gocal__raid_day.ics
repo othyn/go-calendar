@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Day events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:mega-gallade-raid-day
-DTSTAMP:20250112T002906Z
-SUMMARY:[RD] Mega Gallade Raid Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /mega-gallade-raid-day/
-URL:https://leekduck.com/events/mega-gallade-raid-day/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-01-11-mega-gallade-raid-day/mega-gallade-raid-day.jpg
-DTSTART:20250111T140000
-DTEND:20250111T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RD] Mega Gallade Raid Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:shadow-ho-oh-raid-day-january-2025
-DTSTAMP:20250112T002906Z
+DTSTAMP:20250113T002829Z
 SUMMARY:[RD] Shadow Ho-Oh Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /shadow-ho-oh-raid-day-january-2025/
@@ -45,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-february-2025
-DTSTAMP:20250112T002906Z
+DTSTAMP:20250113T002829Z
 SUMMARY:[RD] Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-february-2025/
