@@ -10,18 +10,20 @@ X-WR-CALDESC:All Pokémon GO Timed Research events\, in your local time\, a
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:the-rise-of-moonlight-research
-DTSTAMP:20240607T002119Z
-SUMMARY:[TR] The Rise of Moonlight Timed Research
-DESCRIPTION:Starts at 10:00\, ends at 23:59.\n\nhttps://leekduck.com/events
- /the-rise-of-moonlight-research/
-URL:https://leekduck.com/events/the-rise-of-moonlight-research/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/day-night-crowns.jpg
-DTSTART;VALUE=DATE:20240531
-DTEND;VALUE=DATE:20240606
+UID:legendary-flight-lead-up-timed-research-for-articuno
+DTSTAMP:20250117T002511Z
+SUMMARY:[TR] Legendary Flight Lead-Up Timed Research for Articuno
+DESCRIPTION:Starts at 10:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /legendary-flight-lead-up-timed-research-for-articuno/
+URL:https://leekduck.com/events/legendary-flight-lead-up-timed-research-for
+ -articuno/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/legendary-flight
+ -max-battles.jpg
+DTSTART;VALUE=DATE:20250117
+DTEND;VALUE=DATE:20250120
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[TR] The Rise of Moonlight Timed Research
+DESCRIPTION:[TR] Legendary Flight Lead-Up Timed Research for Articuno
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
