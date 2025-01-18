@@ -10,20 +10,20 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-wooper-blitzle-minccino-2025-01-13
-DTSTAMP:20250116T002528Z
-SUMMARY:[PS] Wooper\, Blitzle\, and Minccino PokéStop Showcases
+UID:pokemon-showcase-sneasel-croagunk-2025-01-18
+DTSTAMP:20250118T002416Z
+SUMMARY:[PS] Sneasel and Croagunk PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-wooper-blitzle-minccino-2025-01-13/
-URL:https://leekduck.com/events/pokemon-showcase-wooper-blitzle-minccino-20
- 25-01-13/
+ /pokemon-showcase-sneasel-croagunk-2025-01-18/
+URL:https://leekduck.com/events/pokemon-showcase-sneasel-croagunk-2025-01-1
+ 8/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20250113
-DTEND;VALUE=DATE:20250115
+DTSTART;VALUE=DATE:20250118
+DTEND;VALUE=DATE:20250119
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Wooper\, Blitzle\, and Minccino PokéStop Showcases
+DESCRIPTION:[PS] Sneasel and Croagunk PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

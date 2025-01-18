@@ -11,14 +11,14 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:legendary-flight-lead-up-timed-research-for-articuno
-DTSTAMP:20250117T002511Z
+DTSTAMP:20250118T002416Z
 SUMMARY:[TR] Legendary Flight Lead-Up Timed Research for Articuno
 DESCRIPTION:Starts at 10:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /legendary-flight-lead-up-timed-research-for-articuno/
 URL:https://leekduck.com/events/legendary-flight-lead-up-timed-research-for
  -articuno/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/legendary-flight
- -max-battles.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/dynamax-articuno
+ .jpg
 DTSTART;VALUE=DATE:20250117
 DTEND;VALUE=DATE:20250120
 BEGIN:VALARM
