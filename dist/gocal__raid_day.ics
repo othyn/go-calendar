@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:shadow-ho-oh-raid-day-january-2025
-DTSTAMP:20250118T002416Z
+DTSTAMP:20250119T002745Z
 SUMMARY:[RD] Shadow Ho-Oh Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /shadow-ho-oh-raid-day-january-2025/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-february-2025
-DTSTAMP:20250118T002416Z
+DTSTAMP:20250119T002745Z
 SUMMARY:[RD] Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-february-2025/
