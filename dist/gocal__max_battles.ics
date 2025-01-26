@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:january-max-battles-split-3-2025
-DTSTAMP:20250125T002442Z
+DTSTAMP:20250126T002610Z
 SUMMARY:[MB] Max Battles - January 20 to January 27
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /january-max-battles-split-3-2025/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gigantamax-kingler-max-battle-day
-DTSTAMP:20250125T002442Z
+DTSTAMP:20250126T002610Z
 SUMMARY:[MB] Gigantamax Kingler Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /gigantamax-kingler-max-battle-day/
@@ -46,7 +46,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:january-max-battles-split-4-2025
-DTSTAMP:20250125T002442Z
+DTSTAMP:20250126T002610Z
 SUMMARY:[MB] Max Battles - January 27 to February 3
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /january-max-battles-split-4-2025/
@@ -63,7 +63,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:legendary-flight-max-battles
-DTSTAMP:20250125T002442Z
+DTSTAMP:20250126T002610Z
 SUMMARY:[MB] Legendary Flight
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /legendary-flight-max-battles/
@@ -81,7 +81,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:february-max-battles-split-1-2025
-DTSTAMP:20250125T002442Z
+DTSTAMP:20250126T002610Z
 SUMMARY:[MB] Max Battles - February 3 to February 10
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /february-max-battles-split-1-2025/
@@ -98,7 +98,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:february-max-battles-split-2-2025
-DTSTAMP:20250125T002442Z
+DTSTAMP:20250126T002610Z
 SUMMARY:[MB] Max Battles - February 10 to February 17
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /february-max-battles-split-2-2025/
@@ -115,7 +115,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:february-max-battles-split-3-2025
-DTSTAMP:20250125T002442Z
+DTSTAMP:20250126T002610Z
 SUMMARY:[MB] Max Battles - February 17 to February 24
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /february-max-battles-split-3-2025/
@@ -132,7 +132,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:february-max-battles-split-4-2025
-DTSTAMP:20250125T002442Z
+DTSTAMP:20250126T002610Z
 SUMMARY:[MB] Max Battles - February 24 to March 3
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /february-max-battles-split-4-2025/
@@ -149,7 +149,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:march-max-battles-split-1-2025
-DTSTAMP:20250125T002442Z
+DTSTAMP:20250126T002610Z
 SUMMARY:[MB] Max Battles - March 3 to March 4
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /march-max-battles-split-1-2025/
