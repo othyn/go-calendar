@@ -10,26 +10,8 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-ralts-gardevoir-2025-01-25
-DTSTAMP:20250127T002620Z
-SUMMARY:[PS] Ralts and Gardevoir PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-ralts-gardevoir-2025-01-25/
-URL:https://leekduck.com/events/pokemon-showcase-ralts-gardevoir-2025-01-25
- /
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
- es-default.jpg
-DTSTART;VALUE=DATE:20250125
-DTEND;VALUE=DATE:20250126
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PS] Ralts and Gardevoir PokéStop Showcases
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-showcase-rookidee-2025-01-27y
-DTSTAMP:20250127T002620Z
+DTSTAMP:20250128T002533Z
 SUMMARY:[PS] Rookidee PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-rookidee-2025-01-27y/
