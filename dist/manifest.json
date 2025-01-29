@@ -54,9 +54,5 @@
     "ticketed_event": {
         "name": "Ticketed Event",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__ticketed_event.ics"
-    },
-    "timed_research": {
-        "name": "Timed Research",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__timed_research.ics"
     }
 }

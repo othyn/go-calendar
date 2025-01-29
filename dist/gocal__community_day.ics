@@ -11,17 +11,19 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:february-communityday2025
-DTSTAMP:20250128T002533Z
-SUMMARY:[CD] February Community Day
+DTSTAMP:20250129T002508Z
+SUMMARY:[CD] Karrablast and Shelmet Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /february-communityday2025/
 URL:https://leekduck.com/events/february-communityday2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-02-09-february-communityday2025/february-cd-karrablast-shelmet.jp
+ g
 DTSTART:20250209T140000
 DTEND:20250209T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[CD] February Community Day
+DESCRIPTION:[CD] Karrablast and Shelmet Community Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
