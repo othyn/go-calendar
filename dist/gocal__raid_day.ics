@@ -10,19 +10,19 @@ X-WR-CALDESC:All Pokémon GO Raid Day events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:raid-day-february-2025
-DTSTAMP:20250130T002459Z
-SUMMARY:[RD] Raid Day
+UID:hoopa-unbound-raid-day
+DTSTAMP:20250131T002526Z
+SUMMARY:[RD] Hoopa Unbound Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /raid-day-february-2025/
-URL:https://leekduck.com/events/raid-day-february-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+ /hoopa-unbound-raid-day/
+URL:https://leekduck.com/events/hoopa-unbound-raid-day/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-02-15-hoopa-unbound-raid-day/hoopa-unleashed-raid-day.jpg
 DTSTART:20250215T140000
 DTEND:20250215T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RD] Raid Day
+DESCRIPTION:[RD] Hoopa Unbound Raid Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

@@ -10,20 +10,20 @@ X-WR-CALDESC:All Pokémon GO Timed Research events\, in your local time\, a
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:legendary-flight-lead-up-timed-research-for-zapdos
-DTSTAMP:20250128T002533Z
-SUMMARY:[TR] Legendary Flight Lead-Up Timed Research for Zapdos
+UID:legendary-flight-lead-up-timed-research-for-moltres
+DTSTAMP:20250131T002526Z
+SUMMARY:[TR] Legendary Flight Lead-Up Timed Research for Moltres
 DESCRIPTION:Starts at 10:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /legendary-flight-lead-up-timed-research-for-zapdos/
+ /legendary-flight-lead-up-timed-research-for-moltres/
 URL:https://leekduck.com/events/legendary-flight-lead-up-timed-research-for
- -zapdos/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/dynamax-zapdos.j
- pg
-DTSTART;VALUE=DATE:20250124
-DTEND;VALUE=DATE:20250127
+ -moltres/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/dynamax-moltres.
+ jpg
+DTSTART;VALUE=DATE:20250131
+DTEND;VALUE=DATE:20250203
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[TR] Legendary Flight Lead-Up Timed Research for Zapdos
+DESCRIPTION:[TR] Legendary Flight Lead-Up Timed Research for Moltres
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
