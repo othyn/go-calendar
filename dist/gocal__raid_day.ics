@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:hoopa-unbound-raid-day
-DTSTAMP:20250202T002720Z
+DTSTAMP:20250203T002616Z
 SUMMARY:[RD] Hoopa Unbound Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hoopa-unbound-raid-day/
