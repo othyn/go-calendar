@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-ekans-2025-02-01
-DTSTAMP:20250203T002616Z
-SUMMARY:[PS] Ekans PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-ekans-2025-02-01/
-URL:https://leekduck.com/events/pokemon-showcase-ekans-2025-02-01/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
- es-default.jpg
-DTSTART;VALUE=DATE:20250201
-DTEND;VALUE=DATE:20250202
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PS] Ekans PokéStop Showcases
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-showcase-rookidee-2025-02-03
-DTSTAMP:20250203T002616Z
+DTSTAMP:20250204T002526Z
 SUMMARY:[PS] Joltik and Nymble PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-rookidee-2025-02-03/

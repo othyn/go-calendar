@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:legendary-flight-lead-up-timed-research-for-moltres
-DTSTAMP:20250203T002616Z
+DTSTAMP:20250204T002526Z
 SUMMARY:[TR] Legendary Flight Lead-Up Timed Research for Moltres
 DESCRIPTION:Starts at 10:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /legendary-flight-lead-up-timed-research-for-moltres/
