@@ -10,19 +10,22 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-rookidee-2025-02-03
-DTSTAMP:20250206T002554Z
-SUMMARY:[PS] Joltik and Nymble PokéStop Showcases
+UID:pokemon-showcase-karrablast-escavalier-shelmet-accelgor-2025-02-08
+DTSTAMP:20250209T002810Z
+SUMMARY:[PS] Karrablast\, Escavalier\, Shelmet\, and Accelgor PokéStop Sho
+ wcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-rookidee-2025-02-03/
-URL:https://leekduck.com/events/pokemon-showcase-rookidee-2025-02-03/
+ /pokemon-showcase-karrablast-escavalier-shelmet-accelgor-2025-02-08/
+URL:https://leekduck.com/events/pokemon-showcase-karrablast-escavalier-shel
+ met-accelgor-2025-02-08/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20250203
-DTEND;VALUE=DATE:20250205
+DTSTART;VALUE=DATE:20250208
+DTEND;VALUE=DATE:20250209
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Joltik and Nymble PokéStop Showcases
+DESCRIPTION:[PS] Karrablast\, Escavalier\, Shelmet\, and Accelgor PokéStop
+  Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
