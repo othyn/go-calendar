@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-karrablast-escavalier-shelmet-accelgor-2025-02-08
-DTSTAMP:20250209T002810Z
+DTSTAMP:20250210T002703Z
 SUMMARY:[PS] Karrablast\, Escavalier\, Shelmet\, and Accelgor PokéStop Sho
  wcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
