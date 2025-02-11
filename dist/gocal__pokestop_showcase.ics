@@ -10,22 +10,20 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-karrablast-escavalier-shelmet-accelgor-2025-02-08
-DTSTAMP:20250210T002703Z
-SUMMARY:[PS] Karrablast\, Escavalier\, Shelmet\, and Accelgor PokéStop Sho
- wcases
+UID:pokemon-showcase-ultra-buddy-best-buddy-2025-02-10
+DTSTAMP:20250211T002552Z
+SUMMARY:[PS] Ultra Buddy and Best Buddy PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-karrablast-escavalier-shelmet-accelgor-2025-02-08/
-URL:https://leekduck.com/events/pokemon-showcase-karrablast-escavalier-shel
- met-accelgor-2025-02-08/
+ /pokemon-showcase-ultra-buddy-best-buddy-2025-02-10/
+URL:https://leekduck.com/events/pokemon-showcase-ultra-buddy-best-buddy-202
+ 5-02-10/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20250208
-DTEND;VALUE=DATE:20250209
+DTSTART;VALUE=DATE:20250210
+DTEND;VALUE=DATE:20250212
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Karrablast\, Escavalier\, Shelmet\, and Accelgor PokéStop
-  Showcases
+DESCRIPTION:[PS] Ultra Buddy and Best Buddy PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

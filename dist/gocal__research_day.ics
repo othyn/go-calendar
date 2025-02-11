@@ -10,19 +10,19 @@ X-WR-CALDESC:All Pokémon GO Research Day events\, in your local time\, aut
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:aspiring-dragons-research-day
-DTSTAMP:20241218T002649Z
-SUMMARY:[RD] Aspiring Dragons Research Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /aspiring-dragons-research-day/
-URL:https://leekduck.com/events/aspiring-dragons-research-day/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/article-images/2024/
- 2024-12-07-aspiring-dragons-research-day/aspiring-dragons-research-day.jpg
-DTSTART:20241207T140000
-DTEND:20241207T170000
+UID:research-day-march-2025
+DTSTAMP:20250211T002552Z
+SUMMARY:[RD] Research Day March 2025
+DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
+ /research-day-march-2025/
+URL:https://leekduck.com/events/research-day-march-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART:20250329T000000
+DTEND:20250329T235959
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RD] Aspiring Dragons Research Day
+DESCRIPTION:[RD] Research Day March 2025
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

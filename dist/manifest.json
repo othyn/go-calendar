@@ -1,8 +1,4 @@
 {
-    "community_day": {
-        "name": "Community Day",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__community_day.ics"
-    },
     "event": {
         "name": "Event",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__event.ics"
@@ -46,6 +42,10 @@
     "raid_hour": {
         "name": "Raid Hour",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__raid_hour.ics"
+    },
+    "research_day": {
+        "name": "Research Day",
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__research_day.ics"
     },
     "season": {
         "name": "Season",
