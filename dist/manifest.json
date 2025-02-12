@@ -1,4 +1,8 @@
 {
+    "community_day": {
+        "name": "Community Day",
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__community_day.ics"
+    },
     "event": {
         "name": "Event",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__event.ics"

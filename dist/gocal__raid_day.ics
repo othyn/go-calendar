@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:hoopa-unbound-raid-day
-DTSTAMP:20250211T002552Z
+DTSTAMP:20250212T002541Z
 SUMMARY:[RD] Hoopa Unbound Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hoopa-unbound-raid-day/
@@ -28,15 +28,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-march-2025
-DTSTAMP:20250211T002552Z
+DTSTAMP:20250212T002541Z
 SUMMARY:[RD] Raid Day March 2025
-DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-march-2025/
 URL:https://leekduck.com/events/raid-day-march-2025/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
-DTSTART:20250323T000000
-DTEND:20250323T235959
+DTSTART:20250323T140000
+DTEND:20250323T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RD] Raid Day March 2025
@@ -45,15 +45,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-april-2025
-DTSTAMP:20250211T002552Z
+DTSTAMP:20250212T002541Z
 SUMMARY:[RD] Raid Day April 2025
-DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-april-2025/
 URL:https://leekduck.com/events/raid-day-april-2025/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
-DTSTART:20250405T000000
-DTEND:20250405T235959
+DTSTART:20250405T140000
+DTEND:20250405T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RD] Raid Day April 2025
@@ -62,15 +62,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-april-2025-2
-DTSTAMP:20250211T002552Z
+DTSTAMP:20250212T002541Z
 SUMMARY:[RD] Raid Day April 2025
-DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-april-2025-2/
 URL:https://leekduck.com/events/raid-day-april-2025-2/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
-DTSTART:20250413T000000
-DTEND:20250413T235959
+DTSTART:20250413T140000
+DTEND:20250413T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RD] Raid Day April 2025
@@ -79,15 +79,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-may-2025
-DTSTAMP:20250211T002552Z
+DTSTAMP:20250212T002541Z
 SUMMARY:[RD] Raid Day May 2025
-DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-may-2025/
 URL:https://leekduck.com/events/raid-day-may-2025/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
-DTSTART:20250503T000000
-DTEND:20250503T235959
+DTSTART:20250503T140000
+DTEND:20250503T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RD] Raid Day May 2025
@@ -96,15 +96,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-raid-day-may-2025
-DTSTAMP:20250211T002552Z
+DTSTAMP:20250212T002541Z
 SUMMARY:[RD] Shadow Raid Day May 2025
-DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /shadow-raid-day-may-2025/
 URL:https://leekduck.com/events/shadow-raid-day-may-2025/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
-DTSTART:20250517T000000
-DTEND:20250517T235959
+DTSTART:20250517T140000
+DTEND:20250517T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RD] Shadow Raid Day May 2025

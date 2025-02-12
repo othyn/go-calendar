@@ -10,20 +10,83 @@ X-WR-CALDESC:All Pokémon GO Community Day events\, in your local time\, au
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:february-communityday2025
-DTSTAMP:20250210T002703Z
-SUMMARY:[CD] Karrablast and Shelmet Community Day
+UID:march-communityday2025
+DTSTAMP:20250212T002541Z
+SUMMARY:[CD] Fuecoco Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /february-communityday2025/
-URL:https://leekduck.com/events/february-communityday2025/
+ /march-communityday2025/
+URL:https://leekduck.com/events/march-communityday2025/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-02-09-february-communityday2025/february-cd-karrablast-shelmet.jp
- g
-DTSTART:20250209T140000
-DTEND:20250209T170000
+ 025/2025-03-08-march-communityday2025/fuecoco-community-day.jpg
+DTSTART:20250308T140000
+DTEND:20250308T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[CD] Karrablast and Shelmet Community Day
+DESCRIPTION:[CD] Fuecoco Community Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:march-communitydayclassic2025
+DTSTAMP:20250212T002541Z
+SUMMARY:[CD] March Community Day Classic
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /march-communitydayclassic2025/
+URL:https://leekduck.com/events/march-communitydayclassic2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+DTSTART:20250322T140000
+DTEND:20250322T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[CD] March Community Day Classic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:april-communityday2025
+DTSTAMP:20250212T002541Z
+SUMMARY:[CD] April Community Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /april-communityday2025/
+URL:https://leekduck.com/events/april-communityday2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+DTSTART:20250427T140000
+DTEND:20250427T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[CD] April Community Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:may-communityday2025
+DTSTAMP:20250212T002541Z
+SUMMARY:[CD] May Community Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /may-communityday2025/
+URL:https://leekduck.com/events/may-communityday2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+DTSTART:20250511T140000
+DTEND:20250511T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[CD] May Community Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:may-communitydayclassic2025
+DTSTAMP:20250212T002541Z
+SUMMARY:[CD] May Community Day Classic
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /may-communitydayclassic2025/
+URL:https://leekduck.com/events/may-communitydayclassic2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+DTSTART:20250524T140000
+DTEND:20250524T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[CD] May Community Day Classic
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

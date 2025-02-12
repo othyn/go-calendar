@@ -11,15 +11,15 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:research-day-march-2025
-DTSTAMP:20250211T002552Z
+DTSTAMP:20250212T002541Z
 SUMMARY:[RD] Research Day March 2025
-DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /research-day-march-2025/
 URL:https://leekduck.com/events/research-day-march-2025/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
-DTSTART:20250329T000000
-DTEND:20250329T235959
+DTSTART:20250329T140000
+DTEND:20250329T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RD] Research Day March 2025
