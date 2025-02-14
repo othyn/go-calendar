@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-ultra-buddy-best-buddy-2025-02-10
-DTSTAMP:20250213T002558Z
+DTSTAMP:20250214T002602Z
 SUMMARY:[PS] Ultra Buddy and Best Buddy PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-ultra-buddy-best-buddy-2025-02-10/
