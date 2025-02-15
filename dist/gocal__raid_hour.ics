@@ -10,24 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Hour events\, in your local time\, auto-u
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:raidhour20250212
-DTSTAMP:20250214T002602Z
-SUMMARY:[RH] Enamorus Raid Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /raidhour20250212/
-URL:https://leekduck.com/events/raidhour20250212/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
-DTSTART:20250212T180000
-DTEND:20250212T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RH] Enamorus Raid Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raidhour20250219
-DTSTAMP:20250214T002602Z
+DTSTAMP:20250215T002534Z
 SUMMARY:[RH] Yveltal and Xerneas Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20250219/
@@ -43,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20250226
-DTSTAMP:20250214T002602Z
+DTSTAMP:20250215T002534Z
 SUMMARY:[RH] Genesect (All Forms) Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20250226/
