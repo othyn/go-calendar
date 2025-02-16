@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-enamorus-2025-02-15
-DTSTAMP:20250215T002534Z
+DTSTAMP:20250216T002843Z
 SUMMARY:[PS] Enamorus PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-enamorus-2025-02-15/
