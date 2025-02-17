@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-enamorus-2025-02-15
-DTSTAMP:20250216T002843Z
+DTSTAMP:20250217T002743Z
 SUMMARY:[PS] Enamorus PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-enamorus-2025-02-15/
@@ -23,6 +23,23 @@ DTEND;VALUE=DATE:20250216
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[PS] Enamorus PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-inkay-2025-02-17
+DTSTAMP:20250217T002743Z
+SUMMARY:[PS] Inkay PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-inkay-2025-02-17/
+URL:https://leekduck.com/events/pokemon-showcase-inkay-2025-02-17/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
+ es-default.jpg
+DTSTART;VALUE=DATE:20250217
+DTEND;VALUE=DATE:20250219
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PS] Inkay PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
