@@ -10,41 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Battles events\, in your local time\, aut
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:mega-tyranitar-in-mega-raids-february-2025
-DTSTAMP:20250218T002545Z
-SUMMARY:[RB] Mega Tyranitar in Mega Raids
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /mega-tyranitar-in-mega-raids-february-2025/
-URL:https://leekduck.com/events/mega-tyranitar-in-mega-raids-february-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;VALUE=DATE:20250206
-DTEND;VALUE=DATE:20250217
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Mega Tyranitar in Mega Raids
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:enamorus-in-5-star-raid-battles-february-2025
-DTSTAMP:20250218T002545Z
-SUMMARY:[RB] Enamorus in 5-star Raid Battles
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /enamorus-in-5-star-raid-battles-february-2025/
-URL:https://leekduck.com/events/enamorus-in-5-star-raid-battles-february-20
- 25/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/enamorus-key.jpg
-DTSTART;VALUE=DATE:20250206
-DTEND;VALUE=DATE:20250217
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Enamorus in 5-star Raid Battles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:xerneas-in-5-star-raid-battles-february-2025
-DTSTAMP:20250218T002545Z
+DTSTAMP:20250219T002604Z
 SUMMARY:[RB] Xerneas in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /xerneas-in-5-star-raid-battles-february-2025/
@@ -62,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:yveltal-in-5-star-raid-battles-february-2025
-DTSTAMP:20250218T002545Z
+DTSTAMP:20250219T002604Z
 SUMMARY:[RB] Yveltal in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /yveltal-in-5-star-raid-battles-february-2025/
@@ -79,7 +46,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-regirock-in-shadow-raids-dual-destiny
-DTSTAMP:20250218T002545Z
+DTSTAMP:20250219T002604Z
 SUMMARY:[RB] Shadow Regirock in Shadow Raids in January
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-regirock-in-shadow-raids-dual-destiny/
@@ -97,7 +64,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-garchomp-in-mega-raids-february-2025
-DTSTAMP:20250218T002545Z
+DTSTAMP:20250219T002604Z
 SUMMARY:[RB] Mega Garchomp in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-garchomp-in-mega-raids-february-2025/
