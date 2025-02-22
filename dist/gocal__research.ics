@@ -10,19 +10,19 @@ X-WR-CALDESC:All Pokémon GO Research events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:yamask-galarian-yamask-research-day-2024
-DTSTAMP:20241020T002807Z
-SUMMARY:[R] Yamask Research Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /yamask-galarian-yamask-research-day-2024/
-URL:https://leekduck.com/events/yamask-galarian-yamask-research-day-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/research-day-yamask.
- jpg
-DTSTART:20241019T140000
-DTEND:20241019T170000
+UID:go-tour-unova-timed-research-codes
+DTSTAMP:20250222T002528Z
+SUMMARY:[R] [Promo Code] Pokémon GO Tour Unova: Timed Research Codes
+DESCRIPTION:Starts at 09:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /go-tour-unova-timed-research-codes/
+URL:https://leekduck.com/events/go-tour-unova-timed-research-codes/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-02-21-go-tour-unova-timed-research-codes/unova-trivia.jpg
+DTSTART;VALUE=DATE:20250221
+DTEND;VALUE=DATE:20250302
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[R] Yamask Research Day
+DESCRIPTION:[R] [Promo Code] Pokémon GO Tour Unova: Timed Research Codes
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

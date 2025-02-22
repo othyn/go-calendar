@@ -11,8 +11,8 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-go-tour-unova-los-angeles-2025
-DTSTAMP:20250221T002640Z
-SUMMARY:[PGT] Pokémon GO Tour: Unova - Los Angeles 2025
+DTSTAMP:20250222T002528Z
+SUMMARY:[PGT] [LA] Pokémon GO Tour: Unova - Los Angeles 2025
 DESCRIPTION:Starts at 09:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /pokemon-go-tour-unova-los-angeles-2025/
 URL:https://leekduck.com/events/pokemon-go-tour-unova-los-angeles-2025/
@@ -23,14 +23,14 @@ DTSTART;VALUE=DATE:20250221
 DTEND;VALUE=DATE:20250223
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PGT] Pokémon GO Tour: Unova - Los Angeles 2025
+DESCRIPTION:[PGT] [LA] Pokémon GO Tour: Unova - Los Angeles 2025
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-unova-new-taipei-city-2025
-DTSTAMP:20250221T002640Z
-SUMMARY:[PGT] Pokémon GO Tour: Unova - New Taipei City 2025
+DTSTAMP:20250222T002528Z
+SUMMARY:[PGT] [NTC] Pokémon GO Tour: Unova - New Taipei City 2025
 DESCRIPTION:Starts at 09:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /pokemon-go-tour-unova-new-taipei-city-2025/
 URL:https://leekduck.com/events/pokemon-go-tour-unova-new-taipei-city-2025/
@@ -41,13 +41,13 @@ DTSTART;VALUE=DATE:20250221
 DTEND;VALUE=DATE:20250223
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PGT] Pokémon GO Tour: Unova - New Taipei City 2025
+DESCRIPTION:[PGT] [NTC] Pokémon GO Tour: Unova - New Taipei City 2025
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-unova-global-2025
-DTSTAMP:20250221T002640Z
+DTSTAMP:20250222T002528Z
 SUMMARY:[PGT] Pokémon GO Tour: Unova - Global
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-tour-unova-global-2025/
