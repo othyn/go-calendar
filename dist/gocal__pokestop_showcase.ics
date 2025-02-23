@@ -10,19 +10,19 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-inkay-2025-02-17
-DTSTAMP:20250220T002613Z
-SUMMARY:[PS] Inkay PokéStop Showcases
+UID:pokemon-showcase-pidove-2025-02-22
+DTSTAMP:20250223T002833Z
+SUMMARY:[PS] Pidove PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-inkay-2025-02-17/
-URL:https://leekduck.com/events/pokemon-showcase-inkay-2025-02-17/
+ /pokemon-showcase-pidove-2025-02-22/
+URL:https://leekduck.com/events/pokemon-showcase-pidove-2025-02-22/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20250217
-DTEND;VALUE=DATE:20250219
+DTSTART;VALUE=DATE:20250222
+DTEND;VALUE=DATE:20250223
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Inkay PokéStop Showcases
+DESCRIPTION:[PS] Pidove PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
