@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:go-tour-unova-timed-research-codes
-DTSTAMP:20250223T002833Z
+DTSTAMP:20250224T002736Z
 SUMMARY:[R] [Promo Code] Pokémon GO Tour Unova: Timed Research Codes
 DESCRIPTION:Starts at 09:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /go-tour-unova-timed-research-codes/
