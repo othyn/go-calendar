@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:raidhour20250224
-DTSTAMP:20250224T002736Z
+DTSTAMP:20250225T002644Z
 SUMMARY:[RH] Genesect (All Drives) Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20250224/
@@ -27,8 +27,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20250225
-DTSTAMP:20250224T002736Z
-SUMMARY:[RH] Cobalion\, Terrkion\, and Virizion Raid Hour
+DTSTAMP:20250225T002644Z
+SUMMARY:[RH] Cobalion\, Terrakion\, and Virizion Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20250225/
 URL:https://leekduck.com/events/raidhour20250225/
@@ -37,13 +37,13 @@ DTSTART:20250225T180000
 DTEND:20250225T190000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RH] Cobalion\, Terrkion\, and Virizion Raid Hour
+DESCRIPTION:[RH] Cobalion\, Terrakion\, and Virizion Raid Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20250226
-DTSTAMP:20250224T002736Z
+DTSTAMP:20250225T002644Z
 SUMMARY:[RH] Tornadus\, Thundurus\, and Landorus Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20250226/
@@ -59,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20250227
-DTSTAMP:20250224T002736Z
+DTSTAMP:20250225T002644Z
 SUMMARY:[RH] Reshiram Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20250227/
@@ -75,7 +75,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20250228
-DTSTAMP:20250224T002736Z
+DTSTAMP:20250225T002644Z
 SUMMARY:[RH] Zekrom Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20250228/
