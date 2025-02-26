@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:genesect-in-5-star-raid-battles-february-2025
-DTSTAMP:20250225T002644Z
+DTSTAMP:20250226T002622Z
 SUMMARY:[RB] Genesect (All Forms) in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /genesect-in-5-star-raid-battles-february-2025/
@@ -27,8 +27,78 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:cobalion-terrikion-virizion-in-5-star-raid-battles-february-2025
+DTSTAMP:20250226T002622Z
+SUMMARY:[RB] Cobalion\, Terrakion\, and Virizion in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /cobalion-terrikion-virizion-in-5-star-raid-battles-february-2025/
+URL:https://leekduck.com/events/cobalion-terrikion-virizion-in-5-star-raid-
+ battles-february-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/swords-of-justic
+ e-go-tour.jpg
+DTSTART:20250225T100000
+DTEND:20250226T100000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Cobalion\, Terrakion\, and Virizion in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tornadus-thundurus-landorus-in-5-star-raid-battles-february-2025
+DTSTAMP:20250226T002622Z
+SUMMARY:[RB] Tornadus\, Thundurus\, and Landorus in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /tornadus-thundurus-landorus-in-5-star-raid-battles-february-2025/
+URL:https://leekduck.com/events/tornadus-thundurus-landorus-in-5-star-raid-
+ battles-february-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/tornadus-thundur
+ us-landorus-go-tour.jpg
+DTSTART:20250226T100000
+DTEND:20250227T100000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Tornadus\, Thundurus\, and Landorus in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:reshiram-in-5-star-raid-battles-february-2025
+DTSTAMP:20250226T002622Z
+SUMMARY:[RB] Reshiram in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /reshiram-in-5-star-raid-battles-february-2025/
+URL:https://leekduck.com/events/reshiram-in-5-star-raid-battles-february-20
+ 25/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/reshiram.jpg
+DTSTART:20250227T100000
+DTEND:20250228T100000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Reshiram in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:zekrom-in-5-star-raid-battles-february-2025
+DTSTAMP:20250226T002622Z
+SUMMARY:[RB] Zekrom in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /zekrom-in-5-star-raid-battles-february-2025/
+URL:https://leekduck.com/events/zekrom-in-5-star-raid-battles-february-2025
+ /
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/zekrom2.jpg
+DTSTART:20250228T100000
+DTEND:20250301T100000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Zekrom in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:shadow-regirock-in-shadow-raids-dual-destiny
-DTSTAMP:20250225T002644Z
+DTSTAMP:20250226T002622Z
 SUMMARY:[RB] Shadow Regirock in Shadow Raids in February
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-regirock-in-shadow-raids-dual-destiny/
@@ -46,7 +116,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-garchomp-in-mega-raids-february-2025
-DTSTAMP:20250225T002644Z
+DTSTAMP:20250226T002622Z
 SUMMARY:[RB] Mega Garchomp in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-garchomp-in-mega-raids-february-2025/
