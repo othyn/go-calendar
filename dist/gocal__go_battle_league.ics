@@ -10,28 +10,8 @@ X-WR-CALDESC:All Pokémon GO GO Battle League events\, in your local time\,
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:gbl-dual-destiny_great-league_ultra-league_master-league-split-3
-DTSTAMP:20250226T002622Z
-SUMMARY:[GBL] Great League\, Ultra League\, and Master League | Dual Destin
- y
-DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /gbl-dual-destiny_great-league_ultra-league_master-league-split-3/
-URL:https://leekduck.com/events/gbl-dual-destiny_great-league_ultra-league_
- master-league-split-3/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
- -season-21-dual-destiny.jpg
-DTSTART;VALUE=DATE:20250218
-DTEND;VALUE=DATE:20250225
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[GBL] Great League\, Ultra League\, and Master League | Dual De
- stiny
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:gbl-dual-destiny_great-league_master-league-mega-edition
-DTSTAMP:20250226T002622Z
+DTSTAMP:20250227T002652Z
 SUMMARY:[GBL] Great League and Master Premier | Dual Destiny
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /gbl-dual-destiny_great-league_master-league-mega-edition/

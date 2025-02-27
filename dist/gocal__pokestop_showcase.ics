@@ -10,26 +10,8 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-virizion-cobalion-terrakion-2025-02-25
-DTSTAMP:20250226T002622Z
-SUMMARY:[PS] Virizion\, Cobalion\, and Terrakion PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-virizion-cobalion-terrakion-2025-02-25/
-URL:https://leekduck.com/events/pokemon-showcase-virizion-cobalion-terrakio
- n-2025-02-25/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
- es-default.jpg
-DTSTART:20250225T100000
-DTEND:20250225T200000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PS] Virizion\, Cobalion\, and Terrakion PokéStop Showcases
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-showcase-tornadus-thundurus-landorus-2025-02-26
-DTSTAMP:20250226T002622Z
+DTSTAMP:20250227T002652Z
 SUMMARY:[PS] Tornadus\, Thundurus\, and Landorus PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-tornadus-thundurus-landorus-2025-02-26/

@@ -10,96 +10,8 @@ X-WR-CALDESC:All Pokémon GO events\, in your local time\, auto-updated and
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:genesect-in-5-star-raid-battles-february-2025
-DTSTAMP:20250226T002622Z
-SUMMARY:[RB] Genesect (All Forms) in 5-star Raid Battles
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /genesect-in-5-star-raid-battles-february-2025/
-URL:https://leekduck.com/events/genesect-in-5-star-raid-battles-february-20
- 25/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/genesect.jpg
-DTSTART:20250224T100000
-DTEND:20250225T100000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Genesect (All Forms) in 5-star Raid Battles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:gbl-dual-destiny_great-league_ultra-league_master-league-split-3
-DTSTAMP:20250226T002622Z
-SUMMARY:[GBL] Great League\, Ultra League\, and Master League | Dual Destin
- y
-DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /gbl-dual-destiny_great-league_ultra-league_master-league-split-3/
-URL:https://leekduck.com/events/gbl-dual-destiny_great-league_ultra-league_
- master-league-split-3/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
- -season-21-dual-destiny.jpg
-DTSTART;VALUE=DATE:20250218
-DTEND;VALUE=DATE:20250225
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[GBL] Great League\, Ultra League\, and Master League | Dual De
- stiny
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pokemonspotlighthour2024-02-25
-DTSTAMP:20250226T002622Z
-SUMMARY:[PSH] Snivy\, Tepig\, and Oshawott Spotlight Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2024-02-25/
-URL:https://leekduck.com/events/pokemonspotlighthour2024-02-25/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
- hour.jpg
-DTSTART:20250225T180000
-DTEND:20250225T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PSH] Snivy\, Tepig\, and Oshawott Spotlight Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:raidhour20250225
-DTSTAMP:20250226T002622Z
-SUMMARY:[RH] Cobalion\, Terrakion\, and Virizion Raid Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /raidhour20250225/
-URL:https://leekduck.com/events/raidhour20250225/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
-DTSTART:20250225T180000
-DTEND:20250225T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RH] Cobalion\, Terrakion\, and Virizion Raid Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pokemon-showcase-virizion-cobalion-terrakion-2025-02-25
-DTSTAMP:20250226T002622Z
-SUMMARY:[PS] Virizion\, Cobalion\, and Terrakion PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-virizion-cobalion-terrakion-2025-02-25/
-URL:https://leekduck.com/events/pokemon-showcase-virizion-cobalion-terrakio
- n-2025-02-25/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
- es-default.jpg
-DTSTART:20250225T100000
-DTEND:20250225T200000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PS] Virizion\, Cobalion\, and Terrakion PokéStop Showcases
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:cobalion-terrikion-virizion-in-5-star-raid-battles-february-2025
-DTSTAMP:20250226T002622Z
+DTSTAMP:20250227T002652Z
 SUMMARY:[RB] Cobalion\, Terrakion\, and Virizion in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /cobalion-terrikion-virizion-in-5-star-raid-battles-february-2025/
@@ -117,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20250226
-DTSTAMP:20250226T002622Z
+DTSTAMP:20250227T002652Z
 SUMMARY:[RH] Tornadus\, Thundurus\, and Landorus Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20250226/
@@ -133,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-tornadus-thundurus-landorus-2025-02-26
-DTSTAMP:20250226T002622Z
+DTSTAMP:20250227T002652Z
 SUMMARY:[PS] Tornadus\, Thundurus\, and Landorus PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-tornadus-thundurus-landorus-2025-02-26/
@@ -151,7 +63,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tornadus-thundurus-landorus-in-5-star-raid-battles-february-2025
-DTSTAMP:20250226T002622Z
+DTSTAMP:20250227T002652Z
 SUMMARY:[RB] Tornadus\, Thundurus\, and Landorus in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /tornadus-thundurus-landorus-in-5-star-raid-battles-february-2025/
@@ -169,7 +81,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20250227
-DTSTAMP:20250226T002622Z
+DTSTAMP:20250227T002652Z
 SUMMARY:[RH] Reshiram Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20250227/
@@ -185,7 +97,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:reshiram-in-5-star-raid-battles-february-2025
-DTSTAMP:20250226T002622Z
+DTSTAMP:20250227T002652Z
 SUMMARY:[RB] Reshiram in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /reshiram-in-5-star-raid-battles-february-2025/
@@ -202,7 +114,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20250228
-DTSTAMP:20250226T002622Z
+DTSTAMP:20250227T002652Z
 SUMMARY:[RH] Zekrom Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20250228/
@@ -218,7 +130,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eggs-pedition-access-february-2025
-DTSTAMP:20250226T002622Z
+DTSTAMP:20250227T002652Z
 SUMMARY:[TE] Eggs-pedition Access: February
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /eggs-pedition-access-february-2025/
@@ -236,7 +148,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:zekrom-in-5-star-raid-battles-february-2025
-DTSTAMP:20250226T002622Z
+DTSTAMP:20250227T002652Z
 SUMMARY:[RB] Zekrom in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /zekrom-in-5-star-raid-battles-february-2025/
@@ -253,7 +165,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:road-to-unova
-DTSTAMP:20250226T002622Z
+DTSTAMP:20250227T002652Z
 SUMMARY:[E] Road to Unova
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /road-to-unova/
@@ -270,7 +182,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-unova-global-2025
-DTSTAMP:20250226T002622Z
+DTSTAMP:20250227T002652Z
 SUMMARY:[PGT] Pokémon GO Tour: Unova - Global
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-tour-unova-global-2025/
@@ -288,7 +200,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-tour-unova-timed-research-codes
-DTSTAMP:20250226T002622Z
+DTSTAMP:20250227T002652Z
 SUMMARY:[R] [Promo Code] Pokémon GO Tour Unova: Timed Research Codes
 DESCRIPTION:Starts at 09:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /go-tour-unova-timed-research-codes/
@@ -305,7 +217,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-regirock-in-shadow-raids-dual-destiny
-DTSTAMP:20250226T002622Z
+DTSTAMP:20250227T002652Z
 SUMMARY:[RB] Shadow Regirock in Shadow Raids in February
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-regirock-in-shadow-raids-dual-destiny/
@@ -323,7 +235,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2025-03-03
-DTSTAMP:20250226T002622Z
+DTSTAMP:20250227T002652Z
 SUMMARY:[MM] Dynamax Beldum during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2025-03-03/
@@ -340,7 +252,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:february-max-battles-split-4-2025
-DTSTAMP:20250226T002622Z
+DTSTAMP:20250227T002652Z
 SUMMARY:[MB] Max Battles - February 24 to March 3
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /february-max-battles-split-4-2025/
@@ -357,7 +269,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-17-dual-destiny
-DTSTAMP:20250226T002622Z
+DTSTAMP:20250227T002652Z
 SUMMARY:[S] Dual Destiny
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-17-dual-destiny/
@@ -374,7 +286,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-garchomp-in-mega-raids-february-2025
-DTSTAMP:20250226T002622Z
+DTSTAMP:20250227T002652Z
 SUMMARY:[RB] Mega Garchomp in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-garchomp-in-mega-raids-february-2025/
@@ -390,7 +302,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-dual-destiny_great-league_master-league-mega-edition
-DTSTAMP:20250226T002622Z
+DTSTAMP:20250227T002652Z
 SUMMARY:[GBL] Great League and Master Premier | Dual Destiny
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /gbl-dual-destiny_great-league_master-league-mega-edition/
@@ -408,7 +320,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:march-max-battles-split-1-2025
-DTSTAMP:20250226T002622Z
+DTSTAMP:20250227T002652Z
 SUMMARY:[MB] Max Battles - March 3 to March 4
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /march-max-battles-split-1-2025/
@@ -425,7 +337,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:march-communityday2025
-DTSTAMP:20250226T002622Z
+DTSTAMP:20250227T002652Z
 SUMMARY:[CD] Fuecoco Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /march-communityday2025/
@@ -442,7 +354,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-weekend-march-2025
-DTSTAMP:20250226T002622Z
+DTSTAMP:20250227T002652Z
 SUMMARY:[MB] Max Battle Weekend March 2025
 DESCRIPTION:Starts at 06:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /max-battle-weekend-march-2025/
@@ -459,7 +371,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:catch-mastery-march-2025
-DTSTAMP:20250226T002622Z
+DTSTAMP:20250227T002652Z
 SUMMARY:[E] Catch Mastery March 2025
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /catch-mastery-march-2025/
@@ -476,7 +388,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:march-communitydayclassic2025
-DTSTAMP:20250226T002622Z
+DTSTAMP:20250227T002652Z
 SUMMARY:[CD] Totodile Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /march-communitydayclassic2025/
@@ -493,7 +405,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-march-2025
-DTSTAMP:20250226T002622Z
+DTSTAMP:20250227T002652Z
 SUMMARY:[RD] Raid Day March 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-march-2025/
@@ -510,7 +422,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:research-day-march-2025
-DTSTAMP:20250226T002622Z
+DTSTAMP:20250227T002652Z
 SUMMARY:[RD] Research Day March 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /research-day-march-2025/
@@ -527,7 +439,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-april-2025
-DTSTAMP:20250226T002622Z
+DTSTAMP:20250227T002652Z
 SUMMARY:[RD] Raid Day April 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-april-2025/
@@ -544,7 +456,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-april-2025
-DTSTAMP:20250226T002622Z
+DTSTAMP:20250227T002652Z
 SUMMARY:[E] Hatch Day April 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-april-2025/
@@ -561,7 +473,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-april-2025-2
-DTSTAMP:20250226T002622Z
+DTSTAMP:20250227T002652Z
 SUMMARY:[RD] Raid Day April 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-april-2025-2/
@@ -578,7 +490,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-april-2025
-DTSTAMP:20250226T002622Z
+DTSTAMP:20250227T002652Z
 SUMMARY:[MB] Max Battle Day April 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-april-2025/
@@ -595,7 +507,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:april-communityday2025
-DTSTAMP:20250226T002622Z
+DTSTAMP:20250227T002652Z
 SUMMARY:[CD] April Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /april-communityday2025/
@@ -611,7 +523,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-may-2025
-DTSTAMP:20250226T002622Z
+DTSTAMP:20250227T002652Z
 SUMMARY:[RD] Raid Day May 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-may-2025/
@@ -628,7 +540,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communityday2025
-DTSTAMP:20250226T002622Z
+DTSTAMP:20250227T002652Z
 SUMMARY:[CD] May Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /may-communityday2025/
@@ -644,7 +556,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-raid-day-may-2025
-DTSTAMP:20250226T002622Z
+DTSTAMP:20250227T002652Z
 SUMMARY:[RD] Shadow Raid Day May 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /shadow-raid-day-may-2025/
@@ -661,7 +573,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communitydayclassic2025
-DTSTAMP:20250226T002622Z
+DTSTAMP:20250227T002652Z
 SUMMARY:[CD] May Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /may-communitydayclassic2025/
@@ -677,7 +589,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-may-2025
-DTSTAMP:20250226T002622Z
+DTSTAMP:20250227T002652Z
 SUMMARY:[MB] Max Battle Day May 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-may-2025/
