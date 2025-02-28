@@ -10,20 +10,36 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-tornadus-thundurus-landorus-2025-02-26
-DTSTAMP:20250227T002652Z
-SUMMARY:[PS] Tornadus\, Thundurus\, and Landorus PokéStop Showcases
+UID:pokemon-showcase-reshiram-2025-02-27
+DTSTAMP:20250228T002653Z
+SUMMARY:[PS] Reshiram PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-tornadus-thundurus-landorus-2025-02-26/
-URL:https://leekduck.com/events/pokemon-showcase-tornadus-thundurus-landoru
- s-2025-02-26/
+ /pokemon-showcase-reshiram-2025-02-27/
+URL:https://leekduck.com/events/pokemon-showcase-reshiram-2025-02-27/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART:20250226T100000
-DTEND:20250226T200000
+DTSTART:20250227T100000
+DTEND:20250227T200000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Tornadus\, Thundurus\, and Landorus PokéStop Showcases
+DESCRIPTION:[PS] Reshiram PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-zekrom-2025-02-28
+DTSTAMP:20250228T002653Z
+SUMMARY:[PS] Zekrom PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-zekrom-2025-02-28/
+URL:https://leekduck.com/events/pokemon-showcase-zekrom-2025-02-28/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
+ es-default.jpg
+DTSTART:20250228T100000
+DTEND:20250228T200000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PS] Zekrom PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
