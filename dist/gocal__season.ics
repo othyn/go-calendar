@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:season-17-dual-destiny
-DTSTAMP:20250228T002653Z
+DTSTAMP:20250301T002919Z
 SUMMARY:[S] Dual Destiny
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-17-dual-destiny/
@@ -23,6 +23,23 @@ DTEND;VALUE=DATE:20250304
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[S] Dual Destiny
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:season-18-might-and-mastery
+DTSTAMP:20250301T002919Z
+SUMMARY:[S] Might and Mastery
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /season-18-might-and-mastery/
+URL:https://leekduck.com/events/season-18-might-and-mastery/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-03-04-season-18-might-and-mastery/season-18-might-and-mastery.jpg
+DTSTART;VALUE=DATE:20250304
+DTEND;VALUE=DATE:20250603
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[S] Might and Mastery
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

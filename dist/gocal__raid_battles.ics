@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Battles events\, in your local time\, aut
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:reshiram-in-5-star-raid-battles-february-2025
-DTSTAMP:20250228T002653Z
-SUMMARY:[RB] Reshiram in 5-star Raid Battles
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /reshiram-in-5-star-raid-battles-february-2025/
-URL:https://leekduck.com/events/reshiram-in-5-star-raid-battles-february-20
- 25/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/reshiram.jpg
-DTSTART:20250227T100000
-DTEND:20250228T100000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Reshiram in 5-star Raid Battles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:zekrom-in-5-star-raid-battles-february-2025
-DTSTAMP:20250228T002653Z
+DTSTAMP:20250301T002919Z
 SUMMARY:[RB] Zekrom in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /zekrom-in-5-star-raid-battles-february-2025/
@@ -45,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-regirock-in-shadow-raids-dual-destiny
-DTSTAMP:20250228T002653Z
+DTSTAMP:20250301T002919Z
 SUMMARY:[RB] Shadow Regirock in Shadow Raids in February
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-regirock-in-shadow-raids-dual-destiny/
@@ -63,7 +46,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-garchomp-in-mega-raids-february-2025
-DTSTAMP:20250228T002653Z
+DTSTAMP:20250301T002919Z
 SUMMARY:[RB] Mega Garchomp in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-garchomp-in-mega-raids-february-2025/

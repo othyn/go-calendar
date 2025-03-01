@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:road-to-unova
-DTSTAMP:20250228T002653Z
+DTSTAMP:20250301T002919Z
 SUMMARY:[E] Road to Unova
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /road-to-unova/
@@ -27,8 +27,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:powerful-potential
+DTSTAMP:20250301T002919Z
+SUMMARY:[E] Powerful Potential
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /powerful-potential/
+URL:https://leekduck.com/events/powerful-potential/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-03-05-powerful-potential/powerful-potential.jpg
+DTSTART;VALUE=DATE:20250305
+DTEND;VALUE=DATE:20250310
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Powerful Potential
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:catch-mastery-march-2025
-DTSTAMP:20250228T002653Z
+DTSTAMP:20250301T002919Z
 SUMMARY:[E] Catch Mastery March 2025
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /catch-mastery-march-2025/
@@ -45,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-april-2025
-DTSTAMP:20250228T002653Z
+DTSTAMP:20250301T002919Z
 SUMMARY:[E] Hatch Day April 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-april-2025/
