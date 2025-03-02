@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:go-tour-unova-timed-research-codes
-DTSTAMP:20250301T002919Z
+DTSTAMP:20250302T002856Z
 SUMMARY:[R] [Promo Code] Pokémon GO Tour Unova: Timed Research Codes
 DESCRIPTION:Starts at 09:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /go-tour-unova-timed-research-codes/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-presents-25-x-go-tour-timed-research
-DTSTAMP:20250301T002919Z
+DTSTAMP:20250302T002856Z
 SUMMARY:[R] [Promo Code] Pokémon Presents ’25 x GO Tour Timed Research
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-presents-25-x-go-tour-timed-research/
@@ -43,6 +43,23 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[R] [Promo Code] Pokémon Presents ’25 x GO Tour Timed Resear
  ch
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:masterwork-research-a-dazzling-aria
+DTSTAMP:20250302T002856Z
+SUMMARY:[R] Masterwork Research: A Dazzling Aria
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /masterwork-research-a-dazzling-aria/
+URL:https://leekduck.com/events/masterwork-research-a-dazzling-aria/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-02-21-masterwork-research-a-dazzling-aria/shiny-meloetta.jpg
+DTSTART;VALUE=DATE:20250221
+DTEND;VALUE=DATE:20250330
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[R] Masterwork Research: A Dazzling Aria
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

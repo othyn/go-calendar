@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:february-max-battles-split-4-2025
-DTSTAMP:20250301T002919Z
+DTSTAMP:20250302T002856Z
 SUMMARY:[MB] Max Battles - February 24 to March 3
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /february-max-battles-split-4-2025/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:march-max-battles-split-1-2025
-DTSTAMP:20250301T002919Z
+DTSTAMP:20250302T002856Z
 SUMMARY:[MB] Max Battles - March 3 to March 4
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /march-max-battles-split-1-2025/
@@ -45,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-weekend-march-2025
-DTSTAMP:20250301T002919Z
+DTSTAMP:20250302T002856Z
 SUMMARY:[MB] Max Battle Weekend March 2025
 DESCRIPTION:Starts at 06:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /max-battle-weekend-march-2025/
@@ -61,8 +61,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:dynamax-raikou-battle-weekend
+DTSTAMP:20250302T002856Z
+SUMMARY:[MB] Dynamax Raikou Max Battle Weekend
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /dynamax-raikou-battle-weekend/
+URL:https://leekduck.com/events/dynamax-raikou-battle-weekend/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-03-15-dynamax-raikou-battle-weekend/dynamax-raikou.jpg
+DTSTART;VALUE=DATE:20250315
+DTEND;VALUE=DATE:20250316
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MB] Dynamax Raikou Max Battle Weekend
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:max-battle-day-april-2025
-DTSTAMP:20250301T002919Z
+DTSTAMP:20250302T002856Z
 SUMMARY:[MB] Max Battle Day April 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-april-2025/
@@ -79,7 +96,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-may-2025
-DTSTAMP:20250301T002919Z
+DTSTAMP:20250302T002856Z
 SUMMARY:[MB] Max Battle Day May 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-may-2025/
