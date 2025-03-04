@@ -23,17 +23,9 @@
         "name": "Max Mondays",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__max_mondays.ics"
     },
-    "pokemon_go_tour": {
-        "name": "Pokémon GO Tour",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokemon_go_tour.ics"
-    },
     "pokemon_spotlight_hour": {
         "name": "Pokémon Spotlight Hour",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokemon_spotlight_hour.ics"
-    },
-    "pokestop_showcase": {
-        "name": "PokéStop Showcase",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokestop_showcase.ics"
     },
     "raid_battles": {
         "name": "Raid Battles",
@@ -42,6 +34,10 @@
     "raid_day": {
         "name": "Raid Day",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__raid_day.ics"
+    },
+    "raid_hour": {
+        "name": "Raid Hour",
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__raid_hour.ics"
     },
     "research": {
         "name": "Research",
@@ -54,5 +50,9 @@
     "season": {
         "name": "Season",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__season.ics"
+    },
+    "ticketed_event": {
+        "name": "Ticketed Event",
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__ticketed_event.ics"
     }
 }

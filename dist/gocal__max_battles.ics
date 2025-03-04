@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:february-max-battles-split-4-2025
-DTSTAMP:20250303T002803Z
+DTSTAMP:20250304T002649Z
 SUMMARY:[MB] Max Battles - February 24 to March 3
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /february-max-battles-split-4-2025/
@@ -27,25 +27,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:march-max-battles-split-1-2025
-DTSTAMP:20250303T002803Z
-SUMMARY:[MB] Max Battles - March 3 to March 4
-DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /march-max-battles-split-1-2025/
-URL:https://leekduck.com/events/march-max-battles-split-1-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/power-spots-max-
- battles.jpg
-DTSTART:20250303T210000
-DTEND:20250304T210000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[MB] Max Battles - March 3 to March 4
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:max-battle-weekend-march-2025
-DTSTAMP:20250303T002803Z
+DTSTAMP:20250304T002649Z
 SUMMARY:[MB] Max Battle Weekend March 2025
 DESCRIPTION:Starts at 06:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /max-battle-weekend-march-2025/
@@ -61,8 +44,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:march-max-battles-split-1-2025
+DTSTAMP:20250304T002649Z
+SUMMARY:[MB] Max Battles - March 3 to March 10
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /march-max-battles-split-1-2025/
+URL:https://leekduck.com/events/march-max-battles-split-1-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/power-spots-max-
+ battles.jpg
+DTSTART;VALUE=DATE:20250303
+DTEND;VALUE=DATE:20250310
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MB] Max Battles - March 3 to March 10
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:dynamax-raikou-battle-weekend
-DTSTAMP:20250303T002803Z
+DTSTAMP:20250304T002649Z
 SUMMARY:[MB] Dynamax Raikou Max Battle Weekend
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /dynamax-raikou-battle-weekend/
@@ -78,8 +78,59 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:march-max-battles-split-2-2025
+DTSTAMP:20250304T002649Z
+SUMMARY:[MB] Max Battles - March 10 to March 17
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /march-max-battles-split-2-2025/
+URL:https://leekduck.com/events/march-max-battles-split-2-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/power-spots-max-
+ battles.jpg
+DTSTART;VALUE=DATE:20250310
+DTEND;VALUE=DATE:20250317
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MB] Max Battles - March 10 to March 17
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:march-max-battles-split-3-2025
+DTSTAMP:20250304T002649Z
+SUMMARY:[MB] Max Battles - March 17 to March 24
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /march-max-battles-split-3-2025/
+URL:https://leekduck.com/events/march-max-battles-split-3-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/power-spots-max-
+ battles.jpg
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250324
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MB] Max Battles - March 17 to March 24
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:march-max-battles-split-4-2025
+DTSTAMP:20250304T002649Z
+SUMMARY:[MB] Max Battles - March 24 to March 31
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /march-max-battles-split-4-2025/
+URL:https://leekduck.com/events/march-max-battles-split-4-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/power-spots-max-
+ battles.jpg
+DTSTART;VALUE=DATE:20250324
+DTEND;VALUE=DATE:20250331
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MB] Max Battles - March 24 to March 31
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:max-battle-day-april-2025
-DTSTAMP:20250303T002803Z
+DTSTAMP:20250304T002649Z
 SUMMARY:[MB] Max Battle Day April 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-april-2025/
@@ -96,7 +147,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-may-2025
-DTSTAMP:20250303T002803Z
+DTSTAMP:20250304T002649Z
 SUMMARY:[MB] Max Battle Day May 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-may-2025/

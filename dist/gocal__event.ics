@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:powerful-potential
-DTSTAMP:20250303T002803Z
+DTSTAMP:20250304T002649Z
 SUMMARY:[E] Powerful Potential
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /powerful-potential/
@@ -27,25 +27,76 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:catch-mastery-march-2025
-DTSTAMP:20250303T002803Z
-SUMMARY:[E] Catch Mastery March 2025
+UID:catch-mastery-archen
+DTSTAMP:20250304T002649Z
+SUMMARY:[E] Catch Mastery: Archen
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /catch-mastery-march-2025/
-URL:https://leekduck.com/events/catch-mastery-march-2025/
+ /catch-mastery-archen/
+URL:https://leekduck.com/events/catch-mastery-archen/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
 DTSTART:20250316T100000
 DTEND:20250316T200000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Catch Mastery March 2025
+DESCRIPTION:[E] Catch Mastery: Archen
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:festival-of-colors-2025
+DTSTAMP:20250304T002649Z
+SUMMARY:[E] Festival of Colors 2025
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /festival-of-colors-2025/
+URL:https://leekduck.com/events/festival-of-colors-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-03-13-festival-of-colors-2025/festival-of-colors-2025.jpg
+DTSTART;VALUE=DATE:20250313
+DTEND;VALUE=DATE:20250317
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Festival of Colors 2025
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:deep-depths
+DTSTAMP:20250304T002649Z
+SUMMARY:[E] Deep Depths
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /deep-depths/
+URL:https://leekduck.com/events/deep-depths/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20250319
+DTEND;VALUE=DATE:20250324
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Deep Depths
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bug-out
+DTSTAMP:20250304T002649Z
+SUMMARY:[E] Bug Out
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /bug-out/
+URL:https://leekduck.com/events/bug-out/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20250326
+DTEND;VALUE=DATE:20250330
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Bug Out
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-april-2025
-DTSTAMP:20250303T002803Z
+DTSTAMP:20250304T002649Z
 SUMMARY:[E] Hatch Day April 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-april-2025/

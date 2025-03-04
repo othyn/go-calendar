@@ -10,26 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Battles events\, in your local time\, aut
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:shadow-regirock-in-shadow-raids-dual-destiny
-DTSTAMP:20250303T002803Z
-SUMMARY:[RB] Shadow Regirock in Shadow Raids in February
-DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
- /shadow-regirock-in-shadow-raids-dual-destiny/
-URL:https://leekduck.com/events/shadow-regirock-in-shadow-raids-dual-destin
- y/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-DTSTART;VALUE=DATE:20250203
-DTEND;VALUE=DATE:20250302
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Shadow Regirock in Shadow Raids in February
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:mega-garchomp-in-mega-raids-february-2025
-DTSTAMP:20250303T002803Z
+DTSTAMP:20250304T002649Z
 SUMMARY:[RB] Mega Garchomp in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-garchomp-in-mega-raids-february-2025/
@@ -40,6 +22,124 @@ DTEND;VALUE=DATE:20250304
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RB] Mega Garchomp in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-lucario-in-mega-raids-march-2025
+DTSTAMP:20250304T002649Z
+SUMMARY:[RB] Mega Lucario in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-lucario-in-mega-raids-march-2025/
+URL:https://leekduck.com/events/mega-lucario-in-mega-raids-march-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20250304
+DTEND;VALUE=DATE:20250313
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Mega Lucario in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:articuno-zapdos-moltres-in-5-star-raid-battles-march-2025
+DTSTAMP:20250304T002649Z
+SUMMARY:[RB] Articuno\, Zapdos\, and Moltres in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /articuno-zapdos-moltres-in-5-star-raid-battles-march-2025/
+URL:https://leekduck.com/events/articuno-zapdos-moltres-in-5-star-raid-batt
+ les-march-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/kanto-raid-day-2
+ 021-articuno-zapdos-moltres.jpg
+DTSTART;VALUE=DATE:20250304
+DTEND;VALUE=DATE:20250313
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Articuno\, Zapdos\, and Moltres in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-swampert-in-mega-raids-march-2025
+DTSTAMP:20250304T002649Z
+SUMMARY:[RB] Mega Swampert in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-swampert-in-mega-raids-march-2025/
+URL:https://leekduck.com/events/mega-swampert-in-mega-raids-march-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20250313
+DTEND;VALUE=DATE:20250322
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Mega Swampert in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tapu-koko-in-5-star-raid-battles-march-2025
+DTSTAMP:20250304T002649Z
+SUMMARY:[RB] Tapu Koko in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /tapu-koko-in-5-star-raid-battles-march-2025/
+URL:https://leekduck.com/events/tapu-koko-in-5-star-raid-battles-march-2025
+ /
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/tapu-koko.jpg
+DTSTART;VALUE=DATE:20250313
+DTEND;VALUE=DATE:20250322
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Tapu Koko in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-pinsir-in-mega-raids-march-2025
+DTSTAMP:20250304T002649Z
+SUMMARY:[RB] Mega Pinsir in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-pinsir-in-mega-raids-march-2025/
+URL:https://leekduck.com/events/mega-pinsir-in-mega-raids-march-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20250322
+DTEND;VALUE=DATE:20250331
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Mega Pinsir in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:heatran-in-5-star-raid-battles-march-2025
+DTSTAMP:20250304T002649Z
+SUMMARY:[RB] Heatran in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /heatran-in-5-star-raid-battles-march-2025/
+URL:https://leekduck.com/events/heatran-in-5-star-raid-battles-march-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/heatran-raids.jp
+ g
+DTSTART;VALUE=DATE:20250322
+DTEND;VALUE=DATE:20250331
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Heatran in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shadow-regice-in-shadow-raids-might-and-mastery
+DTSTAMP:20250304T002649Z
+SUMMARY:[RB] Shadow Regice in Shadow Raids in March
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /shadow-regice-in-shadow-raids-might-and-mastery/
+URL:https://leekduck.com/events/shadow-regice-in-shadow-raids-might-and-mas
+ tery/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20250304
+DTEND;VALUE=DATE:20250404
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Shadow Regice in Shadow Raids in March
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
