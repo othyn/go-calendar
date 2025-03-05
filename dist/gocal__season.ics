@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Season events\, in your local time\, auto-upda
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:season-17-dual-destiny
-DTSTAMP:20250304T002649Z
-SUMMARY:[S] Dual Destiny
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /season-17-dual-destiny/
-URL:https://leekduck.com/events/season-17-dual-destiny/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 024/2024-12-03-season-17-dual-destiny/season-17-dual-destiny.jpg
-DTSTART;VALUE=DATE:20241203
-DTEND;VALUE=DATE:20250304
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[S] Dual Destiny
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:season-18-might-and-mastery
-DTSTAMP:20250304T002649Z
+DTSTAMP:20250305T002653Z
 SUMMARY:[S] Might and Mastery
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-18-might-and-mastery/
