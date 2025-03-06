@@ -10,20 +10,22 @@ X-WR-CALDESC:All Pokémon GO GO Battle League events\, in your local time\,
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:gbl-dual-destiny_great-league_master-league-mega-edition
-DTSTAMP:20250305T002653Z
-SUMMARY:[GBL] Great League and Master Premier | Dual Destiny
+UID:gbl-might-and-mastery_great-league_willpower-cup-great-league-edition
+DTSTAMP:20250306T002711Z
+SUMMARY:[GBL] Great League and Willpower Cup: Great League Edition | Might 
+ and Mastery
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /gbl-dual-destiny_great-league_master-league-mega-edition/
-URL:https://leekduck.com/events/gbl-dual-destiny_great-league_master-league
- -mega-edition/
+ /gbl-might-and-mastery_great-league_willpower-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-might-and-mastery_great-league_willpowe
+ r-cup-great-league-edition/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattle-greatle
  ague-key.jpg
-DTSTART;VALUE=DATE:20250225
-DTEND;VALUE=DATE:20250304
+DTSTART;VALUE=DATE:20250304
+DTEND;VALUE=DATE:20250311
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[GBL] Great League and Master Premier | Dual Destiny
+DESCRIPTION:[GBL] Great League and Willpower Cup: Great League Edition | Mi
+ ght and Mastery
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
