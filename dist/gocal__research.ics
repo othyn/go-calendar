@@ -11,9 +11,9 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-presents-25-x-go-tour-timed-research
-DTSTAMP:20250306T002711Z
+DTSTAMP:20250307T002715Z
 SUMMARY:[R] [Promo Code] Pokémon Presents ’25 x GO Tour Timed Research
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-presents-25-x-go-tour-timed-research/
 URL:https://leekduck.com/events/pokemon-presents-25-x-go-tour-timed-researc
  h/
@@ -21,7 +21,7 @@ IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
  025/2025-02-27-pokemon-presents-25-x-go-tour-timed-research/pokemon-presen
  ts-25.jpg
 DTSTART;VALUE=DATE:20250227
-DTEND;VALUE=DATE:20250307
+DTEND;VALUE=DATE:20250309
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[R] [Promo Code] Pokémon Presents ’25 x GO Tour Timed Resear
@@ -31,7 +31,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:masterwork-research-a-dazzling-aria
-DTSTAMP:20250306T002711Z
+DTSTAMP:20250307T002715Z
 SUMMARY:[R] Masterwork Research: A Dazzling Aria
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /masterwork-research-a-dazzling-aria/
