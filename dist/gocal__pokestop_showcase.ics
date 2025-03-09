@@ -10,20 +10,20 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-black-kyurem-white-kyurem-2025-03-01
-DTSTAMP:20250303T002803Z
-SUMMARY:[PS] Kyurem PokéStop Showcases
+UID:pokemon-showcase-fuecoco-skeledirge-2025-03-01
+DTSTAMP:20250309T002420Z
+SUMMARY:[PS] Fuecoco and Skeledirge PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-black-kyurem-white-kyurem-2025-03-01/
-URL:https://leekduck.com/events/pokemon-showcase-black-kyurem-white-kyurem-
- 2025-03-01/
+ /pokemon-showcase-fuecoco-skeledirge-2025-03-01/
+URL:https://leekduck.com/events/pokemon-showcase-fuecoco-skeledirge-2025-03
+ -01/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20250301
-DTEND;VALUE=DATE:20250302
+DTSTART;VALUE=DATE:20250308
+DTEND;VALUE=DATE:20250309
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Kyurem PokéStop Showcases
+DESCRIPTION:[PS] Fuecoco and Skeledirge PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
