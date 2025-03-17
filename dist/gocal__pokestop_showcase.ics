@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-bruxish-2025-03-15
-DTSTAMP:20250316T002952Z
+DTSTAMP:20250317T002853Z
 SUMMARY:[PS] Bruxish PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-bruxish-2025-03-15/
