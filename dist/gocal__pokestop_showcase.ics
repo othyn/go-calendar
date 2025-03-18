@@ -10,19 +10,19 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-bruxish-2025-03-15
-DTSTAMP:20250317T002853Z
-SUMMARY:[PS] Bruxish PokéStop Showcases
+UID:pokemon-showcase-smeargle-2025-03-17
+DTSTAMP:20250318T002713Z
+SUMMARY:[PS] Smeargle PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-bruxish-2025-03-15/
-URL:https://leekduck.com/events/pokemon-showcase-bruxish-2025-03-15/
+ /pokemon-showcase-smeargle-2025-03-17/
+URL:https://leekduck.com/events/pokemon-showcase-smeargle-2025-03-17/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20250315
-DTEND;VALUE=DATE:20250316
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250318
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Bruxish PokéStop Showcases
+DESCRIPTION:[PS] Smeargle PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
