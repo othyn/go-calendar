@@ -10,24 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Hour events\, in your local time\, auto-u
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:raidhour20250319
-DTSTAMP:20250320T002659Z
-SUMMARY:[RH] Tapu Koko Raid Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /raidhour20250319/
-URL:https://leekduck.com/events/raidhour20250319/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
-DTSTART:20250319T180000
-DTEND:20250319T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RH] Tapu Koko Raid Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raidhour20250326
-DTSTAMP:20250320T002659Z
+DTSTAMP:20250321T002724Z
 SUMMARY:[RH] Heatran Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20250326/
