@@ -10,19 +10,20 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-smeargle-2025-03-17
-DTSTAMP:20250320T002659Z
-SUMMARY:[PS] Smeargle PokéStop Showcases
+UID:pokemon-showcase-totodile-feraligatr-2025-03-22
+DTSTAMP:20250322T002723Z
+SUMMARY:[PS] Totodile and Feraligatr PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-smeargle-2025-03-17/
-URL:https://leekduck.com/events/pokemon-showcase-smeargle-2025-03-17/
+ /pokemon-showcase-totodile-feraligatr-2025-03-22/
+URL:https://leekduck.com/events/pokemon-showcase-totodile-feraligatr-2025-0
+ 3-22/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20250317
-DTEND;VALUE=DATE:20250318
+DTSTART;VALUE=DATE:20250322
+DTEND;VALUE=DATE:20250323
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Smeargle PokéStop Showcases
+DESCRIPTION:[PS] Totodile and Feraligatr PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
