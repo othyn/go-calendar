@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:march-max-battles-split-3-2025
-DTSTAMP:20250322T002723Z
+DTSTAMP:20250323T003000Z
 SUMMARY:[MB] Max Battles - March 17 to March 24
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /march-max-battles-split-3-2025/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:march-max-battles-split-4-2025
-DTSTAMP:20250322T002723Z
+DTSTAMP:20250323T003000Z
 SUMMARY:[MB] Max Battles - March 24 to March 31
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /march-max-battles-split-4-2025/
@@ -45,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gigantamax-snorlax-max-battle-day
-DTSTAMP:20250322T002723Z
+DTSTAMP:20250323T003000Z
 SUMMARY:[MB] Gigantamax Snorlax Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /gigantamax-snorlax-max-battle-day/
@@ -63,7 +63,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-may-2025
-DTSTAMP:20250322T002723Z
+DTSTAMP:20250323T003000Z
 SUMMARY:[MB] Max Battle Day May 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-may-2025/
