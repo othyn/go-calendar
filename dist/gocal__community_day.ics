@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Community Day events\, in your local time\, au
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:march-communitydayclassic2025
-DTSTAMP:20250323T003000Z
-SUMMARY:[CD] Totodile Community Day Classic
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /march-communitydayclassic2025/
-URL:https://leekduck.com/events/march-communitydayclassic2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-03-22-march-communitydayclassic2025/totodile-cd-classic.jpg?v2
-DTSTART:20250322T140000
-DTEND:20250322T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[CD] Totodile Community Day Classic
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:april-communityday2025
-DTSTAMP:20250323T003000Z
+DTSTAMP:20250324T002900Z
 SUMMARY:[CD] April Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /april-communityday2025/
@@ -44,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communityday2025
-DTSTAMP:20250323T003000Z
+DTSTAMP:20250324T002900Z
 SUMMARY:[CD] May Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /may-communityday2025/
@@ -60,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communitydayclassic2025
-DTSTAMP:20250323T003000Z
+DTSTAMP:20250324T002900Z
 SUMMARY:[CD] May Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /may-communitydayclassic2025/
