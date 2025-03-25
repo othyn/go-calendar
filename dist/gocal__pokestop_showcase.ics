@@ -10,26 +10,8 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-totodile-feraligatr-2025-03-22
-DTSTAMP:20250324T002900Z
-SUMMARY:[PS] Totodile and Feraligatr PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-totodile-feraligatr-2025-03-22/
-URL:https://leekduck.com/events/pokemon-showcase-totodile-feraligatr-2025-0
- 3-22/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
- es-default.jpg
-DTSTART;VALUE=DATE:20250322
-DTEND;VALUE=DATE:20250323
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PS] Totodile and Feraligatr PokéStop Showcases
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-showcase-nickit-2025-03-24
-DTSTAMP:20250324T002900Z
+DTSTAMP:20250325T002807Z
 SUMMARY:[PS] Nickit PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-nickit-2025-03-24/

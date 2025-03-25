@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:raidhour20250326
-DTSTAMP:20250324T002900Z
+DTSTAMP:20250325T002807Z
 SUMMARY:[RH] Heatran Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20250326/
@@ -22,6 +22,70 @@ DTEND:20250326T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RH] Heatran Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250402
+DTSTAMP:20250325T002807Z
+SUMMARY:[RH] Tapu Lele Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250402/
+URL:https://leekduck.com/events/raidhour20250402/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20250402T180000
+DTEND:20250402T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Tapu Lele Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250409
+DTSTAMP:20250325T002807Z
+SUMMARY:[RH] Blacephalon Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250409/
+URL:https://leekduck.com/events/raidhour20250409/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20250409T180000
+DTEND:20250409T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Blacephalon Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250416
+DTSTAMP:20250325T002807Z
+SUMMARY:[RH] Stakataka Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250416/
+URL:https://leekduck.com/events/raidhour20250416/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20250416T180000
+DTEND:20250416T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Stakataka Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250423
+DTSTAMP:20250325T002807Z
+SUMMARY:[RH] Cresselia Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250423/
+URL:https://leekduck.com/events/raidhour20250423/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20250423T180000
+DTEND:20250423T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Cresselia Raid Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
