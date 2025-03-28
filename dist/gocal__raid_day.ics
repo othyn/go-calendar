@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:mega-audino-raid-day
-DTSTAMP:20250327T002728Z
+DTSTAMP:20250328T002753Z
 SUMMARY:[RD] Mega Audino Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /mega-audino-raid-day/
@@ -27,25 +27,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:raid-day-april-2025-2
-DTSTAMP:20250327T002728Z
-SUMMARY:[RD] Sparing Partners Raid Day
+UID:sparring-partners-raid-day
+DTSTAMP:20250328T002753Z
+SUMMARY:[RD] Sparring Partners Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /raid-day-april-2025-2/
-URL:https://leekduck.com/events/raid-day-april-2025-2/
+ /sparring-partners-raid-day/
+URL:https://leekduck.com/events/sparring-partners-raid-day/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
 DTSTART:20250413T140000
 DTEND:20250413T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RD] Sparing Partners Raid Day
+DESCRIPTION:[RD] Sparring Partners Raid Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-may-2025
-DTSTAMP:20250327T002728Z
+DTSTAMP:20250328T002753Z
 SUMMARY:[RD] Raid Day May 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-may-2025/
@@ -62,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-raid-day-may-2025
-DTSTAMP:20250327T002728Z
+DTSTAMP:20250328T002753Z
 SUMMARY:[RD] Shadow Raid Day May 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /shadow-raid-day-may-2025/
