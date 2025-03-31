@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-sizzlipede-2025-03-29
-DTSTAMP:20250330T003036Z
+DTSTAMP:20250331T002948Z
 SUMMARY:[PS] Sizzlipede PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-sizzlipede-2025-03-29/
@@ -23,6 +23,23 @@ DTEND;VALUE=DATE:20250330
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[PS] Sizzlipede PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-bug-type-2025-03-31
+DTSTAMP:20250331T002948Z
+SUMMARY:[PS] Bug-type Pokémon PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-bug-type-2025-03-31/
+URL:https://leekduck.com/events/pokemon-showcase-bug-type-2025-03-31/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
+ es-default.jpg
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250401
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PS] Bug-type Pokémon PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

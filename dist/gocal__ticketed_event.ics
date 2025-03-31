@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:power-up-ticket-march
-DTSTAMP:20250330T003036Z
+DTSTAMP:20250331T002948Z
 SUMMARY:[TE] Power Up Ticket: March
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /power-up-ticket-march/
