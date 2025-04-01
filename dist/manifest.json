@@ -15,6 +15,10 @@
         "name": "GO Battle League",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__go_battle_league.ics"
     },
+    "go_pass": {
+        "name": "GO Pass",
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__go_pass.ics"
+    },
     "max_battles": {
         "name": "Max Battles",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__max_battles.ics"

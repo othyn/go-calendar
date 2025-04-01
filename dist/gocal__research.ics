@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:masterwork-research-a-dazzling-aria
-DTSTAMP:20250331T002948Z
+DTSTAMP:20250401T003209Z
 SUMMARY:[R] Masterwork Research: A Dazzling Aria
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /masterwork-research-a-dazzling-aria/
@@ -19,7 +19,7 @@ URL:https://leekduck.com/events/masterwork-research-a-dazzling-aria/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
  025/2025-02-21-masterwork-research-a-dazzling-aria/shiny-meloetta.jpg
 DTSTART;VALUE=DATE:20250221
-DTEND;VALUE=DATE:20250330
+DTEND;VALUE=DATE:20250430
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[R] Masterwork Research: A Dazzling Aria
