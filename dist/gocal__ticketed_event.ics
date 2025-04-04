@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:power-up-ticket-march
-DTSTAMP:20250403T002738Z
+DTSTAMP:20250404T002744Z
 SUMMARY:[TE] Power Up Ticket: March
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /power-up-ticket-march/
@@ -23,6 +23,23 @@ DTEND;VALUE=DATE:20250404
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[TE] Power Up Ticket: March
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:power-up-ticket-april
+DTSTAMP:20250404T002744Z
+SUMMARY:[TE] Power Up Ticket: April
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /power-up-ticket-april/
+URL:https://leekduck.com/events/power-up-ticket-april/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-04-04-power-up-ticket-april/power-up-ticket-april.jpg
+DTSTART;VALUE=DATE:20250404
+DTEND;VALUE=DATE:20250504
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[TE] Power Up Ticket: April
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
