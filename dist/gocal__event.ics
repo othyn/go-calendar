@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:tyrogue-hatch-day
-DTSTAMP:20250404T002744Z
+DTSTAMP:20250405T002713Z
 SUMMARY:[E] Tyrogue Hatch Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /tyrogue-hatch-day/
@@ -27,8 +27,26 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:tyrogue-hatch-day-extended-bonuses
+DTSTAMP:20250405T002713Z
+SUMMARY:[E] Extended Bonuses: Tyrogue Hatch Day
+DESCRIPTION:Starts at 10:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /tyrogue-hatch-day-extended-bonuses/
+URL:https://leekduck.com/events/tyrogue-hatch-day-extended-bonuses/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-04-04-tyrogue-hatch-day-extended-bonuses/tyrouge-hatch-day-extend
+ ed-bonuses.jpg
+DTSTART;VALUE=DATE:20250404
+DTEND;VALUE=DATE:20250406
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Extended Bonuses: Tyrogue Hatch Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:stunning-styles
-DTSTAMP:20250404T002744Z
+DTSTAMP:20250405T002713Z
 SUMMARY:[E] Stunning Styles
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /stunning-styles/
@@ -45,7 +63,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:spring-into-spring-2025
-DTSTAMP:20250404T002744Z
+DTSTAMP:20250405T002713Z
 SUMMARY:[E] Spring into Spring 2025
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /spring-into-spring-2025/
@@ -61,25 +79,27 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:unannoucned-event-april-2025
-DTSTAMP:20250404T002744Z
-SUMMARY:[E] Unannounced Event
+UID:pokemon-horizons-the-series-celebration-event-2025
+DTSTAMP:20250405T002713Z
+SUMMARY:[E] Pokémon Horizons: The Series Celebration Event
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /unannoucned-event-april-2025/
-URL:https://leekduck.com/events/unannoucned-event-april-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+ /pokemon-horizons-the-series-celebration-event-2025/
+URL:https://leekduck.com/events/pokemon-horizons-the-series-celebration-eve
+ nt-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-04-16-pokemon-horizons-the-series-celebration-event-2025/pokemon-
+ horizons-event.jpg
 DTSTART;VALUE=DATE:20250416
 DTEND;VALUE=DATE:20250422
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Unannounced Event
+DESCRIPTION:[E] Pokémon Horizons: The Series Celebration Event
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sweet-discoveries-2025
-DTSTAMP:20250404T002744Z
+DTSTAMP:20250405T002713Z
 SUMMARY:[E] Sweet Discoveries
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /sweet-discoveries-2025/
@@ -96,7 +116,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-week-might-and-mastery
-DTSTAMP:20250404T002744Z
+DTSTAMP:20250405T002713Z
 SUMMARY:[E] GO Battle Week: Might and Mastery
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-week-might-and-mastery/
