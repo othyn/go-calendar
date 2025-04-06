@@ -10,19 +10,72 @@ X-WR-CALDESC:All Pokémon GO Pokémon GO Fest events\, in your local time\,
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-go-fest-2025
-DTSTAMP:20250405T002713Z
-SUMMARY:[PGF] Pokémon GO Fest 2025
-DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
- /pokemon-go-fest-2025/
-URL:https://leekduck.com/events/pokemon-go-fest-2025/
+UID:pokemon-go-fest-2025-osaka-japan
+DTSTAMP:20250406T003017Z
+SUMMARY:[PGF] Osaka\, Japan - Pokémon GO Fest 2025
+DESCRIPTION:Starts at 09:00\, ends at 18:00.\n\nhttps://leekduck.com/events
+ /pokemon-go-fest-2025-osaka-japan/
+URL:https://leekduck.com/events/pokemon-go-fest-2025-osaka-japan/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-06-28-pokemon-go-fest-2025/go-fest-global.jpg
+ 025/2025-05-29-pokemon-go-fest-2025-osaka-japan/go-fest-2025-osaka.jpg
+DTSTART;VALUE=DATE:20250529
+DTEND;VALUE=DATE:20250601
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PGF] Osaka\, Japan - Pokémon GO Fest 2025
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-go-fest-2025-jersey-city-united-states
+DTSTAMP:20250406T003017Z
+SUMMARY:[PGF] Jersey City\, United States - Pokémon GO Fest 2025
+DESCRIPTION:Starts at 09:00\, ends at 18:00.\n\nhttps://leekduck.com/events
+ /pokemon-go-fest-2025-jersey-city-united-states/
+URL:https://leekduck.com/events/pokemon-go-fest-2025-jersey-city-united-sta
+ tes/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-06-06-pokemon-go-fest-2025-jersey-city-united-states/go-fest-2025
+ -jersey-city.jpg
+DTSTART;VALUE=DATE:20250606
+DTEND;VALUE=DATE:20250608
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PGF] Jersey City\, United States - Pokémon GO Fest 2025
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-go-fest-2025-paris-france
+DTSTAMP:20250406T003017Z
+SUMMARY:[PGF] Paris\, France - Pokémon GO Fest 2025
+DESCRIPTION:Starts at 09:00\, ends at 18:00.\n\nhttps://leekduck.com/events
+ /pokemon-go-fest-2025-paris-france/
+URL:https://leekduck.com/events/pokemon-go-fest-2025-paris-france/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-06-13-pokemon-go-fest-2025-paris-france/go-fest-2025-france.jpg
+DTSTART;VALUE=DATE:20250613
+DTEND;VALUE=DATE:20250615
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PGF] Paris\, France - Pokémon GO Fest 2025
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-go-fest-2025-global
+DTSTAMP:20250406T003017Z
+SUMMARY:[PGF] Pokémon GO Fest 2025: Global
+DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
+ /pokemon-go-fest-2025-global/
+URL:https://leekduck.com/events/pokemon-go-fest-2025-global/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-06-28-pokemon-go-fest-2025-global/go-fest-global.jpg
 DTSTART;VALUE=DATE:20250628
 DTEND;VALUE=DATE:20250629
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PGF] Pokémon GO Fest 2025
+DESCRIPTION:[PGF] Pokémon GO Fest 2025: Global
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

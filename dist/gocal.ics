@@ -10,43 +10,8 @@ X-WR-CALDESC:All Pokémon GO events\, in your local time\, auto-updated and
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:power-up-ticket-march
-DTSTAMP:20250405T002713Z
-SUMMARY:[TE] Power Up Ticket: March
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /power-up-ticket-march/
-URL:https://leekduck.com/events/power-up-ticket-march/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-03-04-power-up-ticket-march/power-up-ticket-march.jpg
-DTSTART;VALUE=DATE:20250304
-DTEND;VALUE=DATE:20250404
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[TE] Power Up Ticket: March
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:shadow-regice-in-shadow-raids-might-and-mastery
-DTSTAMP:20250405T002713Z
-SUMMARY:[RB] Shadow Regice in Shadow Raids in March
-DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
- /shadow-regice-in-shadow-raids-might-and-mastery/
-URL:https://leekduck.com/events/shadow-regice-in-shadow-raids-might-and-mas
- tery/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-DTSTART;VALUE=DATE:20250304
-DTEND;VALUE=DATE:20250404
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Shadow Regice in Shadow Raids in March
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:mega-audino-raid-day
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[RD] Mega Audino Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /mega-audino-raid-day/
@@ -63,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tyrogue-hatch-day
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[E] Tyrogue Hatch Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /tyrogue-hatch-day/
@@ -80,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tyrogue-hatch-day-extended-bonuses
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[E] Extended Bonuses: Tyrogue Hatch Day
 DESCRIPTION:Starts at 10:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /tyrogue-hatch-day-extended-bonuses/
@@ -98,7 +63,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-audino-2025-04-05
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[PS] Audino PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-audino-2025-04-05/
@@ -115,7 +80,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:april-max-battles-split-1-2025
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[MB] Max Battles - March 31 to April 7
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /april-max-battles-split-1-2025/
@@ -132,7 +97,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2025-04-07
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[MM] Dynamax Passimian during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2025-04-07/
@@ -149,7 +114,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:stunning-styles
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[E] Stunning Styles
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /stunning-styles/
@@ -166,7 +131,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-might-and-mastery_great-league_master-premier
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[GBL] Great League and Master Premier | Might and Mastery
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-might-and-mastery_great-league_master-premier/
@@ -184,7 +149,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-04-08
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[PSH] Meditite Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-04-08/
@@ -201,7 +166,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-blaziken-in-mega-raids-march-2025
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[RB] Mega Blaziken in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-blaziken-in-mega-raids-march-2025/
@@ -217,7 +182,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tapu-lele-in-5-star-raid-battles-march-2025
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[RB] Tapu Lele in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /tapu-lele-in-5-star-raid-battles-march-2025/
@@ -234,7 +199,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20250409
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[RH] Blacephalon and Stakataka Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20250409/
@@ -250,7 +215,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sparring-partners-raid-day
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[RD] Sparring Partners Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /sparring-partners-raid-day/
@@ -267,7 +232,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:april-max-battles-split-2-2025
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[MB] Max Battles - April 7 to April 14
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /april-max-battles-split-2-2025/
@@ -284,7 +249,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2025-04-14
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[MM] Dynamax Wooloo during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2025-04-14/
@@ -301,7 +266,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:spring-into-spring-2025
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[E] Spring into Spring 2025
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /spring-into-spring-2025/
@@ -318,7 +283,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-might-and-mastery_ultra-league_spring-cup-great-league-edition
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[GBL] Ultra League and Spring Cup: Great League Edition | Might and
   Mastery
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -338,7 +303,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-04-15
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[PSH] Fomantis Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-04-15/
@@ -355,7 +320,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20250416
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[RH] Blacephalon and Stakataka Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20250416/
@@ -371,7 +336,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gigantamax-snorlax-max-battle-day
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[MB] Gigantamax Snorlax Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /gigantamax-snorlax-max-battle-day/
@@ -389,7 +354,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:april-max-battles-split-3-2025
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[MB] Max Battles - April 14 to April 21
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /april-max-battles-split-3-2025/
@@ -406,7 +371,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:blacephalon-stakataka-in-5-star-raid-battles-april-2025
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[RB] Blacephalon and Stakataka in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /blacephalon-stakataka-in-5-star-raid-battles-april-2025/
@@ -424,7 +389,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-sceptile-in-mega-raids-april-2025
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[RB] Mega Sceptile in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-sceptile-in-mega-raids-april-2025/
@@ -440,7 +405,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2025-04-21
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[MM] Dynamax Sobble during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2025-04-21/
@@ -457,7 +422,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-might-and-mastery_master-league_spring-cup-great-league-edition
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[GBL] Master League and Spring Cup: Great League Edition | Might an
  d Mastery
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -477,7 +442,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-04-22
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[PSH] Morelull Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-04-22/
@@ -494,7 +459,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-horizons-the-series-celebration-event-2025
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[E] Pokémon Horizons: The Series Celebration Event
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-horizons-the-series-celebration-event-2025/
@@ -513,7 +478,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20250423
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[RH] Cresselia Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20250423/
@@ -529,7 +494,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:april-communityday2025
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[CD] Vanillite Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /april-communityday2025/
@@ -546,7 +511,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dynamax-entei-max-battle-weekend
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[MB] Dynamax Entei Max Battle Weekend
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /dynamax-entei-max-battle-weekend/
@@ -563,7 +528,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:april-max-battles-split-4-2025
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[MB] Max Battles - April 21 to April 28
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /april-max-battles-split-4-2025/
@@ -580,7 +545,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2025-04-28
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[MM] Dynamax Falinks during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2025-04-28/
@@ -597,7 +562,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-might-and-mastery_great-league_ultra-league_master-league-split-2
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[GBL] Great League\, Ultra League\, and Master League | Might and M
  astery
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -617,7 +582,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-04-29
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[PSH] Abra Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-04-29/
@@ -634,7 +599,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sweet-discoveries-2025
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[E] Sweet Discoveries
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /sweet-discoveries-2025/
@@ -651,7 +616,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20250430
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[RH] Cresselia Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20250430/
@@ -667,7 +632,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:masterwork-research-a-dazzling-aria
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[R] Masterwork Research: A Dazzling Aria
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /masterwork-research-a-dazzling-aria/
@@ -684,7 +649,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-mawile-in-mega-raids-april-2025
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[RB] Mega Mawile in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-mawile-in-mega-raids-april-2025/
@@ -700,7 +665,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cresselia-in-5-star-raid-battles-april-2025
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[RB] Cresselia in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /cresselia-in-5-star-raid-battles-april-2025/
@@ -718,7 +683,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-may-2025
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[RD] Raid Day May 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-may-2025/
@@ -735,7 +700,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:power-up-ticket-april
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[TE] Power Up Ticket: April
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /power-up-ticket-april/
@@ -752,7 +717,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:april-max-battles-split-5-2025
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[MB] Max Battles - April 28 to May 5
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /april-max-battles-split-5-2025/
@@ -769,7 +734,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-might-and-mastery_great-league_great-league-remix
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[GBL] Great League and Great League Remix | Might and Mastery
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-might-and-mastery_great-league_great-league-remix/
@@ -787,7 +752,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-pass-april-2025
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[GP] GO Pass: April
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /go-pass-april-2025/
@@ -804,7 +769,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communityday2025
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[CD] May Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /may-communityday2025/
@@ -820,7 +785,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-might-and-mastery_ultra-league_great-league-remix
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[GBL] Ultra League and Great League Remix | Might and Mastery
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-might-and-mastery_ultra-league_great-league-remix/
@@ -838,7 +803,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-raid-day-may-2025
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[RD] Shadow Raid Day May 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /shadow-raid-day-may-2025/
@@ -855,7 +820,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-might-and-mastery_master-league_retro-cup-great-league-edition
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[GBL] Master League and Retro Cup: Great League Edition | Might and
   Mastery
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -875,7 +840,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communitydayclassic2025
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[CD] May Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /may-communitydayclassic2025/
@@ -891,7 +856,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-may-2025
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[MB] Max Battle Day May 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-may-2025/
@@ -908,7 +873,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-might-and-mastery_great-league_catch-cup-great-league-edition
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[GBL] Great League and Catch Cup: Great League Edition | Might and 
  Mastery
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -928,7 +893,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-registeel-in-shadow-raids-might-and-mastery
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[RB] Shadow Registeel in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-registeel-in-shadow-raids-might-and-mastery/
@@ -946,7 +911,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-week-might-and-mastery
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[E] GO Battle Week: Might and Mastery
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-week-might-and-mastery/
@@ -962,8 +927,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemon-go-fest-2025-osaka-japan
+DTSTAMP:20250406T003017Z
+SUMMARY:[PGF] Osaka\, Japan - Pokémon GO Fest 2025
+DESCRIPTION:Starts at 09:00\, ends at 18:00.\n\nhttps://leekduck.com/events
+ /pokemon-go-fest-2025-osaka-japan/
+URL:https://leekduck.com/events/pokemon-go-fest-2025-osaka-japan/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-05-29-pokemon-go-fest-2025-osaka-japan/go-fest-2025-osaka.jpg
+DTSTART;VALUE=DATE:20250529
+DTEND;VALUE=DATE:20250601
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PGF] Osaka\, Japan - Pokémon GO Fest 2025
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:season-18-might-and-mastery
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[S] Might and Mastery
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-18-might-and-mastery/
@@ -980,7 +962,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-might-and-mastery_great-league_ultra-league_master-league-split-3
-DTSTAMP:20250405T002713Z
+DTSTAMP:20250406T003017Z
 SUMMARY:[GBL] Great League\, Ultra League\, and Master League | Might and M
  astery
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -999,19 +981,55 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:pokemon-go-fest-2025
-DTSTAMP:20250405T002713Z
-SUMMARY:[PGF] Pokémon GO Fest 2025
-DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
- /pokemon-go-fest-2025/
-URL:https://leekduck.com/events/pokemon-go-fest-2025/
+UID:pokemon-go-fest-2025-jersey-city-united-states
+DTSTAMP:20250406T003017Z
+SUMMARY:[PGF] Jersey City\, United States - Pokémon GO Fest 2025
+DESCRIPTION:Starts at 09:00\, ends at 18:00.\n\nhttps://leekduck.com/events
+ /pokemon-go-fest-2025-jersey-city-united-states/
+URL:https://leekduck.com/events/pokemon-go-fest-2025-jersey-city-united-sta
+ tes/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-06-28-pokemon-go-fest-2025/go-fest-global.jpg
+ 025/2025-06-06-pokemon-go-fest-2025-jersey-city-united-states/go-fest-2025
+ -jersey-city.jpg
+DTSTART;VALUE=DATE:20250606
+DTEND;VALUE=DATE:20250608
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PGF] Jersey City\, United States - Pokémon GO Fest 2025
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-go-fest-2025-paris-france
+DTSTAMP:20250406T003017Z
+SUMMARY:[PGF] Paris\, France - Pokémon GO Fest 2025
+DESCRIPTION:Starts at 09:00\, ends at 18:00.\n\nhttps://leekduck.com/events
+ /pokemon-go-fest-2025-paris-france/
+URL:https://leekduck.com/events/pokemon-go-fest-2025-paris-france/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-06-13-pokemon-go-fest-2025-paris-france/go-fest-2025-france.jpg
+DTSTART;VALUE=DATE:20250613
+DTEND;VALUE=DATE:20250615
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PGF] Paris\, France - Pokémon GO Fest 2025
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-go-fest-2025-global
+DTSTAMP:20250406T003017Z
+SUMMARY:[PGF] Pokémon GO Fest 2025: Global
+DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
+ /pokemon-go-fest-2025-global/
+URL:https://leekduck.com/events/pokemon-go-fest-2025-global/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-06-28-pokemon-go-fest-2025-global/go-fest-global.jpg
 DTSTART;VALUE=DATE:20250628
 DTEND;VALUE=DATE:20250629
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PGF] Pokémon GO Fest 2025
+DESCRIPTION:[PGF] Pokémon GO Fest 2025: Global
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
