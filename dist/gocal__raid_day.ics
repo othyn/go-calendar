@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Day events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:mega-audino-raid-day
-DTSTAMP:20250406T003017Z
-SUMMARY:[RD] Mega Audino Raid Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /mega-audino-raid-day/
-URL:https://leekduck.com/events/mega-audino-raid-day/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-04-05-mega-audino-raid-day/mega-audino-raid-day.jpg
-DTSTART:20250405T140000
-DTEND:20250405T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RD] Mega Audino Raid Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:sparring-partners-raid-day
-DTSTAMP:20250406T003017Z
+DTSTAMP:20250407T002901Z
 SUMMARY:[RD] Sparring Partners Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /sparring-partners-raid-day/
@@ -45,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-may-2025
-DTSTAMP:20250406T003017Z
+DTSTAMP:20250407T002901Z
 SUMMARY:[RD] Raid Day May 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-may-2025/
@@ -62,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-raid-day-may-2025
-DTSTAMP:20250406T003017Z
+DTSTAMP:20250407T002901Z
 SUMMARY:[RD] Shadow Raid Day May 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /shadow-raid-day-may-2025/
