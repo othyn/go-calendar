@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-fighting-type-2025-04-07
-DTSTAMP:20250408T002801Z
+DTSTAMP:20250409T002802Z
 SUMMARY:[PS] Fighting-type PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-fighting-type-2025-04-07/

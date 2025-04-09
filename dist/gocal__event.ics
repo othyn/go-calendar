@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:stunning-styles
-DTSTAMP:20250408T002801Z
-SUMMARY:[E] Stunning Styles
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /stunning-styles/
-URL:https://leekduck.com/events/stunning-styles/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-04-03-stunning-styles/stunning-styles.jpg
-DTSTART;VALUE=DATE:20250403
-DTEND;VALUE=DATE:20250407
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Stunning Styles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:spring-into-spring-2025
-DTSTAMP:20250408T002801Z
+DTSTAMP:20250409T002802Z
 SUMMARY:[E] Spring into Spring 2025
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /spring-into-spring-2025/
@@ -45,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-horizons-the-series-celebration-event-2025
-DTSTAMP:20250408T002801Z
+DTSTAMP:20250409T002802Z
 SUMMARY:[E] Pokémon Horizons: The Series Celebration Event
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-horizons-the-series-celebration-event-2025/
@@ -64,13 +47,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sweet-discoveries-2025
-DTSTAMP:20250408T002801Z
+DTSTAMP:20250409T002802Z
 SUMMARY:[E] Sweet Discoveries
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /sweet-discoveries-2025/
 URL:https://leekduck.com/events/sweet-discoveries-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-04-24-sweet-discoveries-2025/sweet-discoveries.jpg
 DTSTART;VALUE=DATE:20250424
 DTEND;VALUE=DATE:20250429
 BEGIN:VALARM
@@ -81,7 +64,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-week-might-and-mastery
-DTSTAMP:20250408T002801Z
+DTSTAMP:20250409T002802Z
 SUMMARY:[E] GO Battle Week: Might and Mastery
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-week-might-and-mastery/
