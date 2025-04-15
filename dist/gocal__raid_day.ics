@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Day events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:sparring-partners-raid-day
-DTSTAMP:20250414T003024Z
-SUMMARY:[RD] Sparring Partners Raid Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /sparring-partners-raid-day/
-URL:https://leekduck.com/events/sparring-partners-raid-day/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-04-13-sparring-partners-raid-day/sparring-partners-raid-day.jpg
-DTSTART:20250413T140000
-DTEND:20250413T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RD] Sparring Partners Raid Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raid-day-may-2025
-DTSTAMP:20250414T003024Z
+DTSTAMP:20250415T002900Z
 SUMMARY:[RD] Raid Day May 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-may-2025/
@@ -45,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-raid-day-may-2025
-DTSTAMP:20250414T003024Z
+DTSTAMP:20250415T002900Z
 SUMMARY:[RD] Shadow Raid Day May 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /shadow-raid-day-may-2025/
