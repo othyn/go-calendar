@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Max Mondays events\, in your local time\, auto
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:max-mondays-2025-04-14
-DTSTAMP:20250415T002900Z
-SUMMARY:[MM] Dynamax Wooloo during Max Monday
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /max-mondays-2025-04-14/
-URL:https://leekduck.com/events/max-mondays-2025-04-14/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
- o.jpg
-DTSTART:20250414T180000
-DTEND:20250414T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[MM] Dynamax Wooloo during Max Monday
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:max-mondays-2025-04-21
-DTSTAMP:20250415T002900Z
+DTSTAMP:20250416T002858Z
 SUMMARY:[MM] Dynamax Sobble during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2025-04-21/
@@ -45,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2025-04-28
-DTSTAMP:20250415T002900Z
+DTSTAMP:20250416T002858Z
 SUMMARY:[MM] Dynamax Falinks during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2025-04-28/

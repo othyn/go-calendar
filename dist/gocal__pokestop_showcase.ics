@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-grass-type-2025-04-14
-DTSTAMP:20250415T002900Z
+DTSTAMP:20250416T002858Z
 SUMMARY:[PS] Grass-type PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-grass-type-2025-04-14/
