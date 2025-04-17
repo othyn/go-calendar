@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:season-18-might-and-mastery
-DTSTAMP:20250416T002859Z
+DTSTAMP:20250417T002808Z
 SUMMARY:[S] Might and Mastery
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-18-might-and-mastery/
