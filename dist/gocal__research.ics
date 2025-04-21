@@ -10,27 +10,8 @@ X-WR-CALDESC:All Pokémon GO Research events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:gigantamax-snorlax-max-battle-day-lead-up-timed-research
-DTSTAMP:20250420T003119Z
-SUMMARY:[R] Gigantamax Snorlax Lead Up Timed Research
-DESCRIPTION:Starts at 18:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /gigantamax-snorlax-max-battle-day-lead-up-timed-research/
-URL:https://leekduck.com/events/gigantamax-snorlax-max-battle-day-lead-up-t
- imed-research/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-04-14-gigantamax-snorlax-max-battle-day-lead-up-timed-research/gi
- gantamax-snorlax-max-battle-day.jpg
-DTSTART;VALUE=DATE:20250414
-DTEND;VALUE=DATE:20250419
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[R] Gigantamax Snorlax Lead Up Timed Research
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-horizons-bonus-liko-timed-research
-DTSTAMP:20250420T003119Z
+DTSTAMP:20250421T003028Z
 SUMMARY:[R] Bonus Timed Research for Floragato wearing a hat with Liko's pi
  n
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -48,8 +29,27 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:dynamax-entei-max-battle-day-lead-up-timed-research
+DTSTAMP:20250421T003028Z
+SUMMARY:[R] Dynamax Entei Lead Up Timed Research
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /dynamax-entei-max-battle-day-lead-up-timed-research/
+URL:https://leekduck.com/events/dynamax-entei-max-battle-day-lead-up-timed-
+ research/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-04-21-dynamax-entei-max-battle-day-lead-up-timed-research/dynamax
+ -entei.jpg
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250427
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[R] Dynamax Entei Lead Up Timed Research
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:masterwork-research-a-dazzling-aria
-DTSTAMP:20250420T003119Z
+DTSTAMP:20250421T003028Z
 SUMMARY:[R] Masterwork Research: A Dazzling Aria
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /masterwork-research-a-dazzling-aria/
