@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Max Battles events\, in your local time\, auto
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:april-max-battles-split-3-2025
-DTSTAMP:20250421T003028Z
-SUMMARY:[MB] Max Battles - April 14 to April 21
-DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
- /april-max-battles-split-3-2025/
-URL:https://leekduck.com/events/april-max-battles-split-3-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/power-spots-max-
- battles.jpg
-DTSTART;VALUE=DATE:20250414
-DTEND;VALUE=DATE:20250421
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[MB] Max Battles - April 14 to April 21
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:dynamax-entei-max-battle-weekend
-DTSTAMP:20250421T003028Z
+DTSTAMP:20250422T002854Z
 SUMMARY:[MB] Dynamax Entei Max Battle Weekend
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /dynamax-entei-max-battle-weekend/
@@ -45,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:april-max-battles-split-4-2025
-DTSTAMP:20250421T003028Z
+DTSTAMP:20250422T002854Z
 SUMMARY:[MB] Max Battles - April 21 to April 28
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /april-max-battles-split-4-2025/
@@ -62,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:april-max-battles-split-5-2025
-DTSTAMP:20250421T003028Z
+DTSTAMP:20250422T002854Z
 SUMMARY:[MB] Max Battles - April 28 to May 5
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /april-max-battles-split-5-2025/
@@ -79,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-may-2025
-DTSTAMP:20250421T003028Z
+DTSTAMP:20250422T002854Z
 SUMMARY:[MB] Max Battle Day May 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-may-2025/

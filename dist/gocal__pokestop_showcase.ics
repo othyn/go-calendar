@@ -10,26 +10,8 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-floragato-tinkatink-2025-04-19
-DTSTAMP:20250421T003028Z
-SUMMARY:[PS] Floragato and Tinkatink PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-floragato-tinkatink-2025-04-19/
-URL:https://leekduck.com/events/pokemon-showcase-floragato-tinkatink-2025-0
- 4-19/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
- es-default.jpg
-DTSTART;VALUE=DATE:20250419
-DTEND;VALUE=DATE:20250420
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PS] Floragato and Tinkatink PokéStop Showcases
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-showcase-pikachu-2025-04-21
-DTSTAMP:20250421T003028Z
+DTSTAMP:20250422T002854Z
 SUMMARY:[PS] Captain's Cap Pikachu PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-pikachu-2025-04-21/
