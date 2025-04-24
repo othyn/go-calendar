@@ -11,10 +11,10 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-horizons-bonus-liko-timed-research
-DTSTAMP:20250423T002853Z
+DTSTAMP:20250424T002824Z
 SUMMARY:[R] Bonus Timed Research for Floragato wearing a hat with Liko's pi
  n
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+DESCRIPTION:Starts at 10:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /pokemon-horizons-bonus-liko-timed-research/
 URL:https://leekduck.com/events/pokemon-horizons-bonus-liko-timed-research/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
@@ -30,7 +30,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dynamax-entei-max-battle-day-lead-up-timed-research
-DTSTAMP:20250423T002853Z
+DTSTAMP:20250424T002824Z
 SUMMARY:[R] Dynamax Entei Lead Up Timed Research
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /dynamax-entei-max-battle-day-lead-up-timed-research/
@@ -49,7 +49,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:masterwork-research-a-dazzling-aria
-DTSTAMP:20250423T002853Z
+DTSTAMP:20250424T002824Z
 SUMMARY:[R] Masterwork Research: A Dazzling Aria
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /masterwork-research-a-dazzling-aria/
