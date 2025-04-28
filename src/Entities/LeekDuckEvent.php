@@ -24,15 +24,20 @@ class LeekDuckEvent
         public Carbon $endDate,
         public float $durationInDays,
         public bool $isFullDay,
-        public ?array $extraData
+        public ?array $extraData,
     ) {
     }
 
     /**
      * Create an LeekDuckEvent object from the JSON array object.
      */
-    public static function create(array $event, string $timezone = CalendarService::TIMEZONE): self
+    public static function create(array $event, string $timezone = CalendarService::TIMEZONE): ?self
     {
+        // Skip events with null start or end dates
+        if (empty($event['start']) || empty($event['end'])) {
+            return null;
+        }
+
         $startDate = Carbon::parse(
             time: $event['start'],
             timezone: new \DateTimeZone(
@@ -84,10 +89,14 @@ class LeekDuckEvent
         $parsedEvents = [];
 
         foreach ($events as $event) {
-            $parsedEvents[] = self::create(
+            $createdEvent = self::create(
                 event: $event,
                 timezone: $timezone
             );
+
+            if ($createdEvent !== null) {
+                $parsedEvents[] = $createdEvent;
+            }
         }
 
         return $parsedEvents;
