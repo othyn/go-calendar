@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-04-29
-DTSTAMP:20250425T002900Z
+DTSTAMP:20250428T090443Z
 SUMMARY:[PSH] Abra Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-04-29/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-05-01
-DTSTAMP:20250425T002900Z
+DTSTAMP:20250428T090443Z
 SUMMARY:[PSH] Furfrou Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-05-01/
@@ -45,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-05-02
-DTSTAMP:20250425T002900Z
+DTSTAMP:20250428T090443Z
 SUMMARY:[PSH] Sandygast Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-05-02/
@@ -62,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-05-03
-DTSTAMP:20250425T002900Z
+DTSTAMP:20250428T090443Z
 SUMMARY:[PSH] Poochyena Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-05-03/
@@ -79,7 +79,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-05-04
-DTSTAMP:20250425T002900Z
+DTSTAMP:20250428T090443Z
 SUMMARY:[PSH] Golett Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-05-04/

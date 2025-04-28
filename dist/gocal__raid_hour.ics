@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:raidhour20250430
-DTSTAMP:20250425T002900Z
+DTSTAMP:20250428T090443Z
 SUMMARY:[RH] Cresselia Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20250430/
@@ -22,6 +22,70 @@ DTEND:20250430T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RH] Cresselia Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250507
+DTSTAMP:20250428T090443Z
+SUMMARY:[RH] Tapu Fini Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250507/
+URL:https://leekduck.com/events/raidhour20250507/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20250507T180000
+DTEND:20250507T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Tapu Fini Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250514
+DTSTAMP:20250428T090443Z
+SUMMARY:[RH] Uxie\, Mesprit\, and Azelf Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250514/
+URL:https://leekduck.com/events/raidhour20250514/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20250514T180000
+DTEND:20250514T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Uxie\, Mesprit\, and Azelf Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250521
+DTSTAMP:20250428T090443Z
+SUMMARY:[RH] Uxie\, Mesprit\, and Azelf Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250521/
+URL:https://leekduck.com/events/raidhour20250521/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20250521T180000
+DTEND:20250521T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Uxie\, Mesprit\, and Azelf Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250528
+DTSTAMP:20250428T090443Z
+SUMMARY:[RH] Tapu Bulu Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250528/
+URL:https://leekduck.com/events/raidhour20250528/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20250528T180000
+DTEND:20250528T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Tapu Bulu Raid Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

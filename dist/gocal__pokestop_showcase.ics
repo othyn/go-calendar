@@ -10,19 +10,20 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-pikachu-2025-04-21
-DTSTAMP:20250423T002853Z
-SUMMARY:[PS] Captain's Cap Pikachu PokéStop Showcases
+UID:pokemon-showcase-vanillite-vanilluxe-2025-04-26
+DTSTAMP:20250428T090443Z
+SUMMARY:[PS] Vanillite and Vanilluxe PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-pikachu-2025-04-21/
-URL:https://leekduck.com/events/pokemon-showcase-pikachu-2025-04-21/
+ /pokemon-showcase-vanillite-vanilluxe-2025-04-26/
+URL:https://leekduck.com/events/pokemon-showcase-vanillite-vanilluxe-2025-0
+ 4-26/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20250421
-DTEND;VALUE=DATE:20250422
+DTSTART;VALUE=DATE:20250426
+DTEND;VALUE=DATE:20250427
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Captain's Cap Pikachu PokéStop Showcases
+DESCRIPTION:[PS] Vanillite and Vanilluxe PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

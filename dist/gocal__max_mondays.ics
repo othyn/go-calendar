@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:max-mondays-2025-04-28
-DTSTAMP:20250425T002900Z
+DTSTAMP:20250428T090443Z
 SUMMARY:[MM] Dynamax Falinks during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2025-04-28/
@@ -23,6 +23,74 @@ DTEND:20250428T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[MM] Dynamax Falinks during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2025-05-05
+DTSTAMP:20250428T090443Z
+SUMMARY:[MM] Dynamax Grookey during Max Monday
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2025-05-05/
+URL:https://leekduck.com/events/max-mondays-2025-05-05/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART:20250505T180000
+DTEND:20250505T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MM] Dynamax Grookey during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2025-05-12
+DTSTAMP:20250428T090443Z
+SUMMARY:[MM] Dynamax Gastly during Max Monday
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2025-05-12/
+URL:https://leekduck.com/events/max-mondays-2025-05-12/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART:20250512T180000
+DTEND:20250512T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MM] Dynamax Gastly during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2025-05-19
+DTSTAMP:20250428T090443Z
+SUMMARY:[MM] Dynamax Sableye during Max Monday
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2025-05-19/
+URL:https://leekduck.com/events/max-mondays-2025-05-19/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART:20250519T180000
+DTEND:20250519T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MM] Dynamax Sableye during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2025-05-26
+DTSTAMP:20250428T090443Z
+SUMMARY:[MM] Dynamax Rookidee during Max Monday
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2025-05-26/
+URL:https://leekduck.com/events/max-mondays-2025-05-26/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART:20250526T180000
+DTEND:20250526T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MM] Dynamax Rookidee during Max Monday
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
