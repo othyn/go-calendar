@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:crown-clash-taken-over
-DTSTAMP:20250428T090443Z
+DTSTAMP:20250428T091306Z
 SUMMARY:[TGR] Crown Clash: Taken Over
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /crown-clash-taken-over/
