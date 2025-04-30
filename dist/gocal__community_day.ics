@@ -11,13 +11,13 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:may-communityday2025
-DTSTAMP:20250429T002854Z
+DTSTAMP:20250430T002903Z
 SUMMARY:[CD] Pawmi Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /may-communityday2025/
 URL:https://leekduck.com/events/may-communityday2025/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-05-11-may-communityday2025/pawmi-community-day-teaser.jpg
+ 025/2025-05-11-may-communityday2025/pawmi-community-day.jpg
 DTSTART:20250511T140000
 DTEND:20250511T170000
 BEGIN:VALARM
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communitydayclassic2025
-DTSTAMP:20250429T002854Z
+DTSTAMP:20250430T002903Z
 SUMMARY:[CD] May Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /may-communitydayclassic2025/

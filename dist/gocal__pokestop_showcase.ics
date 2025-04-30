@@ -10,20 +10,19 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-vanillite-vanilluxe-2025-04-26
-DTSTAMP:20250428T091306Z
-SUMMARY:[PS] Vanillite and Vanilluxe PokéStop Showcases
+UID:pokemon-showcase-applin-2025-04-28
+DTSTAMP:20250430T002903Z
+SUMMARY:[PS] Applin PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-vanillite-vanilluxe-2025-04-26/
-URL:https://leekduck.com/events/pokemon-showcase-vanillite-vanilluxe-2025-0
- 4-26/
+ /pokemon-showcase-applin-2025-04-28/
+URL:https://leekduck.com/events/pokemon-showcase-applin-2025-04-28/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20250426
-DTEND;VALUE=DATE:20250427
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250429
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Vanillite and Vanilluxe PokéStop Showcases
+DESCRIPTION:[PS] Applin PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
