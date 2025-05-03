@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:april-max-battles-split-5-2025
-DTSTAMP:20250502T002900Z
+DTSTAMP:20250503T002816Z
 SUMMARY:[MB] Max Battles - April 28 to May 5
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /april-max-battles-split-5-2025/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dynamax-suicune-max-battle-weekend
-DTSTAMP:20250502T002900Z
+DTSTAMP:20250503T002816Z
 SUMMARY:[MB] Dynamax Suicune Max Battle Weekend
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /dynamax-suicune-max-battle-weekend/
@@ -45,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-max-battles-split-2-2025
-DTSTAMP:20250502T002900Z
+DTSTAMP:20250503T002816Z
 SUMMARY:[MB] Max Battles - May 05 to May 12
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /may-max-battles-split-2-2025/
@@ -62,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-max-battles-split-3-2025
-DTSTAMP:20250502T002900Z
+DTSTAMP:20250503T002816Z
 SUMMARY:[MB] Max Battles - May 12 to May 19
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /may-max-battles-split-3-2025/
@@ -79,7 +79,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-may-2025
-DTSTAMP:20250502T002900Z
+DTSTAMP:20250503T002816Z
 SUMMARY:[MB] Gigantamax Machamp Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-may-2025/
@@ -96,7 +96,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-max-battles-split-4-2025
-DTSTAMP:20250502T002900Z
+DTSTAMP:20250503T002816Z
 SUMMARY:[MB] Max Battles - May 19 to May 26
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /may-max-battles-split-4-2025/
@@ -113,7 +113,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-max-battles-split-5-2025
-DTSTAMP:20250502T002900Z
+DTSTAMP:20250503T002816Z
 SUMMARY:[MB] Max Battles - May 26 to June 2
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /may-max-battles-split-5-2025/
