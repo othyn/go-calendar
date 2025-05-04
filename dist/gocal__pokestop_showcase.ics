@@ -10,19 +10,19 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-applin-2025-04-28
-DTSTAMP:20250430T002903Z
-SUMMARY:[PS] Applin PokéStop Showcases
+UID:pokemon-showcase-kangaskhan-2025-05-03
+DTSTAMP:20250504T003232Z
+SUMMARY:[PS] Kangaskhan PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-applin-2025-04-28/
-URL:https://leekduck.com/events/pokemon-showcase-applin-2025-04-28/
+ /pokemon-showcase-kangaskhan-2025-05-03/
+URL:https://leekduck.com/events/pokemon-showcase-kangaskhan-2025-05-03/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20250428
-DTEND;VALUE=DATE:20250429
+DTSTART;VALUE=DATE:20250503
+DTEND;VALUE=DATE:20250504
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Applin PokéStop Showcases
+DESCRIPTION:[PS] Kangaskhan PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
