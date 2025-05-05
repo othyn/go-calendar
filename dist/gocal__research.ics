@@ -10,19 +10,21 @@ X-WR-CALDESC:All Pokémon GO Research events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:masterwork-research-a-dazzling-aria
-DTSTAMP:20250501T003254Z
-SUMMARY:[R] Masterwork Research: A Dazzling Aria
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /masterwork-research-a-dazzling-aria/
-URL:https://leekduck.com/events/masterwork-research-a-dazzling-aria/
+UID:dynamax-suicune-max-battle-day-lead-up-timed-research
+DTSTAMP:20250505T003137Z
+SUMMARY:[R] Dynamax Sucicune Lead Up Timed Research
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /dynamax-suicune-max-battle-day-lead-up-timed-research/
+URL:https://leekduck.com/events/dynamax-suicune-max-battle-day-lead-up-time
+ d-research/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-02-21-masterwork-research-a-dazzling-aria/shiny-meloetta.jpg
-DTSTART;VALUE=DATE:20250221
-DTEND;VALUE=DATE:20250430
+ 025/2025-05-05-dynamax-suicune-max-battle-day-lead-up-timed-research/dynam
+ ax-suicune.jpg
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250511
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[R] Masterwork Research: A Dazzling Aria
+DESCRIPTION:[R] Dynamax Sucicune Lead Up Timed Research
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

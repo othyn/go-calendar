@@ -10,19 +10,19 @@ X-WR-CALDESC:All Pokémon GO Ticketed Event events\, in your local time\, a
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:power-up-ticket-april
-DTSTAMP:20250504T003232Z
-SUMMARY:[TE] Power Up Ticket: April
+UID:power-up-ticket-may
+DTSTAMP:20250505T003137Z
+SUMMARY:[TE] Power Up Ticket: May
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /power-up-ticket-april/
-URL:https://leekduck.com/events/power-up-ticket-april/
+ /power-up-ticket-may/
+URL:https://leekduck.com/events/power-up-ticket-may/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-04-04-power-up-ticket-april/power-up-ticket-april.jpg
-DTSTART;VALUE=DATE:20250404
-DTEND;VALUE=DATE:20250504
+ 025/2025-05-04-power-up-ticket-may/power-up-ticket-may.jpg
+DTSTART;VALUE=DATE:20250504
+DTEND;VALUE=DATE:20250604
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[TE] Power Up Ticket: April
+DESCRIPTION:[TE] Power Up Ticket: May
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

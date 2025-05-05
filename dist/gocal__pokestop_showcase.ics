@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-kangaskhan-2025-05-03
-DTSTAMP:20250504T003232Z
+DTSTAMP:20250505T003137Z
 SUMMARY:[PS] Kangaskhan PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-kangaskhan-2025-05-03/
@@ -23,6 +23,23 @@ DTEND;VALUE=DATE:20250504
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[PS] Kangaskhan PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-wimpod-2025-05-05
+DTSTAMP:20250505T003137Z
+SUMMARY:[PS] Wimpod PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-wimpod-2025-05-05/
+URL:https://leekduck.com/events/pokemon-showcase-wimpod-2025-05-05/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
+ es-default.jpg
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250506
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PS] Wimpod PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
