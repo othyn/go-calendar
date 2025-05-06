@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:may-communityday2025
-DTSTAMP:20250505T003137Z
+DTSTAMP:20250506T002910Z
 SUMMARY:[CD] Pawmi Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /may-communityday2025/
@@ -28,17 +28,19 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communitydayclassic2025
-DTSTAMP:20250505T003137Z
-SUMMARY:[CD] May Community Day Classic
+DTSTAMP:20250506T002910Z
+SUMMARY:[CD] Machop Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /may-communitydayclassic2025/
 URL:https://leekduck.com/events/may-communitydayclassic2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-05-24-may-communitydayclassic2025/machop-community-day-classic-te
+ ase.jpg
 DTSTART:20250524T140000
 DTEND:20250524T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[CD] May Community Day Classic
+DESCRIPTION:[CD] Machop Community Day Classic
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
