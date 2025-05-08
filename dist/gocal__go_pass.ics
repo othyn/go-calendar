@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO GO Pass events\, in your local time\, auto-upd
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:go-pass-april-2025
-DTSTAMP:20250507T002929Z
-SUMMARY:[GP] GO Pass: April
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /go-pass-april-2025/
-URL:https://leekduck.com/events/go-pass-april-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-04-01-go-pass-april-2025/go-pass-april-2025.jpg
-DTSTART;VALUE=DATE:20250401
-DTEND;VALUE=DATE:20250506
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[GP] GO Pass: April
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:go-pass-may-2025
-DTSTAMP:20250507T002929Z
+DTSTAMP:20250508T002931Z
 SUMMARY:[GP] GO Pass: May
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /go-pass-may-2025/
