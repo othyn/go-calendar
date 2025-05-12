@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:dynamax-suicune-max-battle-day-lead-up-timed-research
-DTSTAMP:20250511T003208Z
+DTSTAMP:20250512T003148Z
 SUMMARY:[R] Dynamax Sucicune Lead Up Timed Research
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /dynamax-suicune-max-battle-day-lead-up-timed-research/
