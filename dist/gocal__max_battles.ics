@@ -10,42 +10,8 @@ X-WR-CALDESC:All Pokémon GO Max Battles events\, in your local time\, auto
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:dynamax-suicune-max-battle-weekend
-DTSTAMP:20250513T002950Z
-SUMMARY:[MB] Dynamax Suicune Max Battle Weekend
-DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /dynamax-suicune-max-battle-weekend/
-URL:https://leekduck.com/events/dynamax-suicune-max-battle-weekend/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-05-10-dynamax-suicune-max-battle-weekend/dynamax-suicune.jpg
-DTSTART;VALUE=DATE:20250510
-DTEND;VALUE=DATE:20250511
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[MB] Dynamax Suicune Max Battle Weekend
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:may-max-battles-split-2-2025
-DTSTAMP:20250513T002950Z
-SUMMARY:[MB] Max Battles - May 05 to May 12
-DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
- /may-max-battles-split-2-2025/
-URL:https://leekduck.com/events/may-max-battles-split-2-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/power-spots-max-
- battles.jpg
-DTSTART;VALUE=DATE:20250505
-DTEND;VALUE=DATE:20250512
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[MB] Max Battles - May 05 to May 12
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:may-max-battles-split-3-2025
-DTSTAMP:20250513T002950Z
+DTSTAMP:20250514T002941Z
 SUMMARY:[MB] Max Battles - May 12 to May 19
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /may-max-battles-split-3-2025/
@@ -62,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gigantamax-machamp-max-battle-day-may-2025
-DTSTAMP:20250513T002950Z
+DTSTAMP:20250514T002941Z
 SUMMARY:[MB] Gigantamax Machamp Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /gigantamax-machamp-max-battle-day-may-2025/
@@ -80,7 +46,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-max-battles-split-4-2025
-DTSTAMP:20250513T002950Z
+DTSTAMP:20250514T002941Z
 SUMMARY:[MB] Max Battles - May 19 to May 26
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /may-max-battles-split-4-2025/
@@ -97,7 +63,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-max-battles-split-5-2025
-DTSTAMP:20250513T002950Z
+DTSTAMP:20250514T002941Z
 SUMMARY:[MB] Max Battles - May 26 to June 2
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /may-max-battles-split-5-2025/
