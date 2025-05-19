@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:shadow-regigigigas-raid-day-may-2025
-DTSTAMP:20250518T003229Z
+DTSTAMP:20250519T003148Z
 SUMMARY:[RD] Shadow Regigigas Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /shadow-regigigigas-raid-day-may-2025/
