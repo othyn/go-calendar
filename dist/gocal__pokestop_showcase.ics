@@ -10,19 +10,19 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-regigigas-2025-05-17
-DTSTAMP:20250519T003148Z
-SUMMARY:[PS] Regigigas PokéStop Showcases
+UID:pokemon-showcase-kingambit-2025-05-19
+DTSTAMP:20250520T003036Z
+SUMMARY:[PS] Kingambit PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-regigigas-2025-05-17/
-URL:https://leekduck.com/events/pokemon-showcase-regigigas-2025-05-17/
+ /pokemon-showcase-kingambit-2025-05-19/
+URL:https://leekduck.com/events/pokemon-showcase-kingambit-2025-05-19/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20250517
-DTEND;VALUE=DATE:20250518
+DTSTART;VALUE=DATE:20250519
+DTEND;VALUE=DATE:20250520
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Regigigas PokéStop Showcases
+DESCRIPTION:[PS] Kingambit PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

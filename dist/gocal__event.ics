@@ -10,42 +10,26 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:crown-clash
-DTSTAMP:20250519T003148Z
-SUMMARY:[E] Crown Clash
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /crown-clash/
-URL:https://leekduck.com/events/crown-clash/
+UID:might-and-mastery-finale-global-challenge
+DTSTAMP:20250520T003036Z
+SUMMARY:[E] Might and Mastery Finale: Global Challenge
+DESCRIPTION:Starts at 07:00\, ends at 06:59.\n\nhttps://leekduck.com/events
+ /might-and-mastery-finale-global-challenge/
+URL:https://leekduck.com/events/might-and-mastery-finale-global-challenge/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-05-10-crown-clash/crown-clash.jpg
-DTSTART;VALUE=DATE:20250510
-DTEND;VALUE=DATE:20250518
+ 025/2025-05-20-might-and-mastery-finale-global-challenge/might-and-mastery
+ -global-challenge.jpg?v2
+DTSTART;VALUE=DATE:20250520
+DTEND;VALUE=DATE:20250523
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Crown Clash
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:crown-clash-taken-over
-DTSTAMP:20250519T003148Z
-SUMMARY:[E] Crown Clash: Taken Over
-DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
- /crown-clash-taken-over/
-URL:https://leekduck.com/events/crown-clash-taken-over/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-05-14-crown-clash-taken-over/crown-clash-taken-over.jpg
-DTSTART;VALUE=DATE:20250514
-DTEND;VALUE=DATE:20250518
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Crown Clash: Taken Over
+DESCRIPTION:[E] Might and Mastery Finale: Global Challenge
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:final-strike-go-battle-week
-DTSTAMP:20250519T003148Z
+DTSTAMP:20250520T003036Z
 SUMMARY:[E] Final Strike: GO Battle Week
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /final-strike-go-battle-week/
@@ -62,7 +46,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-week-might-and-mastery
-DTSTAMP:20250519T003148Z
+DTSTAMP:20250520T003036Z
 SUMMARY:[E] GO Battle Week: Might and Mastery
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-week-might-and-mastery/
