@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:gigantamax-machamp-max-battle-day-may-2025
-DTSTAMP:20250520T003036Z
+DTSTAMP:20250521T003003Z
 SUMMARY:[MB] Gigantamax Machamp Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /gigantamax-machamp-max-battle-day-may-2025/
@@ -29,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-max-battles-split-4-2025
-DTSTAMP:20250520T003036Z
+DTSTAMP:20250521T003003Z
 SUMMARY:[MB] Max Battles - May 19 to May 26
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /may-max-battles-split-4-2025/
@@ -46,7 +46,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-max-battles-split-5-2025
-DTSTAMP:20250520T003036Z
+DTSTAMP:20250521T003003Z
 SUMMARY:[MB] Max Battles - May 26 to June 2
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /may-max-battles-split-5-2025/
