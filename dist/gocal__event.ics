@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:might-and-mastery-finale-global-challenge
-DTSTAMP:20250521T003003Z
+DTSTAMP:20250522T002931Z
 SUMMARY:[E] Might and Mastery Finale: Global Challenge
 DESCRIPTION:Starts at 07:00\, ends at 06:59.\n\nhttps://leekduck.com/events
  /might-and-mastery-finale-global-challenge/
@@ -29,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:final-strike-go-battle-week
-DTSTAMP:20250521T003003Z
+DTSTAMP:20250522T002931Z
 SUMMARY:[E] Final Strike: GO Battle Week
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /final-strike-go-battle-week/
@@ -46,7 +46,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-week-might-and-mastery
-DTSTAMP:20250521T003003Z
+DTSTAMP:20250522T002931Z
 SUMMARY:[E] GO Battle Week: Might and Mastery
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-week-might-and-mastery/
