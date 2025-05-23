@@ -10,24 +10,8 @@ X-WR-CALDESC:All Pokémon GO events\, in your local time\, auto-updated and
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:raidhour20250521
-DTSTAMP:20250522T002931Z
-SUMMARY:[RH] Uxie\, Mesprit\, and Azelf Raid Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /raidhour20250521/
-URL:https://leekduck.com/events/raidhour20250521/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
-DTSTART:20250521T180000
-DTEND:20250521T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RH] Uxie\, Mesprit\, and Azelf Raid Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:might-and-mastery-finale-global-challenge
-DTSTAMP:20250522T002931Z
+DTSTAMP:20250523T002958Z
 SUMMARY:[E] Might and Mastery Finale: Global Challenge
 DESCRIPTION:Starts at 07:00\, ends at 06:59.\n\nhttps://leekduck.com/events
  /might-and-mastery-finale-global-challenge/
@@ -45,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communitydayclassic2025
-DTSTAMP:20250522T002931Z
+DTSTAMP:20250523T002958Z
 SUMMARY:[CD] Machop Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /may-communitydayclassic2025/
@@ -63,7 +47,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:uxie-mesprit-azelf-in-5-star-raid-battles-may-2025
-DTSTAMP:20250522T002931Z
+DTSTAMP:20250523T002958Z
 SUMMARY:[RB] Uxie\, Mesprit\, and Azelf in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /uxie-mesprit-azelf-in-5-star-raid-battles-may-2025/
@@ -81,7 +65,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-gyarados-in-mega-raids-may-2025
-DTSTAMP:20250522T002931Z
+DTSTAMP:20250523T002958Z
 SUMMARY:[RB] Mega Gyarados in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-gyarados-in-mega-raids-may-2025/
@@ -97,7 +81,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gigantamax-machamp-max-battle-day-may-2025
-DTSTAMP:20250522T002931Z
+DTSTAMP:20250523T002958Z
 SUMMARY:[MB] Gigantamax Machamp Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /gigantamax-machamp-max-battle-day-may-2025/
@@ -115,7 +99,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gigantamax-machamp-max-battle-day-lead-up-timed-research
-DTSTAMP:20250522T002931Z
+DTSTAMP:20250523T002958Z
 SUMMARY:[R] Gigantamax Machamp Lead Up Timed Research
 DESCRIPTION:Starts at 18:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /gigantamax-machamp-max-battle-day-lead-up-timed-research/
@@ -134,7 +118,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-max-battles-split-4-2025
-DTSTAMP:20250522T002931Z
+DTSTAMP:20250523T002958Z
 SUMMARY:[MB] Max Battles - May 19 to May 26
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /may-max-battles-split-4-2025/
@@ -151,7 +135,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2025-05-26
-DTSTAMP:20250522T002931Z
+DTSTAMP:20250523T002958Z
 SUMMARY:[MM] Dynamax Rookidee during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2025-05-26/
@@ -168,7 +152,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-might-and-mastery_great-league_catch-cup-great-league-edition
-DTSTAMP:20250522T002931Z
+DTSTAMP:20250523T002958Z
 SUMMARY:[GBL] Great League and Catch Cup: Great League Edition | Might and 
  Mastery
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -188,7 +172,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-05-04
-DTSTAMP:20250522T002931Z
+DTSTAMP:20250523T002958Z
 SUMMARY:[PSH] Golett Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-05-04/
@@ -205,7 +189,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:final-strike-go-battle-week
-DTSTAMP:20250522T002931Z
+DTSTAMP:20250523T002958Z
 SUMMARY:[E] Final Strike: GO Battle Week
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /final-strike-go-battle-week/
@@ -222,7 +206,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-week-might-and-mastery
-DTSTAMP:20250522T002931Z
+DTSTAMP:20250523T002958Z
 SUMMARY:[E] GO Battle Week: Might and Mastery
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-week-might-and-mastery/
@@ -239,7 +223,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20250528
-DTSTAMP:20250522T002931Z
+DTSTAMP:20250523T002958Z
 SUMMARY:[RH] Tapu Bulu Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20250528/
@@ -255,7 +239,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-fest-2025-osaka-japan
-DTSTAMP:20250522T002931Z
+DTSTAMP:20250523T002958Z
 SUMMARY:[PGF] Osaka\, Japan - Pokémon GO Fest 2025
 DESCRIPTION:Starts at 09:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2025-osaka-japan/
@@ -272,7 +256,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-regirock-in-shadow-raids-might-and-mastery
-DTSTAMP:20250522T002931Z
+DTSTAMP:20250523T002958Z
 SUMMARY:[RB] Shadow Regirock in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-regirock-in-shadow-raids-might-and-mastery/
@@ -290,7 +274,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-max-battles-split-5-2025
-DTSTAMP:20250522T002931Z
+DTSTAMP:20250523T002958Z
 SUMMARY:[MB] Max Battles - May 26 to June 2
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /may-max-battles-split-5-2025/
@@ -307,7 +291,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-altaria-in-mega-raids-may-2025
-DTSTAMP:20250522T002931Z
+DTSTAMP:20250523T002958Z
 SUMMARY:[RB] Mega Altaria in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-altaria-in-mega-raids-may-2025/
@@ -323,7 +307,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-18-might-and-mastery
-DTSTAMP:20250522T002931Z
+DTSTAMP:20250523T002958Z
 SUMMARY:[S] Might and Mastery
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-18-might-and-mastery/
@@ -340,7 +324,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tapu-bulu-in-5-star-raid-battles-may-2025
-DTSTAMP:20250522T002931Z
+DTSTAMP:20250523T002958Z
 SUMMARY:[RB] Tapu Bulu in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /tapu-bulu-in-5-star-raid-battles-may-2025/
@@ -356,7 +340,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-might-and-mastery_great-league_ultra-league_master-league-split-3
-DTSTAMP:20250522T002931Z
+DTSTAMP:20250523T002958Z
 SUMMARY:[GBL] Great League\, Ultra League\, and Master League | Might and M
  astery
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -375,8 +359,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:serene-retreat-go-fest-2025-tie-in
+DTSTAMP:20250523T002958Z
+SUMMARY:[E] Serene Retreat
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /serene-retreat-go-fest-2025-tie-in/
+URL:https://leekduck.com/events/serene-retreat-go-fest-2025-tie-in/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-05-30-serene-retreat-go-fest-2025-tie-in/serene-retreat.jpg
+DTSTART;VALUE=DATE:20250530
+DTEND;VALUE=DATE:20250603
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Serene Retreat
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:go-pass-may-2025
-DTSTAMP:20250522T002931Z
+DTSTAMP:20250523T002958Z
 SUMMARY:[GP] GO Pass: May
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /go-pass-may-2025/
@@ -393,7 +394,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:power-up-ticket-may
-DTSTAMP:20250522T002931Z
+DTSTAMP:20250523T002958Z
 SUMMARY:[TE] Power Up Ticket: May
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /power-up-ticket-may/
@@ -410,7 +411,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-fest-2025-jersey-city-united-states
-DTSTAMP:20250522T002931Z
+DTSTAMP:20250523T002958Z
 SUMMARY:[PGF] Jersey City\, United States - Pokémon GO Fest 2025
 DESCRIPTION:Starts at 09:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2025-jersey-city-united-states/
@@ -428,8 +429,26 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:instrumental-wonders-go-fest-2025-tie-in
+DTSTAMP:20250523T002958Z
+SUMMARY:[E] Instrumental Wonders
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /instrumental-wonders-go-fest-2025-tie-in/
+URL:https://leekduck.com/events/instrumental-wonders-go-fest-2025-tie-in/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-06-07-instrumental-wonders-go-fest-2025-tie-in/instrumental-wonde
+ rs.jpg
+DTSTART;VALUE=DATE:20250607
+DTEND;VALUE=DATE:20250611
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Instrumental Wonders
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:pokemon-go-fest-2025-paris-france
-DTSTAMP:20250522T002931Z
+DTSTAMP:20250523T002958Z
 SUMMARY:[PGF] Paris\, France - Pokémon GO Fest 2025
 DESCRIPTION:Starts at 09:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2025-paris-france/
@@ -445,8 +464,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:phantom-ruins-go-fest-2025-tie-in
+DTSTAMP:20250523T002958Z
+SUMMARY:[E] Phantom Ruins
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /phantom-ruins-go-fest-2025-tie-in/
+URL:https://leekduck.com/events/phantom-ruins-go-fest-2025-tie-in/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-06-14-phantom-ruins-go-fest-2025-tie-in/phantom-ruins.jpg
+DTSTART;VALUE=DATE:20250614
+DTEND;VALUE=DATE:20250618
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Phantom Ruins
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:june-communityday2025
-DTSTAMP:20250522T002931Z
+DTSTAMP:20250523T002958Z
 SUMMARY:[CD] June Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /june-communityday2025/
@@ -462,7 +498,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-fest-2025-global
-DTSTAMP:20250522T002931Z
+DTSTAMP:20250523T002958Z
 SUMMARY:[PGF] Pokémon GO Fest 2025: Global
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2025-global/
@@ -479,7 +515,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:july-communitydayclassic2025
-DTSTAMP:20250522T002931Z
+DTSTAMP:20250523T002958Z
 SUMMARY:[CD] July Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /july-communitydayclassic2025/
@@ -495,7 +531,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:july-communityday2025
-DTSTAMP:20250522T002931Z
+DTSTAMP:20250523T002958Z
 SUMMARY:[CD] July Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /july-communityday2025/
@@ -511,7 +547,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:august-communityday2025
-DTSTAMP:20250522T002931Z
+DTSTAMP:20250523T002958Z
 SUMMARY:[CD] August Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /august-communityday2025/

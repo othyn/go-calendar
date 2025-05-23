@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:might-and-mastery-finale-global-challenge
-DTSTAMP:20250522T002931Z
+DTSTAMP:20250523T002958Z
 SUMMARY:[E] Might and Mastery Finale: Global Challenge
 DESCRIPTION:Starts at 07:00\, ends at 06:59.\n\nhttps://leekduck.com/events
  /might-and-mastery-finale-global-challenge/
@@ -29,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:final-strike-go-battle-week
-DTSTAMP:20250522T002931Z
+DTSTAMP:20250523T002958Z
 SUMMARY:[E] Final Strike: GO Battle Week
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /final-strike-go-battle-week/
@@ -46,7 +46,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-week-might-and-mastery
-DTSTAMP:20250522T002931Z
+DTSTAMP:20250523T002958Z
 SUMMARY:[E] GO Battle Week: Might and Mastery
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-week-might-and-mastery/
@@ -58,6 +58,58 @@ DTEND;VALUE=DATE:20250527
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[E] GO Battle Week: Might and Mastery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:serene-retreat-go-fest-2025-tie-in
+DTSTAMP:20250523T002958Z
+SUMMARY:[E] Serene Retreat
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /serene-retreat-go-fest-2025-tie-in/
+URL:https://leekduck.com/events/serene-retreat-go-fest-2025-tie-in/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-05-30-serene-retreat-go-fest-2025-tie-in/serene-retreat.jpg
+DTSTART;VALUE=DATE:20250530
+DTEND;VALUE=DATE:20250603
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Serene Retreat
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:instrumental-wonders-go-fest-2025-tie-in
+DTSTAMP:20250523T002958Z
+SUMMARY:[E] Instrumental Wonders
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /instrumental-wonders-go-fest-2025-tie-in/
+URL:https://leekduck.com/events/instrumental-wonders-go-fest-2025-tie-in/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-06-07-instrumental-wonders-go-fest-2025-tie-in/instrumental-wonde
+ rs.jpg
+DTSTART;VALUE=DATE:20250607
+DTEND;VALUE=DATE:20250611
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Instrumental Wonders
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:phantom-ruins-go-fest-2025-tie-in
+DTSTAMP:20250523T002958Z
+SUMMARY:[E] Phantom Ruins
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /phantom-ruins-go-fest-2025-tie-in/
+URL:https://leekduck.com/events/phantom-ruins-go-fest-2025-tie-in/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-06-14-phantom-ruins-go-fest-2025-tie-in/phantom-ruins.jpg
+DTSTART;VALUE=DATE:20250614
+DTEND;VALUE=DATE:20250618
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Phantom Ruins
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
