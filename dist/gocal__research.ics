@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:gigantamax-machamp-max-battle-day-lead-up-timed-research
-DTSTAMP:20250523T002958Z
+DTSTAMP:20250524T002835Z
 SUMMARY:[R] Gigantamax Machamp Lead Up Timed Research
 DESCRIPTION:Starts at 18:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /gigantamax-machamp-max-battle-day-lead-up-timed-research/
