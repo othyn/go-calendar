@@ -10,19 +10,19 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-kingambit-2025-05-19
-DTSTAMP:20250521T003003Z
-SUMMARY:[PS] Kingambit PokéStop Showcases
+UID:pokemon-showcase-machop-machamp-2025-05-24
+DTSTAMP:20250525T003325Z
+SUMMARY:[PS] Machop and Machamp PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-kingambit-2025-05-19/
-URL:https://leekduck.com/events/pokemon-showcase-kingambit-2025-05-19/
+ /pokemon-showcase-machop-machamp-2025-05-24/
+URL:https://leekduck.com/events/pokemon-showcase-machop-machamp-2025-05-24/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20250519
-DTEND;VALUE=DATE:20250520
+DTSTART;VALUE=DATE:20250524
+DTEND;VALUE=DATE:20250525
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Kingambit PokéStop Showcases
+DESCRIPTION:[PS] Machop and Machamp PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
