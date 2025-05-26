@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-machop-machamp-2025-05-24
-DTSTAMP:20250525T003325Z
+DTSTAMP:20250526T003049Z
 SUMMARY:[PS] Machop and Machamp PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-machop-machamp-2025-05-24/
@@ -23,6 +23,24 @@ DTEND;VALUE=DATE:20250525
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[PS] Machop and Machamp PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-water-and-dark-type-2025-05-26
+DTSTAMP:20250526T003049Z
+SUMMARY:[PS] Water- and Dark-type Pokémon PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-water-and-dark-type-2025-05-26/
+URL:https://leekduck.com/events/pokemon-showcase-water-and-dark-type-2025-0
+ 5-26/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
+ es-default.jpg
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250527
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PS] Water- and Dark-type Pokémon PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
