@@ -10,26 +10,8 @@ X-WR-CALDESC:All Pokémon GO Max Battles events\, in your local time\, auto
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:gigantamax-machamp-max-battle-day-may-2025
-DTSTAMP:20250526T003049Z
-SUMMARY:[MB] Gigantamax Machamp Max Battle Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /gigantamax-machamp-max-battle-day-may-2025/
-URL:https://leekduck.com/events/gigantamax-machamp-max-battle-day-may-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-05-25-gigantamax-machamp-max-battle-day-may-2025/gigantamax-macha
- mp-max-battles.jpg
-DTSTART:20250525T140000
-DTEND:20250525T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[MB] Gigantamax Machamp Max Battle Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:may-max-battles-split-4-2025
-DTSTAMP:20250526T003049Z
+DTSTAMP:20250527T002925Z
 SUMMARY:[MB] Max Battles - May 19 to May 26
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /may-max-battles-split-4-2025/
@@ -46,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-max-battles-split-5-2025
-DTSTAMP:20250526T003049Z
+DTSTAMP:20250527T002925Z
 SUMMARY:[MB] Max Battles - May 26 to June 2
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /may-max-battles-split-5-2025/
