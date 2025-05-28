@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:season-18-might-and-mastery
-DTSTAMP:20250527T002925Z
+DTSTAMP:20250528T002952Z
 SUMMARY:[S] Might and Mastery
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-18-might-and-mastery/
@@ -23,6 +23,23 @@ DTEND;VALUE=DATE:20250603
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[S] Might and Mastery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:season-19-delightful-days
+DTSTAMP:20250528T002952Z
+SUMMARY:[S] Delightful Days
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /season-19-delightful-days/
+URL:https://leekduck.com/events/season-19-delightful-days/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-06-04-season-19-delightful-days/season-19-delightful-days.jpg
+DTSTART;VALUE=DATE:20250604
+DTEND;VALUE=DATE:20250902
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[S] Delightful Days
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-05-04
-DTSTAMP:20250527T002925Z
+DTSTAMP:20250528T002952Z
 SUMMARY:[PSH] Golett Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-05-04/
@@ -23,6 +23,74 @@ DTEND:20250527T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[PSH] Golett Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2025-06-01-copy
+DTSTAMP:20250528T002952Z
+SUMMARY:[PSH] Spritzee Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2025-06-01-copy/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-06-01-copy/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART:20250603T180000
+DTEND:20250603T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Spritzee Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2025-06-10
+DTSTAMP:20250528T002952Z
+SUMMARY:[PSH] Magnemite Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2025-06-10/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-06-10/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART:20250610T180000
+DTEND:20250610T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Magnemite Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2025-06-17
+DTSTAMP:20250528T002952Z
+SUMMARY:[PSH] Solosis Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2025-06-17/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-06-17/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART:20250617T180000
+DTEND:20250617T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Solosis Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2025-06-24
+DTSTAMP:20250528T002952Z
+SUMMARY:[PSH] Growlithe Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2025-06-24/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-06-24/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART:20250624T180000
+DTEND:20250624T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Growlithe Spotlight Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
