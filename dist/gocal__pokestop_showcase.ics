@@ -10,20 +10,19 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-water-and-dark-type-2025-05-26
-DTSTAMP:20250528T002952Z
-SUMMARY:[PS] Water- and Dark-type Pokémon PokéStop Showcases
+UID:pokemon-showcase-ghost-type-2025-05-31
+DTSTAMP:20250531T002911Z
+SUMMARY:[PS] Ghost-type Pokémon PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-water-and-dark-type-2025-05-26/
-URL:https://leekduck.com/events/pokemon-showcase-water-and-dark-type-2025-0
- 5-26/
+ /pokemon-showcase-ghost-type-2025-05-31/
+URL:https://leekduck.com/events/pokemon-showcase-ghost-type-2025-05-31/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20250526
-DTEND;VALUE=DATE:20250527
+DTSTART;VALUE=DATE:20250531
+DTEND;VALUE=DATE:20250601
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Water- and Dark-type Pokémon PokéStop Showcases
+DESCRIPTION:[PS] Ghost-type Pokémon PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
