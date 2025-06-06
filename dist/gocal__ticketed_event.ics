@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Ticketed Event events\, in your local time\, a
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:power-up-ticket-may
-DTSTAMP:20250605T003006Z
-SUMMARY:[TE] Power Up Ticket: May
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /power-up-ticket-may/
-URL:https://leekduck.com/events/power-up-ticket-may/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-05-04-power-up-ticket-may/power-up-ticket-may.jpg
-DTSTART;VALUE=DATE:20250504
-DTEND;VALUE=DATE:20250604
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[TE] Power Up Ticket: May
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:eggs-pedition-access-june-2025
-DTSTAMP:20250605T003006Z
+DTSTAMP:20250606T003006Z
 SUMMARY:[TE] Eggs-pedition Access: June
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /eggs-pedition-access-june-2025/
