@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-sableye-2025-06-05
-DTSTAMP:20250607T003009Z
-SUMMARY:[PS] Sableye PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-sableye-2025-06-05/
-URL:https://leekduck.com/events/pokemon-showcase-sableye-2025-06-05/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
- es-default.jpg
-DTSTART;VALUE=DATE:20250605
-DTEND;VALUE=DATE:20250606
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PS] Sableye PokéStop Showcases
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-showcase-ferroseed-falinks-2025-06-07
-DTSTAMP:20250607T003009Z
+DTSTAMP:20250608T003353Z
 SUMMARY:[PS] Ferroseed and Falinks PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-ferroseed-falinks-2025-06-07/
