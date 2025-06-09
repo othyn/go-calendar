@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:community-day-voting-august
-DTSTAMP:20250608T003353Z
+DTSTAMP:20250609T003227Z
 SUMMARY:[U] Community Day Vote for August
 DESCRIPTION:Starts at 01:00\, ends at 01:00.\n\nhttps://leekduck.com/events
  /community-day-voting-august/
