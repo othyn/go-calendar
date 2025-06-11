@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-ferroseed-falinks-2025-06-09
-DTSTAMP:20250610T092224Z
+DTSTAMP:20250611T003035Z
 SUMMARY:[PS] Ferroseed and Falinks PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-ferroseed-falinks-2025-06-09/
