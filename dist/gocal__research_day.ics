@@ -10,20 +10,19 @@ X-WR-CALDESC:All Pokémon GO Research Day events\, in your local time\, aut
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:fuzzy-buddy-research-day
-DTSTAMP:20250330T003036Z
-SUMMARY:[RD] Fuzzy Buddy Research Day
+UID:research-day-august-2025
+DTSTAMP:20250612T002956Z
+SUMMARY:[RD] Research Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /fuzzy-buddy-research-day/
-URL:https://leekduck.com/events/fuzzy-buddy-research-day/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-03-29-fuzzy-buddy-research-day/fuzzy-buddy-research-day-event.jpg
- ?v3
-DTSTART:20250329T140000
-DTEND:20250329T170000
+ /research-day-august-2025/
+URL:https://leekduck.com/events/research-day-august-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART:20250802T140000
+DTEND:20250802T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RD] Fuzzy Buddy Research Day
+DESCRIPTION:[RD] Research Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
