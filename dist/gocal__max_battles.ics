@@ -10,19 +10,53 @@ X-WR-CALDESC:All Pokémon GO Max Battles events\, in your local time\, auto
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:may-max-battles-split-5-2025
-DTSTAMP:20250602T003208Z
-SUMMARY:[MB] Max Battles - May 26 to June 2
-DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
- /may-max-battles-split-5-2025/
-URL:https://leekduck.com/events/may-max-battles-split-5-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/power-spots-max-
- battles.jpg
-DTSTART;VALUE=DATE:20250526
-DTEND;VALUE=DATE:20250602
+UID:max-battle-day-july-2025
+DTSTAMP:20250613T003035Z
+SUMMARY:[MB] Max Battle Day
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /max-battle-day-july-2025/
+URL:https://leekduck.com/events/max-battle-day-july-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART:20250719T060000
+DTEND:20250719T210000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[MB] Max Battles - May 26 to June 2
+DESCRIPTION:[MB] Max Battle Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-battle-weekend-july-2025
+DTSTAMP:20250613T003035Z
+SUMMARY:[MB] Max Battle Weekend
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /max-battle-weekend-july-2025/
+URL:https://leekduck.com/events/max-battle-weekend-july-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20250726
+DTEND;VALUE=DATE:20250727
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MB] Max Battle Weekend
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-battle-day-august-2025
+DTSTAMP:20250613T003035Z
+SUMMARY:[MB] Max Battle Day
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /max-battle-day-august-2025/
+URL:https://leekduck.com/events/max-battle-day-august-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART:20250803T060000
+DTEND:20250803T210000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MB] Max Battle Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
