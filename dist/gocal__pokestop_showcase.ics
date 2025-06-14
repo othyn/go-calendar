@@ -10,20 +10,20 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-ferroseed-falinks-2025-06-09
-DTSTAMP:20250611T003035Z
-SUMMARY:[PS] Ferroseed and Falinks PokéStop Showcases
+UID:pokemon-showcase-gothita-phantump-2025-06-14
+DTSTAMP:20250614T002931Z
+SUMMARY:[PS] Gothita and Phanthump PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-ferroseed-falinks-2025-06-09/
-URL:https://leekduck.com/events/pokemon-showcase-ferroseed-falinks-2025-06-
- 09/
+ /pokemon-showcase-gothita-phantump-2025-06-14/
+URL:https://leekduck.com/events/pokemon-showcase-gothita-phantump-2025-06-1
+ 4/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20250609
-DTEND;VALUE=DATE:20250610
+DTSTART;VALUE=DATE:20250614
+DTEND;VALUE=DATE:20250615
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Ferroseed and Falinks PokéStop Showcases
+DESCRIPTION:[PS] Gothita and Phanthump PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
