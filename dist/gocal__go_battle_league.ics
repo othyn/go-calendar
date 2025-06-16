@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:gbl-delightful-days_ultra-league_fossil-cup-great-league-edition
-DTSTAMP:20250615T003417Z
+DTSTAMP:20250616T003212Z
 SUMMARY:[GBL] Ultra League and Fossil Cup: Great League Edition | Delightfu
  l Days
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -31,7 +31,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-delightful-days_master-league_summer-cup-ultra-league-edition
-DTSTAMP:20250615T003417Z
+DTSTAMP:20250616T003212Z
 SUMMARY:[GBL] Master League and Summer Cup: Ultra League Edition | Delightf
  ul Days
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -51,7 +51,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-delightful-days_great-league_ultra-league_master-league-split-1
-DTSTAMP:20250615T003417Z
+DTSTAMP:20250616T003212Z
 SUMMARY:[GBL] Great League\, Ultra League\, and Master League | Delightful 
  Days
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -71,7 +71,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-delightful-days_great-league_element-cup-little-edition
-DTSTAMP:20250615T003417Z
+DTSTAMP:20250616T003212Z
 SUMMARY:[GBL] Great League and Element Cup: Little Edition | Delightful Day
  s
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -91,7 +91,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-delightful-days_ultra-league_hisui-cup-great-league-edition
-DTSTAMP:20250615T003417Z
+DTSTAMP:20250616T003212Z
 SUMMARY:[GBL] Ultra League and Hisui Cup: Great League Edition | Delightful
   Days
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -111,7 +111,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-delightful-days_master-league_sunshine-cup-great-league-edition
-DTSTAMP:20250615T003417Z
+DTSTAMP:20250616T003212Z
 SUMMARY:[GBL] Master League and Sunshine Cup: Great League Edition | Deligh
  tful Days
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -131,7 +131,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-delightful-days_great-league_ultra-league_master-league-split-2
-DTSTAMP:20250615T003417Z
+DTSTAMP:20250616T003212Z
 SUMMARY:[GBL] Great League\, Ultra League\, and Master League | Delightful 
  Days
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -151,7 +151,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-delightful-days_great-league_fossil-cup-great-league-edition
-DTSTAMP:20250615T003417Z
+DTSTAMP:20250616T003212Z
 SUMMARY:[GBL] Great League and Fossil Cup: Great League Edition | Delightfu
  l Days
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -171,7 +171,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-delightful-days_ultra-league_summer-cup-ultra-league-edition
-DTSTAMP:20250615T003417Z
+DTSTAMP:20250616T003212Z
 SUMMARY:[GBL] Ultra League and Summer Cup: Ultra League Edition | Delightfu
  l Days
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -191,7 +191,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-delightful-days_great-league_ultra-league_master-league-split-3
-DTSTAMP:20250615T003417Z
+DTSTAMP:20250616T003212Z
 SUMMARY:[GBL] Great League\, Ultra League\, and Master League | Delightful 
  Days
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -211,7 +211,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-delightful-days_master-league_catch-cup-great-league-edition
-DTSTAMP:20250615T003417Z
+DTSTAMP:20250616T003212Z
 SUMMARY:[GBL] Master League and Catch Cup: Great League Edition | Delightfu
  l Days
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -231,7 +231,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-delightful-days_great-league_ultra-league_master-league-split-4
-DTSTAMP:20250615T003417Z
+DTSTAMP:20250616T003212Z
 SUMMARY:[GBL] Great League\, Ultra League\, and Master League | Delightful 
  Days
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
