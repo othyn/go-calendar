@@ -10,8 +10,25 @@ X-WR-CALDESC:All Pokémon GO GO Pass events\, in your local time\, auto-upd
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
+UID:go-pass-ancients-recovered
+DTSTAMP:20250617T003035Z
+SUMMARY:[GP] GO Pass: Ancients Recovered
+DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
+ /go-pass-ancients-recovered/
+URL:https://leekduck.com/events/go-pass-ancients-recovered/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-06-23-go-pass-ancients-recovered/go-pass-ancients-recovered.jpg
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250629
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GP] GO Pass: Ancients Recovered
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:go-pass-june-2025
-DTSTAMP:20250616T003212Z
+DTSTAMP:20250617T003035Z
 SUMMARY:[GP] GO Pass: June
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /go-pass-june-2025/
