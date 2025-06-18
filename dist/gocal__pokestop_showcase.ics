@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-gothita-phantump-2025-06-16
-DTSTAMP:20250617T003035Z
+DTSTAMP:20250618T003037Z
 SUMMARY:[PS] Gothita and Phantump PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 19:59.\n\nhttps://leekduck.com/events
  /pokemon-showcase-gothita-phantump-2025-06-16/
