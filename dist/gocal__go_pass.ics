@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:go-pass-ancients-recovered
-DTSTAMP:20250622T003357Z
+DTSTAMP:20250623T003308Z
 SUMMARY:[GP] GO Pass: Ancients Recovered
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /go-pass-ancients-recovered/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-pass-june-2025
-DTSTAMP:20250622T003357Z
+DTSTAMP:20250623T003308Z
 SUMMARY:[GP] GO Pass: June
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /go-pass-june-2025/
