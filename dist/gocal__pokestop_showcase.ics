@@ -10,26 +10,8 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-jangmo-o-kommo-o-2025-06-21
-DTSTAMP:20250623T003308Z
-SUMMARY:[PS] Jangmo-o and Kommo-o PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-jangmo-o-kommo-o-2025-06-21/
-URL:https://leekduck.com/events/pokemon-showcase-jangmo-o-kommo-o-2025-06-2
- 1/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
- es-default.jpg
-DTSTART;VALUE=DATE:20250621
-DTEND;VALUE=DATE:20250622
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PS] Jangmo-o and Kommo-o PokéStop Showcases
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-showcase-regirock-regice-registeel-2025-06-23
-DTSTAMP:20250623T003308Z
+DTSTAMP:20250624T003039Z
 SUMMARY:[PS] Regirock\, Regice\, and Registeel PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-regirock-regice-registeel-2025-06-23/

@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:yampers-paw-prints
-DTSTAMP:20250623T003308Z
-SUMMARY:[E] Yamper’s Paw Prints
-DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
- /yampers-paw-prints/
-URL:https://leekduck.com/events/yampers-paw-prints/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-06-20-yampers-paw-prints/yampers-paw-prints.jpg
-DTSTART;VALUE=DATE:20250620
-DTEND;VALUE=DATE:20250622
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Yamper’s Paw Prints
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:ancients-recovered
-DTSTAMP:20250623T003308Z
+DTSTAMP:20250624T003039Z
 SUMMARY:[E] Ancients Recovered
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /ancients-recovered/
@@ -45,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gofest-2025-global-eggs-early-access
-DTSTAMP:20250623T003308Z
+DTSTAMP:20250624T003039Z
 SUMMARY:[E] Early Access: GO Fest 2km and 5km Eggs
 DESCRIPTION:Starts at 10:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /gofest-2025-global-eggs-early-access/
@@ -62,8 +45,26 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemon-go-9th-anniversary-party
+DTSTAMP:20250624T003039Z
+SUMMARY:[E] Pokémon GO's 9th Anniversary Party
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-go-9th-anniversary-party/
+URL:https://leekduck.com/events/pokemon-go-9th-anniversary-party/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-07-01-pokemon-go-9th-anniversary-party/pokemon-go-9th-anniversary
+ .jpg
+DTSTART;VALUE=DATE:20250701
+DTEND;VALUE=DATE:20250706
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Pokémon GO's 9th Anniversary Party
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:hatch-day-august-2025
-DTSTAMP:20250623T003308Z
+DTSTAMP:20250624T003039Z
 SUMMARY:[E] Hatch Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-august-2025/
