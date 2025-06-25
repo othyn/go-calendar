@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-regirock-regice-registeel-2025-06-23
-DTSTAMP:20250624T003039Z
+DTSTAMP:20250625T003057Z
 SUMMARY:[PS] Regirock\, Regice\, and Registeel PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-regirock-regice-registeel-2025-06-23/
