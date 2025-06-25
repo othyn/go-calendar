@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:ancients-recovered
-DTSTAMP:20250625T003057Z
+DTSTAMP:20250625T070734Z
 SUMMARY:[E] Ancients Recovered
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /ancients-recovered/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gofest-2025-global-eggs-early-access
-DTSTAMP:20250625T003057Z
+DTSTAMP:20250625T070734Z
 SUMMARY:[E] Early Access: GO Fest 2km and 5km Eggs
 DESCRIPTION:Starts at 10:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /gofest-2025-global-eggs-early-access/
@@ -46,7 +46,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-9th-anniversary-party
-DTSTAMP:20250625T003057Z
+DTSTAMP:20250625T070734Z
 SUMMARY:[E] Pokémon GO's 9th Anniversary Party
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-go-9th-anniversary-party/
@@ -64,7 +64,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-august-2025
-DTSTAMP:20250625T003057Z
+DTSTAMP:20250625T070734Z
 SUMMARY:[E] Hatch Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-august-2025/
