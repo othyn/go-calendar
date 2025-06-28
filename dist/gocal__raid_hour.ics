@@ -10,24 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Hour events\, in your local time\, auto-u
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:raidhour20250626
-DTSTAMP:20250627T003100Z
-SUMMARY:[RH] Regigigas Raid Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /raidhour20250626/
-URL:https://leekduck.com/events/raidhour20250626/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
-DTSTART:20250626T180000
-DTEND:20250626T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RH] Regigigas Raid Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raidhour20250627
-DTSTAMP:20250627T003100Z
+DTSTAMP:20250628T002930Z
 SUMMARY:[RH] Legendary Giants Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20250627/
@@ -43,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20250702
-DTSTAMP:20250627T003100Z
+DTSTAMP:20250628T002930Z
 SUMMARY:[RH] Cobalion Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20250702/
@@ -59,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20250709
-DTSTAMP:20250627T003100Z
+DTSTAMP:20250628T002930Z
 SUMMARY:[RH] Solgaleo Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20250709/
@@ -75,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20250716
-DTSTAMP:20250627T003100Z
+DTSTAMP:20250628T002930Z
 SUMMARY:[RH] Terrakion Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20250716/
@@ -91,7 +75,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20250723
-DTSTAMP:20250627T003100Z
+DTSTAMP:20250628T002930Z
 SUMMARY:[RH] Lunala Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20250723/
@@ -107,7 +91,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20250730
-DTSTAMP:20250627T003100Z
+DTSTAMP:20250628T002930Z
 SUMMARY:[RH] Virizion Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20250730/
