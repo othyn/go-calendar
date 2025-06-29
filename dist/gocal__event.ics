@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:ancients-recovered
-DTSTAMP:20250628T002930Z
-SUMMARY:[E] Ancients Recovered
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /ancients-recovered/
-URL:https://leekduck.com/events/ancients-recovered/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-06-23-ancients-recovered/ancients-recovered.jpg?v2
-DTSTART;VALUE=DATE:20250623
-DTEND;VALUE=DATE:20250627
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Ancients Recovered
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:gofest-2025-global-eggs-early-access
-DTSTAMP:20250628T002930Z
+DTSTAMP:20250629T003454Z
 SUMMARY:[E] Early Access: GO Fest 2km and 5km Eggs
 DESCRIPTION:Starts at 10:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /gofest-2025-global-eggs-early-access/
@@ -46,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-9th-anniversary-party
-DTSTAMP:20250628T002930Z
+DTSTAMP:20250629T003454Z
 SUMMARY:[E] Pokémon GO's 9th Anniversary Party
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-go-9th-anniversary-party/
@@ -64,7 +47,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:water-festival-2025
-DTSTAMP:20250628T002930Z
+DTSTAMP:20250629T003454Z
 SUMMARY:[E] Water Festival 2025
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /water-festival-2025/
@@ -81,7 +64,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-concert
-DTSTAMP:20250628T002930Z
+DTSTAMP:20250629T003454Z
 SUMMARY:[E] Summer Concert
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /summer-concert/
@@ -98,7 +81,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:adventure-week-2025
-DTSTAMP:20250628T002930Z
+DTSTAMP:20250629T003454Z
 SUMMARY:[E] Adventure Week 2025
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /adventure-week-2025/
@@ -115,7 +98,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-august-2025
-DTSTAMP:20250628T002930Z
+DTSTAMP:20250629T003454Z
 SUMMARY:[E] Hatch Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-august-2025/
