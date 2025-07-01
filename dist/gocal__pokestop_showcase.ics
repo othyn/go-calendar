@@ -10,26 +10,8 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-zacian-zamazenta-2025-06-28
-DTSTAMP:20250630T003317Z
-SUMMARY:[PS] Zacian and Zamazenta PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-zacian-zamazenta-2025-06-28/
-URL:https://leekduck.com/events/pokemon-showcase-zacian-zamazenta-2025-06-2
- 8/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
- es-default.jpg
-DTSTART;VALUE=DATE:20250628
-DTEND;VALUE=DATE:20250629
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PS] Zacian and Zamazenta PokéStop Showcases
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-showcase-bulbasaur-charmander-squirtle-2025-06-30
-DTSTAMP:20250630T003317Z
+DTSTAMP:20250701T003534Z
 SUMMARY:[PS] Bulbasaur\, Charmander\, and Squirtle PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-bulbasaur-charmander-squirtle-2025-06-30/

@@ -10,26 +10,8 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:gofest-2025-global-eggs-early-access
-DTSTAMP:20250630T003317Z
-SUMMARY:[E] Early Access: GO Fest 2km and 5km Eggs
-DESCRIPTION:Starts at 10:00\, ends at 23:59.\n\nhttps://leekduck.com/events
- /gofest-2025-global-eggs-early-access/
-URL:https://leekduck.com/events/gofest-2025-global-eggs-early-access/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-06-23-gofest-2025-global-eggs-early-access/go-fest-early-access-e
- ggs.jpg?v2
-DTSTART;VALUE=DATE:20250623
-DTEND;VALUE=DATE:20250629
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Early Access: GO Fest 2km and 5km Eggs
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-go-9th-anniversary-party
-DTSTAMP:20250630T003317Z
+DTSTAMP:20250701T003534Z
 SUMMARY:[E] Pokémon GO's 9th Anniversary Party
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-go-9th-anniversary-party/
@@ -46,8 +28,26 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ultra-unlock-hisui-celebration
+DTSTAMP:20250701T003534Z
+SUMMARY:[E] Ultra Unlock: Hisui Celebration
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /ultra-unlock-hisui-celebration/
+URL:https://leekduck.com/events/ultra-unlock-hisui-celebration/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-07-08-ultra-unlock-hisui-celebration/ultra-unlock-hisui-celebrati
+ on.jpg?v2
+DTSTART;VALUE=DATE:20250708
+DTEND;VALUE=DATE:20250713
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Ultra Unlock: Hisui Celebration
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:water-festival-2025
-DTSTAMP:20250630T003317Z
+DTSTAMP:20250701T003534Z
 SUMMARY:[E] Water Festival 2025
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /water-festival-2025/
@@ -64,7 +64,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-concert
-DTSTAMP:20250630T003317Z
+DTSTAMP:20250701T003534Z
 SUMMARY:[E] Summer Concert
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /summer-concert/
@@ -81,7 +81,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:adventure-week-2025
-DTSTAMP:20250630T003317Z
+DTSTAMP:20250701T003534Z
 SUMMARY:[E] Adventure Week 2025
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /adventure-week-2025/
@@ -98,7 +98,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-august-2025
-DTSTAMP:20250630T003317Z
+DTSTAMP:20250701T003534Z
 SUMMARY:[E] Hatch Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-august-2025/
