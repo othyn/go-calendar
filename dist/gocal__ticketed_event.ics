@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:eggs-pedition-access-june-2025
-DTSTAMP:20250702T003038Z
+DTSTAMP:20250703T003053Z
 SUMMARY:[TE] Eggs-pedition Access: June
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /eggs-pedition-access-june-2025/
@@ -24,6 +24,24 @@ DTEND;VALUE=DATE:20250703
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[TE] Eggs-pedition Access: June
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eggs-pedition-access-july-2025
+DTSTAMP:20250703T003053Z
+SUMMARY:[TE] Eggs-pedition Access: July
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /eggs-pedition-access-july-2025/
+URL:https://leekduck.com/events/eggs-pedition-access-july-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-07-03-eggs-pedition-access-july-2025/eggs-pedition-access-july.jp
+ g
+DTSTART;VALUE=DATE:20250703
+DTEND;VALUE=DATE:20250803
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[TE] Eggs-pedition Access: July
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
