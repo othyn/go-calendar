@@ -11,8 +11,8 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:july-communitydayclassic2025
-DTSTAMP:20250705T002920Z
-SUMMARY:[CD] July Community Day Classic
+DTSTAMP:20250706T003424Z
+SUMMARY:[CD] Eevee Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /july-communitydayclassic2025/
 URL:https://leekduck.com/events/july-communitydayclassic2025/
@@ -23,13 +23,13 @@ DTSTART;VALUE=DATE:20250705
 DTEND;VALUE=DATE:20250706
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[CD] July Community Day Classic
+DESCRIPTION:[CD] Eevee Community Day Classic
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:july-communityday2025
-DTSTAMP:20250705T002920Z
+DTSTAMP:20250706T003424Z
 SUMMARY:[CD] Quaxly Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /july-communityday2025/
@@ -46,7 +46,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:august-communityday2025
-DTSTAMP:20250705T002920Z
+DTSTAMP:20250706T003424Z
 SUMMARY:[CD] August Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /august-communityday2025/
