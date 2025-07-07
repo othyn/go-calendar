@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-eevee-evolutions-2025-07-05
-DTSTAMP:20250706T003424Z
+DTSTAMP:20250707T003328Z
 SUMMARY:[PS] Eevee\, Vaporeon\, Jolteon\, and Flareon PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-eevee-evolutions-2025-07-05/
@@ -25,6 +25,26 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[PS] Eevee\, Vaporeon\, Jolteon\, and Flareon PokéStop Showcas
  es
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-eevee-evolutions-2025-07-07
+DTSTAMP:20250707T003328Z
+SUMMARY:[PS] Espeon\, Umbreon\, Leafeon\, Glaceon\, and Sylveon PokéStop S
+ howcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-eevee-evolutions-2025-07-07/
+URL:https://leekduck.com/events/pokemon-showcase-eevee-evolutions-2025-07-0
+ 7/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
+ es-default.jpg
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250708
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PS] Espeon\, Umbreon\, Leafeon\, Glaceon\, and Sylveon PokéSt
+ op Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
