@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-eevee-evolutions-2025-07-07
-DTSTAMP:20250708T003053Z
+DTSTAMP:20250709T003156Z
 SUMMARY:[PS] Espeon\, Umbreon\, Leafeon\, Glaceon\, and Sylveon PokéStop S
  howcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
