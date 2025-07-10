@@ -10,42 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Battles events\, in your local time\, aut
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:mega-aggron-in-mega-raids-june-july-2025
-DTSTAMP:20250709T003156Z
-SUMMARY:[RB] Mega Aggron in Mega Raids
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /mega-aggron-in-mega-raids-june-july-2025/
-URL:https://leekduck.com/events/mega-aggron-in-mega-raids-june-july-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;VALUE=DATE:20250630
-DTEND;VALUE=DATE:20250708
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Mega Aggron in Mega Raids
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:cobalion-in-5-star-raid-battles-june-july-2025
-DTSTAMP:20250709T003156Z
-SUMMARY:[RB] Cobalion in 5-star Raid Battles
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /cobalion-in-5-star-raid-battles-june-july-2025/
-URL:https://leekduck.com/events/cobalion-in-5-star-raid-battles-june-july-2
- 025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cobalion-raids-n
- ov2019.jpg
-DTSTART;VALUE=DATE:20250630
-DTEND;VALUE=DATE:20250708
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Cobalion in 5-star Raid Battles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:mega-charizard-x-in-mega-raids-july-2025
-DTSTAMP:20250709T003156Z
+DTSTAMP:20250710T003109Z
 SUMMARY:[RB] Mega Charizard X in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-charizard-x-in-mega-raids-july-2025/
@@ -61,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solgaleo-in-5-star-raid-battles-july-2025
-DTSTAMP:20250709T003156Z
+DTSTAMP:20250710T003109Z
 SUMMARY:[RB] Solgaleo in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /solgaleo-in-5-star-raid-battles-july-2025/
@@ -77,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-blastoise-in-mega-raids-july-2025
-DTSTAMP:20250709T003156Z
+DTSTAMP:20250710T003109Z
 SUMMARY:[RB] Mega Blastoise in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-blastoise-in-mega-raids-july-2025/
@@ -93,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:terrakion-in-5-star-raid-battles-july-2025
-DTSTAMP:20250709T003156Z
+DTSTAMP:20250710T003109Z
 SUMMARY:[RB] Terrakion in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /terrakion-in-5-star-raid-battles-july-2025/
@@ -109,7 +75,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-venusaur-in-mega-raids-july-2025
-DTSTAMP:20250709T003156Z
+DTSTAMP:20250710T003109Z
 SUMMARY:[RB] Mega Venusaur in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-venusaur-in-mega-raids-july-2025/
@@ -125,7 +91,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lunala-in-5-star-raid-battles-july-2025
-DTSTAMP:20250709T003156Z
+DTSTAMP:20250710T003109Z
 SUMMARY:[RB] Lunala in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /lunala-in-5-star-raid-battles-july-2025/
@@ -141,7 +107,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-registeel-in-shadow-raids-july-august-2025
-DTSTAMP:20250709T003156Z
+DTSTAMP:20250710T003109Z
 SUMMARY:[RB] Shadow Registeel in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-registeel-in-shadow-raids-july-august-2025/
@@ -159,7 +125,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-aerodactyl-in-mega-raids-july-august-2025
-DTSTAMP:20250709T003156Z
+DTSTAMP:20250710T003109Z
 SUMMARY:[RB] Mega Aerodactyl in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-aerodactyl-in-mega-raids-july-august-2025/
@@ -176,7 +142,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:virizion-in-5-star-raid-battles-july-august-2025
-DTSTAMP:20250709T003156Z
+DTSTAMP:20250710T003109Z
 SUMMARY:[RB] Virizion in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /virizion-in-5-star-raid-battles-july-august-2025/
@@ -194,7 +160,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-raid-weekend-august-2025
-DTSTAMP:20250709T003156Z
+DTSTAMP:20250710T003109Z
 SUMMARY:[RB] Shadow Raid Weekend
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /shadow-raid-weekend-august-2025/
