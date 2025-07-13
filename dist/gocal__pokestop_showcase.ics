@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-lilligant-2025-07-12
-DTSTAMP:20250712T003156Z
+DTSTAMP:20250713T003517Z
 SUMMARY:[PS] Hisuian Lilligant PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-lilligant-2025-07-12/
