@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:gigantamax-lapras-max-battle-day-lead-up-timed-research
-DTSTAMP:20250716T003154Z
+DTSTAMP:20250717T003229Z
 SUMMARY:[R] Gigantamax Lapras Lead Up Timed Research
 DESCRIPTION:Starts at 06:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /gigantamax-lapras-max-battle-day-lead-up-timed-research/
