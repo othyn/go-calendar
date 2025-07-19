@@ -10,20 +10,20 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-water-type-pokemon-2025-07-13
-DTSTAMP:20250716T003154Z
-SUMMARY:[PS] Water-type Pokémon PokéStop Showcases
+UID:pokemon-showcase-quaxly-quaquaval-2025-07-18
+DTSTAMP:20250719T003122Z
+SUMMARY:[PS] Quaxly and Quaquaval PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-water-type-pokemon-2025-07-13/
-URL:https://leekduck.com/events/pokemon-showcase-water-type-pokemon-2025-07
- -13/
+ /pokemon-showcase-quaxly-quaquaval-2025-07-18/
+URL:https://leekduck.com/events/pokemon-showcase-quaxly-quaquaval-2025-07-1
+ 8/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20250714
-DTEND;VALUE=DATE:20250715
+DTSTART;VALUE=DATE:20250719
+DTEND;VALUE=DATE:20250720
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Water-type Pokémon PokéStop Showcases
+DESCRIPTION:[PS] Quaxly and Quaquaval PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
