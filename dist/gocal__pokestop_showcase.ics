@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-quaxly-quaquaval-2025-07-18
-DTSTAMP:20250719T003122Z
+DTSTAMP:20250720T003605Z
 SUMMARY:[PS] Quaxly and Quaquaval PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-quaxly-quaquaval-2025-07-18/
