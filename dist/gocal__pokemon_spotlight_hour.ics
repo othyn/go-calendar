@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-07-22
-DTSTAMP:20250720T003605Z
+DTSTAMP:20250721T003450Z
 SUMMARY:[PSH] Jigglypuff Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-07-22/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-07-29
-DTSTAMP:20250720T003605Z
+DTSTAMP:20250721T003450Z
 SUMMARY:[PSH] Roggenrola Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-07-29/
