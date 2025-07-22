@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:water-festival-2025
-DTSTAMP:20250721T003450Z
-SUMMARY:[E] Water Festival 2025
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /water-festival-2025/
-URL:https://leekduck.com/events/water-festival-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-07-15-water-festival-2025/water-festival-2025.jpg
-DTSTART;VALUE=DATE:20250715
-DTEND;VALUE=DATE:20250720
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Water Festival 2025
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:summer-concert
-DTSTAMP:20250721T003450Z
+DTSTAMP:20250722T003243Z
 SUMMARY:[E] Summer Concert
 DESCRIPTION:Starts at 17:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /summer-concert/
@@ -45,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ultra-unlock-steel-and-scales
-DTSTAMP:20250721T003450Z
+DTSTAMP:20250722T003243Z
 SUMMARY:[E] Ultra Unlock: Steel and Scales
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /ultra-unlock-steel-and-scales/
@@ -62,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:adventure-week-2025
-DTSTAMP:20250721T003450Z
+DTSTAMP:20250722T003243Z
 SUMMARY:[E] Adventure Week 2025
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /adventure-week-2025/
@@ -78,8 +61,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:sweet-swarm
+DTSTAMP:20250722T003243Z
+SUMMARY:[E] Sweet Swarm
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /sweet-swarm/
+URL:https://leekduck.com/events/sweet-swarm/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20250803
+DTEND;VALUE=DATE:20250806
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Sweet Swarm
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:hatch-day-august-2025
-DTSTAMP:20250721T003450Z
+DTSTAMP:20250722T003243Z
 SUMMARY:[E] Hatch Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-august-2025/
@@ -91,6 +91,92 @@ DTEND:20250809T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[E] Hatch Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:delightful-days-august-2025-event
+DTSTAMP:20250722T003243Z
+SUMMARY:[E] ???
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /delightful-days-august-2025-event/
+URL:https://leekduck.com/events/delightful-days-august-2025-event/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART:20250810T100000
+DTEND:20250810T200000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] ???
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cozy-companions
+DTSTAMP:20250722T003243Z
+SUMMARY:[E] Cozy Companions
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /cozy-companions/
+URL:https://leekduck.com/events/cozy-companions/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20250806
+DTEND;VALUE=DATE:20250812
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Cozy Companions
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-world-championships-go-battle-weekend
+DTSTAMP:20250722T003243Z
+SUMMARY:[E] 2025 Pokémon World Championships GO Battle Weekend
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-world-championships-go-battle-weekend/
+URL:https://leekduck.com/events/pokemon-world-championships-go-battle-weeke
+ nd/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20250815
+DTEND;VALUE=DATE:20250817
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] 2025 Pokémon World Championships GO Battle Weekend
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dark-skies
+DTSTAMP:20250722T003243Z
+SUMMARY:[E] Dark Skies
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /dark-skies/
+URL:https://leekduck.com/events/dark-skies/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250823
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Dark Skies
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sunkissed-shores
+DTSTAMP:20250722T003243Z
+SUMMARY:[E] Sunkissed Shores
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /sunkissed-shores/
+URL:https://leekduck.com/events/sunkissed-shores/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20250825
+DTEND;VALUE=DATE:20250831
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Sunkissed Shores
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

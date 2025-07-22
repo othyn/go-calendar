@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:max-mondays-2025-07-21
-DTSTAMP:20250721T003450Z
+DTSTAMP:20250722T003243Z
 SUMMARY:[MM] Dynamax Darumaka during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2025-07-21/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2025-07-28
-DTSTAMP:20250721T003450Z
+DTSTAMP:20250722T003243Z
 SUMMARY:[MM] Dynamax Kabuto during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2025-07-28/
@@ -40,6 +40,74 @@ DTEND:20250728T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[MM] Dynamax Kabuto during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2025-08-04
+DTSTAMP:20250722T003243Z
+SUMMARY:[MM] Dynamax Omanyte during Max Monday
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2025-08-04/
+URL:https://leekduck.com/events/max-mondays-2025-08-04/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART:20250804T180000
+DTEND:20250804T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MM] Dynamax Omanyte during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2025-08-11
+DTSTAMP:20250722T003243Z
+SUMMARY:[MM] Dynamax Trubbish during Max Monday
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2025-08-11/
+URL:https://leekduck.com/events/max-mondays-2025-08-11/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART:20250811T180000
+DTEND:20250811T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MM] Dynamax Trubbish during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2025-08-25
+DTSTAMP:20250722T003243Z
+SUMMARY:[MM] Dynamax Chansey during Max Monday
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2025-08-25/
+URL:https://leekduck.com/events/max-mondays-2025-08-25/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART:20250825T180000
+DTEND:20250825T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MM] Dynamax Chansey during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2025-09-01
+DTSTAMP:20250722T003243Z
+SUMMARY:[MM] Dynamax Pidove during Max Monday
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2025-09-01/
+URL:https://leekduck.com/events/max-mondays-2025-09-01/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART:20250901T180000
+DTEND:20250901T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MM] Dynamax Pidove during Max Monday
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

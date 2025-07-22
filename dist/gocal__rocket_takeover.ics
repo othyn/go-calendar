@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:spatie/icalendar-generator
+NAME:GO Calendar - Rocket Takeover (RT)
+X-WR-CALNAME:GO Calendar - Rocket Takeover (RT)
+DESCRIPTION:All Pokémon GO Rocket Takeover events\, in your local time\, a
+ uto-updated and sourced from Leek Duck.
+X-WR-CALDESC:All Pokémon GO Rocket Takeover events\, in your local time\, 
+ auto-updated and sourced from Leek Duck.
+REFRESH-INTERVAL;VALUE=DURATION:PT1440M
+X-PUBLISHED-TTL:PT1440M
+BEGIN:VEVENT
+UID:delightful-days-taken-over
+DTSTAMP:20250722T003243Z
+SUMMARY:[RT] Delightful Days: Taken Over
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /delightful-days-taken-over/
+URL:https://leekduck.com/events/delightful-days-taken-over/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20250811
+DTEND;VALUE=DATE:20250817
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RT] Delightful Days: Taken Over
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

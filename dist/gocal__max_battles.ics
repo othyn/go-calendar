@@ -10,26 +10,8 @@ X-WR-CALDESC:All Pokémon GO Max Battles events\, in your local time\, auto
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:gigantamax-lapras-max-battle-day-july-2025
-DTSTAMP:20250721T003450Z
-SUMMARY:[MB] Gigantamax Lapras Max Battle Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /gigantamax-lapras-max-battle-day-july-2025/
-URL:https://leekduck.com/events/gigantamax-lapras-max-battle-day-july-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-07-19-gigantamax-lapras-max-battle-day-july-2025/gigantamax-lapra
- s-battle-day.jpg
-DTSTART:20250719T140000
-DTEND:20250719T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[MB] Gigantamax Lapras Max Battle Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:dynamax-latias-latios-max-battle-weekend
-DTSTAMP:20250721T003450Z
+DTSTAMP:20250722T003243Z
 SUMMARY:[MB] Dynamax Latias and Dynamax Latios Max Battle Weekend
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /dynamax-latias-latios-max-battle-weekend/
@@ -47,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gigantamax-butterfree-max-battle-day
-DTSTAMP:20250721T003450Z
+DTSTAMP:20250722T003243Z
 SUMMARY:[MB] Gigantamax Butterfree Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /gigantamax-butterfree-max-battle-day/

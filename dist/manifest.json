@@ -27,6 +27,10 @@
         "name": "Max Mondays",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__max_mondays.ics"
     },
+    "pokemon_go_fest": {
+        "name": "Pokémon GO Fest",
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokemon_go_fest.ics"
+    },
     "pokemon_spotlight_hour": {
         "name": "Pokémon Spotlight Hour",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokemon_spotlight_hour.ics"
@@ -47,13 +51,17 @@
         "name": "Raid Hour",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__raid_hour.ics"
     },
-    "research": {
-        "name": "Research",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__research.ics"
+    "raid_weekend": {
+        "name": "Raid Weekend",
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__raid_weekend.ics"
     },
     "research_day": {
         "name": "Research Day",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__research_day.ics"
+    },
+    "rocket_takeover": {
+        "name": "Rocket Takeover",
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__rocket_takeover.ics"
     },
     "season": {
         "name": "Season",

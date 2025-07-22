@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:spatie/icalendar-generator
+NAME:GO Calendar - Raid Weekend (RW)
+X-WR-CALNAME:GO Calendar - Raid Weekend (RW)
+DESCRIPTION:All Pokémon GO Raid Weekend events\, in your local time\, auto
+ -updated and sourced from Leek Duck.
+X-WR-CALDESC:All Pokémon GO Raid Weekend events\, in your local time\, aut
+ o-updated and sourced from Leek Duck.
+REFRESH-INTERVAL;VALUE=DURATION:PT1440M
+X-PUBLISHED-TTL:PT1440M
+BEGIN:VEVENT
+UID:shadow-raid-weekend-august-2025
+DTSTAMP:20250722T003243Z
+SUMMARY:[RW] Shadow Raid Weekend
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /shadow-raid-weekend-august-2025/
+URL:https://leekduck.com/events/shadow-raid-weekend-august-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20250816
+DTEND;VALUE=DATE:20250817
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RW] Shadow Raid Weekend
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
