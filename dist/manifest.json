@@ -55,13 +55,13 @@
         "name": "Raid Weekend",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__raid_weekend.ics"
     },
+    "research": {
+        "name": "Research",
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__research.ics"
+    },
     "research_day": {
         "name": "Research Day",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__research_day.ics"
-    },
-    "rocket_takeover": {
-        "name": "Rocket Takeover",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__rocket_takeover.ics"
     },
     "season": {
         "name": "Season",

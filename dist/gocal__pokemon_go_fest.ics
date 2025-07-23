@@ -11,13 +11,13 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-go-fest-2025-max-finale
-DTSTAMP:20250722T003243Z
+DTSTAMP:20250723T003231Z
 SUMMARY:[PGF] Pokémon GO Fest 2025: Max Finale
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2025-max-finale/
 URL:https://leekduck.com/events/pokemon-go-fest-2025-max-finale/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-08-23-pokemon-go-fest-2025-max-finale/go-fest-finale-2025.jpg?v2
+ 025/2025-08-23-pokemon-go-fest-2025-max-finale/eternatus.jpg
 DTSTART;VALUE=DATE:20250823
 DTEND;VALUE=DATE:20250824
 BEGIN:VALARM

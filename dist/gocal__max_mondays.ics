@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Max Mondays events\, in your local time\, auto
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:max-mondays-2025-07-21
-DTSTAMP:20250722T003243Z
-SUMMARY:[MM] Dynamax Darumaka during Max Monday
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /max-mondays-2025-07-21/
-URL:https://leekduck.com/events/max-mondays-2025-07-21/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
- o.jpg
-DTSTART:20250721T180000
-DTEND:20250721T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[MM] Dynamax Darumaka during Max Monday
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:max-mondays-2025-07-28
-DTSTAMP:20250722T003243Z
+DTSTAMP:20250723T003231Z
 SUMMARY:[MM] Dynamax Kabuto during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2025-07-28/
@@ -45,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2025-08-04
-DTSTAMP:20250722T003243Z
+DTSTAMP:20250723T003231Z
 SUMMARY:[MM] Dynamax Omanyte during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2025-08-04/
@@ -62,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2025-08-11
-DTSTAMP:20250722T003243Z
+DTSTAMP:20250723T003231Z
 SUMMARY:[MM] Dynamax Trubbish during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2025-08-11/
@@ -79,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2025-08-25
-DTSTAMP:20250722T003243Z
+DTSTAMP:20250723T003231Z
 SUMMARY:[MM] Dynamax Chansey during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2025-08-25/
@@ -96,7 +79,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2025-09-01
-DTSTAMP:20250722T003243Z
+DTSTAMP:20250723T003231Z
 SUMMARY:[MM] Dynamax Pidove during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2025-09-01/

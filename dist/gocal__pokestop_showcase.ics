@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-spinda-2025-07-21
-DTSTAMP:20250722T003243Z
+DTSTAMP:20250723T003231Z
 SUMMARY:[PS] Spinda PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-spinda-2025-07-21/

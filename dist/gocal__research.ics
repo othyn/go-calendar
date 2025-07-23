@@ -10,21 +10,19 @@ X-WR-CALDESC:All Pokémon GO Research events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:gigantamax-lapras-max-battle-day-lead-up-timed-research
-DTSTAMP:20250721T003450Z
-SUMMARY:[R] Gigantamax Lapras Lead Up Timed Research
-DESCRIPTION:Starts at 06:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /gigantamax-lapras-max-battle-day-lead-up-timed-research/
-URL:https://leekduck.com/events/gigantamax-lapras-max-battle-day-lead-up-ti
- med-research/
+UID:max-finale-promo-code
+DTSTAMP:20250723T003231Z
+SUMMARY:[R] Promo Code for Max Finale Timed Research
+DESCRIPTION:Starts at 00:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /max-finale-promo-code/
+URL:https://leekduck.com/events/max-finale-promo-code/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-07-14-gigantamax-lapras-max-battle-day-lead-up-timed-research/gig
- antamax-lapras-battle-day.jpg?v2
-DTSTART;VALUE=DATE:20250714
-DTEND;VALUE=DATE:20250719
+ 025/2025-07-22-max-finale-promo-code/gigantamax-timed-research-promo.jpg
+DTSTART;VALUE=DATE:20250722
+DTEND;VALUE=DATE:20250824
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[R] Gigantamax Lapras Lead Up Timed Research
+DESCRIPTION:[R] Promo Code for Max Finale Timed Research
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
