@@ -10,19 +10,19 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-spinda-2025-07-21
-DTSTAMP:20250723T003231Z
-SUMMARY:[PS] Spinda PokéStop Showcases
+UID:pokemon-showcase-latios-latias-2025-07-25
+DTSTAMP:20250726T003108Z
+SUMMARY:[PS] Latios and Latias PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-spinda-2025-07-21/
-URL:https://leekduck.com/events/pokemon-showcase-spinda-2025-07-21/
+ /pokemon-showcase-latios-latias-2025-07-25/
+URL:https://leekduck.com/events/pokemon-showcase-latios-latias-2025-07-25/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20250721
-DTEND;VALUE=DATE:20250722
+DTSTART;VALUE=DATE:20250726
+DTEND;VALUE=DATE:20250727
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Spinda PokéStop Showcases
+DESCRIPTION:[PS] Latios and Latias PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
