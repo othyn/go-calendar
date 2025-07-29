@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:ultra-unlock-steel-and-scales
-DTSTAMP:20250728T003514Z
-SUMMARY:[E] Ultra Unlock: Steel and Scales
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /ultra-unlock-steel-and-scales/
-URL:https://leekduck.com/events/ultra-unlock-steel-and-scales/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-07-22-ultra-unlock-steel-and-scales/steel-and-scales.jpg
-DTSTART;VALUE=DATE:20250722
-DTEND;VALUE=DATE:20250727
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Ultra Unlock: Steel and Scales
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:adventure-week-2025
-DTSTAMP:20250728T003514Z
+DTSTAMP:20250729T003536Z
 SUMMARY:[E] Adventure Week 2025
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /adventure-week-2025/
@@ -45,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sweet-swarm
-DTSTAMP:20250728T003514Z
+DTSTAMP:20250729T003536Z
 SUMMARY:[E] Sweet Swarm
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /sweet-swarm/
@@ -61,25 +44,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:hatch-day-august-2025
-DTSTAMP:20250728T003514Z
-SUMMARY:[E] Hatch Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /hatch-day-august-2025/
-URL:https://leekduck.com/events/hatch-day-august-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-DTSTART:20250809T140000
+UID:muchlax-hatch-day-2025
+DTSTAMP:20250729T003536Z
+SUMMARY:[E] Munchlax Hatch Day
+DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /muchlax-hatch-day-2025/
+URL:https://leekduck.com/events/muchlax-hatch-day-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-08-09-muchlax-hatch-day-2025/munchlax-hatch-day.jpg?v2
+DTSTART:20250809T110000
 DTEND:20250809T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Hatch Day
+DESCRIPTION:[E] Munchlax Hatch Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:delightful-days-august-2025-event
-DTSTAMP:20250728T003514Z
+DTSTAMP:20250729T003536Z
 SUMMARY:[E] ???
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /delightful-days-august-2025-event/
@@ -96,13 +79,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cozy-companions
-DTSTAMP:20250728T003514Z
+DTSTAMP:20250729T003536Z
 SUMMARY:[E] Cozy Companions
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /cozy-companions/
 URL:https://leekduck.com/events/cozy-companions/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-08-06-cozy-companions/cozy-companions.jpg
 DTSTART;VALUE=DATE:20250806
 DTEND;VALUE=DATE:20250812
 BEGIN:VALARM
@@ -113,7 +96,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:delightful-days-taken-over
-DTSTAMP:20250728T003514Z
+DTSTAMP:20250729T003536Z
 SUMMARY:[E] Delightful Days: Taken Over
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /delightful-days-taken-over/
@@ -130,7 +113,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-world-championships-go-battle-weekend
-DTSTAMP:20250728T003514Z
+DTSTAMP:20250729T003536Z
 SUMMARY:[E] 2025 Pokémon World Championships GO Battle Weekend
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-world-championships-go-battle-weekend/
@@ -148,7 +131,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dark-skies
-DTSTAMP:20250728T003514Z
+DTSTAMP:20250729T003536Z
 SUMMARY:[E] Pokémon GO: Dark Skies
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /dark-skies/
@@ -165,7 +148,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sunkissed-shores
-DTSTAMP:20250728T003514Z
+DTSTAMP:20250729T003536Z
 SUMMARY:[E] Sunkissed Shores
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /sunkissed-shores/
