@@ -10,25 +10,25 @@ X-WR-CALDESC:All Pokémon GO Raid Day events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:raid-day-august-2025-1
-DTSTAMP:20250730T003258Z
-SUMMARY:[RD] Raid Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /raid-day-august-2025-1/
-URL:https://leekduck.com/events/raid-day-august-2025-1/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-DTSTART:20250810T140000
+UID:ultra-unlock-origin-raid-day-2025
+DTSTAMP:20250731T003250Z
+SUMMARY:[RD] Ultra Unlock: Origin Raid Day
+DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /ultra-unlock-origin-raid-day-2025/
+URL:https://leekduck.com/events/ultra-unlock-origin-raid-day-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-08-10-ultra-unlock-origin-raid-day-2025/origin-raid-day.jpg
+DTSTART:20250810T110000
 DTEND:20250810T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RD] Raid Day
+DESCRIPTION:[RD] Ultra Unlock: Origin Raid Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-august-2025-2
-DTSTAMP:20250730T003258Z
+DTSTAMP:20250731T003250Z
 SUMMARY:[RD] Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-august-2025-2/

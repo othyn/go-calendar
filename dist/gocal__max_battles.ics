@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:gigantamax-butterfree-max-battle-day
-DTSTAMP:20250730T003258Z
+DTSTAMP:20250731T003250Z
 SUMMARY:[MB] Gigantamax Butterfree Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /gigantamax-butterfree-max-battle-day/
