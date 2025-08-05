@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:go-pass-july-2025
-DTSTAMP:20250804T003607Z
+DTSTAMP:20250805T003341Z
 SUMMARY:[GP] GO Pass: July
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /go-pass-july-2025/
@@ -23,6 +23,23 @@ DTEND;VALUE=DATE:20250805
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[GP] GO Pass: July
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-pass-august-2025
+DTSTAMP:20250805T003341Z
+SUMMARY:[GP] GO Pass: August
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /go-pass-august-2025/
+URL:https://leekduck.com/events/go-pass-august-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-08-05-go-pass-august-2025/go-pass-august-2025.jpg
+DTSTART;VALUE=DATE:20250805
+DTEND;VALUE=DATE:20250902
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GP] GO Pass: August
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
