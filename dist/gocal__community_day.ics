@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:august-communityday2025
-DTSTAMP:20250805T003341Z
+DTSTAMP:20250806T003324Z
 SUMMARY:[CD] Rookidee Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /august-communityday2025/
@@ -28,23 +28,24 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:september-communityday2025
-DTSTAMP:20250805T003341Z
-SUMMARY:[CD] September Community Day
+DTSTAMP:20250806T003324Z
+SUMMARY:[CD] Flabébé Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /september-communityday2025/
 URL:https://leekduck.com/events/september-communityday2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-09-14-september-communityday2025/september-cd-2025-flabebe.jpg
 DTSTART:20250914T140000
 DTEND:20250914T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[CD] September Community Day
+DESCRIPTION:[CD] Flabébé Community Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:october-communityday2025
-DTSTAMP:20250805T003341Z
+DTSTAMP:20250806T003324Z
 SUMMARY:[CD] October Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /october-communityday2025/
@@ -60,7 +61,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:november-communityday2025
-DTSTAMP:20250805T003341Z
+DTSTAMP:20250806T003324Z
 SUMMARY:[CD] November Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /november-communityday2025/
