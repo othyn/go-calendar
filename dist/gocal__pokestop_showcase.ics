@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-great-buddy-2025-08-12
-DTSTAMP:20250812T003032Z
+DTSTAMP:20250813T003117Z
 SUMMARY:[PS] Great Buddy or Higher PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 19:59.\n\nhttps://leekduck.com/events
  /pokemon-showcase-great-buddy-2025-08-12/

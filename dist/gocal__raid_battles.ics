@@ -10,40 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Battles events\, in your local time\, aut
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:lugia-in-5-star-raid-battles-august-2025
-DTSTAMP:20250812T003032Z
-SUMMARY:[RB] Lugia in 5-star Raid Battles
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /lugia-in-5-star-raid-battles-august-2025/
-URL:https://leekduck.com/events/lugia-in-5-star-raid-battles-august-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/lugia-raids.jpg
-DTSTART;VALUE=DATE:20250804
-DTEND;VALUE=DATE:20250811
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Lugia in 5-star Raid Battles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:mega-ampharos-in-mega-raids-august-2025
-DTSTAMP:20250812T003032Z
-SUMMARY:[RB] Mega Ampharos in Mega Raids
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /mega-ampharos-in-mega-raids-august-2025/
-URL:https://leekduck.com/events/mega-ampharos-in-mega-raids-august-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;VALUE=DATE:20250804
-DTEND;VALUE=DATE:20250811
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Mega Ampharos in Mega Raids
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:ho-oh-in-5-star-raid-battles-august-2025
-DTSTAMP:20250812T003032Z
+DTSTAMP:20250813T003117Z
 SUMMARY:[RB] Ho-Oh in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /ho-oh-in-5-star-raid-battles-august-2025/
@@ -59,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-slowbro-in-mega-raids-august-2025
-DTSTAMP:20250812T003032Z
+DTSTAMP:20250813T003117Z
 SUMMARY:[RB] Mega Slowbro in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-slowbro-in-mega-raids-august-2025/
@@ -75,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-pidgeot-in-mega-raids-august-2025
-DTSTAMP:20250812T003032Z
+DTSTAMP:20250813T003117Z
 SUMMARY:[RB] Mega Pidgeot in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-pidgeot-in-mega-raids-august-2025/
@@ -91,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-salamence-in-mega-raids-august-september-2025
-DTSTAMP:20250812T003032Z
+DTSTAMP:20250813T003117Z
 SUMMARY:[RB] Mega Salamence in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-salamence-in-mega-raids-august-september-2025/
@@ -108,7 +76,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:necrozma-in-5-star-raid-battles-august-september-2025
-DTSTAMP:20250812T003032Z
+DTSTAMP:20250813T003117Z
 SUMMARY:[RB] Necrozma in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /necrozma-in-5-star-raid-battles-august-september-2025/
@@ -125,7 +93,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-regirock-in-shadow-raids-august-september-2025
-DTSTAMP:20250812T003032Z
+DTSTAMP:20250813T003117Z
 SUMMARY:[RB] Shadow Regirock in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-regirock-in-shadow-raids-august-september-2025/
