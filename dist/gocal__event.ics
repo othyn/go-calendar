@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-world-championships-go-battle-weekend-2025
-DTSTAMP:20250815T003143Z
+DTSTAMP:20250816T002925Z
 SUMMARY:[E] 2025 Pokémon World Championships Celebration
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-world-championships-go-battle-weekend-2025/
@@ -30,7 +30,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:delightful-days-taken-over
-DTSTAMP:20250815T003143Z
+DTSTAMP:20250816T002925Z
 SUMMARY:[E] Delightful Days: Taken Over
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /delightful-days-taken-over/
@@ -47,7 +47,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-weekend-delightful-days
-DTSTAMP:20250815T003143Z
+DTSTAMP:20250816T002925Z
 SUMMARY:[E] GO Battle Weekend: Delightful Days
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-weekend-delightful-days/
@@ -64,7 +64,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dark-skies
-DTSTAMP:20250815T003143Z
+DTSTAMP:20250816T002925Z
 SUMMARY:[E] Pokémon GO: Dark Skies
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /dark-skies/
@@ -81,7 +81,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sunkissed-shores
-DTSTAMP:20250815T003143Z
+DTSTAMP:20250816T002925Z
 SUMMARY:[E] Sunkissed Shores
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /sunkissed-shores/
