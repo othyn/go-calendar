@@ -10,27 +10,8 @@ X-WR-CALDESC:All Pokémon GO Research events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-world-championship-2025-timed-research-twitch-drops
-DTSTAMP:20250817T003345Z
-SUMMARY:[R] Twitch Drops for 2025 Pokémon World Championships
-DESCRIPTION:Starts at 16:00\, ends at 02:00.\n\nhttps://leekduck.com/events
- /pokemon-world-championship-2025-timed-research-twitch-drops/
-URL:https://leekduck.com/events/pokemon-world-championship-2025-timed-resea
- rch-twitch-drops/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-08-12-pokemon-world-championship-2025-timed-research-twitch-drops
- /wcs-2025-twitch-drops.jpg
-DTSTART;VALUE=DATE:20250815
-DTEND;VALUE=DATE:20250818
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[R] Twitch Drops for 2025 Pokémon World Championships
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:max-finale-promo-code
-DTSTAMP:20250817T003345Z
+DTSTAMP:20250818T003344Z
 SUMMARY:[R] Promo Code for Max Finale Timed Research
 DESCRIPTION:Starts at 00:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /max-finale-promo-code/
@@ -42,6 +23,25 @@ DTEND;VALUE=DATE:20250824
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[R] Promo Code for Max Finale Timed Research
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-world-championship-2025-timed-research-twitch-drops
+DTSTAMP:20250818T003344Z
+SUMMARY:[R] Twitch Drops for 2025 Pokémon World Championships
+DESCRIPTION:Starts at 16:00\, ends at 02:00.\n\nhttps://leekduck.com/events
+ /pokemon-world-championship-2025-timed-research-twitch-drops/
+URL:https://leekduck.com/events/pokemon-world-championship-2025-timed-resea
+ rch-twitch-drops/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-08-12-pokemon-world-championship-2025-timed-research-twitch-drops
+ /wcs-2025-twitch-drops.jpg
+DTSTART;VALUE=DATE:20250815
+DTEND;VALUE=DATE:20250831
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[R] Twitch Drops for 2025 Pokémon World Championships
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
