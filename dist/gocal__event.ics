@@ -10,61 +10,8 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-world-championships-go-battle-weekend-2025
-DTSTAMP:20250818T003344Z
-SUMMARY:[E] 2025 Pokémon World Championships Celebration
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-world-championships-go-battle-weekend-2025/
-URL:https://leekduck.com/events/pokemon-world-championships-go-battle-weeke
- nd-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-08-15-pokemon-world-championships-go-battle-weekend-2025/2025-wor
- ld-championship.jpg
-DTSTART;VALUE=DATE:20250815
-DTEND;VALUE=DATE:20250817
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] 2025 Pokémon World Championships Celebration
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:delightful-days-taken-over
-DTSTAMP:20250818T003344Z
-SUMMARY:[E] Delightful Days: Taken Over
-DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
- /delightful-days-taken-over/
-URL:https://leekduck.com/events/delightful-days-taken-over/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-08-11-delightful-days-taken-over/delightful-days-taken-over.jpg
-DTSTART;VALUE=DATE:20250811
-DTEND;VALUE=DATE:20250817
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Delightful Days: Taken Over
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:go-battle-weekend-delightful-days
-DTSTAMP:20250818T003344Z
-SUMMARY:[E] GO Battle Weekend: Delightful Days
-DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
- /go-battle-weekend-delightful-days/
-URL:https://leekduck.com/events/go-battle-weekend-delightful-days/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
- -season-23-delightful-days.jpg
-DTSTART;VALUE=DATE:20250815
-DTEND;VALUE=DATE:20250817
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] GO Battle Weekend: Delightful Days
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:dark-skies
-DTSTAMP:20250818T003344Z
+DTSTAMP:20250819T003020Z
 SUMMARY:[E] Pokémon GO: Dark Skies
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /dark-skies/
@@ -81,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sunkissed-shores
-DTSTAMP:20250818T003344Z
+DTSTAMP:20250819T003020Z
 SUMMARY:[E] Sunkissed Shores
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /sunkissed-shores/
