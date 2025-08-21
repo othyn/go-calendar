@@ -10,19 +10,20 @@ X-WR-CALDESC:All Pokémon GO Raid Day events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:raid-day-august-2025-2
-DTSTAMP:20250820T002853Z
-SUMMARY:[RD] Raid Day
+UID:mega-gyarados-raid-day-august-2025
+DTSTAMP:20250821T002825Z
+SUMMARY:[RD] Mega Gyarados Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /raid-day-august-2025-2/
-URL:https://leekduck.com/events/raid-day-august-2025-2/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+ /mega-gyarados-raid-day-august-2025/
+URL:https://leekduck.com/events/mega-gyarados-raid-day-august-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-08-31-mega-gyarados-raid-day-august-2025/mega-gyarados-raid-day.j
+ pg
 DTSTART:20250831T140000
 DTEND:20250831T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RD] Raid Day
+DESCRIPTION:[RD] Mega Gyarados Raid Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
