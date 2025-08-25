@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:dark-skies
-DTSTAMP:20250824T003259Z
-SUMMARY:[E] Pokémon GO: Dark Skies
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /dark-skies/
-URL:https://leekduck.com/events/dark-skies/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-08-18-dark-skies/dark-skies.jpg
-DTSTART;VALUE=DATE:20250818
-DTEND;VALUE=DATE:20250823
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Pokémon GO: Dark Skies
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:sunkissed-shores
-DTSTAMP:20250824T003259Z
+DTSTAMP:20250825T003058Z
 SUMMARY:[E] Sunkissed Shores
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /sunkissed-shores/

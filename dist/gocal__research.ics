@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:max-finale-promo-code
-DTSTAMP:20250824T003259Z
+DTSTAMP:20250825T003058Z
 SUMMARY:[R] Promo Code for Max Finale Timed Research
 DESCRIPTION:Starts at 00:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /max-finale-promo-code/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-world-championship-2025-timed-research-twitch-drops
-DTSTAMP:20250824T003259Z
+DTSTAMP:20250825T003058Z
 SUMMARY:[R] Twitch Drops for 2025 Pokémon World Championships
 DESCRIPTION:Starts at 16:00\, ends at 02:00.\n\nhttps://leekduck.com/events
  /pokemon-world-championship-2025-timed-research-twitch-drops/
