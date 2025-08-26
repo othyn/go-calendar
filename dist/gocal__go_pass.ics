@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO GO Pass events\, in your local time\, auto-upd
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:go-pass-max-finale
-DTSTAMP:20250825T003058Z
-SUMMARY:[GP] GO Pass: Max Finale
-DESCRIPTION:Starts at 10:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /go-pass-max-finale/
-URL:https://leekduck.com/events/go-pass-max-finale/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-08-18-go-pass-max-finale/pokemon-go-fest-eternatus.jpg?v2
-DTSTART;VALUE=DATE:20250818
-DTEND;VALUE=DATE:20250824
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[GP] GO Pass: Max Finale
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:go-pass-august-2025
-DTSTAMP:20250825T003058Z
+DTSTAMP:20250826T002928Z
 SUMMARY:[GP] GO Pass: August
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /go-pass-august-2025/
