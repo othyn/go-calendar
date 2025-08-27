@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-dondozo-2025-08-25
-DTSTAMP:20250826T002928Z
+DTSTAMP:20250827T002859Z
 SUMMARY:[PS] Dondozo PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-dondozo-2025-08-25/

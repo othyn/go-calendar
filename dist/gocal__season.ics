@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:season-19-delightful-days
-DTSTAMP:20250826T002928Z
+DTSTAMP:20250827T002859Z
 SUMMARY:[S] Delightful Days
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-19-delightful-days/
@@ -23,6 +23,24 @@ DTEND;VALUE=DATE:20250902
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[S] Delightful Days
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:season-20-tales-of-transformation
+DTSTAMP:20250827T002859Z
+SUMMARY:[S] Tales of Transformation
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /season-20-tales-of-transformation/
+URL:https://leekduck.com/events/season-20-tales-of-transformation/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-09-02-season-20-tales-of-transformation/season-20-tales-of-transf
+ ormation.jpg
+DTSTART;VALUE=DATE:20250902
+DTEND;VALUE=DATE:20251202
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[S] Tales of Transformation
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

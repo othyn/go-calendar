@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:mega-gyarados-raid-day-august-2025
-DTSTAMP:20250826T002928Z
+DTSTAMP:20250827T002859Z
 SUMMARY:[RD] Mega Gyarados Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /mega-gyarados-raid-day-august-2025/
@@ -24,6 +24,24 @@ DTEND:20250831T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RD] Mega Gyarados Raid Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-sharpedo-raid-day-september-2025
+DTSTAMP:20250827T002859Z
+SUMMARY:[RD] Mega Sharpedo Raid Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /mega-sharpedo-raid-day-september-2025/
+URL:https://leekduck.com/events/mega-sharpedo-raid-day-september-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-09-07-mega-sharpedo-raid-day-september-2025/mega-sharpedo-raid-da
+ y.jpg
+DTSTART:20250907T140000
+DTEND:20250907T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RD] Mega Sharpedo Raid Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
