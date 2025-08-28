@@ -23,14 +23,6 @@
         "name": "Max Mondays",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__max_mondays.ics"
     },
-    "pokemon_spotlight_hour": {
-        "name": "Pokémon Spotlight Hour",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokemon_spotlight_hour.ics"
-    },
-    "pokestop_showcase": {
-        "name": "PokéStop Showcase",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokestop_showcase.ics"
-    },
     "raid_battles": {
         "name": "Raid Battles",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__raid_battles.ics"

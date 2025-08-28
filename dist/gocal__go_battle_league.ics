@@ -10,28 +10,8 @@ X-WR-CALDESC:All Pokémon GO GO Battle League events\, in your local time\,
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:gbl-delightful-days_master-league_catch-cup-great-league-edition
-DTSTAMP:20250827T002859Z
-SUMMARY:[GBL] Master League and Catch Cup: Great League Edition | Delightfu
- l Days
-DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /gbl-delightful-days_master-league_catch-cup-great-league-edition/
-URL:https://leekduck.com/events/gbl-delightful-days_master-league_catch-cup
- -great-league-edition/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattleleague-m
- aster-key.jpg
-DTSTART;VALUE=DATE:20250819
-DTEND;VALUE=DATE:20250826
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[GBL] Master League and Catch Cup: Great League Edition | Delig
- htful Days
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:gbl-delightful-days_great-league_ultra-league_master-league-split-4
-DTSTAMP:20250827T002859Z
+DTSTAMP:20250828T002845Z
 SUMMARY:[GBL] Great League\, Ultra League\, and Master League | Delightful 
  Days
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
