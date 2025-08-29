@@ -23,6 +23,10 @@
         "name": "Max Mondays",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__max_mondays.ics"
     },
+    "pokemon_spotlight_hour": {
+        "name": "Pokémon Spotlight Hour",
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokemon_spotlight_hour.ics"
+    },
     "raid_battles": {
         "name": "Raid Battles",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__raid_battles.ics"
@@ -35,6 +39,10 @@
         "name": "Raid Hour",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__raid_hour.ics"
     },
+    "raid_weekend": {
+        "name": "Raid Weekend",
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__raid_weekend.ics"
+    },
     "research": {
         "name": "Research",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__research.ics"
@@ -46,5 +54,9 @@
     "ticketed_event": {
         "name": "Ticketed Event",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__ticketed_event.ics"
+    },
+    "wild_area": {
+        "name": "Wild Area",
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__wild_area.ics"
     }
 }
