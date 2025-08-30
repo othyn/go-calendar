@@ -1,4 +1,8 @@
 {
+    "city_safari": {
+        "name": "City Safari",
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__city_safari.ics"
+    },
     "community_day": {
         "name": "Community Day",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__community_day.ics"
@@ -26,6 +30,10 @@
     "pokemon_spotlight_hour": {
         "name": "Pokémon Spotlight Hour",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokemon_spotlight_hour.ics"
+    },
+    "pokestop_showcase": {
+        "name": "PokéStop Showcase",
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokestop_showcase.ics"
     },
     "raid_battles": {
         "name": "Raid Battles",
