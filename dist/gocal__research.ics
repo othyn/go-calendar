@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-world-championship-2025-timed-research-twitch-drops
-DTSTAMP:20250830T002705Z
+DTSTAMP:20250831T003140Z
 SUMMARY:[R] Twitch Drops for 2025 Pokémon World Championships
 DESCRIPTION:Starts at 16:00\, ends at 02:00.\n\nhttps://leekduck.com/events
  /pokemon-world-championship-2025-timed-research-twitch-drops/
