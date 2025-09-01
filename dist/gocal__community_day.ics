@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Community Day events\, in your local time\, au
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:august-communityday2025
-DTSTAMP:20250831T003140Z
-SUMMARY:[CD] Rookidee Community Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /august-communityday2025/
-URL:https://leekduck.com/events/august-communityday2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-08-30-august-communityday2025/august-cd-2025-rookidee-vote.jpg
-DTSTART:20250830T140000
-DTEND:20250830T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[CD] Rookidee Community Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:september-communityday2025
-DTSTAMP:20250831T003140Z
+DTSTAMP:20250901T003538Z
 SUMMARY:[CD] Flabébé Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /september-communityday2025/
@@ -45,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:october-communityday2025
-DTSTAMP:20250831T003140Z
+DTSTAMP:20250901T003538Z
 SUMMARY:[CD] October Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /october-communityday2025/
@@ -61,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:november-communityday2025
-DTSTAMP:20250831T003140Z
+DTSTAMP:20250901T003538Z
 SUMMARY:[CD] November Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /november-communityday2025/
