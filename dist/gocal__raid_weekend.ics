@@ -10,19 +10,20 @@ X-WR-CALDESC:All Pokémon GO Raid Weekend events\, in your local time\, aut
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:shadow-raid-weekend-2025
-DTSTAMP:20250901T003538Z
-SUMMARY:[RW] Shadow Raid Weekend
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /shadow-raid-weekend-2025/
-URL:https://leekduck.com/events/shadow-raid-weekend-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+UID:shadow-groudon-raid-weekend-2025
+DTSTAMP:20250902T002846Z
+SUMMARY:[RW] Shadow Groudon Raid Weekend
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /shadow-groudon-raid-weekend-2025/
+URL:https://leekduck.com/events/shadow-groudon-raid-weekend-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-09-20-shadow-groudon-raid-weekend-2025/groudon-shadow-raid-weeken
+ d-2025.jpg?v2
 DTSTART;VALUE=DATE:20250920
 DTEND;VALUE=DATE:20250921
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RW] Shadow Raid Weekend
+DESCRIPTION:[RW] Shadow Groudon Raid Weekend
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

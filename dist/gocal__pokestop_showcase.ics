@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:rookidee-corviknight-showcase
-DTSTAMP:20250901T003538Z
-SUMMARY:[PS] Rookidee and Corviknight PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /rookidee-corviknight-showcase/
-URL:https://leekduck.com/events/rookidee-corviknight-showcase/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
- es-default.jpg
-DTSTART;VALUE=DATE:20250830
-DTEND;VALUE=DATE:20250831
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PS] Rookidee and Corviknight PokéStop Showcases
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:gyarados-showcase
-DTSTAMP:20250901T003538Z
+DTSTAMP:20250902T002846Z
 SUMMARY:[PS] Gyarados PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gyarados-showcase/
