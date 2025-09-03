@@ -10,42 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Battles events\, in your local time\, aut
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:mega-salamence-in-mega-raids-august-september-2025
-DTSTAMP:20250902T002846Z
-SUMMARY:[RB] Mega Salamence in Mega Raids
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /mega-salamence-in-mega-raids-august-september-2025/
-URL:https://leekduck.com/events/mega-salamence-in-mega-raids-august-septemb
- er-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;VALUE=DATE:20250825
-DTEND;VALUE=DATE:20250902
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Mega Salamence in Mega Raids
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:necrozma-in-5-star-raid-battles-august-september-2025
-DTSTAMP:20250902T002846Z
-SUMMARY:[RB] Necrozma in 5-star Raid Battles
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /necrozma-in-5-star-raid-battles-august-september-2025/
-URL:https://leekduck.com/events/necrozma-in-5-star-raid-battles-august-sept
- ember-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/Necrozma.jpg
-DTSTART;VALUE=DATE:20250825
-DTEND;VALUE=DATE:20250902
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Necrozma in 5-star Raid Battles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:shadow-regirock-in-shadow-raids-august-september-2025
-DTSTAMP:20250902T002846Z
+DTSTAMP:20250903T002701Z
 SUMMARY:[RB] Shadow Regirock in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-regirock-in-shadow-raids-august-september-2025/
@@ -63,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-kanto-starters-in-mega-raids-september-2025
-DTSTAMP:20250902T002846Z
+DTSTAMP:20250903T002701Z
 SUMMARY:[RB] Mega Kanto Starters in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-kanto-starters-in-mega-raids-september-2025/
@@ -80,7 +46,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:palkia-in-5-star-raid-battles-september-2025
-DTSTAMP:20250902T002846Z
+DTSTAMP:20250903T002701Z
 SUMMARY:[RB] Palkia in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /palkia-in-5-star-raid-battles-september-2025/
@@ -97,7 +63,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-pidgeot-gyarados-in-mega-raids-september-2025
-DTSTAMP:20250902T002846Z
+DTSTAMP:20250903T002701Z
 SUMMARY:[RB] Mega Pidgeot and Mega Gyarados in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-pidgeot-gyarados-in-mega-raids-september-2025/
@@ -114,7 +80,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-psychic-dragon-in-mega-raids-september-2025
-DTSTAMP:20250902T002846Z
+DTSTAMP:20250903T002701Z
 SUMMARY:[RB] Mega Gardevoir\, Latias\, Latios\, and Gallade in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-psychic-dragon-in-mega-raids-september-2025/
@@ -132,7 +98,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-kangaskhan-lopunny-in-mega-raids-september-2025
-DTSTAMP:20250902T002846Z
+DTSTAMP:20250903T002701Z
 SUMMARY:[RB] Mega Kangaskhan and Mega Lopunny in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-kangaskhan-lopunny-in-mega-raids-september-2025/
@@ -149,7 +115,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dialga-in-5-star-raid-battles-september-october-2025
-DTSTAMP:20250902T002846Z
+DTSTAMP:20250903T002701Z
 SUMMARY:[RB] Dialga in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /dialga-in-5-star-raid-battles-september-october-2025/
@@ -166,7 +132,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-steel-fighting-in-mega-raids-september-october-2025
-DTSTAMP:20250902T002846Z
+DTSTAMP:20250903T002701Z
 SUMMARY:[RB] Mega Steelix\, Scizor\, and Lucario in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-steel-fighting-in-mega-raids-september-october-2025/

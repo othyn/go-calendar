@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO GO Pass events\, in your local time\, auto-upd
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:go-pass-august-2025
-DTSTAMP:20250902T002846Z
-SUMMARY:[GP] GO Pass: August
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /go-pass-august-2025/
-URL:https://leekduck.com/events/go-pass-august-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-08-05-go-pass-august-2025/go-pass-august-2025.jpg
-DTSTART;VALUE=DATE:20250805
-DTEND;VALUE=DATE:20250902
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[GP] GO Pass: August
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:go-pass-september-2025
-DTSTAMP:20250902T002846Z
+DTSTAMP:20250903T002701Z
 SUMMARY:[GP] GO Pass: September
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /go-pass-september-2025/

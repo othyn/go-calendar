@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:gyarados-showcase
-DTSTAMP:20250902T002846Z
+DTSTAMP:20250903T002701Z
 SUMMARY:[PS] Gyarados PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gyarados-showcase/
