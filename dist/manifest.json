@@ -51,10 +51,6 @@
         "name": "Season",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__season.ics"
     },
-    "ticketed_event": {
-        "name": "Ticketed Event",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__ticketed_event.ics"
-    },
     "wild_area": {
         "name": "Wild Area",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__wild_area.ics"

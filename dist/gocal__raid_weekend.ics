@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:shadow-groudon-raid-weekend-2025
-DTSTAMP:20250904T002721Z
+DTSTAMP:20250905T002829Z
 SUMMARY:[RW] Shadow Groudon Raid Weekend
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-groudon-raid-weekend-2025/
