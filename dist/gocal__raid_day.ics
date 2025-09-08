@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:mega-sharpedo-raid-day-september-2025
-DTSTAMP:20250907T003048Z
+DTSTAMP:20250908T002957Z
 SUMMARY:[RD] Mega Sharpedo Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /mega-sharpedo-raid-day-september-2025/
@@ -29,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-raid-day-september-2025
-DTSTAMP:20250907T003048Z
+DTSTAMP:20250908T002957Z
 SUMMARY:[RD] Mega Raid Day
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /mega-raid-day-september-2025/
