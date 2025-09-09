@@ -10,28 +10,8 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:farfetchd-mr-mime-kangaskhan-tauros-showcase
-DTSTAMP:20250908T002957Z
-SUMMARY:[PS] Farfetch'd\, Mr. Mime\, Kangaskhan\, and Tauros PokéStop Show
- cases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /farfetchd-mr-mime-kangaskhan-tauros-showcase/
-URL:https://leekduck.com/events/farfetchd-mr-mime-kangaskhan-tauros-showcas
- e/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
- es-default.jpg
-DTSTART;VALUE=DATE:20250906
-DTEND;VALUE=DATE:20250907
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PS] Farfetch'd\, Mr. Mime\, Kangaskhan\, and Tauros PokéStop 
- Showcases
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:venusaur-charizard-blastoise-showcase
-DTSTAMP:20250908T002957Z
+DTSTAMP:20250909T002835Z
 SUMMARY:[PS] Venusaur\, Charizard\, and Blastoise PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /venusaur-charizard-blastoise-showcase/

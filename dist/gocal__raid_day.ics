@@ -10,26 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Day events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:mega-sharpedo-raid-day-september-2025
-DTSTAMP:20250908T002957Z
-SUMMARY:[RD] Mega Sharpedo Raid Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /mega-sharpedo-raid-day-september-2025/
-URL:https://leekduck.com/events/mega-sharpedo-raid-day-september-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-09-07-mega-sharpedo-raid-day-september-2025/mega-sharpedo-raid-da
- y.jpg
-DTSTART:20250907T140000
-DTEND:20250907T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RD] Mega Sharpedo Raid Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:mega-raid-day-september-2025
-DTSTAMP:20250908T002957Z
+DTSTAMP:20250909T002835Z
 SUMMARY:[RD] Mega Raid Day
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /mega-raid-day-september-2025/
