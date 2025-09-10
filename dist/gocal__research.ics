@@ -10,21 +10,20 @@ X-WR-CALDESC:All Pokémon GO Research events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-world-championship-2025-timed-research-twitch-drops
-DTSTAMP:20250831T003140Z
-SUMMARY:[R] Twitch Drops for 2025 Pokémon World Championships
-DESCRIPTION:Starts at 16:00\, ends at 02:00.\n\nhttps://leekduck.com/events
- /pokemon-world-championship-2025-timed-research-twitch-drops/
-URL:https://leekduck.com/events/pokemon-world-championship-2025-timed-resea
- rch-twitch-drops/
+UID:pokemon-concierge-bonus-timed-research
+DTSTAMP:20250910T002729Z
+SUMMARY:[R] Pokémon Concierge Bonus Timed Research
+DESCRIPTION:Starts at 00:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-concierge-bonus-timed-research/
+URL:https://leekduck.com/events/pokemon-concierge-bonus-timed-research/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-08-12-pokemon-world-championship-2025-timed-research-twitch-drops
- /wcs-2025-twitch-drops.jpg
-DTSTART;VALUE=DATE:20250815
-DTEND;VALUE=DATE:20250831
+ 025/2025-09-09-pokemon-concierge-bonus-timed-research/swim-ring-psyduck-pr
+ omo.jpg
+DTSTART;VALUE=DATE:20250909
+DTEND;VALUE=DATE:20250914
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[R] Twitch Drops for 2025 Pokémon World Championships
+DESCRIPTION:[R] Pokémon Concierge Bonus Timed Research
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
