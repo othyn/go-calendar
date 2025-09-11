@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:max-mondays-2025-09-15
-DTSTAMP:20250910T002729Z
+DTSTAMP:20250911T002813Z
 SUMMARY:[MM] Dynamax Abra during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2025-09-15/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2025-09-22
-DTSTAMP:20250910T002729Z
+DTSTAMP:20250911T002813Z
 SUMMARY:[MM] Dynamax Chansey during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2025-09-22/
@@ -45,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2025-09-29
-DTSTAMP:20250910T002729Z
+DTSTAMP:20250911T002813Z
 SUMMARY:[MM] Dynamax Beldum during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2025-09-29/
