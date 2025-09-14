@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-concierge-bonus-timed-research
-DTSTAMP:20250913T002540Z
+DTSTAMP:20250914T003026Z
 SUMMARY:[R] Pokémon Concierge Bonus Timed Research
 DESCRIPTION:Starts at 00:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-concierge-bonus-timed-research/

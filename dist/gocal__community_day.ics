@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:september-communityday2025
-DTSTAMP:20250913T002540Z
+DTSTAMP:20250914T003026Z
 SUMMARY:[CD] Flabébé Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /september-communityday2025/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:october-communityday2025
-DTSTAMP:20250913T002540Z
+DTSTAMP:20250914T003026Z
 SUMMARY:[CD] October Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /october-communityday2025/
@@ -44,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:november-communityday2025
-DTSTAMP:20250913T002540Z
+DTSTAMP:20250914T003026Z
 SUMMARY:[CD] November Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /november-communityday2025/
