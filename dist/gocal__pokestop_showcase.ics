@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:psyduck-arcanine-shinx-sealeo-showcase
-DTSTAMP:20250917T002801Z
+DTSTAMP:20250918T002703Z
 SUMMARY:[PS] Psyduck\, Arcanine\, Shinx\, and Sealeo PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /psyduck-arcanine-shinx-sealeo-showcase/
