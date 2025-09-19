@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:mega-camerupt-raid-day-september-2025
-DTSTAMP:20250918T002703Z
+DTSTAMP:20250919T002811Z
 SUMMARY:[RD] Mega Camerupt Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /mega-camerupt-raid-day-september-2025/
@@ -24,6 +24,24 @@ DTEND:20250928T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RD] Mega Camerupt Raid Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-metagross-raid-day-october-2025
+DTSTAMP:20250919T002811Z
+SUMMARY:[RD] Mega Metagross Raid Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /mega-metagross-raid-day-october-2025/
+URL:https://leekduck.com/events/mega-metagross-raid-day-october-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-10-04-mega-metagross-raid-day-october-2025/mega-metagross-raid-da
+ y.jpg
+DTSTART:20251004T140000
+DTEND:20251004T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RD] Mega Metagross Raid Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
