@@ -10,20 +10,19 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:psyduck-arcanine-shinx-sealeo-showcase
-DTSTAMP:20250920T002641Z
-SUMMARY:[PS] Psyduck\, Arcanine\, Shinx\, and Sealeo PokéStop Showcases
+UID:indeedee-showcase
+DTSTAMP:20250921T003116Z
+SUMMARY:[PS] Indeedee PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /psyduck-arcanine-shinx-sealeo-showcase/
-URL:https://leekduck.com/events/psyduck-arcanine-shinx-sealeo-showcase/
+ /indeedee-showcase/
+URL:https://leekduck.com/events/indeedee-showcase/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20250915
-DTEND;VALUE=DATE:20250917
+DTSTART;VALUE=DATE:20250920
+DTEND;VALUE=DATE:20250921
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Psyduck\, Arcanine\, Shinx\, and Sealeo PokéStop Showcase
- s
+DESCRIPTION:[PS] Indeedee PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
