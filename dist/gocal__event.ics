@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:psychic-spectacular-taken-over-2025
-DTSTAMP:20250921T003116Z
+DTSTAMP:20250922T003102Z
 SUMMARY:[E] Psychic Spectacular: Taken Over
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /psychic-spectacular-taken-over-2025/
@@ -29,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:completely-normal-2025
-DTSTAMP:20250921T003116Z
+DTSTAMP:20250922T003102Z
 SUMMARY:[E] Completely Normal
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /completely-normal-2025/
@@ -46,7 +46,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:steel-skyline-2025
-DTSTAMP:20250921T003116Z
+DTSTAMP:20250922T003102Z
 SUMMARY:[E] Steel Skyline
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /steel-skyline-2025/
@@ -63,7 +63,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:xp-celebration-event-2025
-DTSTAMP:20250921T003116Z
+DTSTAMP:20250922T003102Z
 SUMMARY:[E] XP Celebration
 DESCRIPTION:Starts at 13:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /xp-celebration-event-2025/
@@ -80,7 +80,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-weekend-tales-of-transformation
-DTSTAMP:20250921T003116Z
+DTSTAMP:20250922T003102Z
 SUMMARY:[E] GO Battle Weekend: Tales of Transformation
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-weekend-tales-of-transformation/
@@ -97,7 +97,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:trade-days-tales-of-transformation
-DTSTAMP:20250921T003116Z
+DTSTAMP:20250922T003102Z
 SUMMARY:[E] Trade Days | Tales of Transformation
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /trade-days-tales-of-transformation/
