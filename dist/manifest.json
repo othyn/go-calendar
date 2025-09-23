@@ -47,10 +47,6 @@
         "name": "Raid Hour",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__raid_hour.ics"
     },
-    "raid_weekend": {
-        "name": "Raid Weekend",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__raid_weekend.ics"
-    },
     "season": {
         "name": "Season",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__season.ics"

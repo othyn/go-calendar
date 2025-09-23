@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:indeedee-showcase
-DTSTAMP:20250922T003102Z
-SUMMARY:[PS] Indeedee PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /indeedee-showcase/
-URL:https://leekduck.com/events/indeedee-showcase/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
- es-default.jpg
-DTSTART;VALUE=DATE:20250920
-DTEND;VALUE=DATE:20250921
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PS] Indeedee PokéStop Showcases
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:ditto-dunsparce-dudunsparce-showcase
-DTSTAMP:20250922T003102Z
+DTSTAMP:20250923T002813Z
 SUMMARY:[PS] Ditto\, Dunsparce\, Dudunsparce PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /ditto-dunsparce-dudunsparce-showcase/
