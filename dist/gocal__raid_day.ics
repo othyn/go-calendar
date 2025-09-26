@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:mega-camerupt-raid-day-september-2025
-DTSTAMP:20250925T071735Z
+DTSTAMP:20250926T002801Z
 SUMMARY:[RD] Mega Camerupt Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /mega-camerupt-raid-day-september-2025/
@@ -29,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-metagross-raid-day-october-2025
-DTSTAMP:20250925T071735Z
+DTSTAMP:20250926T002801Z
 SUMMARY:[RD] Mega Metagross Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /mega-metagross-raid-day-october-2025/
@@ -42,6 +42,24 @@ DTEND:20251004T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RD] Mega Metagross Raid Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-rayquaza-raid-day-november-2025
+DTSTAMP:20250926T002801Z
+SUMMARY:[RD] Mega Rayquaza Raid Day
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /mega-rayquaza-raid-day-november-2025/
+URL:https://leekduck.com/events/mega-rayquaza-raid-day-november-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-10-18-mega-rayquaza-raid-day-november-2025/mega-rayquaza-raid-day
+ .jpg
+DTSTART:20251018T100000
+DTEND:20251018T200000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RD] Mega Rayquaza Raid Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
