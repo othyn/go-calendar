@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2025-nagasaki-japan
-DTSTAMP:20250926T002801Z
+DTSTAMP:20250927T002707Z
 SUMMARY:[WA] Pokémon GO Wild Area: Nagasaki
 DESCRIPTION:Starts at 00:00\, ends at 08:00.\n\nhttps://leekduck.com/events
  /pokemon-go-wild-area-2025-nagasaki-japan/
@@ -29,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2025-global
-DTSTAMP:20250926T002801Z
+DTSTAMP:20250927T002707Z
 SUMMARY:[WA] Pokémon GO Wild Area: Global
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-wild-area-2025-global/
