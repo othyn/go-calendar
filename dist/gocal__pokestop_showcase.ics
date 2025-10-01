@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:steel-type-showcases-2025-09-29
-DTSTAMP:20250930T002836Z
+DTSTAMP:20251001T003229Z
 SUMMARY:[PS] Steel-type PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /steel-type-showcases-2025-09-29/
