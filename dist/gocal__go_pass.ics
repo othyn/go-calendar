@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:go-pass-september-2025
-DTSTAMP:20251001T003229Z
+DTSTAMP:20251002T002728Z
 SUMMARY:[GP] GO Pass: September
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /go-pass-september-2025/
@@ -23,6 +23,23 @@ DTEND;VALUE=DATE:20251007
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[GP] GO Pass: September
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-pass-october-2025
+DTSTAMP:20251002T002728Z
+SUMMARY:[GP] GO Pass: October
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /go-pass-october-2025/
+URL:https://leekduck.com/events/go-pass-october-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-10-07-go-pass-october-2025/go-pass-october-2025.jpg
+DTSTART;VALUE=DATE:20251007
+DTEND;VALUE=DATE:20251104
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GP] GO Pass: October
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
