@@ -10,19 +10,20 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:steel-type-showcases-2025-09-29
-DTSTAMP:20251002T002728Z
-SUMMARY:[PS] Steel-type PokéStop Showcases
+UID:pokemon-showcase-metagross-duraludon-2025-10-04
+DTSTAMP:20251004T002607Z
+SUMMARY:[PS] Metagross and Duraludon PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /steel-type-showcases-2025-09-29/
-URL:https://leekduck.com/events/steel-type-showcases-2025-09-29/
+ /pokemon-showcase-metagross-duraludon-2025-10-04/
+URL:https://leekduck.com/events/pokemon-showcase-metagross-duraludon-2025-1
+ 0-04/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20250929
-DTEND;VALUE=DATE:20251001
+DTSTART;VALUE=DATE:20251004
+DTEND;VALUE=DATE:20251005
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Steel-type PokéStop Showcases
+DESCRIPTION:[PS] Metagross and Duraludon PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

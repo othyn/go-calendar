@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:mega-metagross-raid-day-october-2025
-DTSTAMP:20251003T002717Z
+DTSTAMP:20251004T002607Z
 SUMMARY:[RD] Mega Metagross Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /mega-metagross-raid-day-october-2025/
@@ -29,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-rayquaza-raid-day-november-2025
-DTSTAMP:20251003T002717Z
+DTSTAMP:20251004T002607Z
 SUMMARY:[RD] Mega Rayquaza Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /mega-rayquaza-raid-day-november-2025/
