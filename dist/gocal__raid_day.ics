@@ -10,26 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Day events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:mega-metagross-raid-day-october-2025
-DTSTAMP:20251005T003106Z
-SUMMARY:[RD] Mega Metagross Raid Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /mega-metagross-raid-day-october-2025/
-URL:https://leekduck.com/events/mega-metagross-raid-day-october-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-10-04-mega-metagross-raid-day-october-2025/mega-metagross-raid-da
- y.jpg
-DTSTART:20251004T140000
-DTEND:20251004T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RD] Mega Metagross Raid Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:mega-rayquaza-raid-day-november-2025
-DTSTAMP:20251005T003106Z
+DTSTAMP:20251006T002900Z
 SUMMARY:[RD] Mega Rayquaza Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /mega-rayquaza-raid-day-november-2025/
