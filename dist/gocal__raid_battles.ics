@@ -10,42 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Battles events\, in your local time\, aut
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:dialga-in-5-star-raid-battles-september-october-2025
-DTSTAMP:20251007T002801Z
-SUMMARY:[RB] Dialga in 5-star Raid Battles
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /dialga-in-5-star-raid-battles-september-october-2025/
-URL:https://leekduck.com/events/dialga-in-5-star-raid-battles-september-oct
- ober-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/dialgaraids.jpg
-DTSTART;VALUE=DATE:20250923
-DTEND;VALUE=DATE:20251007
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Dialga in 5-star Raid Battles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:mega-steel-fighting-in-mega-raids-september-october-2025
-DTSTAMP:20251007T002801Z
-SUMMARY:[RB] Mega Steelix\, Scizor\, and Lucario in Mega Raids
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /mega-steel-fighting-in-mega-raids-september-october-2025/
-URL:https://leekduck.com/events/mega-steel-fighting-in-mega-raids-september
- -october-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;VALUE=DATE:20250930
-DTEND;VALUE=DATE:20251007
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Mega Steelix\, Scizor\, and Lucario in Mega Raids
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:deoxys-normal-defense-in-5-star-raid-battles-october-2025
-DTSTAMP:20251007T002801Z
+DTSTAMP:20251008T002757Z
 SUMMARY:[RB] Deoxys (Normal &amp\; Defense Forme) in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /deoxys-normal-defense-in-5-star-raid-battles-october-2025/
@@ -64,7 +30,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-sceptile-mega-blaziken-mega-swampert-in-mega-raids-october-2025
-DTSTAMP:20251007T002801Z
+DTSTAMP:20251008T002757Z
 SUMMARY:[RB] Mega Sceptile\, Mega Blaziken\, and Mega Swampert in Mega Raid
  s
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
@@ -84,7 +50,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:deoxys-attack-speed-in-5-star-raid-battles-october-2025
-DTSTAMP:20251007T002801Z
+DTSTAMP:20251008T002757Z
 SUMMARY:[RB] Deoxys (Attack &amp\; Speed Forme) in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /deoxys-attack-speed-in-5-star-raid-battles-october-2025/
@@ -102,7 +68,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-mawile-mega-salamence-in-mega-raids-october-2025
-DTSTAMP:20251007T002801Z
+DTSTAMP:20251008T002757Z
 SUMMARY:[RB] Mega Mawile and Mega Salamence in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-mawile-mega-salamence-in-mega-raids-october-2025/
@@ -120,7 +86,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:genesect-douse-shock-in-5-star-raid-battles-october-2025
-DTSTAMP:20251007T002801Z
+DTSTAMP:20251008T002757Z
 SUMMARY:[RB] Genesect (Douse &amp\; Shock Drive) in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /genesect-douse-shock-in-5-star-raid-battles-october-2025/
@@ -137,7 +103,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-houndoom-mega-absol-in-mega-raids-october-2025
-DTSTAMP:20251007T002801Z
+DTSTAMP:20251008T002757Z
 SUMMARY:[RB] Mega Houndoom and Mega Absol in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-houndoom-mega-absol-in-mega-raids-october-2025/
@@ -155,7 +121,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:giratina-altered-in-5-star-raid-battles-october-2025
-DTSTAMP:20251007T002801Z
+DTSTAMP:20251008T002757Z
 SUMMARY:[RB] Giratina (Altered Forme) in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /giratina-altered-in-5-star-raid-battles-october-2025/
@@ -173,7 +139,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-gengar-mega-sableye-mega-banette-in-mega-raids-october-2025
-DTSTAMP:20251007T002801Z
+DTSTAMP:20251008T002757Z
 SUMMARY:[RB] Mega Gengar\, Mega Sableye\, and Mega Banette in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-gengar-mega-sableye-mega-banette-in-mega-raids-october-2025/
