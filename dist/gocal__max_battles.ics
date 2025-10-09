@@ -10,20 +10,20 @@ X-WR-CALDESC:All Pokémon GO Max Battles events\, in your local time\, auto
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:gigantamax-butterfree-max-battle-day
-DTSTAMP:20250804T003607Z
-SUMMARY:[MB] Gigantamax Butterfree Max Battle Day
+UID:gigantamax-garbodor-max-battle-day
+DTSTAMP:20251009T002750Z
+SUMMARY:[MB] Gigantamax Garbodor Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /gigantamax-butterfree-max-battle-day/
-URL:https://leekduck.com/events/gigantamax-butterfree-max-battle-day/
+ /gigantamax-garbodor-max-battle-day/
+URL:https://leekduck.com/events/gigantamax-garbodor-max-battle-day/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-08-03-gigantamax-butterfree-max-battle-day/gigantamax-butterfree-
+ 025/2025-11-01-gigantamax-garbodor-max-battle-day/gigantamax-garbodor-max-
  battle-day.jpg
-DTSTART:20250803T140000
-DTEND:20250803T170000
+DTSTART:20251101T140000
+DTEND:20251101T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[MB] Gigantamax Butterfree Max Battle Day
+DESCRIPTION:[MB] Gigantamax Garbodor Max Battle Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
