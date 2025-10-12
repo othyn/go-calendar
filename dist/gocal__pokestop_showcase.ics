@@ -10,19 +10,19 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-duraludon-2025-10-06
-DTSTAMP:20251009T002750Z
-SUMMARY:[PS] Duraludon PokéStop Showcase
+UID:pokemon-showcase-solosis-2025-10-11
+DTSTAMP:20251012T002944Z
+SUMMARY:[PS] Solosis PokéStop Showcase
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-duraludon-2025-10-06/
-URL:https://leekduck.com/events/pokemon-showcase-duraludon-2025-10-06/
+ /pokemon-showcase-solosis-2025-10-11/
+URL:https://leekduck.com/events/pokemon-showcase-solosis-2025-10-11/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20251006
-DTEND;VALUE=DATE:20251008
+DTSTART;VALUE=DATE:20251011
+DTEND;VALUE=DATE:20251012
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Duraludon PokéStop Showcase
+DESCRIPTION:[PS] Solosis PokéStop Showcase
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
