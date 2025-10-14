@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-solosis-2025-10-11
-DTSTAMP:20251013T003045Z
-SUMMARY:[PS] Solosis PokéStop Showcase
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-solosis-2025-10-11/
-URL:https://leekduck.com/events/pokemon-showcase-solosis-2025-10-11/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
- es-default.jpg
-DTSTART;VALUE=DATE:20251011
-DTEND;VALUE=DATE:20251012
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PS] Solosis PokéStop Showcase
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-showcase-pumpkaboo-gourgeist-2025-10-13
-DTSTAMP:20251013T003045Z
+DTSTAMP:20251014T002751Z
 SUMMARY:[PS] Pumpkaboo\, Gourgeist\, and Applin PokéStop Showcase
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-pumpkaboo-gourgeist-2025-10-13/
