@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-pumpkaboo-gourgeist-2025-10-13
-DTSTAMP:20251015T002920Z
+DTSTAMP:20251016T002912Z
 SUMMARY:[PS] Pumpkaboo\, Gourgeist\, and Applin PokéStop Showcase
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-pumpkaboo-gourgeist-2025-10-13/
