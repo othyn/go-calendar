@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:go-pass-halloween-2025
-DTSTAMP:20251017T002847Z
+DTSTAMP:20251018T002708Z
 SUMMARY:[GP] GO Pass: Halloween 2025
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /go-pass-halloween-2025/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-pass-october-2025
-DTSTAMP:20251017T002847Z
+DTSTAMP:20251018T002708Z
 SUMMARY:[GP] GO Pass: October
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /go-pass-october-2025/
@@ -45,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-pass-into-the-wild
-DTSTAMP:20251017T002847Z
+DTSTAMP:20251018T002708Z
 SUMMARY:[GP] GO Pass: Into the Wild
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /go-pass-into-the-wild/

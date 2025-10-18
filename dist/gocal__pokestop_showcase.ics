@@ -10,20 +10,19 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-pumpkaboo-gourgeist-2025-10-13
-DTSTAMP:20251016T002912Z
-SUMMARY:[PS] Pumpkaboo\, Gourgeist\, and Applin PokéStop Showcase
+UID:pokemon-showcase-rayquaza-2025-10-18
+DTSTAMP:20251018T002708Z
+SUMMARY:[PS] Rayquaza PokéStop Showcase
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-pumpkaboo-gourgeist-2025-10-13/
-URL:https://leekduck.com/events/pokemon-showcase-pumpkaboo-gourgeist-2025-1
- 0-13/
+ /pokemon-showcase-rayquaza-2025-10-18/
+URL:https://leekduck.com/events/pokemon-showcase-rayquaza-2025-10-18/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20251013
-DTEND;VALUE=DATE:20251015
+DTSTART;VALUE=DATE:20251018
+DTEND;VALUE=DATE:20251019
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Pumpkaboo\, Gourgeist\, and Applin PokéStop Showcase
+DESCRIPTION:[PS] Rayquaza PokéStop Showcase
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
