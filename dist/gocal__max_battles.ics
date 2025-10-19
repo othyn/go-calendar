@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:gigantamax-garbodor-max-battle-day
-DTSTAMP:20251018T002708Z
+DTSTAMP:20251019T003237Z
 SUMMARY:[MB] Gigantamax Garbodor Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /gigantamax-garbodor-max-battle-day/
