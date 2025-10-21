@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:raidhour20251022
-DTSTAMP:20251020T003122Z
+DTSTAMP:20251021T002909Z
 SUMMARY:[RH] Genesect Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20251022/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20251029
-DTSTAMP:20251020T003122Z
+DTSTAMP:20251021T002909Z
 SUMMARY:[RH] Giratina (Origin Forme) Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20251029/
@@ -38,6 +38,54 @@ DTEND:20251029T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RH] Giratina (Origin Forme) Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20251105
+DTSTAMP:20251021T002909Z
+SUMMARY:[RH] Raikou\, Entei\, and Suicune Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20251105/
+URL:https://leekduck.com/events/raidhour20251105/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20251105T180000
+DTEND:20251105T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Raikou\, Entei\, and Suicune Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20251119
+DTSTAMP:20251021T002909Z
+SUMMARY:[RH] Heatran Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20251119/
+URL:https://leekduck.com/events/raidhour20251119/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20251119T180000
+DTEND:20251119T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Heatran Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20251126
+DTSTAMP:20251021T002909Z
+SUMMARY:[RH] Cobalion\, Terrakion\, and Virizion Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20251126/
+URL:https://leekduck.com/events/raidhour20251126/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20251126T180000
+DTEND:20251126T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Cobalion\, Terrakion\, and Virizion Raid Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
