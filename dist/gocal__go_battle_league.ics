@@ -10,29 +10,9 @@ X-WR-CALDESC:All Pokémon GO GO Battle League events\, in your local time\,
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:gbl-tales-of-transformation_master-premier_great-league-remix
-DTSTAMP:20251023T002858Z
-SUMMARY:[GBL] Master Premier and Great League Remix | Tales of Transformati
- on
-DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /gbl-tales-of-transformation_master-premier_great-league-remix/
-URL:https://leekduck.com/events/gbl-tales-of-transformation_master-premier_
- great-league-remix/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattleleague-m
- aster-key.jpg
-DTSTART;VALUE=DATE:20251014
-DTEND;VALUE=DATE:20251021
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[GBL] Master Premier and Great League Remix | Tales of Transfor
- mation
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:gbl-tales-of-transformation_great-league_ultra-league_master-league-spl
  it-2
-DTSTAMP:20251023T002858Z
+DTSTAMP:20251024T002622Z
 SUMMARY:[GBL] Great League\, Ultra League\, and Master League | Tales of Tr
  ansformation
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -54,7 +34,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-tales-of-transformation_great-league_halloween-cup-great-league-edi
  tion
-DTSTAMP:20251023T002858Z
+DTSTAMP:20251024T002622Z
 SUMMARY:[GBL] Great League and Halloween Cup: Great League Edition | Tales 
  of Transformation
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -76,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-tales-of-transformation_ultra-league_jungle-cup-great-league-editio
  n-2
-DTSTAMP:20251023T002858Z
+DTSTAMP:20251024T002622Z
 SUMMARY:[GBL] Ultra League and Jungle Cup: Great League Edition | Tales of 
  Transformation
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -98,7 +78,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-tales-of-transformation_great-league_ultra-league_master-league-spl
  it-3
-DTSTAMP:20251023T002858Z
+DTSTAMP:20251024T002622Z
 SUMMARY:[GBL] Great League\, Ultra League\, and Master League | Tales of Tr
  ansformation
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -120,7 +100,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-tales-of-transformation_2025-championship-series-cup_master-league-
  mega-edition
-DTSTAMP:20251023T002858Z
+DTSTAMP:20251024T002622Z
 SUMMARY:[GBL] 2025 Championship Series Cup and Master League: Mega Edition 
  | Tales of Transformation
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -142,7 +122,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-tales-of-transformation_catch-cup-tales-of-transformation-great-edi
  tion_ultra-league_master-league
-DTSTAMP:20251023T002858Z
+DTSTAMP:20251024T002622Z
 SUMMARY:[GBL] Catch Cup: Tales of Transformation: Great Edition\, Ultra Lea
  gue\, and Master League | Tales of Transformation
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
