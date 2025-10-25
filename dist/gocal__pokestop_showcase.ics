@@ -10,20 +10,20 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-ghost-type-sinistea-2025-10-22
-DTSTAMP:20251023T002858Z
-SUMMARY:[PS] Ghost-type Pokémon and Sinistea PokéStop Showcases
+UID:pokemon-showcase-poltchageist-ghost-type-2025-10-25
+DTSTAMP:20251025T002838Z
+SUMMARY:[PS] Poltchageist and Ghost-type Pokémon PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-ghost-type-sinistea-2025-10-22/
-URL:https://leekduck.com/events/pokemon-showcase-ghost-type-sinistea-2025-1
- 0-22/
+ /pokemon-showcase-poltchageist-ghost-type-2025-10-25/
+URL:https://leekduck.com/events/pokemon-showcase-poltchageist-ghost-type-20
+ 25-10-25/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20251020
-DTEND;VALUE=DATE:20251022
+DTSTART;VALUE=DATE:20251025
+DTEND;VALUE=DATE:20251026
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Ghost-type Pokémon and Sinistea PokéStop Showcases
+DESCRIPTION:[PS] Poltchageist and Ghost-type Pokémon PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
