@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-poltchageist-ghost-type-2025-10-25
-DTSTAMP:20251026T003142Z
+DTSTAMP:20251027T003211Z
 SUMMARY:[PS] Poltchageist and Ghost-type Pokémon PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-poltchageist-ghost-type-2025-10-25/
@@ -24,6 +24,26 @@ DTEND;VALUE=DATE:20251026
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[PS] Poltchageist and Ghost-type Pokémon PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-noibat-teddiursa-noivern-ursaluna-2025-10-27
+DTSTAMP:20251027T003211Z
+SUMMARY:[PS] Noibat\, Teddiursa\, Noivern\, and Ursaluna PokéStop Showcase
+ s
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-noibat-teddiursa-noivern-ursaluna-2025-10-27/
+URL:https://leekduck.com/events/pokemon-showcase-noibat-teddiursa-noivern-u
+ rsaluna-2025-10-27/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
+ es-default.jpg
+DTSTART;VALUE=DATE:20251027
+DTEND;VALUE=DATE:20251029
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PS] Noibat\, Teddiursa\, Noivern\, and Ursaluna PokéStop Show
+ cases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
