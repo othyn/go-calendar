@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-noibat-teddiursa-noivern-ursaluna-2025-10-27
-DTSTAMP:20251029T003033Z
+DTSTAMP:20251030T003018Z
 SUMMARY:[PS] Noibat\, Teddiursa\, Noivern\, and Ursaluna PokéStop Showcase
  s
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
