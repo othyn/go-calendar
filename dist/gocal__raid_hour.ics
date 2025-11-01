@@ -10,24 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Hour events\, in your local time\, auto-u
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:raidhour20251029
-DTSTAMP:20251031T002926Z
-SUMMARY:[RH] Giratina (Origin Forme) Raid Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /raidhour20251029/
-URL:https://leekduck.com/events/raidhour20251029/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
-DTSTART:20251029T180000
-DTEND:20251029T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RH] Giratina (Origin Forme) Raid Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raidhour20251105
-DTSTAMP:20251031T002926Z
+DTSTAMP:20251101T003229Z
 SUMMARY:[RH] Raikou\, Entei\, and Suicune Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20251105/
@@ -43,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20251119
-DTSTAMP:20251031T002926Z
+DTSTAMP:20251101T003229Z
 SUMMARY:[RH] Heatran Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20251119/
@@ -59,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20251126
-DTSTAMP:20251031T002926Z
+DTSTAMP:20251101T003229Z
 SUMMARY:[RH] Cobalion\, Terrakion\, and Virizion Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20251126/

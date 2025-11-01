@@ -10,22 +10,20 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-noibat-teddiursa-noivern-ursaluna-2025-10-27
-DTSTAMP:20251031T002926Z
-SUMMARY:[PS] Noibat\, Teddiursa\, Noivern\, and Ursaluna PokéStop Showcase
- s
+UID:pokemon-showcase-garbodor-polteageist-sinistcha-2025-11-01
+DTSTAMP:20251101T003229Z
+SUMMARY:[PS] Garbodor\, Polteageist\, and Sinistcha PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-noibat-teddiursa-noivern-ursaluna-2025-10-27/
-URL:https://leekduck.com/events/pokemon-showcase-noibat-teddiursa-noivern-u
- rsaluna-2025-10-27/
+ /pokemon-showcase-garbodor-polteageist-sinistcha-2025-11-01/
+URL:https://leekduck.com/events/pokemon-showcase-garbodor-polteageist-sinis
+ tcha-2025-11-01/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20251027
-DTEND;VALUE=DATE:20251029
+DTSTART;VALUE=DATE:20251101
+DTEND;VALUE=DATE:20251102
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Noibat\, Teddiursa\, Noivern\, and Ursaluna PokéStop Show
- cases
+DESCRIPTION:[PS] Garbodor\, Polteageist\, and Sinistcha PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
