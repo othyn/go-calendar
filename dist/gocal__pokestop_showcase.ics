@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-poison-grass-bug-type-2025-11-03
-DTSTAMP:20251104T002942Z
+DTSTAMP:20251105T003037Z
 SUMMARY:[PS] Poison-type\, Grass-type\, and Bug-type PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-poison-grass-bug-type-2025-11-03/

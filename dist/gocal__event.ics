@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:enchanted-hollow-2025
-DTSTAMP:20251104T002942Z
+DTSTAMP:20251105T003037Z
 SUMMARY:[E] Enchanted Hollow
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /enchanted-hollow-2025/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:into-the-wild-2025
-DTSTAMP:20251104T002942Z
+DTSTAMP:20251105T003037Z
 SUMMARY:[E] Into the Wild
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /into-the-wild-2025/
@@ -45,13 +45,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:high-voltage-2025
-DTSTAMP:20251104T002942Z
+DTSTAMP:20251105T003037Z
 SUMMARY:[E] High Voltage
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /high-voltage-2025/
 URL:https://leekduck.com/events/high-voltage-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-11-18-high-voltage-2025/high-voltage-2025.jpg
 DTSTART;VALUE=DATE:20251118
 DTEND;VALUE=DATE:20251122
 BEGIN:VALARM
@@ -62,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dynamax-max-battle-weekend-2025-1
-DTSTAMP:20251104T002942Z
+DTSTAMP:20251105T003037Z
 SUMMARY:[E] Dynamax Max Battle Weekend
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /dynamax-max-battle-weekend-2025-1/
@@ -79,7 +79,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:final-justice-2025
-DTSTAMP:20251104T002942Z
+DTSTAMP:20251105T003037Z
 SUMMARY:[E] Final Justice
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /final-justice-2025/
@@ -96,7 +96,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dynamax-max-battle-weekend-2025-2
-DTSTAMP:20251104T002942Z
+DTSTAMP:20251105T003037Z
 SUMMARY:[E] Dynamax Max Battle Weekend
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /dynamax-max-battle-weekend-2025-2/
@@ -113,7 +113,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:trade-days-tales-of-transformation
-DTSTAMP:20251104T002942Z
+DTSTAMP:20251105T003037Z
 SUMMARY:[E] Trade Days | Tales of Transformation
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /trade-days-tales-of-transformation/
