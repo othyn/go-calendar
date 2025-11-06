@@ -10,20 +10,19 @@ X-WR-CALDESC:All Pokémon GO Max Battles events\, in your local time\, auto
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:gigantamax-garbodor-max-battle-day
-DTSTAMP:20251102T003215Z
-SUMMARY:[MB] Gigantamax Garbodor Max Battle Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /gigantamax-garbodor-max-battle-day/
-URL:https://leekduck.com/events/gigantamax-garbodor-max-battle-day/
+UID:dynamax-eevee-max-battle-weekend
+DTSTAMP:20251106T003007Z
+SUMMARY:[MB] Dynamax Eevee Max Battle Weekend
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /dynamax-eevee-max-battle-weekend/
+URL:https://leekduck.com/events/dynamax-eevee-max-battle-weekend/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-11-01-gigantamax-garbodor-max-battle-day/gigantamax-garbodor-max-
- battle-day.jpg
-DTSTART:20251101T140000
-DTEND:20251101T170000
+ 025/2025-11-21-dynamax-eevee-max-battle-weekend/dynamax-eevee-weekend.jpg
+DTSTART;VALUE=DATE:20251121
+DTEND;VALUE=DATE:20251124
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[MB] Gigantamax Garbodor Max Battle Day
+DESCRIPTION:[MB] Dynamax Eevee Max Battle Weekend
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
