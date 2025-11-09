@@ -10,21 +10,20 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-poison-grass-bug-type-2025-11-03
-DTSTAMP:20251106T003007Z
-SUMMARY:[PS] Poison-type\, Grass-type\, and Bug-type PokéStop Showcases
+UID:pokemon-showcase-tarountula-spidops-2025-11-08
+DTSTAMP:20251109T003218Z
+SUMMARY:[PS] Tarountula and Spidops PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-poison-grass-bug-type-2025-11-03/
-URL:https://leekduck.com/events/pokemon-showcase-poison-grass-bug-type-2025
- -11-03/
+ /pokemon-showcase-tarountula-spidops-2025-11-08/
+URL:https://leekduck.com/events/pokemon-showcase-tarountula-spidops-2025-11
+ -08/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20251103
-DTEND;VALUE=DATE:20251105
+DTSTART;VALUE=DATE:20251108
+DTEND;VALUE=DATE:20251109
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Poison-type\, Grass-type\, and Bug-type PokéStop Showcase
- s
+DESCRIPTION:[PS] Tarountula and Spidops PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
