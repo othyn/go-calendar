@@ -10,26 +10,8 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-tarountula-spidops-2025-11-08
-DTSTAMP:20251110T003150Z
-SUMMARY:[PS] Tarountula and Spidops PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-tarountula-spidops-2025-11-08/
-URL:https://leekduck.com/events/pokemon-showcase-tarountula-spidops-2025-11
- -08/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
- es-default.jpg
-DTSTART;VALUE=DATE:20251108
-DTEND;VALUE=DATE:20251109
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PS] Tarountula and Spidops PokéStop Showcases
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-showcase-dark-fairy-type-2025-11-10
-DTSTAMP:20251110T003150Z
+DTSTAMP:20251111T003056Z
 SUMMARY:[PS] Dark-type and Fairy-type PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-dark-fairy-type-2025-11-10/

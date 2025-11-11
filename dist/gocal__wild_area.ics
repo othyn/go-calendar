@@ -10,26 +10,8 @@ X-WR-CALDESC:All Pokémon GO Wild Area events\, in your local time\, auto-u
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-go-wild-area-2025-nagasaki-japan
-DTSTAMP:20251110T003150Z
-SUMMARY:[WA] Pokémon GO Wild Area: Nagasaki
-DESCRIPTION:Starts at 00:00\, ends at 08:00.\n\nhttps://leekduck.com/events
- /pokemon-go-wild-area-2025-nagasaki-japan/
-URL:https://leekduck.com/events/pokemon-go-wild-area-2025-nagasaki-japan/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-11-07-pokemon-go-wild-area-2025-nagasaki-japan/wild-area-2025-nag
- asaki-key-art.jpg
-DTSTART;VALUE=DATE:20251107
-DTEND;VALUE=DATE:20251109
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[WA] Pokémon GO Wild Area: Nagasaki
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-go-wild-area-2025-global
-DTSTAMP:20251110T003150Z
+DTSTAMP:20251111T003056Z
 SUMMARY:[WA] Pokémon GO Wild Area: Global
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-wild-area-2025-global/
