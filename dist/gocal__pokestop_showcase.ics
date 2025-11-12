@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-dark-fairy-type-2025-11-10
-DTSTAMP:20251111T003056Z
+DTSTAMP:20251112T003024Z
 SUMMARY:[PS] Dark-type and Fairy-type PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-dark-fairy-type-2025-11-10/
