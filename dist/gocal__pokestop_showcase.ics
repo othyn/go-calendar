@@ -10,26 +10,8 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-dark-fairy-type-2025-11-10
-DTSTAMP:20251115T003019Z
-SUMMARY:[PS] Dark-type and Fairy-type PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-dark-fairy-type-2025-11-10/
-URL:https://leekduck.com/events/pokemon-showcase-dark-fairy-type-2025-11-10
- /
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
- es-default.jpg
-DTSTART;VALUE=DATE:20251110
-DTEND;VALUE=DATE:20251114
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PS] Dark-type and Fairy-type PokéStop Showcases
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-showcase-cresselia-darkrai-grimmsnarl-2025-11-16
-DTSTAMP:20251115T003019Z
+DTSTAMP:20251116T003250Z
 SUMMARY:[PS] Cresselia\, Darkrai\, and Grimmsnarl PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-cresselia-darkrai-grimmsnarl-2025-11-16/
