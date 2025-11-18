@@ -10,20 +10,20 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-cresselia-darkrai-grimmsnarl-2025-11-16
-DTSTAMP:20251117T003137Z
-SUMMARY:[PS] Cresselia\, Darkrai\, and Grimmsnarl PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-cresselia-darkrai-grimmsnarl-2025-11-16/
-URL:https://leekduck.com/events/pokemon-showcase-cresselia-darkrai-grimmsna
- rl-2025-11-16/
+UID:pokemon-showcase-dedenne-morpeko-togedemaru-2025-11-17
+DTSTAMP:20251118T003010Z
+SUMMARY:[PS] Dedenne\, Morpeko\, and Togedemaru PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-dedenne-morpeko-togedemaru-2025-11-17/
+URL:https://leekduck.com/events/pokemon-showcase-dedenne-morpeko-togedemaru
+ -2025-11-17/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20251115
-DTEND;VALUE=DATE:20251116
+DTSTART;VALUE=DATE:20251117
+DTEND;VALUE=DATE:20251119
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Cresselia\, Darkrai\, and Grimmsnarl PokéStop Showcases
+DESCRIPTION:[PS] Dedenne\, Morpeko\, and Togedemaru PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

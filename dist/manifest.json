@@ -58,9 +58,5 @@
     "season": {
         "name": "Season",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__season.ics"
-    },
-    "wild_area": {
-        "name": "Wild Area",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__wild_area.ics"
     }
 }
