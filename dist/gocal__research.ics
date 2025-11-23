@@ -10,20 +10,25 @@ X-WR-CALDESC:All Pokémon GO Research events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-concierge-bonus-timed-research
-DTSTAMP:20250915T003026Z
-SUMMARY:[R] Pokémon Concierge Bonus Timed Research
-DESCRIPTION:Starts at 00:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-concierge-bonus-timed-research/
-URL:https://leekduck.com/events/pokemon-concierge-bonus-timed-research/
+UID:pokemon-latin-america-international-championships-2026-timed-research-t
+ witch-drops
+DTSTAMP:20251123T003453Z
+SUMMARY:[R] Twitch Drops for 2026 Pokémon Latin America International Cham
+ pionships
+DESCRIPTION:Starts at 11:30\, ends at 08:00.\n\nhttps://leekduck.com/events
+ /pokemon-latin-america-international-championships-2026-timed-research-twi
+ tch-drops/
+URL:https://leekduck.com/events/pokemon-latin-america-international-champio
+ nships-2026-timed-research-twitch-drops/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-09-09-pokemon-concierge-bonus-timed-research/swim-ring-psyduck-pr
- omo.jpg
-DTSTART;VALUE=DATE:20250909
-DTEND;VALUE=DATE:20250914
+ 025/2025-11-21-pokemon-latin-america-international-championships-2026-time
+ d-research-twitch-drops/laic-2026-stream-viewership-rewards.webp
+DTSTART;VALUE=DATE:20251121
+DTEND;VALUE=DATE:20251124
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[R] Pokémon Concierge Bonus Timed Research
+DESCRIPTION:[R] Twitch Drops for 2026 Pokémon Latin America International 
+ Championships
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
