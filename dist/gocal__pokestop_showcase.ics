@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-eevee-vaporeon-jolteon-flareon
-DTSTAMP:20251123T003453Z
+DTSTAMP:20251124T003245Z
 SUMMARY:[PS] Eevee\, Vaporeon\, Jolteon\, and Flareon PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-eevee-vaporeon-jolteon-flareon/
