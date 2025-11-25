@@ -10,21 +10,19 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-eevee-vaporeon-jolteon-flareon
-DTSTAMP:20251124T003245Z
-SUMMARY:[PS] Eevee\, Vaporeon\, Jolteon\, and Flareon PokéStop Showcases
+UID:pokemon-showcase-fighting-type
+DTSTAMP:20251125T002854Z
+SUMMARY:[PS] Fighting-type PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-eevee-vaporeon-jolteon-flareon/
-URL:https://leekduck.com/events/pokemon-showcase-eevee-vaporeon-jolteon-fla
- reon/
+ /pokemon-showcase-fighting-type/
+URL:https://leekduck.com/events/pokemon-showcase-fighting-type/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20251122
-DTEND;VALUE=DATE:20251123
+DTSTART;VALUE=DATE:20251124
+DTEND;VALUE=DATE:20251126
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Eevee\, Vaporeon\, Jolteon\, and Flareon PokéStop Showcas
- es
+DESCRIPTION:[PS] Fighting-type PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
