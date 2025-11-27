@@ -10,19 +10,87 @@ X-WR-CALDESC:All Pokémon GO Pokémon Spotlight Hour events\, in your local
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemonspotlighthour2025-11-25
-DTSTAMP:20251126T003049Z
-SUMMARY:[PSH] Scraggy Spotlight Hour
+UID:pokemonspotlighthour2025-12-02
+DTSTAMP:20251127T003019Z
+SUMMARY:[PSH] Cranidos Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2025-11-25/
-URL:https://leekduck.com/events/pokemonspotlighthour2025-11-25/
+ /pokemonspotlighthour2025-12-02/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-12-02/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
  hour.jpg
-DTSTART:20251125T180000
-DTEND:20251125T190000
+DTSTART:20251202T180000
+DTEND:20251202T190000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PSH] Scraggy Spotlight Hour
+DESCRIPTION:[PSH] Cranidos Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2025-12-09
+DTSTAMP:20251127T003019Z
+SUMMARY:[PSH] Shieldon Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2025-12-09/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-12-09/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART:20251209T180000
+DTEND:20251209T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Shieldon Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2025-12-16
+DTSTAMP:20251127T003019Z
+SUMMARY:[PSH] Mienfoo Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2025-12-16/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-12-16/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART:20251216T180000
+DTEND:20251216T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Mienfoo Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2025-12-23
+DTSTAMP:20251127T003019Z
+SUMMARY:[PSH] Spheal Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2025-12-23/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-12-23/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART:20251223T180000
+DTEND:20251223T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Spheal Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2025-12-30
+DTSTAMP:20251127T003019Z
+SUMMARY:[PSH] Delibird Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2025-12-30/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-12-30/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART:20251230T180000
+DTEND:20251230T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PSH] Delibird Spotlight Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

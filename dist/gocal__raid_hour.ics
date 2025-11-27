@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:raidhour20251126
-DTSTAMP:20251126T003049Z
+DTSTAMP:20251127T003019Z
 SUMMARY:[RH] Cobalion\, Terrakion\, and Virizion Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20251126/
@@ -22,6 +22,86 @@ DTEND:20251126T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RH] Cobalion\, Terrakion\, and Virizion Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20251203
+DTSTAMP:20251127T003019Z
+SUMMARY:[RH] Cobalion\, Terrakion\, and Virizion Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20251203/
+URL:https://leekduck.com/events/raidhour20251203/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20251203T180000
+DTEND:20251203T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Cobalion\, Terrakion\, and Virizion Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20251210
+DTSTAMP:20251127T003019Z
+SUMMARY:[RH] Kyurem Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20251210/
+URL:https://leekduck.com/events/raidhour20251210/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20251210T180000
+DTEND:20251210T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Kyurem Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20251217
+DTSTAMP:20251127T003019Z
+SUMMARY:[RH] Reshiram Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20251217/
+URL:https://leekduck.com/events/raidhour20251217/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20251217T180000
+DTEND:20251217T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Reshiram Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20251224
+DTSTAMP:20251127T003019Z
+SUMMARY:[RH] Zekrom Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20251224/
+URL:https://leekduck.com/events/raidhour20251224/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20251224T180000
+DTEND:20251224T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Zekrom Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20251231
+DTSTAMP:20251127T003019Z
+SUMMARY:[RH] Blacephalon Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20251231/
+URL:https://leekduck.com/events/raidhour20251231/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20251231T180000
+DTEND:20251231T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Blacephalon Raid Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

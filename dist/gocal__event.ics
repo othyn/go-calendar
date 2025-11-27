@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:final-justice-2025
-DTSTAMP:20251126T003049Z
+DTSTAMP:20251127T003019Z
 SUMMARY:[E] Final Justice
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /final-justice-2025/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:trade-days-tales-of-transformation
-DTSTAMP:20251126T003049Z
+DTSTAMP:20251127T003019Z
 SUMMARY:[E] Trade Days | Tales of Transformation
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /trade-days-tales-of-transformation/
@@ -44,8 +44,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:go-battle-week-precious-paths
+DTSTAMP:20251127T003019Z
+SUMMARY:[E] GO Battle Week: Precious Paths
+DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
+ /go-battle-week-precious-paths/
+URL:https://leekduck.com/events/go-battle-week-precious-paths/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
+ -season-25-precious-paths.jpg
+DTSTART;VALUE=DATE:20251204
+DTEND;VALUE=DATE:20251208
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] GO Battle Week: Precious Paths
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:journey-to-paldea
-DTSTAMP:20251126T003049Z
+DTSTAMP:20251127T003019Z
 SUMMARY:[E] Journey to Paldea
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /journey-to-paldea/
@@ -61,8 +78,93 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:well-armed-2025
+DTSTAMP:20251127T003019Z
+SUMMARY:[E] Well Armed
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /well-armed-2025/
+URL:https://leekduck.com/events/well-armed-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20251211
+DTEND;VALUE=DATE:20251216
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Well Armed
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:winter-holiday-part-1-2025
+DTSTAMP:20251127T003019Z
+SUMMARY:[E] Winter Holiday Part 1
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /winter-holiday-part-1-2025/
+URL:https://leekduck.com/events/winter-holiday-part-1-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20251218
+DTEND;VALUE=DATE:20251224
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Winter Holiday Part 1
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:winter-weekend-2025
+DTSTAMP:20251127T003019Z
+SUMMARY:[E] Winter Weekend
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /winter-weekend-2025/
+URL:https://leekduck.com/events/winter-weekend-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20251227
+DTEND;VALUE=DATE:20251228
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Winter Weekend
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:winter-holiday-part-2-2025
+DTSTAMP:20251127T003019Z
+SUMMARY:[E] Winter Holiday Part 2
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /winter-holiday-part-2-2025/
+URL:https://leekduck.com/events/winter-holiday-part-2-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20251224
+DTEND;VALUE=DATE:20251229
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Winter Holiday Part 2
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:new-years-2026
+DTSTAMP:20251127T003019Z
+SUMMARY:[E] New Year's 2026
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /new-years-2026/
+URL:https://leekduck.com/events/new-years-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260104
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] New Year's 2026
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:catch-mastery-day-february-2026
-DTSTAMP:20251126T003049Z
+DTSTAMP:20251127T003019Z
 SUMMARY:[E] Catch Mastery Day
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /catch-mastery-day-february-2026/
