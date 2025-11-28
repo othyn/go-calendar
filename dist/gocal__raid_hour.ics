@@ -10,24 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Hour events\, in your local time\, auto-u
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:raidhour20251126
-DTSTAMP:20251127T003019Z
-SUMMARY:[RH] Cobalion\, Terrakion\, and Virizion Raid Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /raidhour20251126/
-URL:https://leekduck.com/events/raidhour20251126/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
-DTSTART:20251126T180000
-DTEND:20251126T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RH] Cobalion\, Terrakion\, and Virizion Raid Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raidhour20251203
-DTSTAMP:20251127T003019Z
+DTSTAMP:20251128T002922Z
 SUMMARY:[RH] Cobalion\, Terrakion\, and Virizion Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20251203/
@@ -43,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20251210
-DTSTAMP:20251127T003019Z
+DTSTAMP:20251128T002922Z
 SUMMARY:[RH] Kyurem Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20251210/
@@ -59,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20251217
-DTSTAMP:20251127T003019Z
+DTSTAMP:20251128T002922Z
 SUMMARY:[RH] Reshiram Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20251217/
@@ -75,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20251224
-DTSTAMP:20251127T003019Z
+DTSTAMP:20251128T002922Z
 SUMMARY:[RH] Zekrom Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20251224/
@@ -91,7 +75,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20251231
-DTSTAMP:20251127T003019Z
+DTSTAMP:20251128T002922Z
 SUMMARY:[RH] Blacephalon Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20251231/

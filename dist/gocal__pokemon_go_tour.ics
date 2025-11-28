@@ -10,20 +10,94 @@ X-WR-CALDESC:All Pokémon GO Pokémon GO Tour events\, in your local time\,
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-go-tour-unova-global-2025
-DTSTAMP:20250303T002803Z
-SUMMARY:[PGT] Pokémon GO Tour: Unova - Global
-DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
- /pokemon-go-tour-unova-global-2025/
-URL:https://leekduck.com/events/pokemon-go-tour-unova-global-2025/
+UID:pokemon-go-tour-kalos-tainan-2026
+DTSTAMP:20251128T002922Z
+SUMMARY:[PGT] Pokémon GO Tour: Kalos - Tainan 2026
+DESCRIPTION:Starts at 01:00\, ends at 09:00.\n\nhttps://leekduck.com/events
+ /pokemon-go-tour-kalos-tainan-2026/
+URL:https://leekduck.com/events/pokemon-go-tour-kalos-tainan-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-03-01-pokemon-go-tour-unova-global-2025/GOTourUnova2025-Global.jp
- g
-DTSTART;VALUE=DATE:20250301
-DTEND;VALUE=DATE:20250302
+ 026/2026-02-20-pokemon-go-tour-kalos-tainan-2026/pokemon-go-tour-kalos-tai
+ nan-2026.jpg
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260222
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PGT] Pokémon GO Tour: Unova - Global
+DESCRIPTION:[PGT] Pokémon GO Tour: Kalos - Tainan 2026
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-night-pokemon-go-tour-kalos-tainan-2026
+DTSTAMP:20251128T002922Z
+SUMMARY:[PGT] Mega Night at Pokémon GO Tour: Kalos - Tainan 2026
+DESCRIPTION:Starts at 09:00\, ends at 11:00.\n\nhttps://leekduck.com/events
+ /mega-night-pokemon-go-tour-kalos-tainan-2026/
+URL:https://leekduck.com/events/mega-night-pokemon-go-tour-kalos-tainan-202
+ 6/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-02-20-mega-night-pokemon-go-tour-kalos-tainan-2026/mega-night-pok
+ emon-go-tour-kalos-tainan-2026.jpg
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260222
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PGT] Mega Night at Pokémon GO Tour: Kalos - Tainan 2026
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-go-tour-kalos-los-angeles-2026
+DTSTAMP:20251128T002922Z
+SUMMARY:[PGT] Pokémon GO Tour: Kalos - Los Angeles 2026
+DESCRIPTION:Starts at 17:00\, ends at 01:00.\n\nhttps://leekduck.com/events
+ /pokemon-go-tour-kalos-los-angeles-2026/
+URL:https://leekduck.com/events/pokemon-go-tour-kalos-los-angeles-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-02-20-pokemon-go-tour-kalos-los-angeles-2026/pokemon-go-tour-kalo
+ s-los-angeles-2026.jpg
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260223
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PGT] Pokémon GO Tour: Kalos - Los Angeles 2026
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-night-pokemon-go-tour-kalos-los-angeles-2026
+DTSTAMP:20251128T002922Z
+SUMMARY:[PGT] Mega Night at Pokémon GO Tour: Kalos - Los Angeles 2026
+DESCRIPTION:Starts at 02:00\, ends at 04:00.\n\nhttps://leekduck.com/events
+ /mega-night-pokemon-go-tour-kalos-los-angeles-2026/
+URL:https://leekduck.com/events/mega-night-pokemon-go-tour-kalos-los-angele
+ s-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-02-20-mega-night-pokemon-go-tour-kalos-los-angeles-2026/mega-nigh
+ t-pokemon-go-tour-kalos-los-angeles-2026.jpg
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260223
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PGT] Mega Night at Pokémon GO Tour: Kalos - Los Angeles 2026
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-go-tour-kalos-global-2026
+DTSTAMP:20251128T002922Z
+SUMMARY:[PGT] Pokémon GO Tour: Kalos - Global 2026
+DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
+ /pokemon-go-tour-kalos-global-2026/
+URL:https://leekduck.com/events/pokemon-go-tour-kalos-global-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-02-28-pokemon-go-tour-kalos-global-2026/pokemon-go-tour-kalos-glo
+ bal-2026.jpg
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260301
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PGT] Pokémon GO Tour: Kalos - Global 2026
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
