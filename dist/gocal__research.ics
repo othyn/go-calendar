@@ -10,25 +10,19 @@ X-WR-CALDESC:All Pokémon GO Research events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-latin-america-international-championships-2026-timed-research-t
- witch-drops
-DTSTAMP:20251124T003245Z
-SUMMARY:[R] Twitch Drops for 2026 Pokémon Latin America International Cham
- pionships
-DESCRIPTION:Starts at 11:30\, ends at 08:00.\n\nhttps://leekduck.com/events
- /pokemon-latin-america-international-championships-2026-timed-research-twi
- tch-drops/
-URL:https://leekduck.com/events/pokemon-latin-america-international-champio
- nships-2026-timed-research-twitch-drops/
+UID:masterwork-research-a-precious-catch
+DTSTAMP:20251202T003051Z
+SUMMARY:[R] Masterwork Research: A Precious Catch
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /masterwork-research-a-precious-catch/
+URL:https://leekduck.com/events/masterwork-research-a-precious-catch/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-11-21-pokemon-latin-america-international-championships-2026-time
- d-research-twitch-drops/laic-2026-stream-viewership-rewards.webp
-DTSTART;VALUE=DATE:20251121
-DTEND;VALUE=DATE:20251124
+ 025/2025-12-02-masterwork-research-a-precious-catch/masterball.jpg
+DTSTART;VALUE=DATE:20251202
+DTEND;VALUE=DATE:20260303
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[R] Twitch Drops for 2026 Pokémon Latin America International 
- Championships
+DESCRIPTION:[R] Masterwork Research: A Precious Catch
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

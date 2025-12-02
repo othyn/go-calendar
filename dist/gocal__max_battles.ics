@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Max Battles events\, in your local time\, auto
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:dynamax-lugia-max-battle-weekend
-DTSTAMP:20251201T003758Z
-SUMMARY:[MB] Dynamax Lugia Max Battle Weekend
-DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /dynamax-lugia-max-battle-weekend/
-URL:https://leekduck.com/events/dynamax-lugia-max-battle-weekend/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-11-29-dynamax-lugia-max-battle-weekend/dynamax-lugia.jpg
-DTSTART;VALUE=DATE:20251129
-DTEND;VALUE=DATE:20251130
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[MB] Dynamax Lugia Max Battle Weekend
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:max-battle-day-december-2025
-DTSTAMP:20251201T003758Z
+DTSTAMP:20251202T003051Z
 SUMMARY:[MB] Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-december-2025/
@@ -45,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-weekend-february-2026
-DTSTAMP:20251201T003758Z
+DTSTAMP:20251202T003051Z
 SUMMARY:[MB] Max Battle Weekend
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /max-battle-weekend-february-2026/
@@ -62,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-february-2026
-DTSTAMP:20251201T003758Z
+DTSTAMP:20251202T003051Z
 SUMMARY:[MB] Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-february-2026/

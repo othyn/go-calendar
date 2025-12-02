@@ -10,42 +10,8 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:final-justice-2025
-DTSTAMP:20251201T003758Z
-SUMMARY:[E] Final Justice
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /final-justice-2025/
-URL:https://leekduck.com/events/final-justice-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-11-25-final-justice-2025/final-justice-2025.jpg
-DTSTART;VALUE=DATE:20251125
-DTEND;VALUE=DATE:20251130
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Final Justice
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:trade-days-tales-of-transformation
-DTSTAMP:20251201T003758Z
-SUMMARY:[E] Trade Days | Tales of Transformation
-DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
- /trade-days-tales-of-transformation/
-URL:https://leekduck.com/events/trade-days-tales-of-transformation/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-09-07-trade-days-tales-of-transformation/trade-days.jpg
-DTSTART;VALUE=DATE:20250907
-DTEND;VALUE=DATE:20251130
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Trade Days | Tales of Transformation
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:go-battle-week-precious-paths
-DTSTAMP:20251201T003758Z
+DTSTAMP:20251202T003051Z
 SUMMARY:[E] GO Battle Week: Precious Paths
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-week-precious-paths/
@@ -62,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:journey-to-paldea
-DTSTAMP:20251201T003758Z
+DTSTAMP:20251202T003051Z
 SUMMARY:[E] Journey to Paldea
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /journey-to-paldea/
@@ -79,13 +45,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:well-armed-2025
-DTSTAMP:20251201T003758Z
+DTSTAMP:20251202T003051Z
 SUMMARY:[E] Well Armed
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /well-armed-2025/
 URL:https://leekduck.com/events/well-armed-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-12-11-well-armed-2025/well-armed.jpg?v2
 DTSTART;VALUE=DATE:20251211
 DTEND;VALUE=DATE:20251216
 BEGIN:VALARM
@@ -96,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:winter-holiday-part-1-2025
-DTSTAMP:20251201T003758Z
+DTSTAMP:20251202T003051Z
 SUMMARY:[E] Winter Holiday Part 1
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /winter-holiday-part-1-2025/
@@ -113,7 +79,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:winter-weekend-2025
-DTSTAMP:20251201T003758Z
+DTSTAMP:20251202T003051Z
 SUMMARY:[E] Winter Weekend
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /winter-weekend-2025/
@@ -130,7 +96,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:winter-holiday-part-2-2025
-DTSTAMP:20251201T003758Z
+DTSTAMP:20251202T003051Z
 SUMMARY:[E] Winter Holiday Part 2
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /winter-holiday-part-2-2025/
@@ -147,7 +113,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:new-years-2026
-DTSTAMP:20251201T003758Z
+DTSTAMP:20251202T003051Z
 SUMMARY:[E] New Year's 2026
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /new-years-2026/
@@ -164,7 +130,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:catch-mastery-day-february-2026
-DTSTAMP:20251201T003758Z
+DTSTAMP:20251202T003051Z
 SUMMARY:[E] Catch Mastery Day
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /catch-mastery-day-february-2026/
