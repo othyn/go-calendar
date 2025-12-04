@@ -10,27 +10,9 @@ X-WR-CALDESC:All Pokémon GO Raid Battles events\, in your local time\, aut
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:shadow-latios-in-shadow-raids-november-december-2025
-DTSTAMP:20251203T003028Z
-SUMMARY:[RB] Shadow Latios in Shadow Raids
-DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
- /shadow-latios-in-shadow-raids-november-december-2025/
-URL:https://leekduck.com/events/shadow-latios-in-shadow-raids-november-dece
- mber-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-DTSTART;VALUE=DATE:20251102
-DTEND;VALUE=DATE:20251202
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Shadow Latios in Shadow Raids
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:cobalion-terrakion-virizion-in-5-star-raid-battles-november-december-20
  25
-DTSTAMP:20251203T003028Z
+DTSTAMP:20251204T003118Z
 SUMMARY:[RB] Cobalion\, Terrakion\, and Virizion in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /cobalion-terrakion-virizion-in-5-star-raid-battles-november-december-2025
@@ -49,7 +31,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-aerodactyl-medicham-garchomp-in-mega-raids-november-december-2025
-DTSTAMP:20251203T003028Z
+DTSTAMP:20251204T003118Z
 SUMMARY:[RB] Mega Aerodactyl\, Mega Medicham\, and Mega Garchomp in Mega Ra
  ids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
@@ -68,7 +50,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:kyurem-in-5-star-raid-battles-december-2025
-DTSTAMP:20251203T003028Z
+DTSTAMP:20251204T003118Z
 SUMMARY:[RB] Kyurem in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /kyurem-in-5-star-raid-battles-december-2025/
@@ -85,7 +67,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-gyarados-in-mega-raids-december-2025
-DTSTAMP:20251203T003028Z
+DTSTAMP:20251204T003118Z
 SUMMARY:[RB] Mega Gyarados in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-gyarados-in-mega-raids-december-2025/
@@ -101,7 +83,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-abomasnow-in-mega-raids-december-2025
-DTSTAMP:20251203T003028Z
+DTSTAMP:20251204T003118Z
 SUMMARY:[RB] Mega Abomasnow in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-abomasnow-in-mega-raids-december-2025/
@@ -117,7 +99,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:reshiram-in-5-star-raid-battles-december-2025
-DTSTAMP:20251203T003028Z
+DTSTAMP:20251204T003118Z
 SUMMARY:[RB] Reshiram in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /reshiram-in-5-star-raid-battles-december-2025/
@@ -134,7 +116,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-glalie-in-mega-raids-december-2025
-DTSTAMP:20251203T003028Z
+DTSTAMP:20251204T003118Z
 SUMMARY:[RB] Mega Glalie in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-glalie-in-mega-raids-december-2025/
@@ -150,7 +132,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:zekrom-in-5-star-raid-battles-december-2025
-DTSTAMP:20251203T003028Z
+DTSTAMP:20251204T003118Z
 SUMMARY:[RB] Zekrom in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /zekrom-in-5-star-raid-battles-december-2025/
@@ -167,7 +149,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-heatran-in-shadow-raids-december-january-2026
-DTSTAMP:20251203T003028Z
+DTSTAMP:20251204T003118Z
 SUMMARY:[RB] Shadow Heatran in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-heatran-in-shadow-raids-december-january-2026/
