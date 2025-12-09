@@ -10,8 +10,25 @@ X-WR-CALDESC:All Pokémon GO GO Pass events\, in your local time\, auto-upd
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
+UID:go-pass-winter-holiday-2025
+DTSTAMP:20251209T003136Z
+SUMMARY:[GP] GO Pass: Winter Holiday 2025
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /go-pass-winter-holiday-2025/
+URL:https://leekduck.com/events/go-pass-winter-holiday-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-12-18-go-pass-winter-holiday-2025/snom-beanie.jpg
+DTSTART;VALUE=DATE:20251218
+DTEND;VALUE=DATE:20251229
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GP] GO Pass: Winter Holiday 2025
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:go-pass-december-2025
-DTSTAMP:20251208T003207Z
+DTSTAMP:20251209T003136Z
 SUMMARY:[GP] GO Pass: December
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /go-pass-december-2025/

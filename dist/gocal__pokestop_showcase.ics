@@ -10,28 +10,8 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-kommo-o-feraligatr-corviknight-vanilluxe
-DTSTAMP:20251208T003207Z
-SUMMARY:[PS] Kommo-o\, Feraligatr\, Corviknight\, and Vanilluxe PokéStop S
- howcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-kommo-o-feraligatr-corviknight-vanilluxe/
-URL:https://leekduck.com/events/pokemon-showcase-kommo-o-feraligatr-corvikn
- ight-vanilluxe/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
- es-default.jpg
-DTSTART;VALUE=DATE:20251206
-DTEND;VALUE=DATE:20251207
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PS] Kommo-o\, Feraligatr\, Corviknight\, and Vanilluxe PokéSt
- op Showcases
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-showcase-nacli-garganacl-tyranitar-salamence
-DTSTAMP:20251208T003207Z
+DTSTAMP:20251209T003136Z
 SUMMARY:[PS] Nacli\, Garganacl\, Tyranitar\, and Salamence PokéStop Showca
  ses
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
