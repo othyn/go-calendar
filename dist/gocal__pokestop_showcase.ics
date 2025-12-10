@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-nacli-garganacl-tyranitar-salamence
-DTSTAMP:20251209T003136Z
+DTSTAMP:20251210T003247Z
 SUMMARY:[PS] Nacli\, Garganacl\, Tyranitar\, and Salamence PokéStop Showca
  ses
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
