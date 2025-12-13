@@ -10,22 +10,20 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-nacli-garganacl-tyranitar-salamence
-DTSTAMP:20251211T003156Z
-SUMMARY:[PS] Nacli\, Garganacl\, Tyranitar\, and Salamence PokéStop Showca
- ses
+UID:pokemon-showcase-hitmonchan-hitmonlee-snorlax
+DTSTAMP:20251213T003019Z
+SUMMARY:[PS] Hitmonchan\, Hitmonlee\, and Snorlax PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-nacli-garganacl-tyranitar-salamence/
-URL:https://leekduck.com/events/pokemon-showcase-nacli-garganacl-tyranitar-
- salamence/
+ /pokemon-showcase-hitmonchan-hitmonlee-snorlax/
+URL:https://leekduck.com/events/pokemon-showcase-hitmonchan-hitmonlee-snorl
+ ax/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20251208
-DTEND;VALUE=DATE:20251210
+DTSTART;VALUE=DATE:20251213
+DTEND;VALUE=DATE:20251214
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Nacli\, Garganacl\, Tyranitar\, and Salamence PokéStop Sh
- owcases
+DESCRIPTION:[PS] Hitmonchan\, Hitmonlee\, and Snorlax PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

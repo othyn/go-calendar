@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-go-city-safari-sydney-2025
-DTSTAMP:20251212T003149Z
+DTSTAMP:20251213T003019Z
 SUMMARY:[CS] Sydney\, Australia - Pokémon GO City Safari
 DESCRIPTION:Starts at 23:00\, ends at 07:00.\n\nhttps://leekduck.com/events
  /pokemon-go-city-safari-sydney-2025/
@@ -29,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-city-safari-buenos-aires-2025
-DTSTAMP:20251212T003149Z
+DTSTAMP:20251213T003019Z
 SUMMARY:[CS] Buenos Aires\, Argentina - Pokémon GO City Safari
 DESCRIPTION:Starts at 13:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /pokemon-go-city-safari-buenos-aires-2025/
@@ -47,7 +47,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-city-safari-miami-2025
-DTSTAMP:20251212T003149Z
+DTSTAMP:20251213T003019Z
 SUMMARY:[CS] Miami\, USA - Pokémon GO City Safari
 DESCRIPTION:Starts at 15:00\, ends at 23:00.\n\nhttps://leekduck.com/events
  /pokemon-go-city-safari-miami-2025/
