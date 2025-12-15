@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-hitmonchan-hitmonlee-snorlax
-DTSTAMP:20251214T003452Z
+DTSTAMP:20251215T003426Z
 SUMMARY:[PS] Hitmonchan\, Hitmonlee\, and Snorlax PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-hitmonchan-hitmonlee-snorlax/
@@ -24,6 +24,23 @@ DTEND;VALUE=DATE:20251214
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[PS] Hitmonchan\, Hitmonlee\, and Snorlax PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-clobbopus-grapploct
+DTSTAMP:20251215T003426Z
+SUMMARY:[PS] Clobbopus and Grapploct PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-clobbopus-grapploct/
+URL:https://leekduck.com/events/pokemon-showcase-clobbopus-grapploct/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
+ es-default.jpg
+DTSTART;VALUE=DATE:20251215
+DTEND;VALUE=DATE:20251217
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PS] Clobbopus and Grapploct PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
