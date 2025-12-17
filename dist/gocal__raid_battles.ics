@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:mega-abomasnow-in-mega-raids-december-2025
-DTSTAMP:20251216T003236Z
+DTSTAMP:20251217T003128Z
 SUMMARY:[RB] Mega Abomasnow in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-abomasnow-in-mega-raids-december-2025/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:reshiram-in-5-star-raid-battles-december-2025
-DTSTAMP:20251216T003236Z
+DTSTAMP:20251217T003128Z
 SUMMARY:[RB] Reshiram in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /reshiram-in-5-star-raid-battles-december-2025/
@@ -44,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-glalie-in-mega-raids-december-2025
-DTSTAMP:20251216T003236Z
+DTSTAMP:20251217T003128Z
 SUMMARY:[RB] Mega Glalie in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-glalie-in-mega-raids-december-2025/
@@ -60,7 +60,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:zekrom-in-5-star-raid-battles-december-2025
-DTSTAMP:20251216T003236Z
+DTSTAMP:20251217T003128Z
 SUMMARY:[RB] Zekrom in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /zekrom-in-5-star-raid-battles-december-2025/
@@ -77,7 +77,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-heatran-in-shadow-raids-december-january-2026
-DTSTAMP:20251216T003236Z
+DTSTAMP:20251217T003128Z
 SUMMARY:[RB] Shadow Heatran in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-heatran-in-shadow-raids-december-january-2026/
