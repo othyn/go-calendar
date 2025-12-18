@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-clobbopus-grapploct
-DTSTAMP:20251217T003128Z
+DTSTAMP:20251218T002852Z
 SUMMARY:[PS] Clobbopus and Grapploct PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-clobbopus-grapploct/

@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:go-pass-winter-holiday-2025
-DTSTAMP:20251217T003128Z
+DTSTAMP:20251218T002852Z
 SUMMARY:[GP] GO Pass: Winter Holiday 2025
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /go-pass-winter-holiday-2025/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-pass-december-2025
-DTSTAMP:20251217T003128Z
+DTSTAMP:20251218T002852Z
 SUMMARY:[GP] GO Pass: December
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /go-pass-december-2025/
