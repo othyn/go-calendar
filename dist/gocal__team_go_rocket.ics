@@ -10,19 +10,19 @@ X-WR-CALDESC:All Pokémon GO Team GO Rocket events\, in your local time\, a
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:crown-clash-taken-over
-DTSTAMP:20250428T091306Z
-SUMMARY:[TGR] Crown Clash: Taken Over
-DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
- /crown-clash-taken-over/
-URL:https://leekduck.com/events/crown-clash-taken-over/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-05-14-crown-clash-taken-over/events-default-img.jpg
-DTSTART;VALUE=DATE:20250514
-DTEND;VALUE=DATE:20250518
+UID:precious-pals-taken-over-2026
+DTSTAMP:20251219T003222Z
+SUMMARY:[TGR] Precious Pals: Taken Over
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /precious-pals-taken-over-2026/
+URL:https://leekduck.com/events/precious-pals-taken-over-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20260123
+DTEND;VALUE=DATE:20260125
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[TGR] Crown Clash: Taken Over
+DESCRIPTION:[TGR] Precious Pals: Taken Over
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

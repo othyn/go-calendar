@@ -35,10 +35,6 @@
         "name": "Pokémon Spotlight Hour",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokemon_spotlight_hour.ics"
     },
-    "pokestop_showcase": {
-        "name": "PokéStop Showcase",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokestop_showcase.ics"
-    },
     "raid_battles": {
         "name": "Raid Battles",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__raid_battles.ics"
@@ -58,6 +54,10 @@
     "season": {
         "name": "Season",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__season.ics"
+    },
+    "team_go_rocket": {
+        "name": "Team GO Rocket",
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__team_go_rocket.ics"
     },
     "timed_research": {
         "name": "Timed Research",

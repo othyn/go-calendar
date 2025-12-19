@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:best-friends-forever-timed-research
-DTSTAMP:20251218T002852Z
+DTSTAMP:20251219T003222Z
 SUMMARY:[TR] Best Friends Forever Timed Research
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /best-friends-forever-timed-research/
