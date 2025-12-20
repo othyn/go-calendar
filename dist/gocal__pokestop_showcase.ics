@@ -10,19 +10,19 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-clobbopus-grapploct
-DTSTAMP:20251218T002852Z
-SUMMARY:[PS] Clobbopus and Grapploct PokéStop Showcases
+UID:pokemon-showcase-lunatone-solrock
+DTSTAMP:20251220T003022Z
+SUMMARY:[PS] Lunatone and Solrock PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-clobbopus-grapploct/
-URL:https://leekduck.com/events/pokemon-showcase-clobbopus-grapploct/
+ /pokemon-showcase-lunatone-solrock/
+URL:https://leekduck.com/events/pokemon-showcase-lunatone-solrock/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20251215
-DTEND;VALUE=DATE:20251217
+DTSTART;VALUE=DATE:20251220
+DTEND;VALUE=DATE:20251221
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Clobbopus and Grapploct PokéStop Showcases
+DESCRIPTION:[PS] Lunatone and Solrock PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

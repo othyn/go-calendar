@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:go-pass-winter-holiday-2025
-DTSTAMP:20251219T003222Z
+DTSTAMP:20251220T003022Z
 SUMMARY:[GP] GO Pass: Winter Holiday 2025
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /go-pass-winter-holiday-2025/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-pass-december-2025
-DTSTAMP:20251219T003222Z
+DTSTAMP:20251220T003022Z
 SUMMARY:[GP] GO Pass: December
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /go-pass-december-2025/
@@ -40,6 +40,23 @@ DTEND;VALUE=DATE:20260106
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[GP] GO Pass: December
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-pass-january-2026
+DTSTAMP:20251220T003022Z
+SUMMARY:[GP] GO Pass: January
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /go-pass-january-2026/
+URL:https://leekduck.com/events/go-pass-january-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-01-06-go-pass-january-2026/go-pass-january-2026.jpg
+DTSTART;VALUE=DATE:20260106
+DTEND;VALUE=DATE:20260203
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GP] GO Pass: January
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
