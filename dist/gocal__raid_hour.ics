@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:raidhour20251224
-DTSTAMP:20251222T003412Z
+DTSTAMP:20251223T003210Z
 SUMMARY:[RH] Zekrom Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20251224/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20251231
-DTSTAMP:20251222T003412Z
+DTSTAMP:20251223T003210Z
 SUMMARY:[RH] Blacephalon Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20251231/
@@ -43,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20260107
-DTSTAMP:20251222T003412Z
+DTSTAMP:20251223T003210Z
 SUMMARY:[RH] Genesect (Burn Drive)\, Genesect (Chill Drive) Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20260107/
@@ -59,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20260114
-DTSTAMP:20251222T003412Z
+DTSTAMP:20251223T003210Z
 SUMMARY:[RH] Genesect (Burn Drive)\, Genesect (Chill Drive) Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20260114/
@@ -75,7 +75,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20260121
-DTSTAMP:20251222T003412Z
+DTSTAMP:20251223T003210Z
 SUMMARY:[RH] Thundurus (Incarnate Forme) Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20260121/
@@ -91,7 +91,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20260128
-DTSTAMP:20251222T003412Z
+DTSTAMP:20251223T003210Z
 SUMMARY:[RH] Tornadus (Incarnate Forme) Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20260128/
