@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-sudowoodo-charjabug
-DTSTAMP:20251223T003210Z
+DTSTAMP:20251224T003230Z
 SUMMARY:[PS] Sudowoodo and Charjabug PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-sudowoodo-charjabug/
