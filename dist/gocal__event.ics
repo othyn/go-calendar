@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:winter-weekend-2025
-DTSTAMP:20251229T003550Z
-SUMMARY:[E] Winter Weekend
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /winter-weekend-2025/
-URL:https://leekduck.com/events/winter-weekend-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-12-27-winter-weekend-2025/winter-weekend-eevee.jpg
-DTSTART;VALUE=DATE:20251227
-DTEND;VALUE=DATE:20251228
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Winter Weekend
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:winter-holiday-part-2-2025
-DTSTAMP:20251229T003550Z
+DTSTAMP:20251230T003222Z
 SUMMARY:[E] Winter Holiday Part 2
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /winter-holiday-part-2-2025/
@@ -45,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:new-years-2026
-DTSTAMP:20251229T003550Z
+DTSTAMP:20251230T003222Z
 SUMMARY:[E] New Year's 2026
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /new-years-2026/
@@ -62,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pinch-perfect-2026
-DTSTAMP:20251229T003550Z
+DTSTAMP:20251230T003222Z
 SUMMARY:[E] Pinch Perfect
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pinch-perfect-2026/
@@ -79,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:high-zaptitude-2026
-DTSTAMP:20251229T003550Z
+DTSTAMP:20251230T003222Z
 SUMMARY:[E] High Zaptitude
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /high-zaptitude-2026/
@@ -96,7 +79,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:precious-pals-2026
-DTSTAMP:20251229T003550Z
+DTSTAMP:20251230T003222Z
 SUMMARY:[E] Precious Pals
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /precious-pals-2026/
@@ -113,7 +96,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:into-the-depths-2026
-DTSTAMP:20251229T003550Z
+DTSTAMP:20251230T003222Z
 SUMMARY:[E] Into the Depths
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /into-the-depths-2026/
@@ -130,7 +113,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:catch-mastery-day-february-2026
-DTSTAMP:20251229T003550Z
+DTSTAMP:20251230T003222Z
 SUMMARY:[E] Catch Mastery Day
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /catch-mastery-day-february-2026/

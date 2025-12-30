@@ -10,19 +10,20 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-eevee
-DTSTAMP:20251229T003550Z
-SUMMARY:[PS] Eevee PokéStop Showcase
+UID:pokemon-showcase-stantler-rolycoly-coalossal
+DTSTAMP:20251230T003222Z
+SUMMARY:[PS] Stantler\, Rolycoly\, and Coalossal PokéStop Showcase
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-eevee/
-URL:https://leekduck.com/events/pokemon-showcase-eevee/
+ /pokemon-showcase-stantler-rolycoly-coalossal/
+URL:https://leekduck.com/events/pokemon-showcase-stantler-rolycoly-coalossa
+ l/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20251227
-DTEND;VALUE=DATE:20251228
+DTSTART;VALUE=DATE:20251229
+DTEND;VALUE=DATE:20251231
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Eevee PokéStop Showcase
+DESCRIPTION:[PS] Stantler\, Rolycoly\, and Coalossal PokéStop Showcase
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
