@@ -62,9 +62,5 @@
     "team_go_rocket": {
         "name": "Team GO Rocket",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__team_go_rocket.ics"
-    },
-    "timed_research": {
-        "name": "Timed Research",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__timed_research.ics"
     }
 }
