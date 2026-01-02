@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:max-mondays-2026-01-05
-DTSTAMP:20260101T003713Z
+DTSTAMP:20260102T003309Z
 SUMMARY:[MM] Dynamax Drampa during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-01-05/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-01-12
-DTSTAMP:20260101T003713Z
+DTSTAMP:20260102T003309Z
 SUMMARY:[MM] Dynamax Caterpie during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-01-12/
@@ -45,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-01-19
-DTSTAMP:20260101T003713Z
+DTSTAMP:20260102T003309Z
 SUMMARY:[MM] Dynamax Beldum during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-01-19/
@@ -62,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-01-26
-DTSTAMP:20260101T003713Z
+DTSTAMP:20260102T003309Z
 SUMMARY:[MM] Dynamax Roggenrola during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-01-26/

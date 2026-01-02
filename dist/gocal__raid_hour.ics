@@ -10,24 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Hour events\, in your local time\, auto-u
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:raidhour20251231
-DTSTAMP:20260101T003713Z
-SUMMARY:[RH] Blacephalon Raid Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /raidhour20251231/
-URL:https://leekduck.com/events/raidhour20251231/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
-DTSTART:20251231T180000
-DTEND:20251231T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RH] Blacephalon Raid Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raidhour20260107
-DTSTAMP:20260101T003713Z
+DTSTAMP:20260102T003309Z
 SUMMARY:[RH] Genesect (Burn Drive)\, Genesect (Chill Drive) Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20260107/
@@ -43,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20260114
-DTSTAMP:20260101T003713Z
+DTSTAMP:20260102T003309Z
 SUMMARY:[RH] Genesect (Burn Drive)\, Genesect (Chill Drive) Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20260114/
@@ -59,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20260121
-DTSTAMP:20260101T003713Z
+DTSTAMP:20260102T003309Z
 SUMMARY:[RH] Thundurus (Incarnate Forme) Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20260121/
@@ -75,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20260128
-DTSTAMP:20260101T003713Z
+DTSTAMP:20260102T003309Z
 SUMMARY:[RH] Tornadus (Incarnate Forme) Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20260128/
