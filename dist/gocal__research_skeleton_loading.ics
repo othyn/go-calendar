@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:spatie/icalendar-generator
+NAME:GO Calendar - Research (R)
+X-WR-CALNAME:GO Calendar - Research (R)
+DESCRIPTION:All Pokémon GO Research events\, in your local time\, auto-upd
+ ated and sourced from Leek Duck.
+X-WR-CALDESC:All Pokémon GO Research events\, in your local time\, auto-up
+ dated and sourced from Leek Duck.
+REFRESH-INTERVAL;VALUE=DURATION:PT1440M
+X-PUBLISHED-TTL:PT1440M
+BEGIN:VEVENT
+UID:masterwork-research-a-precious-catch
+DTSTAMP:20260104T003717Z
+SUMMARY:[R] Masterwork Research: A Precious Catch
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /masterwork-research-a-precious-catch/
+URL:https://leekduck.com/events/masterwork-research-a-precious-catch/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-12-02-masterwork-research-a-precious-catch/masterball.jpg
+DTSTART;VALUE=DATE:20251202
+DTEND;VALUE=DATE:20260303
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[R] Masterwork Research: A Precious Catch
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

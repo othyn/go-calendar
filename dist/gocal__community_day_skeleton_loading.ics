@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:spatie/icalendar-generator
+NAME:GO Calendar - Community Day (CD)
+X-WR-CALNAME:GO Calendar - Community Day (CD)
+DESCRIPTION:All Pokémon GO Community Day events\, in your local time\, aut
+ o-updated and sourced from Leek Duck.
+X-WR-CALDESC:All Pokémon GO Community Day events\, in your local time\, au
+ to-updated and sourced from Leek Duck.
+REFRESH-INTERVAL;VALUE=DURATION:PT1440M
+X-PUBLISHED-TTL:PT1440M
+BEGIN:VEVENT
+UID:january-communitydayclassic2026
+DTSTAMP:20260104T003717Z
+SUMMARY:[CD] Piplup Community Day Classic
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /january-communitydayclassic2026/
+URL:https://leekduck.com/events/january-communitydayclassic2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-01-04-january-communitydayclassic2026/piplup-community-day-classi
+ c.jpg
+DTSTART:20260104T140000
+DTEND:20260104T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[CD] Piplup Community Day Classic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:january-communityday2026
+DTSTAMP:20260104T003717Z
+SUMMARY:[CD] Grookey Community Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /january-communityday2026/
+URL:https://leekduck.com/events/january-communityday2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-01-18-january-communityday2026/grookey-community-day-january-2026
+ .jpg
+DTSTART:20260118T140000
+DTEND:20260118T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[CD] Grookey Community Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:february-communityday2026
+DTSTAMP:20260104T003717Z
+SUMMARY:[CD] February Community Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /february-communityday2026/
+URL:https://leekduck.com/events/february-communityday2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+DTSTART:20260201T140000
+DTEND:20260201T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[CD] February Community Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,169 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:spatie/icalendar-generator
+NAME:GO Calendar - Raid Battles (RB)
+X-WR-CALNAME:GO Calendar - Raid Battles (RB)
+DESCRIPTION:All Pokémon GO Raid Battles events\, in your local time\, auto
+ -updated and sourced from Leek Duck.
+X-WR-CALDESC:All Pokémon GO Raid Battles events\, in your local time\, aut
+ o-updated and sourced from Leek Duck.
+REFRESH-INTERVAL;VALUE=DURATION:PT1440M
+X-PUBLISHED-TTL:PT1440M
+BEGIN:VEVENT
+UID:blacephalon-in-raids-january-2026
+DTSTAMP:20260104T003717Z
+SUMMARY:[RB] Blacephalon in Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /blacephalon-in-raids-january-2026/
+URL:https://leekduck.com/events/blacephalon-in-raids-january-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260105
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Blacephalon in Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-swampert-in-mega-raids-january-2026
+DTSTAMP:20260104T003717Z
+SUMMARY:[RB] Mega Swampert in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-swampert-in-mega-raids-january-2026/
+URL:https://leekduck.com/events/mega-swampert-in-mega-raids-january-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260105
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Mega Swampert in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:genesect-burn-drive-genesect-chill-drive-in-5-star-raid-battles-january
+ -2026
+DTSTAMP:20260104T003717Z
+SUMMARY:[RB] Genesect (Burn Drive)\, Genesect (Chill Drive) in 5-star Raid 
+ Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /genesect-burn-drive-genesect-chill-drive-in-5-star-raid-battles-january-2
+ 026/
+URL:https://leekduck.com/events/genesect-burn-drive-genesect-chill-drive-in
+ -5-star-raid-battles-january-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20260105
+DTEND;VALUE=DATE:20260116
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Genesect (Burn Drive)\, Genesect (Chill Drive) in 5-star R
+ aid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-blaziken-in-mega-raids-january-2026
+DTSTAMP:20260104T003717Z
+SUMMARY:[RB] Mega Blaziken in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-blaziken-in-mega-raids-january-2026/
+URL:https://leekduck.com/events/mega-blaziken-in-mega-raids-january-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20260105
+DTEND;VALUE=DATE:20260116
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Mega Blaziken in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-sceptile-in-mega-raids-january-2026
+DTSTAMP:20260104T003717Z
+SUMMARY:[RB] Mega Sceptile in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-sceptile-in-mega-raids-january-2026/
+URL:https://leekduck.com/events/mega-sceptile-in-mega-raids-january-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260125
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Mega Sceptile in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:thundurus-incarnate-forme-in-5-star-raid-battles-january-2026
+DTSTAMP:20260104T003717Z
+SUMMARY:[RB] Thundurus (Incarnate Forme) in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /thundurus-incarnate-forme-in-5-star-raid-battles-january-2026/
+URL:https://leekduck.com/events/thundurus-incarnate-forme-in-5-star-raid-ba
+ ttles-january-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260125
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Thundurus (Incarnate Forme) in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shadow-cresselia-in-shadow-raids-january-february-2026
+DTSTAMP:20260104T003717Z
+SUMMARY:[RB] Shadow Cresselia in Shadow Raids
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /shadow-cresselia-in-shadow-raids-january-february-2026/
+URL:https://leekduck.com/events/shadow-cresselia-in-shadow-raids-january-fe
+ bruary-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20260102
+DTEND;VALUE=DATE:20260201
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Shadow Cresselia in Shadow Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-ampharos-in-mega-raids-january-2026
+DTSTAMP:20260104T003717Z
+SUMMARY:[RB] Mega Ampharos in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-ampharos-in-mega-raids-january-2026/
+URL:https://leekduck.com/events/mega-ampharos-in-mega-raids-january-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260204
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Mega Ampharos in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tornadus-incarnate-forme-in-5-star-raid-battles-january-2026
+DTSTAMP:20260104T003717Z
+SUMMARY:[RB] Tornadus (Incarnate Forme) in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /tornadus-incarnate-forme-in-5-star-raid-battles-january-2026/
+URL:https://leekduck.com/events/tornadus-incarnate-forme-in-5-star-raid-bat
+ tles-january-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260204
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Tornadus (Incarnate Forme) in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

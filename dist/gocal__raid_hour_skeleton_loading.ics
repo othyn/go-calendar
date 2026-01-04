@@ -1,0 +1,76 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:spatie/icalendar-generator
+NAME:GO Calendar - Raid Hour (RH)
+X-WR-CALNAME:GO Calendar - Raid Hour (RH)
+DESCRIPTION:All Pokémon GO Raid Hour events\, in your local time\, auto-up
+ dated and sourced from Leek Duck.
+X-WR-CALDESC:All Pokémon GO Raid Hour events\, in your local time\, auto-u
+ pdated and sourced from Leek Duck.
+REFRESH-INTERVAL;VALUE=DURATION:PT1440M
+X-PUBLISHED-TTL:PT1440M
+BEGIN:VEVENT
+UID:raidhour20260107
+DTSTAMP:20260104T003717Z
+SUMMARY:[RH] Genesect (Burn Drive)\, Genesect (Chill Drive) Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20260107/
+URL:https://leekduck.com/events/raidhour20260107/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20260107T180000
+DTEND:20260107T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Genesect (Burn Drive)\, Genesect (Chill Drive) Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260114
+DTSTAMP:20260104T003717Z
+SUMMARY:[RH] Genesect (Burn Drive)\, Genesect (Chill Drive) Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20260114/
+URL:https://leekduck.com/events/raidhour20260114/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20260114T180000
+DTEND:20260114T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Genesect (Burn Drive)\, Genesect (Chill Drive) Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260121
+DTSTAMP:20260104T003717Z
+SUMMARY:[RH] Thundurus (Incarnate Forme) Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20260121/
+URL:https://leekduck.com/events/raidhour20260121/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20260121T180000
+DTEND:20260121T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Thundurus (Incarnate Forme) Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260128
+DTSTAMP:20260104T003717Z
+SUMMARY:[RH] Tornadus (Incarnate Forme) Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20260128/
+URL:https://leekduck.com/events/raidhour20260128/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20260128T180000
+DTEND:20260128T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Tornadus (Incarnate Forme) Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

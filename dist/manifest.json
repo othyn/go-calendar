@@ -1,62 +1,66 @@
 {
-    "community_day": {
+    "community_day_skeleton_loading": {
         "name": "Community Day",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__community_day.ics"
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__community_day_skeleton_loading.ics"
     },
-    "event": {
+    "event_skeleton_loading": {
         "name": "Event",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__event.ics"
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__event_skeleton_loading.ics"
     },
     "everything": {
         "name": "Everything",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal.ics"
     },
-    "go_battle_league": {
+    "go_battle_league_skeleton_loading": {
         "name": "GO Battle League",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__go_battle_league.ics"
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__go_battle_league_skeleton_loading.ics"
     },
-    "go_pass": {
+    "go_pass_skeleton_loading": {
         "name": "GO Pass",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__go_pass.ics"
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__go_pass_skeleton_loading.ics"
     },
-    "max_battles": {
+    "max_battles_skeleton_loading": {
         "name": "Max Battles",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__max_battles.ics"
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__max_battles_skeleton_loading.ics"
     },
-    "max_mondays": {
+    "max_mondays_skeleton_loading": {
         "name": "Max Mondays",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__max_mondays.ics"
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__max_mondays_skeleton_loading.ics"
     },
-    "pokemon_go_tour": {
+    "pokemon_go_tour_skeleton_loading": {
         "name": "Pokémon GO Tour",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokemon_go_tour.ics"
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokemon_go_tour_skeleton_loading.ics"
     },
-    "pokemon_spotlight_hour": {
+    "pokemon_spotlight_hour_skeleton_loading": {
         "name": "Pokémon Spotlight Hour",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokemon_spotlight_hour.ics"
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokemon_spotlight_hour_skeleton_loading.ics"
     },
-    "raid_battles": {
+    "pokestop_showcase_skeleton_loading": {
+        "name": "PokéStop Showcase",
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokestop_showcase_skeleton_loading.ics"
+    },
+    "raid_battles_skeleton_loading": {
         "name": "Raid Battles",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__raid_battles.ics"
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__raid_battles_skeleton_loading.ics"
     },
-    "raid_day": {
+    "raid_day_skeleton_loading": {
         "name": "Raid Day",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__raid_day.ics"
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__raid_day_skeleton_loading.ics"
     },
-    "raid_hour": {
+    "raid_hour_skeleton_loading": {
         "name": "Raid Hour",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__raid_hour.ics"
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__raid_hour_skeleton_loading.ics"
     },
-    "research": {
+    "research_skeleton_loading": {
         "name": "Research",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__research.ics"
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__research_skeleton_loading.ics"
     },
-    "season": {
+    "season_skeleton_loading": {
         "name": "Season",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__season.ics"
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__season_skeleton_loading.ics"
     },
-    "team_go_rocket": {
+    "team_go_rocket_skeleton_loading": {
         "name": "Team GO Rocket",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__team_go_rocket.ics"
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__team_go_rocket_skeleton_loading.ics"
     }
 }

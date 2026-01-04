@@ -1,0 +1,190 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:spatie/icalendar-generator
+NAME:GO Calendar - GO Battle League (GBL)
+X-WR-CALNAME:GO Calendar - GO Battle League (GBL)
+DESCRIPTION:All Pokémon GO GO Battle League events\, in your local time\, 
+ auto-updated and sourced from Leek Duck.
+X-WR-CALDESC:All Pokémon GO GO Battle League events\, in your local time\,
+  auto-updated and sourced from Leek Duck.
+REFRESH-INTERVAL;VALUE=DURATION:PT1440M
+X-PUBLISHED-TTL:PT1440M
+BEGIN:VEVENT
+UID:gbl-precious-paths_great-league_ultra-league_master-league-split-2
+DTSTAMP:20260104T003717Z
+SUMMARY:[GBL] Great League\, Ultra League\, and Master League | Precious Pa
+ ths
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-precious-paths_great-league_ultra-league_master-league-split-2/
+URL:https://leekduck.com/events/gbl-precious-paths_great-league_ultra-leagu
+ e_master-league-split-2/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
+ -season-25-precious-paths.jpg
+DTSTART;VALUE=DATE:20251230
+DTEND;VALUE=DATE:20260106
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Great League\, Ultra League\, and Master League | Preciou
+ s Paths
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-precious-paths_ultra-league_sunshine-cup-great-league-edition
+DTSTAMP:20260104T003717Z
+SUMMARY:[GBL] Ultra League and Sunshine Cup: Great League Edition | Preciou
+ s Paths
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-precious-paths_ultra-league_sunshine-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-precious-paths_ultra-league_sunshine-cu
+ p-great-league-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
+ -ultra-league-machamp-swampert.jpg
+DTSTART;VALUE=DATE:20260106
+DTEND;VALUE=DATE:20260113
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Ultra League and Sunshine Cup: Great League Edition | Pre
+ cious Paths
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-precious-paths_master-premier_retro-cup-great-league-edition
+DTSTAMP:20260104T003717Z
+SUMMARY:[GBL] Master Premier and Retro Cup: Great League Edition | Precious
+  Paths
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-precious-paths_master-premier_retro-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-precious-paths_master-premier_retro-cup
+ -great-league-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattleleague-m
+ aster-key.jpg
+DTSTART;VALUE=DATE:20260113
+DTEND;VALUE=DATE:20260120
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Master Premier and Retro Cup: Great League Edition | Prec
+ ious Paths
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-precious-paths_great-league_ultra-premier
+DTSTAMP:20260104T003717Z
+SUMMARY:[GBL] Great League and Ultra Premier | Precious Paths
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-precious-paths_great-league_ultra-premier/
+URL:https://leekduck.com/events/gbl-precious-paths_great-league_ultra-premi
+ er/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattle-greatle
+ ague-key.jpg
+DTSTART;VALUE=DATE:20260120
+DTEND;VALUE=DATE:20260127
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Great League and Ultra Premier | Precious Paths
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-precious-paths_great-league_ultra-league_master-league-split-3
+DTSTAMP:20260104T003717Z
+SUMMARY:[GBL] Great League\, Ultra League\, and Master League | Precious Pa
+ ths
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-precious-paths_great-league_ultra-league_master-league-split-3/
+URL:https://leekduck.com/events/gbl-precious-paths_great-league_ultra-leagu
+ e_master-league-split-3/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
+ -season-25-precious-paths.jpg
+DTSTART;VALUE=DATE:20260127
+DTEND;VALUE=DATE:20260203
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Great League\, Ultra League\, and Master League | Preciou
+ s Paths
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-precious-paths_ultra-league_2026-championship-series-cup
+DTSTAMP:20260104T003717Z
+SUMMARY:[GBL] Ultra League and 2026 Championship Series Cup | Precious Path
+ s
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-precious-paths_ultra-league_2026-championship-series-cup/
+URL:https://leekduck.com/events/gbl-precious-paths_ultra-league_2026-champi
+ onship-series-cup/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
+ -ultra-league-machamp-swampert.jpg
+DTSTART;VALUE=DATE:20260203
+DTEND;VALUE=DATE:20260210
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Ultra League and 2026 Championship Series Cup | Precious 
+ Paths
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-precious-paths_master-league_2026-championship-series-cup
+DTSTAMP:20260104T003717Z
+SUMMARY:[GBL] Master League and 2026 Championship Series Cup | Precious Pat
+ hs
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-precious-paths_master-league_2026-championship-series-cup/
+URL:https://leekduck.com/events/gbl-precious-paths_master-league_2026-champ
+ ionship-series-cup/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattleleague-m
+ aster-key.jpg
+DTSTART;VALUE=DATE:20260210
+DTEND;VALUE=DATE:20260217
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Master League and 2026 Championship Series Cup | Precious
+  Paths
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-precious-paths_great-league_love-cup-great-league-edition
+DTSTAMP:20260104T003717Z
+SUMMARY:[GBL] Great League and Love Cup: Great League Edition | Precious Pa
+ ths
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-precious-paths_great-league_love-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-precious-paths_great-league_love-cup-gr
+ eat-league-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattle-greatle
+ ague-key.jpg
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260224
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Great League and Love Cup: Great League Edition | Preciou
+ s Paths
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-precious-paths_great-league_ultra-league_master-league-mega-edition
+DTSTAMP:20260104T003717Z
+SUMMARY:[GBL] Great League\, Ultra League\, and Master League: Mega Edition
+  | Precious Paths
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-precious-paths_great-league_ultra-league_master-league-mega-edition/
+URL:https://leekduck.com/events/gbl-precious-paths_great-league_ultra-leagu
+ e_master-league-mega-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
+ -season-25-precious-paths.jpg
+DTSTART;VALUE=DATE:20260224
+DTEND;VALUE=DATE:20260303
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Great League\, Ultra League\, and Master League: Mega Edi
+ tion | Precious Paths
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

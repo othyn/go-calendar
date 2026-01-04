@@ -1,0 +1,114 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:spatie/icalendar-generator
+NAME:GO Calendar - Event (E)
+X-WR-CALNAME:GO Calendar - Event (E)
+DESCRIPTION:All Pokémon GO Event events\, in your local time\, auto-update
+ d and sourced from Leek Duck.
+X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
+ ed and sourced from Leek Duck.
+REFRESH-INTERVAL;VALUE=DURATION:PT1440M
+X-PUBLISHED-TTL:PT1440M
+BEGIN:VEVENT
+UID:new-years-2026
+DTSTAMP:20260104T003717Z
+SUMMARY:[E] New Year's 2026
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /new-years-2026/
+URL:https://leekduck.com/events/new-years-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-12-31-new-years-2026/new-years-2026.jpg
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260104
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] New Year's 2026
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pinch-perfect-2026
+DTSTAMP:20260104T003717Z
+SUMMARY:[E] Pinch Perfect
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pinch-perfect-2026/
+URL:https://leekduck.com/events/pinch-perfect-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-01-06-pinch-perfect-2026/pinch-perfect-2026.jpg
+DTSTART;VALUE=DATE:20260106
+DTEND;VALUE=DATE:20260111
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Pinch Perfect
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:high-zaptitude-2026
+DTSTAMP:20260104T003717Z
+SUMMARY:[E] High Zaptitude
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /high-zaptitude-2026/
+URL:https://leekduck.com/events/high-zaptitude-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20260113
+DTEND;VALUE=DATE:20260118
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] High Zaptitude
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:precious-pals-2026
+DTSTAMP:20260104T003717Z
+SUMMARY:[E] Precious Pals
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /precious-pals-2026/
+URL:https://leekduck.com/events/precious-pals-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20260120
+DTEND;VALUE=DATE:20260125
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Precious Pals
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:into-the-depths-2026
+DTSTAMP:20260104T003717Z
+SUMMARY:[E] Into the Depths
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /into-the-depths-2026/
+URL:https://leekduck.com/events/into-the-depths-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20260127
+DTEND;VALUE=DATE:20260201
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Into the Depths
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:catch-mastery-day-february-2026
+DTSTAMP:20260104T003717Z
+SUMMARY:[E] Catch Mastery Day
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /catch-mastery-day-february-2026/
+URL:https://leekduck.com/events/catch-mastery-day-february-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART:20260207T100000
+DTEND:20260207T200000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Catch Mastery Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:spatie/icalendar-generator
+NAME:GO Calendar - Raid Day (RD)
+X-WR-CALNAME:GO Calendar - Raid Day (RD)
+DESCRIPTION:All Pokémon GO Raid Day events\, in your local time\, auto-upd
+ ated and sourced from Leek Duck.
+X-WR-CALDESC:All Pokémon GO Raid Day events\, in your local time\, auto-up
+ dated and sourced from Leek Duck.
+REFRESH-INTERVAL;VALUE=DURATION:PT1440M
+X-PUBLISHED-TTL:PT1440M
+BEGIN:VEVENT
+UID:kyurem-fusion-raid-day
+DTSTAMP:20260104T003717Z
+SUMMARY:[RD] Kyurem Fusion Raid Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /kyurem-fusion-raid-day/
+URL:https://leekduck.com/events/kyurem-fusion-raid-day/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-01-10-kyurem-fusion-raid-day/fusion-raid-day.jpg
+DTSTART:20260110T140000
+DTEND:20260110T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RD] Kyurem Fusion Raid Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shadow-raid-day-january-2026
+DTSTAMP:20260104T003717Z
+SUMMARY:[RD] Shadow Raid Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /shadow-raid-day-january-2026/
+URL:https://leekduck.com/events/shadow-raid-day-january-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART:20260124T140000
+DTEND:20260124T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RD] Shadow Raid Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raid-day-february-2026
+DTSTAMP:20260104T003717Z
+SUMMARY:[RD] Raid Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /raid-day-february-2026/
+URL:https://leekduck.com/events/raid-day-february-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART:20260214T140000
+DTEND:20260214T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RD] Raid Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
