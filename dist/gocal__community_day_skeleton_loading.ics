@@ -10,26 +10,8 @@ X-WR-CALDESC:All Pokémon GO Community Day events\, in your local time\, au
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:january-communitydayclassic2026
-DTSTAMP:20260105T003619Z
-SUMMARY:[CD] Piplup Community Day Classic
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /january-communitydayclassic2026/
-URL:https://leekduck.com/events/january-communitydayclassic2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-01-04-january-communitydayclassic2026/piplup-community-day-classi
- c.jpg
-DTSTART:20260104T140000
-DTEND:20260104T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[CD] Piplup Community Day Classic
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:january-communityday2026
-DTSTAMP:20260105T003619Z
+DTSTAMP:20260106T003334Z
 SUMMARY:[CD] Grookey Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /january-communityday2026/
@@ -47,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:february-communityday2026
-DTSTAMP:20260105T003619Z
+DTSTAMP:20260106T003334Z
 SUMMARY:[CD] February Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /february-communityday2026/
