@@ -10,20 +10,19 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-stantler-rolycoly-coalossal
-DTSTAMP:20260101T003713Z
-SUMMARY:[PS] Stantler\, Rolycoly\, and Coalossal PokéStop Showcase
+UID:pokemon-showcase-water-grass-type
+DTSTAMP:20260107T003206Z
+SUMMARY:[PS] Water-type and Grass-type PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-stantler-rolycoly-coalossal/
-URL:https://leekduck.com/events/pokemon-showcase-stantler-rolycoly-coalossa
- l/
+ /pokemon-showcase-water-grass-type/
+URL:https://leekduck.com/events/pokemon-showcase-water-grass-type/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20251229
-DTEND;VALUE=DATE:20251231
+DTSTART;VALUE=DATE:20260105
+DTEND;VALUE=DATE:20260107
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Stantler\, Rolycoly\, and Coalossal PokéStop Showcase
+DESCRIPTION:[PS] Water-type and Grass-type PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
