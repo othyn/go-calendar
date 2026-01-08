@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:kyurem-fusion-raid-day
-DTSTAMP:20260107T003206Z
+DTSTAMP:20260108T003324Z
 SUMMARY:[RD] Kyurem Fusion Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /kyurem-fusion-raid-day/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-raid-day-january-2026
-DTSTAMP:20260107T003206Z
+DTSTAMP:20260108T003324Z
 SUMMARY:[RD] Shadow Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /shadow-raid-day-january-2026/
@@ -45,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-february-2026
-DTSTAMP:20260107T003206Z
+DTSTAMP:20260108T003324Z
 SUMMARY:[RD] Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-february-2026/

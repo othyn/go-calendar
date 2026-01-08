@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO GO Pass events\, in your local time\, auto-upd
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:go-pass-december-2025
-DTSTAMP:20260107T003206Z
-SUMMARY:[GP] GO Pass: December
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /go-pass-december-2025/
-URL:https://leekduck.com/events/go-pass-december-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-12-02-go-pass-december-2025/go-pass-december-2025.jpg
-DTSTART;VALUE=DATE:20251202
-DTEND;VALUE=DATE:20260106
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[GP] GO Pass: December
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:go-pass-january-2026
-DTSTAMP:20260107T003206Z
+DTSTAMP:20260108T003324Z
 SUMMARY:[GP] GO Pass: January
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /go-pass-january-2026/

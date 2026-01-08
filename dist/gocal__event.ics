@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pinch-perfect-2026
-DTSTAMP:20260107T003206Z
+DTSTAMP:20260108T003324Z
 SUMMARY:[E] Pinch Perfect
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pinch-perfect-2026/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:high-zaptitude-2026
-DTSTAMP:20260107T003206Z
+DTSTAMP:20260108T003324Z
 SUMMARY:[E] High Zaptitude
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /high-zaptitude-2026/
@@ -45,13 +45,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:precious-pals-2026
-DTSTAMP:20260107T003206Z
+DTSTAMP:20260108T003324Z
 SUMMARY:[E] Precious Pals
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /precious-pals-2026/
 URL:https://leekduck.com/events/precious-pals-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-01-20-precious-pals-2026/precious-pals.jpg
 DTSTART;VALUE=DATE:20260120
 DTEND;VALUE=DATE:20260125
 BEGIN:VALARM
@@ -62,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:into-the-depths-2026
-DTSTAMP:20260107T003206Z
+DTSTAMP:20260108T003324Z
 SUMMARY:[E] Into the Depths
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /into-the-depths-2026/
@@ -79,7 +79,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:catch-mastery-day-february-2026
-DTSTAMP:20260107T003206Z
+DTSTAMP:20260108T003324Z
 SUMMARY:[E] Catch Mastery Day
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /catch-mastery-day-february-2026/
