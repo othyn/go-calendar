@@ -10,19 +10,19 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-water-grass-type
-DTSTAMP:20260109T003308Z
-SUMMARY:[PS] Water-type and Grass-type PokéStop Showcases
+UID:pokemon-showcase-klawf-dhelmise
+DTSTAMP:20260110T003242Z
+SUMMARY:[PS] Klawf and Dhelmise PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-water-grass-type/
-URL:https://leekduck.com/events/pokemon-showcase-water-grass-type/
+ /pokemon-showcase-klawf-dhelmise/
+URL:https://leekduck.com/events/pokemon-showcase-klawf-dhelmise/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20260105
-DTEND;VALUE=DATE:20260107
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Water-type and Grass-type PokéStop Showcases
+DESCRIPTION:[PS] Klawf and Dhelmise PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
