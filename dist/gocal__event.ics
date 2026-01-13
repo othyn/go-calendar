@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pinch-perfect-2026
-DTSTAMP:20260112T003530Z
-SUMMARY:[E] Pinch Perfect
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pinch-perfect-2026/
-URL:https://leekduck.com/events/pinch-perfect-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-01-06-pinch-perfect-2026/pinch-perfect-2026.jpg
-DTSTART;VALUE=DATE:20260106
-DTEND;VALUE=DATE:20260111
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Pinch Perfect
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:high-zaptitude-2026
-DTSTAMP:20260112T003530Z
+DTSTAMP:20260113T002858Z
 SUMMARY:[E] High Zaptitude
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /high-zaptitude-2026/
@@ -45,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:precious-pals-2026
-DTSTAMP:20260112T003530Z
+DTSTAMP:20260113T002858Z
 SUMMARY:[E] Precious Pals
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /precious-pals-2026/
@@ -62,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:into-the-depths-2026
-DTSTAMP:20260112T003530Z
+DTSTAMP:20260113T002858Z
 SUMMARY:[E] Into the Depths
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /into-the-depths-2026/
@@ -79,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:catch-mastery-day-february-2026
-DTSTAMP:20260112T003530Z
+DTSTAMP:20260113T002858Z
 SUMMARY:[E] Catch Mastery Day
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /catch-mastery-day-february-2026/
