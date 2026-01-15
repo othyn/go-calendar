@@ -10,25 +10,26 @@ X-WR-CALDESC:All Pokémon GO Raid Day events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:shadow-raid-day-january-2026
-DTSTAMP:20260114T003401Z
-SUMMARY:[RD] Shadow Raid Day
+UID:shadow-raikou-raid-day-january-2026
+DTSTAMP:20260115T003028Z
+SUMMARY:[RD] Shadow Raikou Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /shadow-raid-day-january-2026/
-URL:https://leekduck.com/events/shadow-raid-day-january-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+ /shadow-raikou-raid-day-january-2026/
+URL:https://leekduck.com/events/shadow-raikou-raid-day-january-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-01-24-shadow-raikou-raid-day-january-2026/shadow-raikou-raid-day.
+ jpg
 DTSTART:20260124T140000
 DTEND:20260124T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RD] Shadow Raid Day
+DESCRIPTION:[RD] Shadow Raikou Raid Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-february-2026
-DTSTAMP:20260114T003401Z
+DTSTAMP:20260115T003028Z
 SUMMARY:[RD] Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-february-2026/
