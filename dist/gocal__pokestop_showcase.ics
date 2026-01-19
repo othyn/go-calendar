@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-tadbulb-bellibolt-wattrel-kilowattrel
-DTSTAMP:20260118T003633Z
+DTSTAMP:20260119T003527Z
 SUMMARY:[PS] Tadbulb\, Bellibolt\, Wattrel\, and Kilowattrel PokéStop Show
  case
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -26,6 +26,23 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[PS] Tadbulb\, Bellibolt\, Wattrel\, and Kilowattrel PokéStop 
  Showcase
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-fidough-dachsbun
+DTSTAMP:20260119T003527Z
+SUMMARY:[PS] Fidough and Dachsbun PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-fidough-dachsbun/
+URL:https://leekduck.com/events/pokemon-showcase-fidough-dachsbun/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
+ es-default.jpg
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260121
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PS] Fidough and Dachsbun PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
