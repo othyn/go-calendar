@@ -10,16 +10,16 @@ X-WR-CALDESC:All Pokémon GO Research Day events\, in your local time\, aut
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:research-day-december-2025
-DTSTAMP:20251208T003207Z
+UID:research-day-march-2026
+DTSTAMP:20260120T003208Z
 SUMMARY:[RD] Research Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /research-day-december-2025/
-URL:https://leekduck.com/events/research-day-december-2025/
+ /research-day-march-2026/
+URL:https://leekduck.com/events/research-day-march-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
-DTSTART:20251220T140000
-DTEND:20251220T170000
+DTSTART:20260321T140000
+DTEND:20260321T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RD] Research Day

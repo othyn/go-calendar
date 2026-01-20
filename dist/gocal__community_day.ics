@@ -10,36 +10,83 @@ X-WR-CALDESC:All Pokémon GO Community Day events\, in your local time\, au
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:january-communityday2026
-DTSTAMP:20260119T003527Z
-SUMMARY:[CD] Grookey Community Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /january-communityday2026/
-URL:https://leekduck.com/events/january-communityday2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-01-18-january-communityday2026/grookey-community-day-january-2026
- .jpg
-DTSTART:20260118T140000
-DTEND:20260118T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[CD] Grookey Community Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:february-communityday2026
-DTSTAMP:20260119T003527Z
-SUMMARY:[CD] February Community Day
+DTSTAMP:20260120T003208Z
+SUMMARY:[CD] Vulpix Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /february-communityday2026/
 URL:https://leekduck.com/events/february-communityday2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-02-01-february-communityday2026/vulpix-community-day-temp.jpg
 DTSTART:20260201T140000
 DTEND:20260201T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[CD] February Community Day
+DESCRIPTION:[CD] Vulpix Community Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:march-communityday2026
+DTSTAMP:20260120T003208Z
+SUMMARY:[CD] March Community Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /march-communityday2026/
+URL:https://leekduck.com/events/march-communityday2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+DTSTART:20260314T140000
+DTEND:20260314T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[CD] March Community Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:april-communityday2026
+DTSTAMP:20260120T003208Z
+SUMMARY:[CD] April Community Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /april-communityday2026/
+URL:https://leekduck.com/events/april-communityday2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+DTSTART:20260411T140000
+DTEND:20260411T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[CD] April Community Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:may-communityday2026
+DTSTAMP:20260120T003208Z
+SUMMARY:[CD] May Community Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /may-communityday2026/
+URL:https://leekduck.com/events/may-communityday2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+DTSTART:20260509T140000
+DTEND:20260509T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[CD] May Community Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:may-communitydayclassic2026
+DTSTAMP:20260120T003208Z
+SUMMARY:[CD] May Community Day Classic
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /may-communitydayclassic2026/
+URL:https://leekduck.com/events/may-communitydayclassic2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+DTSTART:20260516T140000
+DTEND:20260516T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[CD] May Community Day Classic
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

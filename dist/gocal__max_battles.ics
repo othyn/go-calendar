@@ -10,25 +10,26 @@ X-WR-CALDESC:All Pokémon GO Max Battles events\, in your local time\, auto
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:dynamax-weekend-february-2026
-DTSTAMP:20260119T003527Z
-SUMMARY:[MB] Dynamax Weekend
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /dynamax-weekend-february-2026/
-URL:https://leekduck.com/events/dynamax-weekend-february-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+UID:dynamax-ho-oh-max-battle-weekend
+DTSTAMP:20260120T003208Z
+SUMMARY:[MB] Dynamax Ho-Oh Max Battle Weekend
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /dynamax-ho-oh-max-battle-weekend/
+URL:https://leekduck.com/events/dynamax-ho-oh-max-battle-weekend/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-01-31-dynamax-ho-oh-max-battle-weekend/dynamax-ho-oh-max-battle-w
+ eekend.jpg?v2
 DTSTART;VALUE=DATE:20260131
 DTEND;VALUE=DATE:20260201
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[MB] Dynamax Weekend
+DESCRIPTION:[MB] Dynamax Ho-Oh Max Battle Weekend
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-february-2026
-DTSTAMP:20260119T003527Z
+DTSTAMP:20260120T003208Z
 SUMMARY:[MB] Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-february-2026/
@@ -37,6 +38,40 @@ IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
 DTSTART:20260215T140000
 DTEND:20260215T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MB] Max Battle Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-battle-day-march-2026
+DTSTAMP:20260120T003208Z
+SUMMARY:[MB] Max Battle Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /max-battle-day-march-2026/
+URL:https://leekduck.com/events/max-battle-day-march-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART:20260328T140000
+DTEND:20260328T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MB] Max Battle Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-battle-day-april-2026
+DTSTAMP:20260120T003208Z
+SUMMARY:[MB] Max Battle Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /max-battle-day-april-2026/
+URL:https://leekduck.com/events/max-battle-day-april-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART:20260425T140000
+DTEND:20260425T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[MB] Max Battle Day

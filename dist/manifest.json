@@ -55,6 +55,10 @@
         "name": "Research",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__research.ics"
     },
+    "research_day": {
+        "name": "Research Day",
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__research_day.ics"
+    },
     "season": {
         "name": "Season",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__season.ics"

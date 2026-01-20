@@ -10,28 +10,8 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-tadbulb-bellibolt-wattrel-kilowattrel
-DTSTAMP:20260119T003527Z
-SUMMARY:[PS] Tadbulb\, Bellibolt\, Wattrel\, and Kilowattrel PokéStop Show
- case
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-tadbulb-bellibolt-wattrel-kilowattrel/
-URL:https://leekduck.com/events/pokemon-showcase-tadbulb-bellibolt-wattrel-
- kilowattrel/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
- es-default.jpg
-DTSTART;VALUE=DATE:20260117
-DTEND;VALUE=DATE:20260118
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PS] Tadbulb\, Bellibolt\, Wattrel\, and Kilowattrel PokéStop 
- Showcase
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-showcase-fidough-dachsbun
-DTSTAMP:20260119T003527Z
+DTSTAMP:20260120T003208Z
 SUMMARY:[PS] Fidough and Dachsbun PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-fidough-dachsbun/
