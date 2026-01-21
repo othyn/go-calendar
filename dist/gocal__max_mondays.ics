@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Max Mondays events\, in your local time\, auto
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:max-mondays-2026-01-19
-DTSTAMP:20260120T003208Z
-SUMMARY:[MM] Dynamax Beldum during Max Monday
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /max-mondays-2026-01-19/
-URL:https://leekduck.com/events/max-mondays-2026-01-19/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
- o.jpg
-DTSTART:20260119T180000
-DTEND:20260119T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[MM] Dynamax Beldum during Max Monday
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:max-mondays-2026-01-26
-DTSTAMP:20260120T003208Z
+DTSTAMP:20260121T003357Z
 SUMMARY:[MM] Dynamax Roggenrola during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-01-26/
