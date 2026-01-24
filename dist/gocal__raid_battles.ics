@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:mega-sceptile-in-mega-raids-january-2026
-DTSTAMP:20260123T003358Z
+DTSTAMP:20260124T003237Z
 SUMMARY:[RB] Mega Sceptile in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-sceptile-in-mega-raids-january-2026/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:thundurus-incarnate-forme-in-5-star-raid-battles-january-2026
-DTSTAMP:20260123T003358Z
+DTSTAMP:20260124T003237Z
 SUMMARY:[RB] Thundurus (Incarnate Forme) in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /thundurus-incarnate-forme-in-5-star-raid-battles-january-2026/
@@ -45,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-cresselia-in-shadow-raids-january-february-2026
-DTSTAMP:20260123T003358Z
+DTSTAMP:20260124T003237Z
 SUMMARY:[RB] Shadow Cresselia in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-cresselia-in-shadow-raids-january-february-2026/
@@ -63,7 +63,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-ampharos-in-mega-raids-january-2026
-DTSTAMP:20260123T003358Z
+DTSTAMP:20260124T003237Z
 SUMMARY:[RB] Mega Ampharos in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-ampharos-in-mega-raids-january-2026/
@@ -79,7 +79,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tornadus-incarnate-forme-in-5-star-raid-battles-january-2026
-DTSTAMP:20260123T003358Z
+DTSTAMP:20260124T003237Z
 SUMMARY:[RB] Tornadus (Incarnate Forme) in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /tornadus-incarnate-forme-in-5-star-raid-battles-january-2026/
@@ -92,6 +92,124 @@ DTEND;VALUE=DATE:20260204
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RB] Tornadus (Incarnate Forme) in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:landorus-incarnate-forme-in-5-star-raid-battles-february-2026
+DTSTAMP:20260124T003237Z
+SUMMARY:[RB] Landorus (Incarnate Forme) in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /landorus-incarnate-forme-in-5-star-raid-battles-february-2026/
+URL:https://leekduck.com/events/landorus-incarnate-forme-in-5-star-raid-bat
+ tles-february-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/landorus-raids-m
+ ar2020.jpg
+DTSTART;VALUE=DATE:20260204
+DTEND;VALUE=DATE:20260216
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Landorus (Incarnate Forme) in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-pidgeot-in-mega-raids-february-2026
+DTSTAMP:20260124T003237Z
+SUMMARY:[RB] Mega Pidgeot in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-pidgeot-in-mega-raids-february-2026/
+URL:https://leekduck.com/events/mega-pidgeot-in-mega-raids-february-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20260204
+DTEND;VALUE=DATE:20260216
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Mega Pidgeot in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-sableye-in-mega-raids-february-2026
+DTSTAMP:20260124T003237Z
+SUMMARY:[RB] Mega Sableye in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-sableye-in-mega-raids-february-2026/
+URL:https://leekduck.com/events/mega-sableye-in-mega-raids-february-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260221
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Mega Sableye in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:solgaleo-in-5-star-raid-battles-february-2026
+DTSTAMP:20260124T003237Z
+SUMMARY:[RB] Solgaleo in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /solgaleo-in-5-star-raid-battles-february-2026/
+URL:https://leekduck.com/events/solgaleo-in-5-star-raid-battles-february-20
+ 26/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/solgaleo.jpg?v2
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260221
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Solgaleo in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lunala-in-5-star-raid-battles-february-2026
+DTSTAMP:20260124T003237Z
+SUMMARY:[RB] Lunala in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /lunala-in-5-star-raid-battles-february-2026/
+URL:https://leekduck.com/events/lunala-in-5-star-raid-battles-february-2026
+ /
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/lunala.jpg?v2
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260304
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Lunala in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-absol-in-mega-raids-february-2026
+DTSTAMP:20260124T003237Z
+SUMMARY:[RB] Mega Absol in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-absol-in-mega-raids-february-2026/
+URL:https://leekduck.com/events/mega-absol-in-mega-raids-february-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260304
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Mega Absol in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shadow-regigigas-in-shadow-raids-february-march-2026
+DTSTAMP:20260124T003237Z
+SUMMARY:[RB] Shadow Regigigas in Shadow Raids
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /shadow-regigigas-in-shadow-raids-february-march-2026/
+URL:https://leekduck.com/events/shadow-regigigas-in-shadow-raids-february-m
+ arch-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260304
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Shadow Regigigas in Shadow Raids
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
