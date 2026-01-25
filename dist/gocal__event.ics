@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:precious-pals-2026
-DTSTAMP:20260124T003237Z
+DTSTAMP:20260125T003721Z
 SUMMARY:[E] Precious Pals
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /precious-pals-2026/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:into-the-depths-2026
-DTSTAMP:20260124T003237Z
+DTSTAMP:20260125T003721Z
 SUMMARY:[E] Into the Depths
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /into-the-depths-2026/
@@ -45,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:catch-mastery-day-february-2026
-DTSTAMP:20260124T003237Z
+DTSTAMP:20260125T003721Z
 SUMMARY:[E] Catch Mastery Day
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /catch-mastery-day-february-2026/
@@ -61,25 +61,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:catch-mastery-2026
-DTSTAMP:20260124T003237Z
-SUMMARY:[E] Catch Mastery 2026
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /catch-mastery-2026/
-URL:https://leekduck.com/events/catch-mastery-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-DTSTART:20260207T100000
-DTEND:20260207T200000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Catch Mastery 2026
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:carnival-of-flamigo
-DTSTAMP:20260124T003237Z
+DTSTAMP:20260125T003721Z
 SUMMARY:[E] Carnival of Flamigo
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /carnival-of-flamigo/
@@ -95,25 +78,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:carnival-of-flamigo-2026
-DTSTAMP:20260124T003237Z
-SUMMARY:[E] Carnival of Flamigo 2026
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /carnival-of-flamigo-2026/
-URL:https://leekduck.com/events/carnival-of-flamigo-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-DTSTART;VALUE=DATE:20260203
-DTEND;VALUE=DATE:20260208
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Carnival of Flamigo 2026
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:valentines-day-2026
-DTSTAMP:20260124T003237Z
+DTSTAMP:20260125T003721Z
 SUMMARY:[E] Valentine's Day 2026
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /valentines-day-2026/
@@ -129,25 +95,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:max-battle-day-2026
-DTSTAMP:20260124T003237Z
-SUMMARY:[E] Max Battle Day 2026
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /max-battle-day-2026/
-URL:https://leekduck.com/events/max-battle-day-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-DTSTART:20260215T100000
-DTEND:20260215T200000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Max Battle Day 2026
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:lunar-new-year-2026
-DTSTAMP:20260124T003237Z
+DTSTAMP:20260125T003721Z
 SUMMARY:[E] Lunar New Year 2026
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /lunar-new-year-2026/
@@ -164,7 +113,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-april-2026
-DTSTAMP:20260124T003237Z
+DTSTAMP:20260125T003721Z
 SUMMARY:[E] Hatch Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-april-2026/
