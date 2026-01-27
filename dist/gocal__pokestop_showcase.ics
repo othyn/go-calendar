@@ -10,19 +10,19 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-ultra-buddy-or-higher
-DTSTAMP:20260126T003619Z
-SUMMARY:[PS] Ultra Buddy and Best Buddy PokéStop Showcases
+UID:pokemon-showcase-normal-type
+DTSTAMP:20260127T003509Z
+SUMMARY:[PS] Normal-type PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-ultra-buddy-or-higher/
-URL:https://leekduck.com/events/pokemon-showcase-ultra-buddy-or-higher/
+ /pokemon-showcase-normal-type/
+URL:https://leekduck.com/events/pokemon-showcase-normal-type/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20260124
-DTEND;VALUE=DATE:20260125
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260128
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Ultra Buddy and Best Buddy PokéStop Showcases
+DESCRIPTION:[PS] Normal-type PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
