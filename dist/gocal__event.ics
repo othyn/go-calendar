@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:into-the-depths-2026
-DTSTAMP:20260127T003509Z
+DTSTAMP:20260128T003336Z
 SUMMARY:[E] Into the Depths
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /into-the-depths-2026/
@@ -27,25 +27,26 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:catch-mastery-day-february-2026
-DTSTAMP:20260127T003509Z
-SUMMARY:[E] Catch Mastery Day
+UID:oricorio-catch-mastery-day-february-2026
+DTSTAMP:20260128T003336Z
+SUMMARY:[E] Oricorio Catch Mastery
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /catch-mastery-day-february-2026/
-URL:https://leekduck.com/events/catch-mastery-day-february-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+ /oricorio-catch-mastery-day-february-2026/
+URL:https://leekduck.com/events/oricorio-catch-mastery-day-february-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-02-07-oricorio-catch-mastery-day-february-2026/oricorio-catch-mas
+ tery.jpg
 DTSTART:20260207T100000
 DTEND:20260207T200000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Catch Mastery Day
+DESCRIPTION:[E] Oricorio Catch Mastery
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:carnival-of-flamigo
-DTSTAMP:20260127T003509Z
+DTSTAMP:20260128T003336Z
 SUMMARY:[E] Carnival of Flamigo
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /carnival-of-flamigo/
@@ -62,7 +63,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:valentines-day-2026
-DTSTAMP:20260127T003509Z
+DTSTAMP:20260128T003336Z
 SUMMARY:[E] Valentine's Day 2026
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /valentines-day-2026/
@@ -79,7 +80,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lunar-new-year-2026
-DTSTAMP:20260127T003509Z
+DTSTAMP:20260128T003336Z
 SUMMARY:[E] Lunar New Year 2026
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /lunar-new-year-2026/
@@ -96,7 +97,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-april-2026
-DTSTAMP:20260127T003509Z
+DTSTAMP:20260128T003336Z
 SUMMARY:[E] Hatch Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-april-2026/
