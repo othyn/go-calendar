@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Pokémon Spotlight Hour events\, in your local
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemonspotlighthour2026-01-27
-DTSTAMP:20260128T003336Z
-SUMMARY:[PSH] Foongus Spotlight Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2026-01-27/
-URL:https://leekduck.com/events/pokemonspotlighthour2026-01-27/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
- hour.jpg
-DTSTART:20260127T180000
-DTEND:20260127T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PSH] Foongus Spotlight Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemonspotlighthour2026-02-03
-DTSTAMP:20260128T003336Z
+DTSTAMP:20260129T003814Z
 SUMMARY:[PSH] Whismur Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2026-02-03/
@@ -45,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-02-10
-DTSTAMP:20260128T003336Z
+DTSTAMP:20260129T003814Z
 SUMMARY:[PSH] Munna Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2026-02-10/
@@ -62,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-02-17
-DTSTAMP:20260128T003336Z
+DTSTAMP:20260129T003814Z
 SUMMARY:[PSH] Horsea Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2026-02-17/
@@ -79,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-02-24
-DTSTAMP:20260128T003336Z
+DTSTAMP:20260129T003814Z
 SUMMARY:[PSH] Totodile Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2026-02-24/
