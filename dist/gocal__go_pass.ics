@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:go-pass-january-2026
-DTSTAMP:20260129T003814Z
+DTSTAMP:20260130T003850Z
 SUMMARY:[GP] GO Pass: January
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /go-pass-january-2026/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-pass-road-to-kalos
-DTSTAMP:20260129T003814Z
+DTSTAMP:20260130T003850Z
 SUMMARY:[GP] GO Pass: Road to Kalos
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /go-pass-road-to-kalos/
@@ -40,6 +40,23 @@ DTEND;VALUE=DATE:20260301
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[GP] GO Pass: Road to Kalos
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-pass-february-2026
+DTSTAMP:20260130T003850Z
+SUMMARY:[GP] GO Pass: February
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /go-pass-february-2026/
+URL:https://leekduck.com/events/go-pass-february-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-02-03-go-pass-february-2026/go-pass-february-2026.jpg
+DTSTART;VALUE=DATE:20260203
+DTEND;VALUE=DATE:20260303
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GP] GO Pass: February
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
