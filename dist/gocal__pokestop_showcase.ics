@@ -10,19 +10,19 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-normal-type
-DTSTAMP:20260129T003814Z
-SUMMARY:[PS] Normal-type PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-normal-type/
-URL:https://leekduck.com/events/pokemon-showcase-normal-type/
+UID:pokemon-showcase-ho-oh
+DTSTAMP:20260201T004617Z
+SUMMARY:[PS] Ho-Oh PokéStop Showcase
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-ho-oh/
+URL:https://leekduck.com/events/pokemon-showcase-ho-oh/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20260126
-DTEND;VALUE=DATE:20260128
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Normal-type PokéStop Showcases
+DESCRIPTION:[PS] Ho-Oh PokéStop Showcase
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
