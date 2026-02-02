@@ -11,9 +11,9 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-ho-oh
-DTSTAMP:20260201T004617Z
+DTSTAMP:20260202T004050Z
 SUMMARY:[PS] Ho-Oh PokéStop Showcase
-DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+DESCRIPTION:Starts at 06:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-ho-oh/
 URL:https://leekduck.com/events/pokemon-showcase-ho-oh/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
