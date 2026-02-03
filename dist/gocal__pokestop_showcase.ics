@@ -10,19 +10,20 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-ho-oh
-DTSTAMP:20260202T004050Z
-SUMMARY:[PS] Ho-Oh PokéStop Showcase
-DESCRIPTION:Starts at 06:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-ho-oh/
-URL:https://leekduck.com/events/pokemon-showcase-ho-oh/
+UID:toucannon-ludicolo-quaquaval-showcase-february-2026
+DTSTAMP:20260203T004052Z
+SUMMARY:[PS] Toucannon\, Ludicolo\, and Quaquaval PokéStop Showcase
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /toucannon-ludicolo-quaquaval-showcase-february-2026/
+URL:https://leekduck.com/events/toucannon-ludicolo-quaquaval-showcase-febru
+ ary-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20260131
-DTEND;VALUE=DATE:20260201
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260204
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Ho-Oh PokéStop Showcase
+DESCRIPTION:[PS] Toucannon\, Ludicolo\, and Quaquaval PokéStop Showcase
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
