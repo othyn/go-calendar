@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO GO Pass events\, in your local time\, auto-upd
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:go-pass-january-2026
-DTSTAMP:20260203T004052Z
-SUMMARY:[GP] GO Pass: January
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /go-pass-january-2026/
-URL:https://leekduck.com/events/go-pass-january-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-01-06-go-pass-january-2026/go-pass-january-2026.jpg
-DTSTART;VALUE=DATE:20260106
-DTEND;VALUE=DATE:20260203
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[GP] GO Pass: January
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:go-pass-road-to-kalos
-DTSTAMP:20260203T004052Z
+DTSTAMP:20260204T003656Z
 SUMMARY:[GP] GO Pass: Road to Kalos
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /go-pass-road-to-kalos/
@@ -45,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-pass-february-2026
-DTSTAMP:20260203T004052Z
+DTSTAMP:20260204T003656Z
 SUMMARY:[GP] GO Pass: February
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /go-pass-february-2026/
