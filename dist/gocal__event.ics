@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:oricorio-catch-mastery-day-february-2026
-DTSTAMP:20260205T004048Z
+DTSTAMP:20260206T003741Z
 SUMMARY:[E] Oricorio Catch Mastery
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /oricorio-catch-mastery-day-february-2026/
@@ -29,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:carnival-of-flamigo
-DTSTAMP:20260205T004048Z
+DTSTAMP:20260206T003741Z
 SUMMARY:[E] Carnival of Flamigo
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /carnival-of-flamigo/
@@ -46,7 +46,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:valentines-day-2026
-DTSTAMP:20260205T004048Z
+DTSTAMP:20260206T003741Z
 SUMMARY:[E] Valentine's Day 2026
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /valentines-day-2026/
@@ -63,7 +63,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lunar-new-year-2026
-DTSTAMP:20260205T004048Z
+DTSTAMP:20260206T003741Z
 SUMMARY:[E] Lunar New Year 2026
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /lunar-new-year-2026/
@@ -80,7 +80,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:road-to-kalos
-DTSTAMP:20260205T004048Z
+DTSTAMP:20260206T003741Z
 SUMMARY:[E] Road to Kalos
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /road-to-kalos/
@@ -97,7 +97,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-april-2026
-DTSTAMP:20260205T004048Z
+DTSTAMP:20260206T003741Z
 SUMMARY:[E] Hatch Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-april-2026/

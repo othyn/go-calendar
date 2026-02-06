@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-02-10
-DTSTAMP:20260205T004048Z
+DTSTAMP:20260206T003741Z
 SUMMARY:[PSH] Munna Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2026-02-10/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-02-17
-DTSTAMP:20260205T004048Z
+DTSTAMP:20260206T003741Z
 SUMMARY:[PSH] Horsea Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2026-02-17/
@@ -45,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-02-24
-DTSTAMP:20260205T004048Z
+DTSTAMP:20260206T003741Z
 SUMMARY:[PSH] Totodile Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2026-02-24/
