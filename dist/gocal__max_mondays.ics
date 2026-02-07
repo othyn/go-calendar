@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:max-mondays-2026-02-09
-DTSTAMP:20260206T003741Z
+DTSTAMP:20260207T003741Z
 SUMMARY:[MM] Dynamax Growlithe during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-02-09/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-02-16
-DTSTAMP:20260206T003741Z
+DTSTAMP:20260207T003741Z
 SUMMARY:[MM] Dynamax Machop during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-02-16/
@@ -45,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-02-23
-DTSTAMP:20260206T003741Z
+DTSTAMP:20260207T003741Z
 SUMMARY:[MM] Unannounced Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-02-23/

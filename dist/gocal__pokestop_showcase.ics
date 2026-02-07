@@ -10,20 +10,19 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:toucannon-ludicolo-quaquaval-showcase-february-2026
-DTSTAMP:20260205T004048Z
-SUMMARY:[PS] Toucannon\, Ludicolo\, and Quaquaval PokéStop Showcase
+UID:flamigo-showcase-february-2026
+DTSTAMP:20260207T003741Z
+SUMMARY:[PS] Flamigo PokéStop Showcase
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /toucannon-ludicolo-quaquaval-showcase-february-2026/
-URL:https://leekduck.com/events/toucannon-ludicolo-quaquaval-showcase-febru
- ary-2026/
+ /flamigo-showcase-february-2026/
+URL:https://leekduck.com/events/flamigo-showcase-february-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20260202
-DTEND;VALUE=DATE:20260204
+DTSTART;VALUE=DATE:20260207
+DTEND;VALUE=DATE:20260208
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Toucannon\, Ludicolo\, and Quaquaval PokéStop Showcase
+DESCRIPTION:[PS] Flamigo PokéStop Showcase
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
