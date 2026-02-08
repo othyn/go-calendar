@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:flamigo-showcase-february-2026
-DTSTAMP:20260207T003741Z
+DTSTAMP:20260208T005050Z
 SUMMARY:[PS] Flamigo PokéStop Showcase
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /flamigo-showcase-february-2026/
