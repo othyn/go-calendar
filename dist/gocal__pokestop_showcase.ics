@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:flamigo-showcase-february-2026
-DTSTAMP:20260208T005050Z
+DTSTAMP:20260209T004146Z
 SUMMARY:[PS] Flamigo PokéStop Showcase
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /flamigo-showcase-february-2026/
@@ -23,6 +23,23 @@ DTEND;VALUE=DATE:20260208
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[PS] Flamigo PokéStop Showcase
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flying-type-pokemon-showcase-february-2026
+DTSTAMP:20260209T004146Z
+SUMMARY:[PS] Flying-type Pokémon PokéStop Showcase
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /flying-type-pokemon-showcase-february-2026/
+URL:https://leekduck.com/events/flying-type-pokemon-showcase-february-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
+ es-default.jpg
+DTSTART;VALUE=DATE:20260209
+DTEND;VALUE=DATE:20260211
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PS] Flying-type Pokémon PokéStop Showcase
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
