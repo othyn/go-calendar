@@ -10,19 +10,25 @@ X-WR-CALDESC:All Pokémon GO Research events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:masterwork-research-a-precious-catch
-DTSTAMP:20260202T004050Z
-SUMMARY:[R] Masterwork Research: A Precious Catch
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /masterwork-research-a-precious-catch/
-URL:https://leekduck.com/events/masterwork-research-a-precious-catch/
+UID:pokemon-europe-international-championships-2026-timed-research-twitch-d
+ rops
+DTSTAMP:20260213T004252Z
+SUMMARY:[R] Twitch Drops for 2026 Pokémon Europe International Championshi
+ ps
+DESCRIPTION:Starts at 09:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-europe-international-championships-2026-timed-research-twitch-dro
+ ps/
+URL:https://leekduck.com/events/pokemon-europe-international-championships-
+ 2026-timed-research-twitch-drops/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-12-02-masterwork-research-a-precious-catch/masterball.jpg
-DTSTART;VALUE=DATE:20251202
-DTEND;VALUE=DATE:20260303
+ 026/2026-02-13-pokemon-europe-international-championships-2026-timed-resea
+ rch-twitch-drops/euic-2026.jpg
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260214
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[R] Masterwork Research: A Precious Catch
+DESCRIPTION:[R] Twitch Drops for 2026 Pokémon Europe International Champio
+ nships
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
