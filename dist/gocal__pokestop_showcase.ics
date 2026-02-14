@@ -10,19 +10,20 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:flying-type-pokemon-showcase-february-2026
-DTSTAMP:20260212T004044Z
-SUMMARY:[PS] Flying-type Pokémon PokéStop Showcase
+UID:enamorus-(therian-forme)-showcase-february-2026
+DTSTAMP:20260214T003933Z
+SUMMARY:[PS] Enamorus (Therian Forme) PokéStop Showcase
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /flying-type-pokemon-showcase-february-2026/
-URL:https://leekduck.com/events/flying-type-pokemon-showcase-february-2026/
+ /enamorus-(therian-forme)-showcase-february-2026/
+URL:https://leekduck.com/events/enamorus-(therian-forme)-showcase-february-
+ 2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20260209
-DTEND;VALUE=DATE:20260211
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260215
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Flying-type Pokémon PokéStop Showcase
+DESCRIPTION:[PS] Enamorus (Therian Forme) PokéStop Showcase
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
