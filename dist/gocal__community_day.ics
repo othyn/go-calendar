@@ -11,23 +11,24 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:march-communityday2026
-DTSTAMP:20260218T004057Z
-SUMMARY:[CD] March Community Day
+DTSTAMP:20260219T004136Z
+SUMMARY:[CD] Scorbunny Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /march-communityday2026/
 URL:https://leekduck.com/events/march-communityday2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-03-14-march-communityday2026/scorbunny-cd-placeholder.jpg
 DTSTART:20260314T140000
 DTEND:20260314T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[CD] March Community Day
+DESCRIPTION:[CD] Scorbunny Community Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:april-communityday2026
-DTSTAMP:20260218T004057Z
+DTSTAMP:20260219T004136Z
 SUMMARY:[CD] April Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /april-communityday2026/
@@ -43,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communityday2026
-DTSTAMP:20260218T004057Z
+DTSTAMP:20260219T004136Z
 SUMMARY:[CD] May Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /may-communityday2026/
@@ -59,7 +60,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communitydayclassic2026
-DTSTAMP:20260218T004057Z
+DTSTAMP:20260219T004136Z
 SUMMARY:[CD] May Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /may-communitydayclassic2026/
