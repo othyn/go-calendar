@@ -10,20 +10,20 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:galarian-ponyta-turtonator-showcase-february-2026
-DTSTAMP:20260219T004136Z
-SUMMARY:[PS] Galarian Ponyta and Turtonator PokéStop Showcase
+UID:meowth-vulpix-alolan-vulpix-showcase-february-2026
+DTSTAMP:20260221T003820Z
+SUMMARY:[PS] Meowth\, Vulpix\, and Alolan Vulpix PokéStop Showcase
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /galarian-ponyta-turtonator-showcase-february-2026/
-URL:https://leekduck.com/events/galarian-ponyta-turtonator-showcase-februar
- y-2026/
+ /meowth-vulpix-alolan-vulpix-showcase-february-2026/
+URL:https://leekduck.com/events/meowth-vulpix-alolan-vulpix-showcase-februa
+ ry-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20260216
-DTEND;VALUE=DATE:20260218
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260222
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Galarian Ponyta and Turtonator PokéStop Showcase
+DESCRIPTION:[PS] Meowth\, Vulpix\, and Alolan Vulpix PokéStop Showcase
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

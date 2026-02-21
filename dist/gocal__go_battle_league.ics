@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:gbl-precious-paths_great-league_love-cup-great-league-edition
-DTSTAMP:20260220T003812Z
+DTSTAMP:20260221T003820Z
 SUMMARY:[GBL] Great League and Love Cup: Great League Edition | Precious Pa
  ths
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -31,7 +31,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-precious-paths_great-league_ultra-league_master-league-mega-edition
-DTSTAMP:20260220T003812Z
+DTSTAMP:20260221T003820Z
 SUMMARY:[GBL] Great League\, Ultra League\, and Master League: Mega Edition
   | Precious Paths
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events

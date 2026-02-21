@@ -10,25 +10,19 @@ X-WR-CALDESC:All Pokémon GO Research events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-europe-international-championships-2026-timed-research-twitch-d
- rops
-DTSTAMP:20260215T004314Z
-SUMMARY:[R] Twitch Drops for 2026 Pokémon Europe International Championshi
- ps
-DESCRIPTION:Starts at 09:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-europe-international-championships-2026-timed-research-twitch-dro
- ps/
-URL:https://leekduck.com/events/pokemon-europe-international-championships-
- 2026-timed-research-twitch-drops/
+UID:go-tour-fairy-type-timed-research
+DTSTAMP:20260221T003820Z
+SUMMARY:[R] [Promo Code] GO Tour Fairy Type Timed Research
+DESCRIPTION:Starts at 19:00\, ends at 00:00.\n\nhttps://leekduck.com/events
+ /go-tour-fairy-type-timed-research/
+URL:https://leekduck.com/events/go-tour-fairy-type-timed-research/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-02-13-pokemon-europe-international-championships-2026-timed-resea
- rch-twitch-drops/euic-2026.jpg
-DTSTART;VALUE=DATE:20260213
-DTEND;VALUE=DATE:20260214
+ 026/2026-02-20-go-tour-fairy-type-timed-research/sylveon.jpg
+DTSTART;VALUE=DATE:20260219
+DTEND;VALUE=DATE:20260302
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[R] Twitch Drops for 2026 Pokémon Europe International Champio
- nships
+DESCRIPTION:[R] [Promo Code] GO Tour Fairy Type Timed Research
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
