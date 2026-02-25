@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:road-to-kalos
-DTSTAMP:20260224T003816Z
+DTSTAMP:20260225T004319Z
 SUMMARY:[E] Road to Kalos
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /road-to-kalos/
@@ -27,8 +27,76 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:tbd-march-2026-week-1
+DTSTAMP:20260225T004319Z
+SUMMARY:[E] Unannounced Event
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /tbd-march-2026-week-1/
+URL:https://leekduck.com/events/tbd-march-2026-week-1/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260309
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Unannounced Event
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tbd-march-2026-week-2
+DTSTAMP:20260225T004319Z
+SUMMARY:[E] Unannounced Event
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /tbd-march-2026-week-2/
+URL:https://leekduck.com/events/tbd-march-2026-week-2/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260316
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Unannounced Event
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bug-out-2026
+DTSTAMP:20260225T004319Z
+SUMMARY:[E] Bug Out
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /bug-out-2026/
+URL:https://leekduck.com/events/bug-out-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260323
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Bug Out
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tbd-march-2026-week-3
+DTSTAMP:20260225T004319Z
+SUMMARY:[E] Unannounced Event
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /tbd-march-2026-week-3/
+URL:https://leekduck.com/events/tbd-march-2026-week-3/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260406
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Unannounced Event
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:hatch-day-april-2026
-DTSTAMP:20260224T003816Z
+DTSTAMP:20260225T004319Z
 SUMMARY:[E] Hatch Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-april-2026/
@@ -45,7 +113,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:example_event
-DTSTAMP:20260224T003816Z
+DTSTAMP:20260225T004319Z
 SUMMARY:[E] Example Event Template (Auto ToC Demo)
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /example_event/
