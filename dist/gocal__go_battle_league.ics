@@ -10,28 +10,8 @@ X-WR-CALDESC:All Pokémon GO GO Battle League events\, in your local time\,
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:gbl-precious-paths_great-league_love-cup-great-league-edition
-DTSTAMP:20260225T004319Z
-SUMMARY:[GBL] Great League and Love Cup: Great League Edition | Precious Pa
- ths
-DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /gbl-precious-paths_great-league_love-cup-great-league-edition/
-URL:https://leekduck.com/events/gbl-precious-paths_great-league_love-cup-gr
- eat-league-edition/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattle-greatle
- ague-key.jpg
-DTSTART;VALUE=DATE:20260217
-DTEND;VALUE=DATE:20260224
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[GBL] Great League and Love Cup: Great League Edition | Preciou
- s Paths
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:gbl-precious-paths_great-league_ultra-league_master-league-mega-edition
-DTSTAMP:20260225T004319Z
+DTSTAMP:20260226T003753Z
 SUMMARY:[GBL] Great League\, Ultra League\, and Master League: Mega Edition
   | Precious Paths
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events

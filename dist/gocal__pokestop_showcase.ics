@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pikachu-showcase-february-2026-tuesday
-DTSTAMP:20260225T004319Z
-SUMMARY:[PS] Pikachu PokéStop Showcase
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pikachu-showcase-february-2026-tuesday/
-URL:https://leekduck.com/events/pikachu-showcase-february-2026-tuesday/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
- es-default.jpg
-DTSTART:20260224T100000
-DTEND:20260224T200000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PS] Pikachu PokéStop Showcase
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pikachu-showcase-february-2026-wednesday
-DTSTAMP:20260225T004319Z
+DTSTAMP:20260226T003753Z
 SUMMARY:[PS] Pikachu PokéStop Showcase
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pikachu-showcase-february-2026-wednesday/
@@ -37,6 +20,40 @@ IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
 DTSTART:20260225T100000
 DTEND:20260225T200000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PS] Pikachu PokéStop Showcase
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pikachu-showcase-february-2026-thursday
+DTSTAMP:20260226T003753Z
+SUMMARY:[PS] Pikachu PokéStop Showcase
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pikachu-showcase-february-2026-thursday/
+URL:https://leekduck.com/events/pikachu-showcase-february-2026-thursday/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
+ es-default.jpg
+DTSTART:20260226T100000
+DTEND:20260226T200000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PS] Pikachu PokéStop Showcase
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pikachu-showcase-february-2026-friday
+DTSTAMP:20260226T003753Z
+SUMMARY:[PS] Pikachu PokéStop Showcase
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pikachu-showcase-february-2026-friday/
+URL:https://leekduck.com/events/pikachu-showcase-february-2026-friday/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
+ es-default.jpg
+DTSTART:20260227T100000
+DTEND:20260227T200000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[PS] Pikachu PokéStop Showcase
