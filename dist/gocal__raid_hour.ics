@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:raidhour20260304
-DTSTAMP:20260227T004020Z
+DTSTAMP:20260228T003527Z
 SUMMARY:[RH] Articuno\, Zapdos\, and Moltres Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20260304/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20260311
-DTSTAMP:20260227T004020Z
+DTSTAMP:20260228T003527Z
 SUMMARY:[RH] Zacian (Hero of Many Battles) Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20260311/
@@ -43,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20260318
-DTSTAMP:20260227T004020Z
+DTSTAMP:20260228T003527Z
 SUMMARY:[RH] Zamazenta (Hero of Many Battles) Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20260318/
@@ -59,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20260325
-DTSTAMP:20260227T004020Z
+DTSTAMP:20260228T003527Z
 SUMMARY:[RH] Regieleki Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20260325/
