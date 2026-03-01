@@ -10,27 +10,10 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pikachu-showcase-february-2026-friday
-DTSTAMP:20260228T003527Z
-SUMMARY:[PS] Pikachu PokéStop Showcase
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pikachu-showcase-february-2026-friday/
-URL:https://leekduck.com/events/pikachu-showcase-february-2026-friday/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
- es-default.jpg
-DTSTART:20260227T100000
-DTEND:20260227T200000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[PS] Pikachu PokéStop Showcase
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:xerneas-yveltal-furfrou-showcase-pokemon-go-tour-kalos
-DTSTAMP:20260228T003527Z
+DTSTAMP:20260301T004533Z
 SUMMARY:[PS] Xerneas\, Yveltal\, and Furfrou PokéStop Showcase
-DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /xerneas-yveltal-furfrou-showcase-pokemon-go-tour-kalos/
 URL:https://leekduck.com/events/xerneas-yveltal-furfrou-showcase-pokemon-go
  -tour-kalos/
