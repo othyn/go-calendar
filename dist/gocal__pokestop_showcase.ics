@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:xerneas-yveltal-furfrou-showcase-pokemon-go-tour-kalos
-DTSTAMP:20260301T004533Z
+DTSTAMP:20260302T004009Z
 SUMMARY:[PS] Xerneas\, Yveltal\, and Furfrou PokéStop Showcase
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /xerneas-yveltal-furfrou-showcase-pokemon-go-tour-kalos/
