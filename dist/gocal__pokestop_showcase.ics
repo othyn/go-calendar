@@ -10,20 +10,19 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:xerneas-yveltal-furfrou-showcase-pokemon-go-tour-kalos
-DTSTAMP:20260302T004009Z
-SUMMARY:[PS] Xerneas\, Yveltal\, and Furfrou PokéStop Showcase
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /xerneas-yveltal-furfrou-showcase-pokemon-go-tour-kalos/
-URL:https://leekduck.com/events/xerneas-yveltal-furfrou-showcase-pokemon-go
- -tour-kalos/
+UID:pokemon-showcase-tuesday
+DTSTAMP:20260303T004047Z
+SUMMARY:[PS] Pokémon Showcase Tuesday
+DESCRIPTION:Starts at 00:00\, ends at 11:59.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-tuesday/
+URL:https://leekduck.com/events/pokemon-showcase-tuesday/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;VALUE=DATE:20260228
-DTEND;VALUE=DATE:20260301
+DTSTART:20260303T000000
+DTEND:20260303T115900
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Xerneas\, Yveltal\, and Furfrou PokéStop Showcase
+DESCRIPTION:[PS] Pokémon Showcase Tuesday
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
