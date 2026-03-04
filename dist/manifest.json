@@ -27,6 +27,10 @@
         "name": "Max Mondays",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__max_mondays.ics"
     },
+    "pokemon_go_fest": {
+        "name": "Pokémon GO Fest",
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokemon_go_fest.ics"
+    },
     "pokestop_showcase": {
         "name": "PokéStop Showcase",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokestop_showcase.ics"

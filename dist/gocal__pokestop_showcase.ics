@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-tuesday
-DTSTAMP:20260303T004047Z
+DTSTAMP:20260304T003858Z
 SUMMARY:[PS] Pokémon Showcase Tuesday
 DESCRIPTION:Starts at 00:00\, ends at 11:59.\n\nhttps://leekduck.com/events
  /pokemon-showcase-tuesday/
