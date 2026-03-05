@@ -11,10 +11,6 @@
         "name": "Everything",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal.ics"
     },
-    "go_battle_league": {
-        "name": "GO Battle League",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__go_battle_league.ics"
-    },
     "go_pass": {
         "name": "GO Pass",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__go_pass.ics"
@@ -30,10 +26,6 @@
     "pokemon_go_fest": {
         "name": "Pokémon GO Fest",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokemon_go_fest.ics"
-    },
-    "pokestop_showcase": {
-        "name": "PokéStop Showcase",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokestop_showcase.ics"
     },
     "raid_battles": {
         "name": "Raid Battles",
