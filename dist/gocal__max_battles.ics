@@ -10,8 +10,26 @@ X-WR-CALDESC:All Pokémon GO Max Battles events\, in your local time\, auto
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
+UID:gigantamax-pikachu-max-battle-day-2026
+DTSTAMP:20260310T003653Z
+SUMMARY:[MB] Gigantamax Pikachu Max Battle Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /gigantamax-pikachu-max-battle-day-2026/
+URL:https://leekduck.com/events/gigantamax-pikachu-max-battle-day-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-03-28-gigantamax-pikachu-max-battle-day-2026/gigantamax-pikachu-m
+ ax-battle-day.jpg
+DTSTART:20260328T140000
+DTEND:20260328T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MB] Gigantamax Pikachu Max Battle Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:max-battle-day-april-2026
-DTSTAMP:20260309T004051Z
+DTSTAMP:20260310T003653Z
 SUMMARY:[MB] Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-april-2026/
