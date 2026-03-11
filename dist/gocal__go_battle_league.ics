@@ -10,22 +10,264 @@ X-WR-CALDESC:All Pokémon GO GO Battle League events\, in your local time\,
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:gbl-precious-paths_great-league_ultra-league_master-league-mega-edition
-DTSTAMP:20260304T003858Z
-SUMMARY:[GBL] Great League\, Ultra League\, and Master League: Mega Edition
-  | Precious Paths
-DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /gbl-precious-paths_great-league_ultra-league_master-league-mega-edition/
-URL:https://leekduck.com/events/gbl-precious-paths_great-league_ultra-leagu
- e_master-league-mega-edition/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
- -season-25-precious-paths.jpg
-DTSTART;VALUE=DATE:20260224
-DTEND;VALUE=DATE:20260303
+UID:gbl-memories-in-motion_great-league_kanto-cup-great-league-edition
+DTSTAMP:20260311T003703Z
+SUMMARY:[GBL] Great League and Kanto Cup: Great League Edition | Memories i
+ n Motion
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-memories-in-motion_great-league_kanto-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-memories-in-motion_great-league_kanto-c
+ up-great-league-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattle-greatle
+ ague-key.jpg
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260310
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[GBL] Great League\, Ultra League\, and Master League: Mega Edi
- tion | Precious Paths
+DESCRIPTION:[GBL] Great League and Kanto Cup: Great League Edition | Memori
+ es in Motion
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-memories-in-motion_ultra-league_spring-cup-great-league-edition
+DTSTAMP:20260311T003703Z
+SUMMARY:[GBL] Ultra League and Spring Cup: Great League Edition | Memories 
+ in Motion
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-memories-in-motion_ultra-league_spring-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-memories-in-motion_ultra-league_spring-
+ cup-great-league-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
+ -ultra-league-machamp-swampert.jpg
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260317
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Ultra League and Spring Cup: Great League Edition | Memor
+ ies in Motion
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-memories-in-motion_master-league_jungle-cup-great-league-edition
+DTSTAMP:20260311T003703Z
+SUMMARY:[GBL] Master League and Jungle Cup: Great League Edition | Memories
+  in Motion
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-memories-in-motion_master-league_jungle-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-memories-in-motion_master-league_jungle
+ -cup-great-league-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattleleague-m
+ aster-key.jpg
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260324
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Master League and Jungle Cup: Great League Edition | Memo
+ ries in Motion
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-memories-in-motion_great-league_ultra-league_master-league-split-1
+DTSTAMP:20260311T003703Z
+SUMMARY:[GBL] Great League\, Ultra League\, and Master League | Memories in
+  Motion
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-memories-in-motion_great-league_ultra-league_master-league-split-1/
+URL:https://leekduck.com/events/gbl-memories-in-motion_great-league_ultra-l
+ eague_master-league-split-1/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
+ -season-26-memories-in-motion.jpg
+DTSTART;VALUE=DATE:20260324
+DTEND;VALUE=DATE:20260331
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Great League\, Ultra League\, and Master League | Memorie
+ s in Motion
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-memories-in-motion_great-league_electric-cup-great-league-edition
+DTSTAMP:20260311T003703Z
+SUMMARY:[GBL] Great League and Electric Cup: Great League Edition | Memorie
+ s in Motion
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-memories-in-motion_great-league_electric-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-memories-in-motion_great-league_electri
+ c-cup-great-league-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattle-greatle
+ ague-key.jpg
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260407
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Great League and Electric Cup: Great League Edition | Mem
+ ories in Motion
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-memories-in-motion_ultra-league_fantasy-cup-great-league-edition
+DTSTAMP:20260311T003703Z
+SUMMARY:[GBL] Ultra League and Fantasy Cup: Great League Edition | Memories
+  in Motion
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-memories-in-motion_ultra-league_fantasy-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-memories-in-motion_ultra-league_fantasy
+ -cup-great-league-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
+ -ultra-league-machamp-swampert.jpg
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260414
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Ultra League and Fantasy Cup: Great League Edition | Memo
+ ries in Motion
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-memories-in-motion_master-league_spring-cup-great-league-edition
+DTSTAMP:20260311T003703Z
+SUMMARY:[GBL] Master League and Spring Cup: Great League Edition | Memories
+  in Motion
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-memories-in-motion_master-league_spring-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-memories-in-motion_master-league_spring
+ -cup-great-league-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattleleague-m
+ aster-key.jpg
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260421
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Master League and Spring Cup: Great League Edition | Memo
+ ries in Motion
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-memories-in-motion_great-league_ultra-league_master-league-split-2
+DTSTAMP:20260311T003703Z
+SUMMARY:[GBL] Great League\, Ultra League\, and Master League | Memories in
+  Motion
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-memories-in-motion_great-league_ultra-league_master-league-split-2/
+URL:https://leekduck.com/events/gbl-memories-in-motion_great-league_ultra-l
+ eague_master-league-split-2/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
+ -season-26-memories-in-motion.jpg
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260428
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Great League\, Ultra League\, and Master League | Memorie
+ s in Motion
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-memories-in-motion_great-league_fantasy-cup-great-league-edition
+DTSTAMP:20260311T003703Z
+SUMMARY:[GBL] Great League and Fantasy Cup: Great League Edition | Memories
+  in Motion
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-memories-in-motion_great-league_fantasy-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-memories-in-motion_great-league_fantasy
+ -cup-great-league-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattle-greatle
+ ague-key.jpg
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260505
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Great League and Fantasy Cup: Great League Edition | Memo
+ ries in Motion
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-memories-in-motion_ultra-league_jungle-cup-great-league-edition
+DTSTAMP:20260311T003703Z
+SUMMARY:[GBL] Ultra League and Jungle Cup: Great League Edition | Memories 
+ in Motion
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-memories-in-motion_ultra-league_jungle-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-memories-in-motion_ultra-league_jungle-
+ cup-great-league-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
+ -ultra-league-machamp-swampert.jpg
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260512
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Ultra League and Jungle Cup: Great League Edition | Memor
+ ies in Motion
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-memories-in-motion_master-league_catch-cup-memories-in-motion-great
+ -league-edition
+DTSTAMP:20260311T003703Z
+SUMMARY:[GBL] Master League and Catch Cup: Memories in Motion: Great League
+  Edition | Memories in Motion
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-memories-in-motion_master-league_catch-cup-memories-in-motion-great-l
+ eague-edition/
+URL:https://leekduck.com/events/gbl-memories-in-motion_master-league_catch-
+ cup-memories-in-motion-great-league-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattleleague-m
+ aster-key.jpg
+DTSTART;VALUE=DATE:20260512
+DTEND;VALUE=DATE:20260519
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Master League and Catch Cup: Memories in Motion: Great Le
+ ague Edition | Memories in Motion
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-memories-in-motion_great-league_ultra-league_master-league-split-3
+DTSTAMP:20260311T003703Z
+SUMMARY:[GBL] Great League\, Ultra League\, and Master League | Memories in
+  Motion
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-memories-in-motion_great-league_ultra-league_master-league-split-3/
+URL:https://leekduck.com/events/gbl-memories-in-motion_great-league_ultra-l
+ eague_master-league-split-3/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
+ -season-26-memories-in-motion.jpg
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260526
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Great League\, Ultra League\, and Master League | Memorie
+ s in Motion
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-memories-in-motion_great-league_ultra-league_master-league-split-4
+DTSTAMP:20260311T003703Z
+SUMMARY:[GBL] Great League\, Ultra League\, and Master League | Memories in
+  Motion
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-memories-in-motion_great-league_ultra-league_master-league-split-4/
+URL:https://leekduck.com/events/gbl-memories-in-motion_great-league_ultra-l
+ eague_master-league-split-4/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
+ -season-26-memories-in-motion.jpg
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260602
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Great League\, Ultra League\, and Master League | Memorie
+ s in Motion
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

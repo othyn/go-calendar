@@ -10,43 +10,8 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-30th-anniversary-2026
-DTSTAMP:20260310T003653Z
-SUMMARY:[E] Pokémon 30th Anniversary
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-30th-anniversary-2026/
-URL:https://leekduck.com/events/pokemon-30th-anniversary-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-03-03-pokemon-30th-anniversary-2026/30th-anniversary-event.jpg
-DTSTART;VALUE=DATE:20260303
-DTEND;VALUE=DATE:20260309
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Pokémon 30th Anniversary
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pokemon-30th-anniversary-all-out-2026
-DTSTAMP:20260310T003653Z
-SUMMARY:[E] Pokémon 30th Anniversary: All Out
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-30th-anniversary-all-out-2026/
-URL:https://leekduck.com/events/pokemon-30th-anniversary-all-out-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-03-07-pokemon-30th-anniversary-all-out-2026/pokemon-30th-annivers
- ary-all-out.jpg
-DTSTART;VALUE=DATE:20260307
-DTEND;VALUE=DATE:20260309
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Pokémon 30th Anniversary: All Out
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-pokopia-celebration-event-2026
-DTSTAMP:20260310T003653Z
+DTSTAMP:20260311T003703Z
 SUMMARY:[E] Pokémon Pokopia Celebration Event
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-pokopia-celebration-event-2026/
@@ -64,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bug-out-2026
-DTSTAMP:20260310T003653Z
+DTSTAMP:20260311T003703Z
 SUMMARY:[E] Bug Out 2026
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /bug-out-2026/
@@ -81,7 +46,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a-shockingly-good-time-2026
-DTSTAMP:20260310T003653Z
+DTSTAMP:20260311T003703Z
 SUMMARY:[E] A Shockingly Good Time
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /a-shockingly-good-time-2026/
@@ -98,7 +63,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-april-2026
-DTSTAMP:20260310T003653Z
+DTSTAMP:20260311T003703Z
 SUMMARY:[E] Hatch Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-april-2026/
@@ -115,7 +80,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:example_event
-DTSTAMP:20260310T003653Z
+DTSTAMP:20260311T003703Z
 SUMMARY:[E] Example Event Template (Auto ToC Demo)
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /example_event/
