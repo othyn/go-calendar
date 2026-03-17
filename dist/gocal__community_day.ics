@@ -10,31 +10,14 @@ X-WR-CALDESC:All Pokémon GO Community Day events\, in your local time\, au
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:march-communityday2026
-DTSTAMP:20260316T004537Z
-SUMMARY:[CD] Scorbunny Community Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /march-communityday2026/
-URL:https://leekduck.com/events/march-communityday2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-03-14-march-communityday2026/scorbunny-cd-march-2026.jpg
-DTSTART:20260314T140000
-DTEND:20260314T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[CD] Scorbunny Community Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:april-communityday2026
-DTSTAMP:20260316T004537Z
+DTSTAMP:20260317T003857Z
 SUMMARY:[CD] Tinkatink Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /april-communityday2026/
 URL:https://leekduck.com/events/april-communityday2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-04-11-april-communityday2026/tinkatink-cd-april-2026.jpg
+ 026/2026-04-11-april-communityday2026/tinkatink-cd-april-2026-key.jpg
 DTSTART:20260411T140000
 DTEND:20260411T170000
 BEGIN:VALARM
@@ -45,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communityday2026
-DTSTAMP:20260316T004537Z
+DTSTAMP:20260317T003857Z
 SUMMARY:[CD] May Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /may-communityday2026/
@@ -61,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communitydayclassic2026
-DTSTAMP:20260316T004537Z
+DTSTAMP:20260317T003857Z
 SUMMARY:[CD] May Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /may-communitydayclassic2026/
