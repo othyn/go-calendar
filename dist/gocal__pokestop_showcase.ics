@@ -10,19 +10,20 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-tuesday
-DTSTAMP:20260304T003858Z
-SUMMARY:[PS] Pokémon Showcase Tuesday
-DESCRIPTION:Starts at 00:00\, ends at 11:59.\n\nhttps://leekduck.com/events
- /pokemon-showcase-tuesday/
-URL:https://leekduck.com/events/pokemon-showcase-tuesday/
+UID:pokemon-showcase-showcase-tuesday-march-2026
+DTSTAMP:20260318T004205Z
+SUMMARY:[PS] Showcase Tuesday PokéStop Showcases – March 17
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-showcase-tuesday-march-2026/
+URL:https://leekduck.com/events/pokemon-showcase-showcase-tuesday-march-202
+ 6/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART:20260303T000000
-DTEND:20260303T115900
+DTSTART:20260317T100000
+DTEND:20260317T200000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PS] Pokémon Showcase Tuesday
+DESCRIPTION:[PS] Showcase Tuesday PokéStop Showcases – March 17
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

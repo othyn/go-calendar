@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Max Mondays events\, in your local time\, auto
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:max-mondays-2026-03-16
-DTSTAMP:20260317T003857Z
-SUMMARY:[MM] Dynamax Falinks during Max Monday
-DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /max-mondays-2026-03-16/
-URL:https://leekduck.com/events/max-mondays-2026-03-16/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
- o.jpg
-DTSTART:20260316T060000
-DTEND:20260316T210000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[MM] Dynamax Falinks during Max Monday
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:max-mondays-2026-03-23
-DTSTAMP:20260317T003857Z
+DTSTAMP:20260318T004205Z
 SUMMARY:[MM] Dynamax Regice during Max Monday
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-03-23/
@@ -45,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-03-30
-DTSTAMP:20260317T003857Z
+DTSTAMP:20260318T004205Z
 SUMMARY:[MM] Dynamax Woobat during Max Monday
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-03-30/

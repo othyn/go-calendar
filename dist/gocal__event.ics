@@ -10,26 +10,8 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-pokopia-celebration-event-2026
-DTSTAMP:20260317T003857Z
-SUMMARY:[E] Pokémon Pokopia Celebration Event
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-pokopia-celebration-event-2026/
-URL:https://leekduck.com/events/pokemon-pokopia-celebration-event-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-03-10-pokemon-pokopia-celebration-event-2026/pokopia-celebration-
- event.jpg
-DTSTART;VALUE=DATE:20260310
-DTEND;VALUE=DATE:20260316
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Pokémon Pokopia Celebration Event
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:bug-out-2026
-DTSTAMP:20260317T003857Z
+DTSTAMP:20260318T004205Z
 SUMMARY:[E] Bug Out 2026
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /bug-out-2026/
@@ -46,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a-shockingly-good-time-2026
-DTSTAMP:20260317T003857Z
+DTSTAMP:20260318T004205Z
 SUMMARY:[E] A Shockingly Good Time
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /a-shockingly-good-time-2026/
@@ -63,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-april-2026
-DTSTAMP:20260317T003857Z
+DTSTAMP:20260318T004205Z
 SUMMARY:[E] Hatch Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-april-2026/
@@ -80,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:example_event
-DTSTAMP:20260317T003857Z
+DTSTAMP:20260318T004205Z
 SUMMARY:[E] Example Event Template (Auto ToC Demo)
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /example_event/
