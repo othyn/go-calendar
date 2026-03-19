@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-showcase-showcase-tuesday-march-2026
-DTSTAMP:20260318T004205Z
+DTSTAMP:20260319T004216Z
 SUMMARY:[PS] Showcase Tuesday PokéStop Showcases – March 17
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-showcase-tuesday-march-2026/
