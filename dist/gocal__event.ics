@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:bug-out-2026
-DTSTAMP:20260319T004216Z
+DTSTAMP:20260320T004026Z
 SUMMARY:[E] Bug Out 2026
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /bug-out-2026/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a-shockingly-good-time-2026
-DTSTAMP:20260319T004216Z
+DTSTAMP:20260320T004026Z
 SUMMARY:[E] A Shockingly Good Time
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /a-shockingly-good-time-2026/
@@ -45,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-april-2026
-DTSTAMP:20260319T004216Z
+DTSTAMP:20260320T004026Z
 SUMMARY:[E] Hatch Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-april-2026/
@@ -61,8 +61,42 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:sustainability-week-2026
+DTSTAMP:20260320T004026Z
+SUMMARY:[E] Sustainability Week 2026
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /sustainability-week-2026/
+URL:https://leekduck.com/events/sustainability-week-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260420
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Sustainability Week 2026
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:steeled-resolve-2026
+DTSTAMP:20260320T004026Z
+SUMMARY:[E] Steeled Resolve
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /steeled-resolve-2026/
+URL:https://leekduck.com/events/steeled-resolve-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260504
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Steeled Resolve
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:example_event
-DTSTAMP:20260319T004216Z
+DTSTAMP:20260320T004026Z
 SUMMARY:[E] Example Event Template (Auto ToC Demo)
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /example_event/
