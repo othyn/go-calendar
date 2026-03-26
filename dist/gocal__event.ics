@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:a-shockingly-good-time-2026
-DTSTAMP:20260325T004144Z
+DTSTAMP:20260326T004427Z
 SUMMARY:[E] A Shockingly Good Time
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /a-shockingly-good-time-2026/
@@ -27,25 +27,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:hatch-day-april-2026
-DTSTAMP:20260325T004144Z
-SUMMARY:[E] Hatch Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /hatch-day-april-2026/
-URL:https://leekduck.com/events/hatch-day-april-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-DTSTART:20260418T140000
+UID:replay-riolu-hatch-day-2026
+DTSTAMP:20260326T004427Z
+SUMMARY:[E] Replay: Riolu Hatch Day
+DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /replay-riolu-hatch-day-2026/
+URL:https://leekduck.com/events/replay-riolu-hatch-day-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-04-18-replay-riolu-hatch-day-2026/replay-riolu-hatch-day-2026.jpg
+DTSTART:20260418T110000
 DTEND:20260418T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Hatch Day
+DESCRIPTION:[E] Replay: Riolu Hatch Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sustainability-week-2026
-DTSTAMP:20260325T004144Z
+DTSTAMP:20260326T004427Z
 SUMMARY:[E] Sustainability Week 2026
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /sustainability-week-2026/
@@ -62,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:steeled-resolve-2026
-DTSTAMP:20260325T004144Z
+DTSTAMP:20260326T004427Z
 SUMMARY:[E] Steeled Resolve
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /steeled-resolve-2026/
@@ -79,7 +79,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:example_event
-DTSTAMP:20260325T004144Z
+DTSTAMP:20260326T004427Z
 SUMMARY:[E] Example Event Template (Auto ToC Demo)
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /example_event/
