@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Day events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:fashion-raid-day-2026
-DTSTAMP:20260405T004817Z
-SUMMARY:[RD] Fashion Raid Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /fashion-raid-day-2026/
-URL:https://leekduck.com/events/fashion-raid-day-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-04-04-fashion-raid-day-2026/fashion-week-2026.jpg
-DTSTART:20260404T140000
-DTEND:20260404T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RD] Fashion Raid Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:shadow-raid-day-may-2026
-DTSTAMP:20260405T004817Z
+DTSTAMP:20260406T004724Z
 SUMMARY:[RD] Shadow Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /shadow-raid-day-may-2026/
@@ -45,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-may-2026
-DTSTAMP:20260405T004817Z
+DTSTAMP:20260406T004724Z
 SUMMARY:[RD] Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-may-2026/
