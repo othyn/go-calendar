@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:season-22-memories-in-motion
-DTSTAMP:20260406T004724Z
+DTSTAMP:20260407T004615Z
 SUMMARY:[S] Memories in Motion
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-22-memories-in-motion/
