@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:sustainability-week-2026
-DTSTAMP:20260421T005116Z
-SUMMARY:[E] Sustainability Week 2026
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /sustainability-week-2026/
-URL:https://leekduck.com/events/sustainability-week-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-04-14-sustainability-week-2026/sustainability-week-2026.jpg
-DTSTART;VALUE=DATE:20260414
-DTEND;VALUE=DATE:20260420
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Sustainability Week 2026
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:steeled-resolve-2026
-DTSTAMP:20260421T005116Z
+DTSTAMP:20260422T004756Z
 SUMMARY:[E] Steeled Resolve
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /steeled-resolve-2026/
@@ -45,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:steeled-resolve-taken-over-2026
-DTSTAMP:20260421T005116Z
+DTSTAMP:20260422T004756Z
 SUMMARY:[E] Steeled Resolve: Taken Over
 DESCRIPTION:Starts at 00:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /steeled-resolve-taken-over-2026/
@@ -63,24 +46,24 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:spring-marathon-2026
-DTSTAMP:20260421T005116Z
-SUMMARY:[E] Spring Marathon
+DTSTAMP:20260422T004756Z
+SUMMARY:[E] Spring Marathon 2026
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /spring-marathon-2026/
 URL:https://leekduck.com/events/spring-marathon-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-05-12-spring-marathon-2026/spring-marathon-2026.jpg
 DTSTART;VALUE=DATE:20260512
 DTEND;VALUE=DATE:20260518
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Spring Marathon
+DESCRIPTION:[E] Spring Marathon 2026
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:example_event
-DTSTAMP:20260421T005116Z
+DTSTAMP:20260422T004756Z
 SUMMARY:[E] Example Event Template (Auto ToC Demo)
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /example_event/
