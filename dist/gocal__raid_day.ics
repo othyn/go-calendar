@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Day events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:shadow-entei-raid-day-may-2026
-DTSTAMP:20260503T005921Z
-SUMMARY:[RD] Shadow Entei Raid Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /shadow-entei-raid-day-may-2026/
-URL:https://leekduck.com/events/shadow-entei-raid-day-may-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-05-02-shadow-entei-raid-day-may-2026/shadow-entei-raid-day.jpg
-DTSTART:20260502T140000
-DTEND:20260502T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RD] Shadow Entei Raid Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:falinks-super-mega-raid-day-2026
-DTSTAMP:20260503T005921Z
+DTSTAMP:20260504T005743Z
 SUMMARY:[RD] Falinks Super Mega Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /falinks-super-mega-raid-day-2026/
@@ -46,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-june-2026
-DTSTAMP:20260503T005921Z
+DTSTAMP:20260504T005743Z
 SUMMARY:[RD] Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-june-2026/
@@ -63,7 +46,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-august-2026
-DTSTAMP:20260503T005921Z
+DTSTAMP:20260504T005743Z
 SUMMARY:[RD] Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-august-2026/
