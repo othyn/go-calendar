@@ -10,20 +10,20 @@ X-WR-CALDESC:All Pokémon GO Timed Research events\, in your local time\, a
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:best-friends-forever-timed-research
-DTSTAMP:20251230T003222Z
-SUMMARY:[TR] Best Friends Forever Timed Research
+UID:choose-your-path-timed-research
+DTSTAMP:20260505T005222Z
+SUMMARY:[TR] Choose Your Path Timed Research
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /best-friends-forever-timed-research/
-URL:https://leekduck.com/events/best-friends-forever-timed-research/
+ /choose-your-path-timed-research/
+URL:https://leekduck.com/events/choose-your-path-timed-research/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-12-15-best-friends-forever-timed-research/best-friends-forever.jp
- g
-DTSTART;VALUE=DATE:20251215
-DTEND;VALUE=DATE:20251229
+ 026/2026-05-05-choose-your-path-timed-research/choose-your-path-evergreen.
+ jpg
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260512
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[TR] Best Friends Forever Timed Research
+DESCRIPTION:[TR] Choose Your Path Timed Research
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
