@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:choose-your-path-timed-research
-DTSTAMP:20260510T010057Z
+DTSTAMP:20260511T010043Z
 SUMMARY:[TR] Choose Your Path Timed Research
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /choose-your-path-timed-research/
