@@ -10,20 +10,20 @@ X-WR-CALDESC:All Pokémon GO Timed Research events\, in your local time\, a
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:choose-your-path-timed-research
-DTSTAMP:20260513T005946Z
-SUMMARY:[TR] Choose Your Path Timed Research
+UID:choose-your-path-timed-research-2026-05-19
+DTSTAMP:20260520T010504Z
+SUMMARY:[TR] Choose Your Path Timed Research (May 19\, 2026)
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /choose-your-path-timed-research/
-URL:https://leekduck.com/events/choose-your-path-timed-research/
+ /choose-your-path-timed-research-2026-05-19/
+URL:https://leekduck.com/events/choose-your-path-timed-research-2026-05-19/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-05-05-choose-your-path-timed-research/choose-your-path-evergreen.
- jpg
-DTSTART;VALUE=DATE:20260505
-DTEND;VALUE=DATE:20260512
+ 026/2026-05-19-choose-your-path-timed-research-2026-05-19/choose-your-path
+ -evergreen-2026-05-19.jpg
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260526
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[TR] Choose Your Path Timed Research
+DESCRIPTION:[TR] Choose Your Path Timed Research (May 19\, 2026)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
