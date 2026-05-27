@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:season-22-memories-in-motion
-DTSTAMP:20260526T010138Z
+DTSTAMP:20260527T010512Z
 SUMMARY:[S] Memories in Motion
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-22-memories-in-motion/
@@ -24,6 +24,23 @@ DTEND;VALUE=DATE:20260602
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[S] Memories in Motion
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:season-23-forever-forward
+DTSTAMP:20260527T010512Z
+SUMMARY:[S] Forever Forward
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /season-23-forever-forward/
+URL:https://leekduck.com/events/season-23-forever-forward/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-06-02-season-23-forever-forward/season-23-forever-forward.jpg
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260908
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[S] Forever Forward
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

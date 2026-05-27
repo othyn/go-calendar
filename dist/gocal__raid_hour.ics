@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:raidhour20260527
-DTSTAMP:20260526T010138Z
+DTSTAMP:20260527T010512Z
 SUMMARY:[RH] Tapu Fini Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20260527/
@@ -22,6 +22,70 @@ DTEND:20260527T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RH] Tapu Fini Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260603
+DTSTAMP:20260527T010512Z
+SUMMARY:[RH] Reshiram Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20260603/
+URL:https://leekduck.com/events/raidhour20260603/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20260603T180000
+DTEND:20260603T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Reshiram Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260610
+DTSTAMP:20260527T010512Z
+SUMMARY:[RH] Zekrom Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20260610/
+URL:https://leekduck.com/events/raidhour20260610/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20260610T180000
+DTEND:20260610T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Zekrom Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260617
+DTSTAMP:20260527T010512Z
+SUMMARY:[RH] Necrozma Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20260617/
+URL:https://leekduck.com/events/raidhour20260617/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20260617T180000
+DTEND:20260617T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Necrozma Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260624
+DTSTAMP:20260527T010512Z
+SUMMARY:[RH] Celesteela and Kartana Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20260624/
+URL:https://leekduck.com/events/raidhour20260624/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20260624T180000
+DTEND:20260624T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Celesteela and Kartana Raid Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
