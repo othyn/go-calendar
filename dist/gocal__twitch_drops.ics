@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:spatie/icalendar-generator
+NAME:GO Calendar - Twitch Drops (TD)
+X-WR-CALNAME:GO Calendar - Twitch Drops (TD)
+DESCRIPTION:All Pokémon GO Twitch Drops events\, in your local time\, auto
+ -updated and sourced from Leek Duck.
+X-WR-CALDESC:All Pokémon GO Twitch Drops events\, in your local time\, aut
+ o-updated and sourced from Leek Duck.
+REFRESH-INTERVAL;VALUE=DURATION:PT1440M
+X-PUBLISHED-TTL:PT1440M
+BEGIN:VEVENT
+UID:pokemon-go-fest-2026-chicago-twitch-drops
+DTSTAMP:20260604T011725Z
+SUMMARY:[TD] Twitch Drops for Pokémon GO Fest 2026: Chicago
+DESCRIPTION:Starts at 15:00\, ends at 06:59.\n\nhttps://leekduck.com/events
+ /pokemon-go-fest-2026-chicago-twitch-drops/
+URL:https://leekduck.com/events/pokemon-go-fest-2026-chicago-twitch-drops/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-06-07-pokemon-go-fest-2026-chicago-twitch-drops/pokemon-go-fest-c
+ hicago.jpg
+DTSTART:20260607T150000
+DTEND:20260608T065900
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[TD] Twitch Drops for Pokémon GO Fest 2026: Chicago
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

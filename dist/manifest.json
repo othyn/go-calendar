@@ -39,12 +39,12 @@
         "name": "Raid Hour",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__raid_hour.ics"
     },
-    "research": {
-        "name": "Research",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__research.ics"
-    },
     "season": {
         "name": "Season",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__season.ics"
+    },
+    "twitch_drops": {
+        "name": "Twitch Drops",
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__twitch_drops.ics"
     }
 }
