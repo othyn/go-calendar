@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-go-fest-2026-chicago-twitch-drops
-DTSTAMP:20260605T010756Z
+DTSTAMP:20260606T010353Z
 SUMMARY:[TD] Twitch Drops for Pokémon GO Fest 2026: Chicago
 DESCRIPTION:Starts at 15:00\, ends at 06:59.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2026-chicago-twitch-drops/
