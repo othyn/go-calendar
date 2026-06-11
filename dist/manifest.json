@@ -1,4 +1,8 @@
 {
+    "choose_your_path": {
+        "name": "Choose Your Path",
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__choose_your_path.ics"
+    },
     "community_day": {
         "name": "Community Day",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__community_day.ics"
@@ -26,6 +30,10 @@
     "pokemon_go_fest": {
         "name": "Pokémon GO Fest",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokemon_go_fest.ics"
+    },
+    "pokemon_spotlight_hour": {
+        "name": "Pokémon Spotlight Hour",
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokemon_spotlight_hour.ics"
     },
     "raid_battles": {
         "name": "Raid Battles",

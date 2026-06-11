@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:spatie/icalendar-generator
+NAME:GO Calendar - Choose Your Path (CYP)
+X-WR-CALNAME:GO Calendar - Choose Your Path (CYP)
+DESCRIPTION:All Pokémon GO Choose Your Path events\, in your local time\, 
+ auto-updated and sourced from Leek Duck.
+X-WR-CALDESC:All Pokémon GO Choose Your Path events\, in your local time\,
+  auto-updated and sourced from Leek Duck.
+REFRESH-INTERVAL;VALUE=DURATION:PT1440M
+X-PUBLISHED-TTL:PT1440M
+BEGIN:VEVENT
+UID:choose-your-path-fossil-fun-2026
+DTSTAMP:20260611T010956Z
+SUMMARY:[CYP] Choose Your Path: Fossil Fun
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /choose-your-path-fossil-fun-2026/
+URL:https://leekduck.com/events/choose-your-path-fossil-fun-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/choose-your-path
+ -evergreen.jpg
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260621
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[CYP] Choose Your Path: Fossil Fun
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:choose-your-path-charged-embers-2026
+DTSTAMP:20260611T010956Z
+SUMMARY:[CYP] Choose Your Path: Charged Embers
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /choose-your-path-charged-embers-2026/
+URL:https://leekduck.com/events/choose-your-path-charged-embers-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/choose-your-path
+ -evergreen.jpg
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260703
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[CYP] Choose Your Path: Charged Embers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:choose-your-path-fairy-trail-2026
+DTSTAMP:20260611T010956Z
+SUMMARY:[CYP] Choose Your Path: Fairy Trail
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /choose-your-path-fairy-trail-2026/
+URL:https://leekduck.com/events/choose-your-path-fairy-trail-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/choose-your-path
+ -evergreen.jpg
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260803
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[CYP] Choose Your Path: Fairy Trail
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:choose-your-path-venom-and-vines-2026
+DTSTAMP:20260611T010956Z
+SUMMARY:[CYP] Choose Your Path: Venom and Vines
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /choose-your-path-venom-and-vines-2026/
+URL:https://leekduck.com/events/choose-your-path-venom-and-vines-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/choose-your-path
+ -evergreen.jpg
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260817
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[CYP] Choose Your Path: Venom and Vines
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
