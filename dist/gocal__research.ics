@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:naic-2026-timed-research-twitch-drops
-DTSTAMP:20260614T011324Z
+DTSTAMP:20260615T011612Z
 SUMMARY:[R] Twitch Drops for 2026 Pokémon North American International Cha
  mpionships
 DESCRIPTION:Starts at 14:00\, ends at 02:59.\n\nhttps://leekduck.com/events
