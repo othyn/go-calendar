@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:june-communityday2026
-DTSTAMP:20260616T011808Z
+DTSTAMP:20260617T011317Z
 SUMMARY:[CD] Frigibax Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /june-communityday2026/
@@ -28,8 +28,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:july-communityday2026
-DTSTAMP:20260616T011808Z
-SUMMARY:[CD] July Community Day
+DTSTAMP:20260617T011317Z
+SUMMARY:[CD] Sobble Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /july-communityday2026/
 URL:https://leekduck.com/events/july-communityday2026/
@@ -38,13 +38,13 @@ DTSTART:20260704T140000
 DTEND:20260704T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[CD] July Community Day
+DESCRIPTION:[CD] Sobble Community Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:august-communityday2026
-DTSTAMP:20260616T011808Z
+DTSTAMP:20260617T011317Z
 SUMMARY:[CD] August Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /august-communityday2026/
