@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:raidhour20260624
-DTSTAMP:20260622T011526Z
+DTSTAMP:20260623T010222Z
 SUMMARY:[RH] Celesteela and Kartana Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20260624/
@@ -22,6 +22,70 @@ DTEND:20260624T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RH] Celesteela and Kartana Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260701
+DTSTAMP:20260623T010222Z
+SUMMARY:[RH] Articuno\, Zapdos\, and Moltres Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20260701/
+URL:https://leekduck.com/events/raidhour20260701/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20260701T180000
+DTEND:20260701T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Articuno\, Zapdos\, and Moltres Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260715
+DTSTAMP:20260623T010222Z
+SUMMARY:[RH] Kyogre Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20260715/
+URL:https://leekduck.com/events/raidhour20260715/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20260715T180000
+DTEND:20260715T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Kyogre Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260722
+DTSTAMP:20260623T010222Z
+SUMMARY:[RH] Solgaleo Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20260722/
+URL:https://leekduck.com/events/raidhour20260722/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20260722T180000
+DTEND:20260722T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Solgaleo Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260729
+DTSTAMP:20260623T010222Z
+SUMMARY:[RH] Kyurem Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20260729/
+URL:https://leekduck.com/events/raidhour20260729/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20260729T180000
+DTEND:20260729T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Kyurem Raid Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
