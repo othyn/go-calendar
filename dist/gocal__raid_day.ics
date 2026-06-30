@@ -10,26 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Day events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:skarmory-super-mega-raid-day-2026
-DTSTAMP:20260629T010854Z
-SUMMARY:[RD] Skarmory Super Mega Raid Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /skarmory-super-mega-raid-day-2026/
-URL:https://leekduck.com/events/skarmory-super-mega-raid-day-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-06-27-skarmory-super-mega-raid-day-2026/skarmory-super-mega-raid-
- day-2026.jpg
-DTSTART:20260627T140000
-DTEND:20260627T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RD] Skarmory Super Mega Raid Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raichu-super-mega-raid-day-2026
-DTSTAMP:20260629T010854Z
+DTSTAMP:20260630T010422Z
 SUMMARY:[RD] Raichu Super Mega Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raichu-super-mega-raid-day-2026/
@@ -47,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-august-2026
-DTSTAMP:20260629T010854Z
+DTSTAMP:20260630T010422Z
 SUMMARY:[RD] Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-august-2026/
