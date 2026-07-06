@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Community Day events\, in your local time\, au
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:july-communityday2026
-DTSTAMP:20260705T035429Z
-SUMMARY:[CD] Sobble Community Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /july-communityday2026/
-URL:https://leekduck.com/events/july-communityday2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-07-04-july-communityday2026/sobble-july-cd-2026.jpg
-DTSTART:20260704T140000
-DTEND:20260704T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[CD] Sobble Community Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:august-communityday2026
-DTSTAMP:20260705T035429Z
+DTSTAMP:20260706T040103Z
 SUMMARY:[CD] August Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /august-communityday2026/
