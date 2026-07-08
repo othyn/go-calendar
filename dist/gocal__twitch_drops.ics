@@ -10,20 +10,21 @@ X-WR-CALDESC:All Pokémon GO Twitch Drops events\, in your local time\, aut
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-go-fest-2026-chicago-twitch-drops
-DTSTAMP:20260608T011121Z
-SUMMARY:[TD] Twitch Drops for Pokémon GO Fest 2026: Chicago
-DESCRIPTION:Starts at 15:00\, ends at 06:59.\n\nhttps://leekduck.com/events
- /pokemon-go-fest-2026-chicago-twitch-drops/
-URL:https://leekduck.com/events/pokemon-go-fest-2026-chicago-twitch-drops/
+UID:pokemon-go-10th-anniversary-celebration-twitch-drops
+DTSTAMP:20260708T031847Z
+SUMMARY:[TD] Twitch Drops for Pokémon GO 10th Anniversary Celebration
+DESCRIPTION:Starts at 22:30\, ends at 01:30.\n\nhttps://leekduck.com/events
+ /pokemon-go-10th-anniversary-celebration-twitch-drops/
+URL:https://leekduck.com/events/pokemon-go-10th-anniversary-celebration-twi
+ tch-drops/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-06-07-pokemon-go-fest-2026-chicago-twitch-drops/pokemon-go-fest-c
- hicago.jpg
-DTSTART:20260607T150000
-DTEND:20260608T065900
+ 026/2026-07-09-pokemon-go-10th-anniversary-celebration-twitch-drops/reward
+ s.jpg
+DTSTART:20260709T223000
+DTEND:20260710T013000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[TD] Twitch Drops for Pokémon GO Fest 2026: Chicago
+DESCRIPTION:[TD] Twitch Drops for Pokémon GO 10th Anniversary Celebration
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
