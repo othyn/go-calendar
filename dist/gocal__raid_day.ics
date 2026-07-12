@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:raichu-super-mega-raid-day-2026
-DTSTAMP:20260711T031326Z
+DTSTAMP:20260712T032503Z
 SUMMARY:[RD] Raichu Super Mega Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raichu-super-mega-raid-day-2026/
@@ -29,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-august-2026
-DTSTAMP:20260711T031326Z
+DTSTAMP:20260712T032503Z
 SUMMARY:[RD] Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-august-2026/

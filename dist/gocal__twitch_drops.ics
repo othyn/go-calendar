@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-go-10th-anniversary-celebration-twitch-drops
-DTSTAMP:20260711T031326Z
+DTSTAMP:20260712T032503Z
 SUMMARY:[TD] Twitch Drops for Pokémon GO 10th Anniversary Celebration
 DESCRIPTION:Starts at 07:00\, ends at 06:58.\n\nhttps://leekduck.com/events
  /pokemon-go-10th-anniversary-celebration-twitch-drops/
