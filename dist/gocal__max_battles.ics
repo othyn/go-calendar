@@ -10,19 +10,20 @@ X-WR-CALDESC:All Pokémon GO Max Battles events\, in your local time\, auto
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:replay-go-bigger-2026
-DTSTAMP:20260427T005408Z
-SUMMARY:[MB] Replay: GO Bigger
+UID:gigantamax-rillaboom-max-battle-day-2026
+DTSTAMP:20260715T024902Z
+SUMMARY:[MB] Gigantamax Rillaboom Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /replay-go-bigger-2026/
-URL:https://leekduck.com/events/replay-go-bigger-2026/
+ /gigantamax-rillaboom-max-battle-day-2026/
+URL:https://leekduck.com/events/gigantamax-rillaboom-max-battle-day-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-04-25-replay-go-bigger-2026/replay-go-bigger-2026.jpg
-DTSTART:20260425T140000
-DTEND:20260425T170000
+ 026/2026-08-01-gigantamax-rillaboom-max-battle-day-2026/gigantamax-rillabo
+ om-max-battle-day.jpg
+DTSTART:20260801T140000
+DTEND:20260801T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[MB] Replay: GO Bigger
+DESCRIPTION:[MB] Gigantamax Rillaboom Max Battle Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

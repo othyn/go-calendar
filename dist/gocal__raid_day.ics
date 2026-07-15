@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:raichu-super-mega-raid-day-2026
-DTSTAMP:20260714T025017Z
+DTSTAMP:20260715T024902Z
 SUMMARY:[RD] Raichu Super Mega Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raichu-super-mega-raid-day-2026/
@@ -28,19 +28,20 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:raid-day-august-2026
-DTSTAMP:20260714T025017Z
-SUMMARY:[RD] Raid Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /raid-day-august-2026/
-URL:https://leekduck.com/events/raid-day-august-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-DTSTART:20260822T140000
+UID:starmie-super-mega-raid-day-2026
+DTSTAMP:20260715T024902Z
+SUMMARY:[RD] Starmie Super Mega Raid Day
+DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /starmie-super-mega-raid-day-2026/
+URL:https://leekduck.com/events/starmie-super-mega-raid-day-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-08-22-starmie-super-mega-raid-day-2026/starmie-super-mega-raid-da
+ y-2026.jpg
+DTSTART:20260822T110000
 DTEND:20260822T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RD] Raid Day
+DESCRIPTION:[RD] Starmie Super Mega Raid Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
