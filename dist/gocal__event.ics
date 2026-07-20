@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:special-anniversary-pikachu-celebration-2026
-DTSTAMP:20260719T032111Z
+DTSTAMP:20260720T033518Z
 SUMMARY:[E] Special Anniversary Pikachu Celebration
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /special-anniversary-pikachu-celebration-2026/
@@ -30,7 +30,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:happy-birthday-professor-willow-2026
-DTSTAMP:20260719T032111Z
+DTSTAMP:20260720T033518Z
 SUMMARY:[E] Happy Birthday\, Professor Willow!
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /happy-birthday-professor-willow-2026/
@@ -48,7 +48,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ozone-ascent-2026
-DTSTAMP:20260719T032111Z
+DTSTAMP:20260720T033518Z
 SUMMARY:[E] Ozone Ascent
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /ozone-ascent-2026/
@@ -65,7 +65,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ultra-unlock-10th-anniversary-edition
-DTSTAMP:20260719T032111Z
+DTSTAMP:20260720T033518Z
 SUMMARY:[E] Ultra Unlock: 10th Anniversary Edition
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /ultra-unlock-10th-anniversary-edition/
@@ -83,7 +83,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fire-and-ice-hatch-day-2026
-DTSTAMP:20260719T032111Z
+DTSTAMP:20260720T033518Z
 SUMMARY:[E] Fire and Ice Hatch Day
 DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /fire-and-ice-hatch-day-2026/
@@ -100,7 +100,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-marathon-2026
-DTSTAMP:20260719T032111Z
+DTSTAMP:20260720T033518Z
 SUMMARY:[E] Summer Marathon: Arctic Embers
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /summer-marathon-2026/
@@ -117,7 +117,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:water-festival-2026
-DTSTAMP:20260719T032111Z
+DTSTAMP:20260720T033518Z
 SUMMARY:[E] Ultra Unlock: Water Festival
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /water-festival-2026/
