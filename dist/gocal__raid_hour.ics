@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:raidhour20260722
-DTSTAMP:20260722T031447Z
+DTSTAMP:20260723T032023Z
 SUMMARY:[RH] Solgaleo Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20260722/
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20260729
-DTSTAMP:20260722T031447Z
+DTSTAMP:20260723T032023Z
 SUMMARY:[RH] Kyurem Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20260729/
@@ -38,6 +38,86 @@ DTEND:20260729T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RH] Kyurem Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260805
+DTSTAMP:20260723T032023Z
+SUMMARY:[RH] Uxie\, Mesprit\, and Azelf Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20260805/
+URL:https://leekduck.com/events/raidhour20260805/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20260805T180000
+DTEND:20260805T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Uxie\, Mesprit\, and Azelf Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260812
+DTSTAMP:20260723T032023Z
+SUMMARY:[RH] Groudon Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20260812/
+URL:https://leekduck.com/events/raidhour20260812/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20260812T180000
+DTEND:20260812T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Groudon Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260819
+DTSTAMP:20260723T032023Z
+SUMMARY:[RH] Lunala Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20260819/
+URL:https://leekduck.com/events/raidhour20260819/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20260819T180000
+DTEND:20260819T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Lunala Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260826
+DTSTAMP:20260723T032023Z
+SUMMARY:[RH] Regirock\, Regice\, and Registeel Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20260826/
+URL:https://leekduck.com/events/raidhour20260826/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20260826T180000
+DTEND:20260826T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Regirock\, Regice\, and Registeel Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260902
+DTSTAMP:20260723T032023Z
+SUMMARY:[RH] Regirock\, Regice\, and Registeel Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20260902/
+URL:https://leekduck.com/events/raidhour20260902/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20260902T180000
+DTEND:20260902T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Regirock\, Regice\, and Registeel Raid Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

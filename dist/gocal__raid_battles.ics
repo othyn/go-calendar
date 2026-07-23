@@ -10,40 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Battles events\, in your local time\, aut
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:kyogre-in-5-star-raid-battles-july-2026
-DTSTAMP:20260722T031447Z
-SUMMARY:[RB] Kyogre in 5-star Raid Battles
-DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
- /kyogre-in-5-star-raid-battles-july-2026/
-URL:https://leekduck.com/events/kyogre-in-5-star-raid-battles-july-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/kyogre.jpg
-DTSTART;VALUE=DATE:20260715
-DTEND;VALUE=DATE:20260721
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Kyogre in 5-star Raid Battles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:mega-sceptile-in-mega-raids-july-2026
-DTSTAMP:20260722T031447Z
-SUMMARY:[RB] Mega Sceptile in Mega Raids
-DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
- /mega-sceptile-in-mega-raids-july-2026/
-URL:https://leekduck.com/events/mega-sceptile-in-mega-raids-july-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;VALUE=DATE:20260715
-DTEND;VALUE=DATE:20260721
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Mega Sceptile in Mega Raids
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:mega-salamence-in-mega-raids-july-2026
-DTSTAMP:20260722T031447Z
+DTSTAMP:20260723T032023Z
 SUMMARY:[RB] Mega Salamence in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /mega-salamence-in-mega-raids-july-2026/
@@ -59,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solgaleo-in-5-star-raid-battles-july-2026
-DTSTAMP:20260722T031447Z
+DTSTAMP:20260723T032023Z
 SUMMARY:[RB] Solgaleo in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /solgaleo-in-5-star-raid-battles-july-2026/
@@ -75,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-palkia-in-shadow-raids-july-2026
-DTSTAMP:20260722T031447Z
+DTSTAMP:20260723T032023Z
 SUMMARY:[RB] Shadow Palkia in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-palkia-in-shadow-raids-july-2026/
@@ -92,7 +60,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:kyurem-in-5-star-raid-battles-july-2026
-DTSTAMP:20260722T031447Z
+DTSTAMP:20260723T032023Z
 SUMMARY:[RB] Kyurem in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /kyurem-in-5-star-raid-battles-july-2026/
@@ -108,7 +76,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-aggron-in-mega-raids-july-2026
-DTSTAMP:20260722T031447Z
+DTSTAMP:20260723T032023Z
 SUMMARY:[RB] Mega Aggron in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /mega-aggron-in-mega-raids-july-2026/
@@ -119,6 +87,158 @@ DTEND;VALUE=DATE:20260804
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RB] Mega Aggron in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-blaziken-in-mega-raids-august-2026
+DTSTAMP:20260723T032023Z
+SUMMARY:[RB] Mega Blaziken in Mega Raids
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /mega-blaziken-in-mega-raids-august-2026/
+URL:https://leekduck.com/events/mega-blaziken-in-mega-raids-august-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260811
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Mega Blaziken in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uxie-mesprit-azelf-in-5-star-raid-battles-august-2026
+DTSTAMP:20260723T032023Z
+SUMMARY:[RB] Uxie\, Mesprit\, and Azelf in 5-star Raid Battles
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /uxie-mesprit-azelf-in-5-star-raid-battles-august-2026/
+URL:https://leekduck.com/events/uxie-mesprit-azelf-in-5-star-raid-battles-a
+ ugust-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260811
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Uxie\, Mesprit\, and Azelf in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:groudon-in-5-star-raid-battles-august-2026
+DTSTAMP:20260723T032023Z
+SUMMARY:[RB] Groudon in 5-star Raid Battles
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /groudon-in-5-star-raid-battles-august-2026/
+URL:https://leekduck.com/events/groudon-in-5-star-raid-battles-august-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260818
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Groudon in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-garchomp-in-mega-raids-august-2026
+DTSTAMP:20260723T032023Z
+SUMMARY:[RB] Mega Garchomp in Mega Raids
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /mega-garchomp-in-mega-raids-august-2026/
+URL:https://leekduck.com/events/mega-garchomp-in-mega-raids-august-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260818
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Mega Garchomp in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lunala-in-5-star-raid-battles-august-2026
+DTSTAMP:20260723T032023Z
+SUMMARY:[RB] Lunala in 5-star Raid Battles
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /lunala-in-5-star-raid-battles-august-2026/
+URL:https://leekduck.com/events/lunala-in-5-star-raid-battles-august-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260825
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Lunala in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-swampert-in-mega-raids-august-2026
+DTSTAMP:20260723T032023Z
+SUMMARY:[RB] Mega Swampert in Mega Raids
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /mega-swampert-in-mega-raids-august-2026/
+URL:https://leekduck.com/events/mega-swampert-in-mega-raids-august-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260825
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Mega Swampert in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shadow-giratina-altered-in-shadow-raids-august-2026
+DTSTAMP:20260723T032023Z
+SUMMARY:[RB] Shadow Giratina (Altered Forme) in Shadow Raids
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /shadow-giratina-altered-in-shadow-raids-august-2026/
+URL:https://leekduck.com/events/shadow-giratina-altered-in-shadow-raids-aug
+ ust-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260908
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Shadow Giratina (Altered Forme) in Shadow Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-gyarados-in-mega-raids-august-2026
+DTSTAMP:20260723T032023Z
+SUMMARY:[RB] Mega Gyarados in Mega Raids
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /mega-gyarados-in-mega-raids-august-2026/
+URL:https://leekduck.com/events/mega-gyarados-in-mega-raids-august-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260908
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Mega Gyarados in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:regirock-regice-registeel-in-5-star-raid-battles-august-2026
+DTSTAMP:20260723T032023Z
+SUMMARY:[RB] Regirock\, Regice\, and Registeel in 5-star Raid Battles
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /regirock-regice-registeel-in-5-star-raid-battles-august-2026/
+URL:https://leekduck.com/events/regirock-regice-registeel-in-5-star-raid-ba
+ ttles-august-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260908
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RB] Regirock\, Regice\, and Registeel in 5-star Raid Battles
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
