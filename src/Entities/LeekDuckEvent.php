@@ -155,7 +155,7 @@ class LeekDuckEvent
                 starts: $this->startDate
             )
             ->endsAt(
-                ends: $this->endDate
+                ends: $this->isFullDay ? $this->endDate->copy()->addDay() : $this->endDate
             )
             ->withoutTimezone();
 
