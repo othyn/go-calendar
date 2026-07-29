@@ -74,7 +74,7 @@ class LeekDuckEvent
             startDate: $startDate,
             endDate: $endDate,
             durationInDays: $eventDurationInDays,
-            isFullDay: ($eventDurationInDays > 1),
+            isFullDay: ($eventDurationInDays >= 2),
             extraData: $event['extraData']
         );
     }
