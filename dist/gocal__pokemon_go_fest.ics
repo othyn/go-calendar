@@ -10,21 +10,20 @@ X-WR-CALDESC:All Pokémon GO Pokémon GO Fest events\, in your local time\,
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-go-fest-2026-global-sunday-raid-makeup
-DTSTAMP:20260727T033509Z
-SUMMARY:[PGF] GO Fest 2026 Sunday Raid Makeup
+UID:pokemon-go-fest-2026-mega-finale
+DTSTAMP:20260729T031112Z
+SUMMARY:[PGF] Pokémon GO Fest 2026: Mega Finale
 DESCRIPTION:Starts at 10:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemon-go-fest-2026-global-sunday-raid-makeup/
-URL:https://leekduck.com/events/pokemon-go-fest-2026-global-sunday-raid-mak
- eup/
+ /pokemon-go-fest-2026-mega-finale/
+URL:https://leekduck.com/events/pokemon-go-fest-2026-mega-finale/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-07-26-pokemon-go-fest-2026-global-sunday-raid-makeup/pokemon-go-f
- est-2026-global-sunday-raid-makeup.jpg
-DTSTART:20260726T100000
-DTEND:20260726T190000
+ 026/2026-09-05-pokemon-go-fest-2026-mega-finale/pokemon-go-fest-2026-mega-
+ finale.jpg
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PGF] GO Fest 2026 Sunday Raid Makeup
+DESCRIPTION:[PGF] Pokémon GO Fest 2026: Mega Finale
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
