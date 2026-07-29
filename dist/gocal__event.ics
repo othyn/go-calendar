@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:fire-and-ice-hatch-day-2026
-DTSTAMP:20260729T073253Z
+DTSTAMP:20260729T073414Z
 SUMMARY:[E] Fire and Ice Hatch Day
 DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /fire-and-ice-hatch-day-2026/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-marathon-2026
-DTSTAMP:20260729T073253Z
+DTSTAMP:20260729T073414Z
 SUMMARY:[E] Summer Marathon: Arctic Embers
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /summer-marathon-2026/
@@ -36,7 +36,7 @@ URL:https://leekduck.com/events/summer-marathon-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
  026/2026-08-04-summer-marathon-2026/summer-marathon-2026.jpg
 DTSTART;VALUE=DATE:20260804
-DTEND;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[E] Summer Marathon: Arctic Embers
@@ -45,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:water-festival-2026
-DTSTAMP:20260729T073253Z
+DTSTAMP:20260729T073414Z
 SUMMARY:[E] Ultra Unlock: Water Festival
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /water-festival-2026/
@@ -53,7 +53,7 @@ URL:https://leekduck.com/events/water-festival-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
  026/2026-08-18-water-festival-2026/water-festival-2026.jpg?v2
 DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[E] Ultra Unlock: Water Festival
@@ -62,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-xp-2026-worlds
-DTSTAMP:20260729T073253Z
+DTSTAMP:20260729T073414Z
 SUMMARY:[E] Pokémon XP &amp\; 2026 Worlds
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-xp-2026-worlds/
@@ -70,7 +70,7 @@ URL:https://leekduck.com/events/pokemon-xp-2026-worlds/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
 DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[E] Pokémon XP &amp\; 2026 Worlds
