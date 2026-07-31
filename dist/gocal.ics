@@ -10,56 +10,8 @@ X-WR-CALDESC:All Pokémon GO events\, in your local time\, auto-updated and
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:mega-salamence-in-mega-raids-july-2026
-DTSTAMP:20260730T024322Z
-SUMMARY:[RB] Mega Salamence in Mega Raids
-DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
- /mega-salamence-in-mega-raids-july-2026/
-URL:https://leekduck.com/events/mega-salamence-in-mega-raids-july-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260729
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Mega Salamence in Mega Raids
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:solgaleo-in-5-star-raid-battles-july-2026
-DTSTAMP:20260730T024322Z
-SUMMARY:[RB] Solgaleo in 5-star Raid Battles
-DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
- /solgaleo-in-5-star-raid-battles-july-2026/
-URL:https://leekduck.com/events/solgaleo-in-5-star-raid-battles-july-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/solgaleo.jpg?v2
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260729
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RB] Solgaleo in 5-star Raid Battles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:raidhour20260729
-DTSTAMP:20260730T024322Z
-SUMMARY:[RH] Kyurem Raid Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /raidhour20260729/
-URL:https://leekduck.com/events/raidhour20260729/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
-DTSTART:20260729T180000
-DTEND:20260729T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RH] Kyurem Raid Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemonspotlighthour2026-07-30
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[PSH] Bidoof Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2026-07-30/
@@ -76,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gigantamax-rillaboom-max-battle-day-2026
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[MB] Gigantamax Rillaboom Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /gigantamax-rillaboom-max-battle-day-2026/
@@ -94,7 +46,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:choose-your-path-fairy-trail-2026
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[CYP] Choose Your Path: Fairy Trail
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /choose-your-path-fairy-trail-2026/
@@ -111,7 +63,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-08-03
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[MM] Dynamax Magmar during Max Monday
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-08-03/
@@ -128,7 +80,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-pass-july-2026
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[GP] GO Pass: July
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /go-pass-july-2026/
@@ -145,7 +97,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-forever-forward_great-league_master-premier
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[GBL] Great League and Master Premier | Forever Forward
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-forever-forward_great-league_master-premier/
@@ -163,7 +115,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-palkia-in-shadow-raids-july-2026
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[RB] Shadow Palkia in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-palkia-in-shadow-raids-july-2026/
@@ -180,7 +132,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:kyurem-in-5-star-raid-battles-july-2026
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[RB] Kyurem in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /kyurem-in-5-star-raid-battles-july-2026/
@@ -196,7 +148,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-aggron-in-mega-raids-july-2026
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[RB] Mega Aggron in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /mega-aggron-in-mega-raids-july-2026/
@@ -212,7 +164,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20260805
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[RH] Uxie\, Mesprit\, and Azelf Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20260805/
@@ -228,7 +180,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fire-and-ice-hatch-day-2026
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[E] Fire and Ice Hatch Day
 DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /fire-and-ice-hatch-day-2026/
@@ -245,7 +197,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-marathon-2026
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[E] Summer Marathon: Arctic Embers
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /summer-marathon-2026/
@@ -262,7 +214,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-08-10
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[MM] Dynamax Beldum during Max Monday
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-08-10/
@@ -279,7 +231,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-forever-forward_ultra-league_weather-cup-great-league-edition
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[GBL] Ultra League and Weather Cup: Great League Edition | Forever 
  Forward
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -299,7 +251,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-blaziken-in-mega-raids-august-2026
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[RB] Mega Blaziken in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /mega-blaziken-in-mega-raids-august-2026/
@@ -315,7 +267,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:uxie-mesprit-azelf-in-5-star-raid-battles-august-2026
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[RB] Uxie\, Mesprit\, and Azelf in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /uxie-mesprit-azelf-in-5-star-raid-battles-august-2026/
@@ -333,7 +285,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20260812
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[RH] Groudon Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20260812/
@@ -349,7 +301,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:august-communityday2026
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[CD] Nickit Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /august-communityday2026/
@@ -366,7 +318,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:choose-your-path-venom-and-vines-2026
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[CYP] Choose Your Path: Venom and Vines
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /choose-your-path-venom-and-vines-2026/
@@ -383,7 +335,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-08-17
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[MM] Dynamax Magikarp during Max Monday
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-08-17/
@@ -400,7 +352,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-forever-forward_master-league_evolution-cup-great-league-edition
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[GBL] Master League and Evolution Cup: Great League Edition | Forev
  er Forward
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -420,7 +372,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:groudon-in-5-star-raid-battles-august-2026
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[RB] Groudon in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /groudon-in-5-star-raid-battles-august-2026/
@@ -437,7 +389,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-garchomp-in-mega-raids-august-2026
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[RB] Mega Garchomp in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /mega-garchomp-in-mega-raids-august-2026/
@@ -453,7 +405,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20260819
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[RH] Lunala Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20260819/
@@ -469,7 +421,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:starmie-super-mega-raid-day-2026
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[RD] Starmie Super Mega Raid Day
 DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /starmie-super-mega-raid-day-2026/
@@ -487,7 +439,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:water-festival-2026
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[E] Ultra Unlock: Water Festival
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /water-festival-2026/
@@ -504,7 +456,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-08-24
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[MM] Dynamax Hitmontop during Max Monday
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-08-24/
@@ -521,7 +473,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-forever-forward_great-league_scroll-cup-great-league-edition
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[GBL] Great League and Scroll Cup: Great League Edition | Forever F
  orward
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -541,7 +493,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lunala-in-5-star-raid-battles-august-2026
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[RB] Lunala in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /lunala-in-5-star-raid-battles-august-2026/
@@ -558,7 +510,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-swampert-in-mega-raids-august-2026
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[RB] Mega Swampert in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /mega-swampert-in-mega-raids-august-2026/
@@ -574,7 +526,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20260826
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[RH] Regirock\, Regice\, and Registeel Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20260826/
@@ -590,7 +542,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-xp-2026-worlds
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[E] Pokémon XP &amp\; 2026 Worlds
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-xp-2026-worlds/
@@ -607,7 +559,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-08-31
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[MM] Dynamax Eevee during Max Monday
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-08-31/
@@ -624,7 +576,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-forever-forward_great-league_ultra-league_master-league-split-3
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[GBL] Great League\, Ultra League\, and Master League | Forever For
  ward
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -644,7 +596,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20260902
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[RH] Regirock\, Regice\, and Registeel Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20260902/
@@ -660,7 +612,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-fest-2026-mega-finale
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[PGF] Pokémon GO Fest 2026: Mega Finale
 DESCRIPTION:Starts at 10:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2026-mega-finale/
@@ -678,7 +630,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-23-forever-forward
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[S] Forever Forward
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-23-forever-forward/
@@ -695,7 +647,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-pass-august-2026
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[GP] GO Pass: August
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /go-pass-august-2026/
@@ -713,7 +665,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-forever-forward_great-league_ultra-league_master-league-mega-editio
  n
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[GBL] Great League\, Ultra League\, and Master League: Mega Edition
   | Forever Forward
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -733,7 +685,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-giratina-altered-in-shadow-raids-august-2026
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[RB] Shadow Giratina (Altered Forme) in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-giratina-altered-in-shadow-raids-august-2026/
@@ -751,7 +703,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-gyarados-in-mega-raids-august-2026
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[RB] Mega Gyarados in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /mega-gyarados-in-mega-raids-august-2026/
@@ -767,7 +719,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:regirock-regice-registeel-in-5-star-raid-battles-august-2026
-DTSTAMP:20260730T024322Z
+DTSTAMP:20260731T032606Z
 SUMMARY:[RB] Regirock\, Regice\, and Registeel in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /regirock-regice-registeel-in-5-star-raid-battles-august-2026/
