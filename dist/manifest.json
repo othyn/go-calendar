@@ -23,6 +23,10 @@
         "name": "GO Pass",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__go_pass.ics"
     },
+    "max_battles": {
+        "name": "Max Battles",
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__max_battles.ics"
+    },
     "max_mondays": {
         "name": "Max Mondays",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__max_mondays.ics"

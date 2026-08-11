@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:august-communityday2026
-DTSTAMP:20260810T020730Z
+DTSTAMP:20260811T020222Z
 SUMMARY:[CD] Nickit Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /august-communityday2026/
@@ -23,6 +23,54 @@ DTEND:20260816T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[CD] Nickit Community Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:september-communitydayclassic2026
+DTSTAMP:20260811T020222Z
+SUMMARY:[CD] September Community Day Classic
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /september-communitydayclassic2026/
+URL:https://leekduck.com/events/september-communitydayclassic2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+DTSTART:20260912T140000
+DTEND:20260912T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[CD] September Community Day Classic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:october-communityday2026
+DTSTAMP:20260811T020222Z
+SUMMARY:[CD] October Community Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /october-communityday2026/
+URL:https://leekduck.com/events/october-communityday2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+DTSTART:20261010T140000
+DTEND:20261010T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[CD] October Community Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:november-communityday2026
+DTSTAMP:20260811T020222Z
+SUMMARY:[CD] November Community Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /november-communityday2026/
+URL:https://leekduck.com/events/november-communityday2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+DTSTART:20261121T140000
+DTEND:20261121T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[CD] November Community Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

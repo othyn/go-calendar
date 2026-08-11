@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:starmie-super-mega-raid-day-2026
-DTSTAMP:20260810T020730Z
+DTSTAMP:20260811T020222Z
 SUMMARY:[RD] Starmie Super Mega Raid Day
 DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /starmie-super-mega-raid-day-2026/
@@ -24,6 +24,57 @@ DTEND:20260822T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RD] Starmie Super Mega Raid Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:super-mega-raid-day-september-2026
+DTSTAMP:20260811T020222Z
+SUMMARY:[RD] Super Mega Raid Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /super-mega-raid-day-september-2026/
+URL:https://leekduck.com/events/super-mega-raid-day-september-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART:20260919T140000
+DTEND:20260919T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RD] Super Mega Raid Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:super-mega-raid-day-october-2026
+DTSTAMP:20260811T020222Z
+SUMMARY:[RD] Super Mega Raid Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /super-mega-raid-day-october-2026/
+URL:https://leekduck.com/events/super-mega-raid-day-october-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART:20261031T140000
+DTEND:20261031T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RD] Super Mega Raid Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:super-mega-raid-day-november-2026
+DTSTAMP:20260811T020222Z
+SUMMARY:[RD] Super Mega Raid Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /super-mega-raid-day-november-2026/
+URL:https://leekduck.com/events/super-mega-raid-day-november-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART:20261128T140000
+DTEND:20261128T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RD] Super Mega Raid Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

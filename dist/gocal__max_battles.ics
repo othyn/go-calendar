@@ -10,20 +10,36 @@ X-WR-CALDESC:All Pokémon GO Max Battles events\, in your local time\, auto
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:gigantamax-rillaboom-max-battle-day-2026
-DTSTAMP:20260802T032436Z
-SUMMARY:[MB] Gigantamax Rillaboom Max Battle Day
+UID:max-battle-day-october-2026
+DTSTAMP:20260811T020222Z
+SUMMARY:[MB] Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /gigantamax-rillaboom-max-battle-day-2026/
-URL:https://leekduck.com/events/gigantamax-rillaboom-max-battle-day-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-08-01-gigantamax-rillaboom-max-battle-day-2026/gigantamax-rillabo
- om-max-battle-day.jpg
-DTSTART:20260801T140000
-DTEND:20260801T170000
+ /max-battle-day-october-2026/
+URL:https://leekduck.com/events/max-battle-day-october-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART:20261003T140000
+DTEND:20261003T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[MB] Gigantamax Rillaboom Max Battle Day
+DESCRIPTION:[MB] Max Battle Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-battle-day-october-24-2026
+DTSTAMP:20260811T020222Z
+SUMMARY:[MB] Max Battle Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /max-battle-day-october-24-2026/
+URL:https://leekduck.com/events/max-battle-day-october-24-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART:20261024T140000
+DTEND:20261024T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MB] Max Battle Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
