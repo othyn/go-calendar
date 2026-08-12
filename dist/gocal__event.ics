@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:summer-marathon-2026
-DTSTAMP:20260811T020222Z
-SUMMARY:[E] Summer Marathon: Arctic Embers
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /summer-marathon-2026/
-URL:https://leekduck.com/events/summer-marathon-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-08-04-summer-marathon-2026/summer-marathon-2026.jpg
-DTSTART;VALUE=DATE:20260804
-DTEND;VALUE=DATE:20260811
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] Summer Marathon: Arctic Embers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:water-festival-2026
-DTSTAMP:20260811T020222Z
+DTSTAMP:20260812T021917Z
 SUMMARY:[E] Ultra Unlock: Water Festival
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /water-festival-2026/
@@ -45,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-xp-2026-worlds
-DTSTAMP:20260811T020222Z
+DTSTAMP:20260812T021917Z
 SUMMARY:[E] PokémonXP &amp\; 2026 Worlds
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-xp-2026-worlds/
@@ -61,8 +44,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:mega-ascension
+DTSTAMP:20260812T021917Z
+SUMMARY:[E] Mega Ascension
+DESCRIPTION:Starts at 10:00\, ends at 23:59.\n\nhttps://leekduck.com/events
+ /mega-ascension/
+URL:https://leekduck.com/events/mega-ascension/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-08-31-mega-ascension/mega-ascension.jpg
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260905
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Mega Ascension
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:catch-mastery-september-2026
-DTSTAMP:20260811T020222Z
+DTSTAMP:20260812T021917Z
 SUMMARY:[E] Catch Mastery
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /catch-mastery-september-2026/
@@ -79,7 +79,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lego-pokemon-go-2026
-DTSTAMP:20260811T020222Z
+DTSTAMP:20260812T021917Z
 SUMMARY:[E] LEGO Stores and Pokémon GO
 DESCRIPTION:Starts at 10:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /lego-pokemon-go-2026/
@@ -96,7 +96,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-october-2026
-DTSTAMP:20260811T020222Z
+DTSTAMP:20260812T021917Z
 SUMMARY:[E] Hatch Day
 DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-october-2026/
