@@ -10,26 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Day events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:starmie-super-mega-raid-day-2026
-DTSTAMP:20260823T014041Z
-SUMMARY:[RD] Starmie Super Mega Raid Day
-DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /starmie-super-mega-raid-day-2026/
-URL:https://leekduck.com/events/starmie-super-mega-raid-day-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-08-22-starmie-super-mega-raid-day-2026/starmie-super-mega-raid-da
- y-2026.jpg
-DTSTART:20260822T110000
-DTEND:20260822T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RD] Starmie Super Mega Raid Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:super-mega-raid-day-september-2026
-DTSTAMP:20260823T014041Z
+DTSTAMP:20260824T013836Z
 SUMMARY:[RD] Super Mega Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /super-mega-raid-day-september-2026/
@@ -46,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:super-mega-raid-day-october-2026
-DTSTAMP:20260823T014041Z
+DTSTAMP:20260824T013836Z
 SUMMARY:[RD] Super Mega Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /super-mega-raid-day-october-2026/
@@ -63,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:super-mega-raid-day-november-2026
-DTSTAMP:20260823T014041Z
+DTSTAMP:20260824T013836Z
 SUMMARY:[RD] Super Mega Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /super-mega-raid-day-november-2026/
