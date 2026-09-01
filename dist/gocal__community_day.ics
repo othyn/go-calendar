@@ -11,23 +11,25 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:september-communitydayclassic2026
-DTSTAMP:20260831T044702Z
-SUMMARY:[CD] September Community Day Classic
+DTSTAMP:20260901T042651Z
+SUMMARY:[CD] Gible Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /september-communitydayclassic2026/
 URL:https://leekduck.com/events/september-communitydayclassic2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-09-12-september-communitydayclassic2026/gible-community-day-class
+ ic.jpg
 DTSTART:20260912T140000
 DTEND:20260912T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[CD] September Community Day Classic
+DESCRIPTION:[CD] Gible Community Day Classic
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:october-communityday2026
-DTSTAMP:20260831T044702Z
+DTSTAMP:20260901T042651Z
 SUMMARY:[CD] October Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /october-communityday2026/
@@ -43,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:november-communityday2026
-DTSTAMP:20260831T044702Z
+DTSTAMP:20260901T042651Z
 SUMMARY:[CD] November Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /november-communityday2026/

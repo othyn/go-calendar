@@ -10,43 +10,260 @@ X-WR-CALDESC:All Pokémon GO GO Battle League events\, in your local time\,
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:gbl-forever-forward_great-league_ultra-league_master-league-split-3
-DTSTAMP:20260831T044702Z
-SUMMARY:[GBL] Great League\, Ultra League\, and Master League | Forever For
- ward
+UID:gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition
+ _master-league-mega-edition-split-1
+DTSTAMP:20260901T042651Z
+SUMMARY:[GBL] Great League: Mega Edition\, Ultra League: Mega Edition\, and
+  Master League: Mega Edition | Twilight Trails
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /gbl-forever-forward_great-league_ultra-league_master-league-split-3/
-URL:https://leekduck.com/events/gbl-forever-forward_great-league_ultra-leag
- ue_master-league-split-3/
+ /gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_m
+ aster-league-mega-edition-split-1/
+URL:https://leekduck.com/events/gbl-twilight-trails_great-league-mega-editi
+ on_ultra-league-mega-edition_master-league-mega-edition-split-1/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
- -season-27-forever-forward.jpg
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260902
+ -season-28-twilight-trails.png
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260916
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[GBL] Great League\, Ultra League\, and Master League | Forever
-  Forward
+DESCRIPTION:[GBL] Great League: Mega Edition\, Ultra League: Mega Edition\,
+  and Master League: Mega Edition | Twilight Trails
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:gbl-forever-forward_great-league_ultra-league_master-league-mega-editio
- n
-DTSTAMP:20260831T044702Z
-SUMMARY:[GBL] Great League\, Ultra League\, and Master League: Mega Edition
-  | Forever Forward
+UID:gbl-twilight-trails_great-league_ultra-league-mega-edition_willpower-cu
+ p-great-league-edition
+DTSTAMP:20260901T042651Z
+SUMMARY:[GBL] Great League\, Ultra League: Mega Edition\, and Willpower Cup
+ : Great League Edition | Twilight Trails
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /gbl-forever-forward_great-league_ultra-league_master-league-mega-edition/
-URL:https://leekduck.com/events/gbl-forever-forward_great-league_ultra-leag
- ue_master-league-mega-edition/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
- -season-27-forever-forward.jpg
-DTSTART;VALUE=DATE:20260901
-DTEND;VALUE=DATE:20260909
+ /gbl-twilight-trails_great-league_ultra-league-mega-edition_willpower-cup-
+ great-league-edition/
+URL:https://leekduck.com/events/gbl-twilight-trails_great-league_ultra-leag
+ ue-mega-edition_willpower-cup-great-league-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattle-greatle
+ ague-key.jpg
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260923
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[GBL] Great League\, Ultra League\, and Master League: Mega Edi
- tion | Forever Forward
+DESCRIPTION:[GBL] Great League\, Ultra League: Mega Edition\, and Willpower
+  Cup: Great League Edition | Twilight Trails
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-twilight-trails_ultra-league_master-league-mega-edition_retro-cup-g
+ reat-league-edition
+DTSTAMP:20260901T042651Z
+SUMMARY:[GBL] Ultra League\, Master League: Mega Edition\, and Retro Cup: G
+ reat League Edition | Twilight Trails
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-twilight-trails_ultra-league_master-league-mega-edition_retro-cup-gre
+ at-league-edition/
+URL:https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-lea
+ gue-mega-edition_retro-cup-great-league-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
+ -ultra-league-machamp-swampert.jpg
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260930
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Ultra League\, Master League: Mega Edition\, and Retro Cu
+ p: Great League Edition | Twilight Trails
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-twilight-trails_master-league_mega-color-cup-great-league-edition
+DTSTAMP:20260901T042651Z
+SUMMARY:[GBL] Master League and Mega Color Cup: Great League Edition | Twil
+ ight Trails
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-twilight-trails_master-league_mega-color-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-twilight-trails_master-league_mega-colo
+ r-cup-great-league-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattleleague-m
+ aster-key.jpg
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20261007
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Master League and Mega Color Cup: Great League Edition | 
+ Twilight Trails
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition
+ _master-league-mega-edition-split-2
+DTSTAMP:20260901T042651Z
+SUMMARY:[GBL] Great League: Mega Edition\, Ultra League: Mega Edition\, and
+  Master League: Mega Edition | Twilight Trails
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_m
+ aster-league-mega-edition-split-2/
+URL:https://leekduck.com/events/gbl-twilight-trails_great-league-mega-editi
+ on_ultra-league-mega-edition_master-league-mega-edition-split-2/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
+ -season-28-twilight-trails.png
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261014
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Great League: Mega Edition\, Ultra League: Mega Edition\,
+  and Master League: Mega Edition | Twilight Trails
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-twilight-trails_great-league_ultra-league-mega-edition_little-cup
+DTSTAMP:20260901T042651Z
+SUMMARY:[GBL] Great League\, Ultra League: Mega Edition\, and Little Cup | 
+ Twilight Trails
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-twilight-trails_great-league_ultra-league-mega-edition_little-cup/
+URL:https://leekduck.com/events/gbl-twilight-trails_great-league_ultra-leag
+ ue-mega-edition_little-cup/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattle-greatle
+ ague-key.jpg
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261021
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Great League\, Ultra League: Mega Edition\, and Little Cu
+ p | Twilight Trails
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-twilight-trails_ultra-league_master-league-mega-edition_fantasy-cup
+ -great-league-edition
+DTSTAMP:20260901T042651Z
+SUMMARY:[GBL] Ultra League\, Master League: Mega Edition\, and Fantasy Cup:
+  Great League Edition | Twilight Trails
+DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /gbl-twilight-trails_ultra-league_master-league-mega-edition_fantasy-cup-g
+ reat-league-edition/
+URL:https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-lea
+ gue-mega-edition_fantasy-cup-great-league-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
+ -ultra-league-machamp-swampert.jpg
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261028
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Ultra League\, Master League: Mega Edition\, and Fantasy 
+ Cup: Great League Edition | Twilight Trails
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-twilight-trails_master-league_mega-halloween-cup-great-league-editi
+ on
+DTSTAMP:20260901T042651Z
+SUMMARY:[GBL] Master League and Mega Halloween Cup: Great League Edition | 
+ Twilight Trails
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-twilight-trails_master-league_mega-halloween-cup-great-league-edition
+ /
+URL:https://leekduck.com/events/gbl-twilight-trails_master-league_mega-hall
+ oween-cup-great-league-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattleleague-m
+ aster-key.jpg
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261104
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Master League and Mega Halloween Cup: Great League Editio
+ n | Twilight Trails
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition
+ _master-league-mega-edition-split-3
+DTSTAMP:20260901T042651Z
+SUMMARY:[GBL] Great League: Mega Edition\, Ultra League: Mega Edition\, and
+  Master League: Mega Edition | Twilight Trails
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_m
+ aster-league-mega-edition-split-3/
+URL:https://leekduck.com/events/gbl-twilight-trails_great-league-mega-editi
+ on_ultra-league-mega-edition_master-league-mega-edition-split-3/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
+ -season-28-twilight-trails.png
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261111
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Great League: Mega Edition\, Ultra League: Mega Edition\,
+  and Master League: Mega Edition | Twilight Trails
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-twilight-trails_great-league_ultra-league-mega-edition_2026-go-laic
+ -cup
+DTSTAMP:20260901T042651Z
+SUMMARY:[GBL] Great League\, Ultra League: Mega Edition\, and 2026 GO LAIC 
+ Cup | Twilight Trails
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-twilight-trails_great-league_ultra-league-mega-edition_2026-go-laic-c
+ up/
+URL:https://leekduck.com/events/gbl-twilight-trails_great-league_ultra-leag
+ ue-mega-edition_2026-go-laic-cup/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattle-greatle
+ ague-key.jpg
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261118
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Great League\, Ultra League: Mega Edition\, and 2026 GO L
+ AIC Cup | Twilight Trails
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-twilight-trails_ultra-league_master-league-mega-edition_2026-go-lai
+ c-cup
+DTSTAMP:20260901T042651Z
+SUMMARY:[GBL] Ultra League\, Master League: Mega Edition\, and 2026 GO LAIC
+  Cup | Twilight Trails
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-twilight-trails_ultra-league_master-league-mega-edition_2026-go-laic-
+ cup/
+URL:https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-lea
+ gue-mega-edition_2026-go-laic-cup/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
+ -ultra-league-machamp-swampert.jpg
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261126
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Ultra League\, Master League: Mega Edition\, and 2026 GO 
+ LAIC Cup | Twilight Trails
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-twilight-trails_master-league_mega-catch-cup-great-league-edition
+DTSTAMP:20260901T042651Z
+SUMMARY:[GBL] Master League and Mega Catch Cup: Great League Edition | Twil
+ ight Trails
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-twilight-trails_master-league_mega-catch-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-twilight-trails_master-league_mega-catc
+ h-cup-great-league-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattleleague-m
+ aster-key.jpg
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261202
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Master League and Mega Catch Cup: Great League Edition | 
+ Twilight Trails
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
