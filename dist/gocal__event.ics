@@ -10,27 +10,8 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:10th-anniversary-celebration
-DTSTAMP:20260907T035203Z
-SUMMARY:[E] 10th Anniversary Celebration - Perfect Mewtwo Timed Research
-DESCRIPTION:Starts at 16:00\, ends at 23:59.\n\nhttps://leekduck.com/events
- /10th-anniversary-celebration/
-URL:https://leekduck.com/events/10th-anniversary-celebration/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-08-12-10th-anniversary-celebration/10th-anniversary-celebration-2
- 026.jpg
-DTSTART;VALUE=DATE:20260812
-DTEND;VALUE=DATE:20260907
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[E] 10th Anniversary Celebration - Perfect Mewtwo Timed Researc
- h
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:mega-squads
-DTSTAMP:20260907T035203Z
+DTSTAMP:20260908T035519Z
 SUMMARY:[E] Mega Squads
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /mega-squads/
@@ -47,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-horizons-the-series-celebration-event-2026
-DTSTAMP:20260907T035203Z
+DTSTAMP:20260908T035519Z
 SUMMARY:[E] Pokémon Horizons: The Series Celebration Event
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-horizons-the-series-celebration-event-2026/
@@ -66,7 +47,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:catch-mastery-phantump-2026
-DTSTAMP:20260907T035203Z
+DTSTAMP:20260908T035519Z
 SUMMARY:[E] Phantump Catch Mastery
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /catch-mastery-phantump-2026/
@@ -83,7 +64,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lego-pokemon-go-2026
-DTSTAMP:20260907T035203Z
+DTSTAMP:20260908T035519Z
 SUMMARY:[E] LEGO Stores and Pokémon GO
 DESCRIPTION:Starts at 10:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /lego-pokemon-go-2026/
@@ -100,24 +81,42 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:harvest-festival-2026
-DTSTAMP:20260907T035203Z
-SUMMARY:[E] Harvest Festival
+DTSTAMP:20260908T035519Z
+SUMMARY:[E] Harvest Festival 2026: Applin Picking
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /harvest-festival-2026/
 URL:https://leekduck.com/events/harvest-festival-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-09-29-harvest-festival-2026/harvest-festival-2026.jpg
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20261006
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Harvest Festival
+DESCRIPTION:[E] Harvest Festival 2026: Applin Picking
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:harvest-festival-taken-over-2026
+DTSTAMP:20260908T035519Z
+SUMMARY:[E] Harvest Festival: Taken Over
+DESCRIPTION:Starts at 00:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /harvest-festival-taken-over-2026/
+URL:https://leekduck.com/events/harvest-festival-taken-over-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-10-02-harvest-festival-taken-over-2026/harvest-festival-taken-ove
+ r-2026.jpg
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261006
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[E] Harvest Festival: Taken Over
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-october-2026
-DTSTAMP:20260907T035203Z
+DTSTAMP:20260908T035519Z
 SUMMARY:[E] Hatch Day
 DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-october-2026/
