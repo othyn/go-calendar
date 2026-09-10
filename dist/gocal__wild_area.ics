@@ -10,17 +10,50 @@ X-WR-CALDESC:All Pokémon GO Wild Area events\, in your local time\, auto-u
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-go-wild-area-2025-global
-DTSTAMP:20251117T003137Z
+UID:pokemon-go-wild-area-2026-sendai-japan
+DTSTAMP:20260910T035916Z
+SUMMARY:[WA] Pokémon GO Wild Area: Sendai\, Tohoku
+DESCRIPTION:Starts at 01:00\, ends at 09:00.\n\nhttps://leekduck.com/events
+ /pokemon-go-wild-area-2026-sendai-japan/
+URL:https://leekduck.com/events/pokemon-go-wild-area-2026-sendai-japan/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-11-06-pokemon-go-wild-area-2026-sendai-japan/key-art.jpg
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261109
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[WA] Pokémon GO Wild Area: Sendai\, Tohoku
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-go-wild-area-2026-mexico-city
+DTSTAMP:20260910T035916Z
+SUMMARY:[WA] Pokémon GO Wild Area: Mexico City
+DESCRIPTION:Starts at 16:00\, ends at 00:00.\n\nhttps://leekduck.com/events
+ /pokemon-go-wild-area-2026-mexico-city/
+URL:https://leekduck.com/events/pokemon-go-wild-area-2026-mexico-city/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-11-06-pokemon-go-wild-area-2026-mexico-city/key-art.jpg
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261110
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[WA] Pokémon GO Wild Area: Mexico City
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-go-wild-area-2026-global
+DTSTAMP:20260910T035916Z
 SUMMARY:[WA] Pokémon GO Wild Area: Global
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
- /pokemon-go-wild-area-2025-global/
-URL:https://leekduck.com/events/pokemon-go-wild-area-2025-global/
+ /pokemon-go-wild-area-2026-global/
+URL:https://leekduck.com/events/pokemon-go-wild-area-2026-global/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-11-15-pokemon-go-wild-area-2025-global/wild-area-2025-global-key-
- art.jpg
-DTSTART;VALUE=DATE:20251115
-DTEND;VALUE=DATE:20251116
+ 026/2026-11-14-pokemon-go-wild-area-2026-global/key-art.jpg
+DTSTART:20261114T100000
+DTEND:20261115T180000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[WA] Pokémon GO Wild Area: Global
