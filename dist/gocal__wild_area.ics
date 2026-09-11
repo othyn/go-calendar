@@ -11,8 +11,8 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2026-sendai-japan
-DTSTAMP:20260910T035916Z
-SUMMARY:[WA] Pokémon GO Wild Area: Sendai\, Tohoku
+DTSTAMP:20260911T035616Z
+SUMMARY:[WA] Pokémon GO Wild Area 2026: Sendai • Tohoku
 DESCRIPTION:Starts at 01:00\, ends at 09:00.\n\nhttps://leekduck.com/events
  /pokemon-go-wild-area-2026-sendai-japan/
 URL:https://leekduck.com/events/pokemon-go-wild-area-2026-sendai-japan/
@@ -22,14 +22,14 @@ DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261109
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[WA] Pokémon GO Wild Area: Sendai\, Tohoku
+DESCRIPTION:[WA] Pokémon GO Wild Area 2026: Sendai • Tohoku
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2026-mexico-city
-DTSTAMP:20260910T035916Z
-SUMMARY:[WA] Pokémon GO Wild Area: Mexico City
+DTSTAMP:20260911T035616Z
+SUMMARY:[WA] Pokémon GO Wild Area 2026: Mexico City
 DESCRIPTION:Starts at 16:00\, ends at 00:00.\n\nhttps://leekduck.com/events
  /pokemon-go-wild-area-2026-mexico-city/
 URL:https://leekduck.com/events/pokemon-go-wild-area-2026-mexico-city/
@@ -39,14 +39,14 @@ DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261110
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[WA] Pokémon GO Wild Area: Mexico City
+DESCRIPTION:[WA] Pokémon GO Wild Area 2026: Mexico City
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2026-global
-DTSTAMP:20260910T035916Z
-SUMMARY:[WA] Pokémon GO Wild Area: Global
+DTSTAMP:20260911T035616Z
+SUMMARY:[WA] Pokémon GO Wild Area 2026: Global
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-wild-area-2026-global/
 URL:https://leekduck.com/events/pokemon-go-wild-area-2026-global/
@@ -56,7 +56,7 @@ DTSTART:20261114T100000
 DTEND:20261115T180000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[WA] Pokémon GO Wild Area: Global
+DESCRIPTION:[WA] Pokémon GO Wild Area 2026: Global
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
