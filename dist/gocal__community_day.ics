@@ -10,26 +10,8 @@ X-WR-CALDESC:All Pokémon GO Community Day events\, in your local time\, au
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:september-communitydayclassic2026
-DTSTAMP:20260912T035812Z
-SUMMARY:[CD] Gible Community Day Classic
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /september-communitydayclassic2026/
-URL:https://leekduck.com/events/september-communitydayclassic2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-09-12-september-communitydayclassic2026/gible-community-day-class
- ic.jpg
-DTSTART:20260912T140000
-DTEND:20260912T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[CD] Gible Community Day Classic
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:october-communityday2026
-DTSTAMP:20260912T035812Z
+DTSTAMP:20260914T041536Z
 SUMMARY:[CD] October Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /october-communityday2026/
@@ -45,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:november-communityday2026
-DTSTAMP:20260912T035812Z
+DTSTAMP:20260914T041536Z
 SUMMARY:[CD] November Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /november-communityday2026/

@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-09-13
-DTSTAMP:20260912T035812Z
+DTSTAMP:20260914T041536Z
 SUMMARY:[PSH] Houndour and Houndoom Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2026-09-13/
@@ -28,8 +28,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-09-17
-DTSTAMP:20260912T035812Z
-SUMMARY:[PSH] Mystery Pokémon Spotlight Hour
+DTSTAMP:20260914T041536Z
+SUMMARY:[PSH] Charmander wearing Friede's goggles Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2026-09-17/
 URL:https://leekduck.com/events/pokemonspotlighthour2026-09-17/
@@ -39,13 +39,13 @@ DTSTART:20260917T180000
 DTEND:20260917T190000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PSH] Mystery Pokémon Spotlight Hour
+DESCRIPTION:[PSH] Charmander wearing Friede's goggles Spotlight Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-09-24
-DTSTAMP:20260912T035812Z
+DTSTAMP:20260914T041536Z
 SUMMARY:[PSH] Rattata Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2026-09-24/
