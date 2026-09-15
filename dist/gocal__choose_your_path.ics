@@ -10,19 +10,19 @@ X-WR-CALDESC:All Pokémon GO Choose Your Path events\, in your local time\,
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:choose-your-path-venom-and-vines-2026
-DTSTAMP:20260818T012610Z
-SUMMARY:[CYP] Choose Your Path: Venom and Vines
+UID:choose-your-path-twilight-trails-2026
+DTSTAMP:20260915T041526Z
+SUMMARY:[CYP] Choose Your Path: Twilight Trails
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /choose-your-path-venom-and-vines-2026/
-URL:https://leekduck.com/events/choose-your-path-venom-and-vines-2026/
+ /choose-your-path-twilight-trails-2026/
+URL:https://leekduck.com/events/choose-your-path-twilight-trails-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/choose-your-path
- -evergreen.jpg
-DTSTART;VALUE=DATE:20260811
-DTEND;VALUE=DATE:20260818
+ -twilight-trails-2026.jpg
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260929
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[CYP] Choose Your Path: Venom and Vines
+DESCRIPTION:[CYP] Choose Your Path: Twilight Trails
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
