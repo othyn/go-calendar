@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:gigantamax-cinderace-max-battle-day-2026
-DTSTAMP:20260917T041815Z
+DTSTAMP:20260918T040156Z
 SUMMARY:[MB] Gigantamax Cinderace Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /gigantamax-cinderace-max-battle-day-2026/
@@ -29,8 +29,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-october-24-2026
-DTSTAMP:20260917T041815Z
-SUMMARY:[MB] Max Battle Day
+DTSTAMP:20260918T040156Z
+SUMMARY:[MB] Dynamax Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-october-24-2026/
 URL:https://leekduck.com/events/max-battle-day-october-24-2026/
@@ -40,7 +40,7 @@ DTSTART:20261024T140000
 DTEND:20261024T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[MB] Max Battle Day
+DESCRIPTION:[MB] Dynamax Max Battle Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

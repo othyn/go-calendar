@@ -10,24 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Hour events\, in your local time\, auto-u
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:raidhour20260916
-DTSTAMP:20260917T041815Z
-SUMMARY:[RH] Zamazenta (Hero of Many Battles) Raid Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /raidhour20260916/
-URL:https://leekduck.com/events/raidhour20260916/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
-DTSTART:20260916T180000
-DTEND:20260916T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RH] Zamazenta (Hero of Many Battles) Raid Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raidhour20260923
-DTSTAMP:20260917T041815Z
+DTSTAMP:20260918T040156Z
 SUMMARY:[RH] Xurkitree\, Pheromosa\, and Buzzwole Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20260923/
@@ -43,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20260930
-DTSTAMP:20260917T041815Z
+DTSTAMP:20260918T040156Z
 SUMMARY:[RH] Xerneas Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20260930/
@@ -54,6 +38,70 @@ DTEND:20260930T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RH] Xerneas Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20261007
+DTSTAMP:20260918T040156Z
+SUMMARY:[RH] Yveltal Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20261007/
+URL:https://leekduck.com/events/raidhour20261007/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20261007T180000
+DTEND:20261007T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Yveltal Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20261014
+DTSTAMP:20260918T040156Z
+SUMMARY:[RH] Dialga Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20261014/
+URL:https://leekduck.com/events/raidhour20261014/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20261014T180000
+DTEND:20261014T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Dialga Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20261021
+DTSTAMP:20260918T040156Z
+SUMMARY:[RH] Palkia Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20261021/
+URL:https://leekduck.com/events/raidhour20261021/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20261021T180000
+DTEND:20261021T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Palkia Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20261028
+DTSTAMP:20260918T040156Z
+SUMMARY:[RH] Giratina (Origin Forme) Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20261028/
+URL:https://leekduck.com/events/raidhour20261028/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20261028T180000
+DTEND:20261028T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Giratina (Origin Forme) Raid Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
