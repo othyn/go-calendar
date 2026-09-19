@@ -10,21 +10,20 @@ X-WR-CALDESC:All Pokémon GO Research events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-world-championships-2026-timed-research-twitch-drops
-DTSTAMP:20260831T044702Z
-SUMMARY:[R] Twitch Drops for 2026 Pokémon World Championships
-DESCRIPTION:Starts at 16:00\, ends at 03:00.\n\nhttps://leekduck.com/events
- /pokemon-world-championships-2026-timed-research-twitch-drops/
-URL:https://leekduck.com/events/pokemon-world-championships-2026-timed-rese
- arch-twitch-drops/
+UID:pokemon-horizons-bonus-timed-research-2026
+DTSTAMP:20260919T035928Z
+SUMMARY:[R] Pokémon Horizons Bonus Timed Research
+DESCRIPTION:Starts at 00:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-horizons-bonus-timed-research-2026/
+URL:https://leekduck.com/events/pokemon-horizons-bonus-timed-research-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-08-28-pokemon-world-championships-2026-timed-research-twitch-drop
- s/2026-worlds-go-drops.jpg
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260901
+ 026/2026-09-18-pokemon-horizons-bonus-timed-research-2026/pokemon-horizons
+ -bonus-timed-research-2026.png
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260923
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[R] Twitch Drops for 2026 Pokémon World Championships
+DESCRIPTION:[R] Pokémon Horizons Bonus Timed Research
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
