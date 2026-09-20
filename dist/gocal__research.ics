@@ -11,9 +11,9 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-horizons-bonus-timed-research-2026
-DTSTAMP:20260919T035928Z
+DTSTAMP:20260920T041751Z
 SUMMARY:[R] Pokémon Horizons Bonus Timed Research
-DESCRIPTION:Starts at 00:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-horizons-bonus-timed-research-2026/
 URL:https://leekduck.com/events/pokemon-horizons-bonus-timed-research-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
