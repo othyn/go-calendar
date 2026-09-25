@@ -10,20 +10,53 @@ X-WR-CALDESC:All Pokémon GO Pokémon GO Tour events\, in your local time\,
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-go-tour-kalos-global-2026
-DTSTAMP:20260302T004009Z
-SUMMARY:[PGT] Pokémon GO Tour: Kalos - Global 2026
-DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
- /pokemon-go-tour-kalos-global-2026/
-URL:https://leekduck.com/events/pokemon-go-tour-kalos-global-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-02-28-pokemon-go-tour-kalos-global-2026/pokemon-go-tour-kalos-glo
- bal-2026.jpg
-DTSTART;VALUE=DATE:20260228
-DTEND;VALUE=DATE:20260301
+UID:pokemon-go-tour-alola-kaohsiung-2027
+DTSTAMP:20260925T041743Z
+SUMMARY:[PGT] Pokémon GO Tour: Alola - Kaohsiung 2027
+DESCRIPTION:Starts at 16:00\, ends at 15:59.\n\nhttps://leekduck.com/events
+ /pokemon-go-tour-alola-kaohsiung-2027/
+URL:https://leekduck.com/events/pokemon-go-tour-alola-kaohsiung-2027/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270222
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PGT] Pokémon GO Tour: Kalos - Global 2026
+DESCRIPTION:[PGT] Pokémon GO Tour: Alola - Kaohsiung 2027
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-go-tour-alola-los-angeles-2027
+DTSTAMP:20260925T041743Z
+SUMMARY:[PGT] Pokémon GO Tour: Alola - Los Angeles 2027
+DESCRIPTION:Starts at 08:00\, ends at 07:59.\n\nhttps://leekduck.com/events
+ /pokemon-go-tour-alola-los-angeles-2027/
+URL:https://leekduck.com/events/pokemon-go-tour-alola-los-angeles-2027/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270223
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PGT] Pokémon GO Tour: Alola - Los Angeles 2027
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-go-tour-alola-global-2027
+DTSTAMP:20260925T041743Z
+SUMMARY:[PGT] Pokémon GO Tour: Alola - Global 2027
+DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
+ /pokemon-go-tour-alola-global-2027/
+URL:https://leekduck.com/events/pokemon-go-tour-alola-global-2027/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART:20270227T000000
+DTEND:20270228T235959
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[PGT] Pokémon GO Tour: Alola - Global 2027
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

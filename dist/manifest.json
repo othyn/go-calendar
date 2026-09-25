@@ -31,6 +31,10 @@
         "name": "Max Mondays",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__max_mondays.ics"
     },
+    "pokemon_go_tour": {
+        "name": "Pokémon GO Tour",
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokemon_go_tour.ics"
+    },
     "pokemon_spotlight_hour": {
         "name": "Pokémon Spotlight Hour",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokemon_spotlight_hour.ics"
@@ -46,6 +50,10 @@
     "raid_hour": {
         "name": "Raid Hour",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__raid_hour.ics"
+    },
+    "research": {
+        "name": "Research",
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__research.ics"
     },
     "season": {
         "name": "Season",
