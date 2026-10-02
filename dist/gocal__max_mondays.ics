@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:max-mondays-2026-10-05
-DTSTAMP:20261001T050807Z
+DTSTAMP:20261002T045716Z
 SUMMARY:[MM] Dynamax Sizzlipede during Max Monday
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-10-05/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-10-12
-DTSTAMP:20261001T050807Z
+DTSTAMP:20261002T045716Z
 SUMMARY:[MM] Dynamax Rookidee during Max Monday
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-10-12/
@@ -45,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-10-19
-DTSTAMP:20261001T050807Z
+DTSTAMP:20261002T045716Z
 SUMMARY:[MM] Dynamax Sneasel during Max Monday
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-10-19/
@@ -62,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-10-26
-DTSTAMP:20261001T050807Z
+DTSTAMP:20261002T045716Z
 SUMMARY:[MM] Dynamax Sableye during Max Monday
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-10-26/
