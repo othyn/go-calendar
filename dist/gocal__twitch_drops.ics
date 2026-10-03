@@ -10,21 +10,19 @@ X-WR-CALDESC:All Pokémon GO Twitch Drops events\, in your local time\, aut
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-go-10th-anniversary-celebration-twitch-drops
-DTSTAMP:20260712T032503Z
-SUMMARY:[TD] Twitch Drops for Pokémon GO 10th Anniversary Celebration
-DESCRIPTION:Starts at 07:00\, ends at 06:58.\n\nhttps://leekduck.com/events
- /pokemon-go-10th-anniversary-celebration-twitch-drops/
-URL:https://leekduck.com/events/pokemon-go-10th-anniversary-celebration-twi
- tch-drops/
+UID:pokemon-night-out-2026-twitch-drops
+DTSTAMP:20261003T044043Z
+SUMMARY:[TD] Twitch Drops for Pokémon Night Out 2026
+DESCRIPTION:Starts at 02:30\, ends at 06:59.\n\nhttps://leekduck.com/events
+ /pokemon-night-out-2026-twitch-drops/
+URL:https://leekduck.com/events/pokemon-night-out-2026-twitch-drops/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-07-09-pokemon-go-10th-anniversary-celebration-twitch-drops/reward
- s.jpg
-DTSTART;VALUE=DATE:20260709
-DTEND;VALUE=DATE:20260712
+ 026/2026-10-24-pokemon-night-out-2026-twitch-drops/pokemon-night-out.jpg
+DTSTART:20261025T023000
+DTEND:20261025T065900
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[TD] Twitch Drops for Pokémon GO 10th Anniversary Celebration
+DESCRIPTION:[TD] Twitch Drops for Pokémon Night Out 2026
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
