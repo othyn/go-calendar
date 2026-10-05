@@ -10,26 +10,8 @@ X-WR-CALDESC:All Pokémon GO Max Battles events\, in your local time\, auto
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:gigantamax-cinderace-max-battle-day-2026
-DTSTAMP:20261004T051154Z
-SUMMARY:[MB] Gigantamax Cinderace Max Battle Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /gigantamax-cinderace-max-battle-day-2026/
-URL:https://leekduck.com/events/gigantamax-cinderace-max-battle-day-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-10-03-gigantamax-cinderace-max-battle-day-2026/gigantamax-cindera
- ce-max-battle-day.jpg
-DTSTART:20261003T140000
-DTEND:20261003T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[MB] Gigantamax Cinderace Max Battle Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:dynamax-uxie-mesprit-azelf-max-battle-day-2026
-DTSTAMP:20261004T051154Z
+DTSTAMP:20261005T045626Z
 SUMMARY:[MB] Dynamax Uxie\, Mesprit\, and Azelf Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /dynamax-uxie-mesprit-azelf-max-battle-day-2026/
