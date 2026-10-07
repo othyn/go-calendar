@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-night-out-2026-twitch-drops
-DTSTAMP:20261006T054400Z
+DTSTAMP:20261007T051510Z
 SUMMARY:[TD] Twitch Drops for Pokémon Night Out 2026
 DESCRIPTION:Starts at 02:30\, ends at 06:59.\n\nhttps://leekduck.com/events
  /pokemon-night-out-2026-twitch-drops/
