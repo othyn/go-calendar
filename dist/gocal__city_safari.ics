@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-go-city-safari-boston-2026-rescheduled
-DTSTAMP:20261015T035957Z
+DTSTAMP:20261016T035647Z
 SUMMARY:[CS] Pokémon GO City Safari: Boston (Rescheduled)
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-city-safari-boston-2026-rescheduled/
