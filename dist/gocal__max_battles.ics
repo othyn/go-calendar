@@ -10,21 +10,19 @@ X-WR-CALDESC:All Pokémon GO Max Battles events\, in your local time\, auto
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:dynamax-uxie-mesprit-azelf-max-battle-day-2026
-DTSTAMP:20261025T040038Z
-SUMMARY:[MB] Dynamax Uxie\, Mesprit\, and Azelf Max Battle Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /dynamax-uxie-mesprit-azelf-max-battle-day-2026/
-URL:https://leekduck.com/events/dynamax-uxie-mesprit-azelf-max-battle-day-2
- 026/
+UID:eternamax-eternatus-max-battles-2026
+DTSTAMP:20261029T050736Z
+SUMMARY:[MB] Eternamax Eternatus Returns
+DESCRIPTION:Starts at 11:00\, ends at 14:00.\n\nhttps://leekduck.com/events
+ /eternamax-eternatus-max-battles-2026/
+URL:https://leekduck.com/events/eternamax-eternatus-max-battles-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-10-24-dynamax-uxie-mesprit-azelf-max-battle-day-2026/dynamax-uxie
- -mesprit-azelf-max-battle-day.jpg
-DTSTART:20261024T140000
-DTEND:20261024T170000
+ 026/2026-11-16-dynamax-trails-2026/dynamax-trails-2026.jpg
+DTSTART:20261121T110000
+DTEND:20261121T140000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[MB] Dynamax Uxie\, Mesprit\, and Azelf Max Battle Day
+DESCRIPTION:[MB] Eternamax Eternatus Returns
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
