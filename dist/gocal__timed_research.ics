@@ -10,20 +10,21 @@ X-WR-CALDESC:All Pokémon GO Timed Research events\, in your local time\, a
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:choose-your-path-timed-research-2026-05-19
-DTSTAMP:20260525T010611Z
-SUMMARY:[TR] Choose Your Path Timed Research (May 19\, 2026)
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /choose-your-path-timed-research-2026-05-19/
-URL:https://leekduck.com/events/choose-your-path-timed-research-2026-05-19/
+UID:go-wild-area-gigantamax-machamp-power-up-timed-research
+DTSTAMP:20261106T055303Z
+SUMMARY:[TR] GO Wild Area: Gigantamax Machamp Power Up! Timed Research
+DESCRIPTION:Starts at 10:00\, ends at 23:59.\n\nhttps://leekduck.com/events
+ /go-wild-area-gigantamax-machamp-power-up-timed-research/
+URL:https://leekduck.com/events/go-wild-area-gigantamax-machamp-power-up-ti
+ med-research/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-05-19-choose-your-path-timed-research-2026-05-19/choose-your-path
- -evergreen-2026-05-19.jpg
-DTSTART;VALUE=DATE:20260519
-DTEND;VALUE=DATE:20260524
+ 025/2025-05-25-gigantamax-machamp-max-battle-day-may-2025/gigantamax-macha
+ mp-max-battles.jpg
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261116
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[TR] Choose Your Path Timed Research (May 19\, 2026)
+DESCRIPTION:[TR] GO Wild Area: Gigantamax Machamp Power Up! Timed Research
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

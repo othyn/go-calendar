@@ -10,19 +10,19 @@ X-WR-CALDESC:All Pokémon GO Raid Day events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:super-mega-raid-day-november-2026
-DTSTAMP:20261105T055644Z
-SUMMARY:[RD] Super Mega Raid Day
+UID:clefable-super-mega-raid-day-2026
+DTSTAMP:20261106T055303Z
+SUMMARY:[RD] Clefable Super Mega Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /super-mega-raid-day-november-2026/
-URL:https://leekduck.com/events/super-mega-raid-day-november-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+ /clefable-super-mega-raid-day-2026/
+URL:https://leekduck.com/events/clefable-super-mega-raid-day-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/clefable-super-m
+ ega-raid-day-2026.jpg
 DTSTART:20261128T140000
 DTEND:20261128T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RD] Super Mega Raid Day
+DESCRIPTION:[RD] Clefable Super Mega Raid Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
