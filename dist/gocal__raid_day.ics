@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:clefable-super-mega-raid-day-2026
-DTSTAMP:20261109T053421Z
+DTSTAMP:20261110T064452Z
 SUMMARY:[RD] Clefable Super Mega Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /clefable-super-mega-raid-day-2026/
@@ -23,6 +23,74 @@ DTEND:20261128T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RD] Clefable Super Mega Raid Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raid-day-december-2026
+DTSTAMP:20261110T064452Z
+SUMMARY:[RD] Raid Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /raid-day-december-2026/
+URL:https://leekduck.com/events/raid-day-december-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART:20261219T140000
+DTEND:20261219T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RD] Raid Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:super-mega-raid-day-january-2027
+DTSTAMP:20261110T064452Z
+SUMMARY:[RD] Super Mega Raid Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /super-mega-raid-day-january-2027/
+URL:https://leekduck.com/events/super-mega-raid-day-january-2027/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART:20270109T140000
+DTEND:20270109T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RD] Super Mega Raid Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:super-mega-raid-day-january-30-2027
+DTSTAMP:20261110T064452Z
+SUMMARY:[RD] Super Mega Raid Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /super-mega-raid-day-january-30-2027/
+URL:https://leekduck.com/events/super-mega-raid-day-january-30-2027/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART:20270130T140000
+DTEND:20270130T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RD] Super Mega Raid Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raid-day-february-2027
+DTSTAMP:20261110T064452Z
+SUMMARY:[RD] Raid Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /raid-day-february-2027/
+URL:https://leekduck.com/events/raid-day-february-2027/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART:20270213T140000
+DTEND:20270213T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RD] Raid Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

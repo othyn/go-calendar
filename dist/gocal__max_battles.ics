@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:eternamax-eternatus-max-battles-2026
-DTSTAMP:20261109T053421Z
+DTSTAMP:20261110T064452Z
 SUMMARY:[MB] Eternamax Eternatus Returns
 DESCRIPTION:Starts at 11:00\, ends at 14:00.\n\nhttps://leekduck.com/events
  /eternamax-eternatus-max-battles-2026/
@@ -23,6 +23,40 @@ DTEND:20261121T140000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[MB] Eternamax Eternatus Returns
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-battle-day-december-2026
+DTSTAMP:20261110T064452Z
+SUMMARY:[MB] Max Battle Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /max-battle-day-december-2026/
+URL:https://leekduck.com/events/max-battle-day-december-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART:20261205T140000
+DTEND:20261205T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MB] Max Battle Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-battle-day-january-2027
+DTSTAMP:20261110T064452Z
+SUMMARY:[MB] Max Battle Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /max-battle-day-january-2027/
+URL:https://leekduck.com/events/max-battle-day-january-2027/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART:20270123T140000
+DTEND:20270123T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MB] Max Battle Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
