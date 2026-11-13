@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:eternamax-eternatus-max-battles-2026
-DTSTAMP:20261112T063645Z
+DTSTAMP:20261113T055508Z
 SUMMARY:[MB] Eternamax Eternatus Returns
 DESCRIPTION:Starts at 11:00\, ends at 14:00.\n\nhttps://leekduck.com/events
  /eternamax-eternatus-max-battles-2026/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-december-2026
-DTSTAMP:20261112T063645Z
+DTSTAMP:20261113T055508Z
 SUMMARY:[MB] Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-december-2026/
@@ -45,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-january-2027
-DTSTAMP:20261112T063645Z
+DTSTAMP:20261113T055508Z
 SUMMARY:[MB] Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-january-2027/

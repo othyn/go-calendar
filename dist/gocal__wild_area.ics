@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2026-global
-DTSTAMP:20261112T063645Z
+DTSTAMP:20261113T055508Z
 SUMMARY:[WA] Pokémon GO Wild Area 2026: Global
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-wild-area-2026-global/
