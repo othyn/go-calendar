@@ -10,25 +10,8 @@ X-WR-CALDESC:All Pokémon GO Max Battles events\, in your local time\, auto
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:eternamax-eternatus-max-battles-2026
-DTSTAMP:20261122T055639Z
-SUMMARY:[MB] Eternamax Eternatus Returns
-DESCRIPTION:Starts at 11:00\, ends at 14:00.\n\nhttps://leekduck.com/events
- /eternamax-eternatus-max-battles-2026/
-URL:https://leekduck.com/events/eternamax-eternatus-max-battles-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-11-16-dynamax-trails-2026/dynamax-trails-2026.jpg
-DTSTART:20261121T110000
-DTEND:20261121T140000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[MB] Eternamax Eternatus Returns
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:max-battle-day-december-2026
-DTSTAMP:20261122T055639Z
+DTSTAMP:20261123T064707Z
 SUMMARY:[MB] Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-december-2026/
@@ -45,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-january-2027
-DTSTAMP:20261122T055639Z
+DTSTAMP:20261123T064707Z
 SUMMARY:[MB] Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-january-2027/
