@@ -58,9 +58,5 @@
     "timed_research": {
         "name": "Timed Research",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__timed_research.ics"
-    },
-    "twitch_drops": {
-        "name": "Twitch Drops",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__twitch_drops.ics"
     }
 }
