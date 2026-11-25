@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:raidhour20261125
-DTSTAMP:20261124T091409Z
+DTSTAMP:20261125T074924Z
 SUMMARY:[RH] Deoxys (Normal\, Defense\, Attack\, and Speed Formes) Raid Hou
  r
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
@@ -24,6 +24,88 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[RH] Deoxys (Normal\, Defense\, Attack\, and Speed Formes) Raid
   Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20261202
+DTSTAMP:20261125T074924Z
+SUMMARY:[RH] Regidrago Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20261202/
+URL:https://leekduck.com/events/raidhour20261202/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20261202T180000
+DTEND:20261202T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Regidrago Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20261209
+DTSTAMP:20261125T074924Z
+SUMMARY:[RH] Unannounced Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20261209/
+URL:https://leekduck.com/events/raidhour20261209/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20261209T180000
+DTEND:20261209T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Unannounced Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20261216
+DTSTAMP:20261125T074924Z
+SUMMARY:[RH] Ho-Oh Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20261216/
+URL:https://leekduck.com/events/raidhour20261216/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20261216T180000
+DTEND:20261216T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Ho-Oh Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20261223
+DTSTAMP:20261125T074924Z
+SUMMARY:[RH] Lugia Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20261223/
+URL:https://leekduck.com/events/raidhour20261223/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20261223T180000
+DTEND:20261223T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Lugia Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20261230
+DTSTAMP:20261125T074924Z
+SUMMARY:[RH] Tornadus (Therian Forme)\, Thundurus (Therian Forme)\, and Lan
+ dorus (Therian Forme) Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20261230/
+URL:https://leekduck.com/events/raidhour20261230/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20261230T180000
+DTEND:20261230T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[RH] Tornadus (Therian Forme)\, Thundurus (Therian Forme)\, and
+  Landorus (Therian Forme) Raid Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

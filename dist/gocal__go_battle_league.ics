@@ -10,44 +10,287 @@ X-WR-CALDESC:All Pokémon GO GO Battle League events\, in your local time\,
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:gbl-twilight-trails_ultra-league_master-league-mega-edition_2026-go-lai
- c-cup
-DTSTAMP:20261124T091409Z
-SUMMARY:[GBL] Ultra League\, Master League: Mega Edition\, and 2026 GO LAIC
-  Cup | Twilight Trails
+UID:gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-e
+ dition_master-league-mega-edition-split-1
+DTSTAMP:20261125T074924Z
+SUMMARY:[GBL] Great League: Mega Edition\, Ultra League: Mega Edition\, and
+  Master League: Mega Edition | Daydream Destinations
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /gbl-twilight-trails_ultra-league_master-league-mega-edition_2026-go-laic-
- cup/
-URL:https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-lea
- gue-mega-edition_2026-go-laic-cup/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
- -ultra-league-machamp-swampert.jpg
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261126
+ /gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edi
+ tion_master-league-mega-edition-split-1/
+URL:https://leekduck.com/events/gbl-daydream-destinations_great-league-mega
+ -edition_ultra-league-mega-edition_master-league-mega-edition-split-1/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattle-greatle
+ ague-key.jpg
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261209
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[GBL] Ultra League\, Master League: Mega Edition\, and 2026 GO 
- LAIC Cup | Twilight Trails
+DESCRIPTION:[GBL] Great League: Mega Edition\, Ultra League: Mega Edition\,
+  and Master League: Mega Edition | Daydream Destinations
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:gbl-twilight-trails_master-league_mega-catch-cup-great-league-edition
-DTSTAMP:20261124T091409Z
-SUMMARY:[GBL] Master League and Mega Catch Cup: Great League Edition | Twil
- ight Trails
+UID:gbl-daydream-destinations_great-league-mega-edition_mountain-cup-great-
+ league-edition
+DTSTAMP:20261125T074924Z
+SUMMARY:[GBL] Great League: Mega Edition and Mountain Cup: Great League Edi
+ tion | Daydream Destinations
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /gbl-twilight-trails_master-league_mega-catch-cup-great-league-edition/
-URL:https://leekduck.com/events/gbl-twilight-trails_master-league_mega-catc
- h-cup-great-league-edition/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattleleague-m
- aster-key.jpg
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261202
+ /gbl-daydream-destinations_great-league-mega-edition_mountain-cup-great-le
+ ague-edition/
+URL:https://leekduck.com/events/gbl-daydream-destinations_great-league-mega
+ -edition_mountain-cup-great-league-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattle-greatle
+ ague-key.jpg
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261216
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[GBL] Master League and Mega Catch Cup: Great League Edition | 
- Twilight Trails
+DESCRIPTION:[GBL] Great League: Mega Edition and Mountain Cup: Great League
+  Edition | Daydream Destinations
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-daydream-destinations_ultra-league-mega-edition_holiday-cup-great-l
+ eague-edition
+DTSTAMP:20261125T074924Z
+SUMMARY:[GBL] Ultra League: Mega Edition and Holiday Cup: Great League Edit
+ ion | Daydream Destinations
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-daydream-destinations_ultra-league-mega-edition_holiday-cup-great-lea
+ gue-edition/
+URL:https://leekduck.com/events/gbl-daydream-destinations_ultra-league-mega
+ -edition_holiday-cup-great-league-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
+ -ultra-league-machamp-swampert.jpg
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261223
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Ultra League: Mega Edition and Holiday Cup: Great League 
+ Edition | Daydream Destinations
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-daydream-destinations_master-league-mega-edition_holiday-cup-great-
+ league-edition
+DTSTAMP:20261125T074924Z
+SUMMARY:[GBL] Master League: Mega Edition and Holiday Cup: Great League Edi
+ tion | Daydream Destinations
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-daydream-destinations_master-league-mega-edition_holiday-cup-great-le
+ ague-edition/
+URL:https://leekduck.com/events/gbl-daydream-destinations_master-league-meg
+ a-edition_holiday-cup-great-league-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattleleague-m
+ aster-key.jpg
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261230
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Master League: Mega Edition and Holiday Cup: Great League
+  Edition | Daydream Destinations
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-e
+ dition_master-league-mega-edition-split-2
+DTSTAMP:20261125T074924Z
+SUMMARY:[GBL] Great League: Mega Edition\, Ultra League: Mega Edition\, and
+  Master League: Mega Edition | Daydream Destinations
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edi
+ tion_master-league-mega-edition-split-2/
+URL:https://leekduck.com/events/gbl-daydream-destinations_great-league-mega
+ -edition_ultra-league-mega-edition_master-league-mega-edition-split-2/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattle-greatle
+ ague-key.jpg
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20270106
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Great League: Mega Edition\, Ultra League: Mega Edition\,
+  and Master League: Mega Edition | Daydream Destinations
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-daydream-destinations_great-league-mega-edition_fighting-cup-great-
+ league-edition
+DTSTAMP:20261125T074924Z
+SUMMARY:[GBL] Great League: Mega Edition and Fighting Cup: Great League Edi
+ tion | Daydream Destinations
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-daydream-destinations_great-league-mega-edition_fighting-cup-great-le
+ ague-edition/
+URL:https://leekduck.com/events/gbl-daydream-destinations_great-league-mega
+ -edition_fighting-cup-great-league-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattle-greatle
+ ague-key.jpg
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270113
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Great League: Mega Edition and Fighting Cup: Great League
+  Edition | Daydream Destinations
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-daydream-destinations_ultra-league-mega-edition_jungle-cup-great-le
+ ague-edition
+DTSTAMP:20261125T074924Z
+SUMMARY:[GBL] Ultra League: Mega Edition and Jungle Cup: Great League Editi
+ on | Daydream Destinations
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-daydream-destinations_ultra-league-mega-edition_jungle-cup-great-leag
+ ue-edition/
+URL:https://leekduck.com/events/gbl-daydream-destinations_ultra-league-mega
+ -edition_jungle-cup-great-league-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
+ -ultra-league-machamp-swampert.jpg
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270120
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Ultra League: Mega Edition and Jungle Cup: Great League E
+ dition | Daydream Destinations
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-daydream-destinations_master-league-mega-edition_master-league
+DTSTAMP:20261125T074924Z
+SUMMARY:[GBL] Master League: Mega Edition and Master League | Daydream Dest
+ inations
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-daydream-destinations_master-league-mega-edition_master-league/
+URL:https://leekduck.com/events/gbl-daydream-destinations_master-league-meg
+ a-edition_master-league/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattleleague-m
+ aster-key.jpg
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270127
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Master League: Mega Edition and Master League | Daydream 
+ Destinations
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-e
+ dition_master-league-mega-edition-split-3
+DTSTAMP:20261125T074924Z
+SUMMARY:[GBL] Great League: Mega Edition\, Ultra League: Mega Edition\, and
+  Master League: Mega Edition | Daydream Destinations
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edi
+ tion_master-league-mega-edition-split-3/
+URL:https://leekduck.com/events/gbl-daydream-destinations_great-league-mega
+ -edition_ultra-league-mega-edition_master-league-mega-edition-split-3/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattle-greatle
+ ague-key.jpg
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270203
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Great League: Mega Edition\, Ultra League: Mega Edition\,
+  and Master League: Mega Edition | Daydream Destinations
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-daydream-destinations_great-league-mega-edition_master-league
+DTSTAMP:20261125T074924Z
+SUMMARY:[GBL] Great League: Mega Edition and Master League | Daydream Desti
+ nations
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-daydream-destinations_great-league-mega-edition_master-league/
+URL:https://leekduck.com/events/gbl-daydream-destinations_great-league-mega
+ -edition_master-league/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattle-greatle
+ ague-key.jpg
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270210
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Great League: Mega Edition and Master League | Daydream D
+ estinations
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-daydream-destinations_ultra-league-mega-edition_love-cup-great-leag
+ ue-edition_2027-go-euic-cup
+DTSTAMP:20261125T074924Z
+SUMMARY:[GBL] Ultra League: Mega Edition\, Love Cup: Great League Edition\,
+  and 2027 GO EUIC Cup | Daydream Destinations
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-daydream-destinations_ultra-league-mega-edition_love-cup-great-league
+ -edition_2027-go-euic-cup/
+URL:https://leekduck.com/events/gbl-daydream-destinations_ultra-league-mega
+ -edition_love-cup-great-league-edition_2027-go-euic-cup/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
+ -ultra-league-machamp-swampert.jpg
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270217
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Ultra League: Mega Edition\, Love Cup: Great League Editi
+ on\, and 2027 GO EUIC Cup | Daydream Destinations
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-daydream-destinations_master-league-mega-edition_mega-catch-cup-gre
+ at-league-edition_2027-go-euic-cup
+DTSTAMP:20261125T074924Z
+SUMMARY:[GBL] Master League: Mega Edition\, Mega Catch Cup: Great League Ed
+ ition\, and 2027 GO EUIC Cup | Daydream Destinations
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-daydream-destinations_master-league-mega-edition_mega-catch-cup-great
+ -league-edition_2027-go-euic-cup/
+URL:https://leekduck.com/events/gbl-daydream-destinations_master-league-meg
+ a-edition_mega-catch-cup-great-league-edition_2027-go-euic-cup/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattleleague-m
+ aster-key.jpg
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270224
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Master League: Mega Edition\, Mega Catch Cup: Great Leagu
+ e Edition\, and 2027 GO EUIC Cup | Daydream Destinations
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-e
+ dition_master-league-mega-edition_mega-catch-cup-great-league-edition
+DTSTAMP:20261125T074924Z
+SUMMARY:[GBL] Great League: Mega Edition\, Ultra League: Mega Edition\, Mas
+ ter League: Mega Edition\, and Mega Catch Cup: Great League Edition | Dayd
+ ream Destinations
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edi
+ tion_master-league-mega-edition_mega-catch-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-daydream-destinations_great-league-mega
+ -edition_ultra-league-mega-edition_master-league-mega-edition_mega-catch-c
+ up-great-league-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattle-greatle
+ ague-key.jpg
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270303
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[GBL] Great League: Mega Edition\, Ultra League: Mega Edition\,
+  Master League: Mega Edition\, and Mega Catch Cup: Great League Edition | 
+ Daydream Destinations
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
