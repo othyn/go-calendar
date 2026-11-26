@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:raidhour20261125
-DTSTAMP:20261125T074924Z
+DTSTAMP:20261126T074026Z
 SUMMARY:[RH] Deoxys (Normal\, Defense\, Attack\, and Speed Formes) Raid Hou
  r
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
@@ -29,7 +29,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261202
-DTSTAMP:20261125T074924Z
+DTSTAMP:20261126T074026Z
 SUMMARY:[RH] Regidrago Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20261202/
@@ -45,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261209
-DTSTAMP:20261125T074924Z
+DTSTAMP:20261126T074026Z
 SUMMARY:[RH] Unannounced Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20261209/
@@ -61,7 +61,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261216
-DTSTAMP:20261125T074924Z
+DTSTAMP:20261126T074026Z
 SUMMARY:[RH] Ho-Oh Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20261216/
@@ -77,7 +77,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261223
-DTSTAMP:20261125T074924Z
+DTSTAMP:20261126T074026Z
 SUMMARY:[RH] Lugia Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20261223/
@@ -93,7 +93,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261230
-DTSTAMP:20261125T074924Z
+DTSTAMP:20261126T074026Z
 SUMMARY:[RH] Tornadus (Therian Forme)\, Thundurus (Therian Forme)\, and Lan
  dorus (Therian Forme) Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
